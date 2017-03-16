@@ -1,0 +1,1 @@
+web: gunicorn anandhi.wsgi --log-file -

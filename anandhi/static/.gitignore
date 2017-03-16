@@ -1,0 +1,6 @@
+venv
+*.pyc
+staticfiles
+.env
+.DS_Store
+anandhibot/app_properties.py
