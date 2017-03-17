@@ -3,7 +3,7 @@ from anandhibot import views
 from django.views.generic import TemplateView
 
 urlpatterns = [
-     url(r'^$', views.HomePageView.as_view()),
-     url(r'^recommendation/',TemplateView.as_view(template_name = 'input.html')),
+     # url(r'^$', views.HomePageView.as_view()),
+     url(r'^$',TemplateView.as_view(template_name = 'input.html')),
    	 url(r'^output/', 'input', name = 'output')
 ]
