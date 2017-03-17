@@ -1,0 +1,3 @@
+matematika: [teknik informatika, teknik kimia, teknik arsitektur, teknik mesin]
+fisika: [teknik mesin, teknik arsitektur, teknik kimia]
+kimia: [teknik kimia]
