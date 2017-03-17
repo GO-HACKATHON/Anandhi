@@ -16,20 +16,23 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 #           return render(request, 'index.html', context=None)
 def input(request):
 	subject = " "
-	   
+	recom_list = []
 	if request.method == "POST":
 	   #Get the posted form
 	   MyInputForm = InputForm(request.POST)
 	      
 	   if MyInputForm.is_valid():
-	       subject = MyInputForm.cleaned_data['subject']
-           recommendation = generateRecommendation(subject)
+	       allsubject = MyInputForm.cleaned_data['subject']
+           subject = allsubject.split(" ")
+           for sub in subject:
+               recommendation = generateRecommendation(sub)
+               recom_list.append(recommendation)
 	else:
 	   MyInputForm = Inputform()
 	
 	return render(request, 'input.html', {
         "subject" : subject,
-        "recommendation" : recommendation,
+        "recommendation" : recom_list,
         })
 
 
