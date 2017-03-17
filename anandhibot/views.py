@@ -8,16 +8,16 @@ class HomePageView(TemplateView):
      def get(self, request, **kwargs):
           return render(request, 'index.html', context=None)
 
-	def input(request):
+	 def input(request):
 	   	subject = " "
 	   
-	   if request.method == "POST":
+	   	if request.method == "POST":
 	      #Get the posted form
 	      MyInputForm = InputForm(request.POST)
 	      
 	      if MyInputForm.is_valid():
 	         subject = MyInputForm.cleaned_data['subject']
-	   else:
+	   	else:
 	      MyInputForm = Inputform()
 			
-	   return render(request, 'output.html', {"subject" : subject})
+	   	return render(request, 'output.html', {"subject" : subject})
