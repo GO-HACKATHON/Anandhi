@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
-from anandhi.forms import InputForm
+from anandhibot.forms import InputForm
 
 
 # Create your views here
