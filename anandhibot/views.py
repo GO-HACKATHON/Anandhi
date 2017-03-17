@@ -15,7 +15,7 @@ def input(request):
 	   MyInputForm = InputForm(request.POST)
 	      
 	   if MyInputForm.is_valid():
-	   subject = MyInputForm.cleaned_data['subject']
+	       subject = MyInputForm.cleaned_data['subject']
 	else:
 	   MyInputForm = Inputform()
 			
