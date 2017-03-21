@@ -205,7 +205,7 @@ def getRecommendation(subject, reply_token, target_id):
         recommendation = max(collection.predict(sub).items(), key=sort_key)[0]
         recom_list.append(recommendation)
 
-    msgToUser = "Rekomendasi dariku: " + ','.join(recom_list)
+    msgToUser = "Rekomendasi dariku: " + ', '.join(recom_list)
 
     print("Message to user: " + ', '.join(recom_list))
 
