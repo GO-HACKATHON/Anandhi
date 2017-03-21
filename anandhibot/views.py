@@ -204,9 +204,9 @@ def getRecommendation(subject, reply_token, target_id):
         recommendation = max(collection.predict(sub).items(), key=sort_key)[0]
         recom_list.append(recommendation)
 
-    msgToUser = "Rekomendasi dariku: " + ','.join(msgToUser)
+    msgToUser = "Rekomendasi dariku: " + ','.join(recom_list)
 
-    print("Message to user: " + ','.join(msgToUser))
+    print("Message to user: " + ','.join(recom_list))
 
     if len(msgToUser) <= 11 :
         replyToUser(reply_token, "Request Timeout")
