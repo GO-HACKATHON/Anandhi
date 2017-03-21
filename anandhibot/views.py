@@ -179,6 +179,7 @@ def getRecommendation(subject, reply_token, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
+    pelajaran = subject.split(" ")
     recom_list = []
     # # Clear any previous changes
     # try:
@@ -200,7 +201,7 @@ def getRecommendation(subject, reply_token, target_id):
     # collection.wait()
 
     sort_key = itemgetter(1)
-    for sub in subject:
+    for sub in pelajaran:
         recommendation = max(collection.predict(sub).items(), key=sort_key)[0]
         recom_list.append(recommendation)
 
