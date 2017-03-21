@@ -180,23 +180,24 @@ def getRecommendation(subject, reply_token, target_id):
 
     msgToUser = ' '
     recom_list = []
-    # Clear any previous changes
-    try:
-        collection.clear()
-    except:
-        pass
+    # # Clear any previous changes
+    # try:
+    #     collection.clear()
+    # except:
+    #     pass
 
-    train = generate_training_data("anandhibot/subject_match_labeled_data_1.txt")
+    # train = generate_training_data("anandhibot/subject_match_labeled_data_1.txt")
 
-    total = 0
-    for samples in train:
-        print "Adding {num} samples to collection".format(num=len(samples))
-        collection.add_data(samples)
-        total += len(samples)
-        print "Added {total} samples to collection thus far".format(total=total)
+    # total = 0
+    # for samples in train:
+    #     replyToUser(reply_token, "training......")
+    #     collection.add_data(samples)
+    #     total += len(samples)
+    #     replyToUser(reply_token, "still training....")
 
-    collection.train()
-    collection.wait()
+    # collection.train()
+    # replyToUser(reply_token, "selesai training")
+    # collection.wait()
 
     sort_key = itemgetter(1)
     for sub in subject:
