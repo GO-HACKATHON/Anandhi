@@ -32,7 +32,7 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 def callback(request):
     # Get request header and request body
     aXLineSignature = request.META.get('HTTP_X_LINE_SIGNATURE')
-    print('Signature: %s', aXLineSignature)
+    print('Signature: ' + str(aXLineSignature))
     body = request.body
     print('Payload: ' + body)
     
@@ -204,9 +204,9 @@ def getRecommendation(subject, reply_token, target_id):
         recommendation = max(collection.predict(sub).items(), key=sort_key)[0]
         recom_list.append(recommendation)
 
-    msgToUser = "Rekomendasi dariku: " + recom_list
+    msgToUser = "Rekomendasi dariku: " + ','.join(msgToUser)
 
-    print("Message to user: " + msgToUser)
+    print("Message to user: " + ','.join(msgToUser))
 
     if len(msgToUser) <= 11 :
         replyToUser(reply_token, "Request Timeout")
