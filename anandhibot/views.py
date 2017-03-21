@@ -32,7 +32,7 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 def callback(request):
     # Get request header and request body
     aXLineSignature = request.META.get('HTTP_X_LINE_SIGNATURE')
-    print('Signature: ' + aXLineSignature)
+    print('Signature: %s', aXLineSignature)
     body = request.body
     print('Payload: ' + body)
     
