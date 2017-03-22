@@ -83,13 +83,12 @@ def callback(request):
 
     if 'Minta Rekomendasi' in mText:
         getRecommendation(mText, mReplyToken, mTargetId)
-        return Response ("anandhibot")
     elif 'Tanya dong,' in mText:
         getInfo(mText, mReplyToken, mTargetId)
-        return Response ("anandhibot")
     else:
         getRecommendation(mText, mReplyToken, mTargetId)
-        return Response ("anandhibot")
+    
+    return Response ("anandhibot")
 
 
 def replyToUser(reply_token, text_message):
