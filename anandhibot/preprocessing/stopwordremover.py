@@ -3,7 +3,7 @@ import unicodedata
 class StopWordRemover:
 	def stopwordRemoval(self, string):
 		#stop words list
-		with open("carolapp/stopwords.txt", "rb") as f:
+		with open("anandhibot/stopwords.txt", "rb") as f:
 			for line in f:
 				stopwords = line.split(" ")
 		# stopwords = set(open("%s/carolapp/stopwords.txt" % STATIC_ROOT).read().split(" "))
