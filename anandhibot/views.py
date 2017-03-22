@@ -11,7 +11,7 @@ from linebot import LineBotApi
 from linebot.models import (TextSendMessage, ImageSendMessage, CarouselTemplate, CarouselColumn, TemplateSendMessage, MessageTemplateAction)
 from linebot.exceptions import LineBotApiError
 
-from anandhibot.questionanalyzer.questionanalyzer import QuestionAnalyzer
+from anandhibot.questionanalyzer import QuestionAnalyzer
 from anandhibot.documentretriever import DocumentRetriever
 
 from app_properties import channel_secret, channel_access_token
