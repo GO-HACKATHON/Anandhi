@@ -83,9 +83,9 @@ def callback(request):
     mText = aPayload['events'][0]['message']['text'].lower()
 
     if 'minta rekomendasi' in mText:
-        getRecommendation(mText, mReplyToken, mTargetId)
+        getRecommendation(mText.replace("minta rekomendasi", ""), mReplyToken, mTargetId)
     elif 'tanya dong,' in mText:
-        getInfo(mText, mReplyToken, mTargetId)
+        getInfo(mText.replace("tanya dong,", ""), mReplyToken, mTargetId)
     else:
         getRecommendation(mText, mReplyToken, mTargetId)
     
