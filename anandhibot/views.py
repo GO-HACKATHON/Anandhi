@@ -105,7 +105,7 @@ def getInfo(pertanyaan, reply_token, target_id):
     hasilQuestionAnalyzer = []
     hasilDocumentRetriever = []
 
-    questionAnalyzer = QuestionAnalyzer(pertanyaan[11:])
+    questionAnalyzer = QuestionAnalyzer(pertanyaan)
     hasilQuestionAnalyzer = []
     hasilQuestionAnalyzer.append("Pertanyaan: %s" % questionAnalyzer.query)
     print("Query: ")
@@ -215,7 +215,7 @@ def getRecommendation(subject, reply_token, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
-    pelajaran = subject[17:].split(" ")
+    pelajaran = subject.split(" ")
     recom_list = []
     # # Clear any previous changes
     # try:
