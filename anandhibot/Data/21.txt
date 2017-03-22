@@ -1,0 +1,96 @@
+<j>Gaya dan Gerak.
+<p>Apa yang terjadi ketika kalian mendorong sebuah kursi?. Saat mendorong kursi, kalian memberikan gaya kepada kursi. 
+Akibatnya, kursi bergerak. Dengan demikian, gaya merupakan penyebab gerak benda. Selain itu, gaya juga dapat 
+mengakibatkan perubahan bentuk benda. Perubahan bentuk benda akibat gaya telah disampaikan di kelas V. Coba kalian buka 
+dan pelajari kembali materi tersebut. Di bab ini, kita akan membuktikan hubungan antara gaya dan gerak benda. Pembuktian 
+kita lakukan melalui model jungkat-jungkit, katapel, dan traktor pegas. Dua orang anak dengan berat berbeda sedang 
+bermain jungkat-jungkit. Anak yang lebih kecil (ringan) tidak mampu mengangkat temannya. Apa yang harus dilakukan agar 
+jungkat-jungkit dapat seimbang?. Jarak kedua anak dari titik tumpu sama besar. Akibatnya, papan jungkat-jungkit menjadi 
+tidak seimbang. Ini karena anak yang besar lebih berat daripada anak yang kecil. Perbedaan berat badan ini menyebabkan 
+anak yang kecil kepayahan mengangkat temannya. Ini menunjukkan bahwa gerak jungkat-jungkit dipengaruhi oleh berat beban, 
+berat kuasa, jarak beban ke titik tumpu, dan jarak kuasa ke titik tumpu. Berdasarkan penjelasan tersebut, kalian dapat 
+menjawab pertanyaan di depan. Kalian menjadi tahu yang dilakukan anak kecil agar jungkat-jungkit seimbang. Kalian telah 
+mengetahui bahwa benda mempunyai berat karena pengaruh gaya gravitasi bumi. Dengan demikian, berat juga termasuk gaya. 
+Besar beban dan kuasa pada jungkat-jungkit ditentukan oleh berat benda pada beban dan kuasa. Jungkat-jungkit memiliki 
+kelebihan. Jungkat-jungkit dapat mengangkat beban menggunakan gaya (kuasa) yang lebih kecil dari berat beban. Penambahan 
+jarak kuasa ke titik tumpu dapat memperkecil gaya yang diperlukan untuk mengangkat beban. Dengan ungkapan lain, 
+jungkat-jungkit dapat memperbesar gaya yang dilakukan pada kuasa.</p>
+
+<p>Pernahkah kalian melihat atau membuat katapel?. Katapel dapat digunakan untuk melontarkan batu. Katapel dibuat dengan 
+memanfaatkan sifat karet yang lentur. Saat menarik karet pentil, berarti kalian memberikan gaya pada karet pentil. 
+Akibatnya, karet pentil menjadi kencang. Setelah tarikan dilepas (gaya dihilangkan), karet pentil kembali ke keadaan 
+semula. Saat itu, karet pentil mempunyai gaya yang lebih besar dari gaya tarik. Gaya inilah yang menyebabkan batu 
+kerikil terlontar dari bantalannya. Semakin jauh kalian menarik karet pentil, semakin besar gaya yang kalian berikan. 
+Ini berarti semakin besar pula gaya yang dilakukan karet pentil pada batu. Akibatnya, batu akan terlontar semakin jauh. 
+Gaya yang ditimbulkan karet katapel adalah gaya pegas. Disebut gaya pegas karena sifat karet seperti sifat pegas. 
+Karet dan pegas mempunyai sifat yang sama, yaitu bersifat elastis (lentur). Selain katapel, peralatan lain yang 
+memanfaatkan gaya pegas adalah busur panah. Saat ditarik, tali busur mendapatkan sebuah gaya. Ketika tarikan 
+dilepaskan, anak panah akan melesat. Proses melesatnya anak panah sama dengan proses terlontarnya batu dari bantalan 
+katapel. Hal ini menunjukkan bahwa gaya pegas dapat mengakibatkan benda bergerak. Besarnya gaya tarik pada karet dan 
+tali busur memengaruhi kecepatan gerak benda. Semakin besar gaya tarik, semakin cepat batu dan anak panah bergerak. 
+Dengan demikian, jarak yang ditempuh juga semakin jauh.</p>
+
+<p>Seperti katapel, traktor pegas juga bekerja menggunakan gaya pegas. Traktor pegas bergerak karena adanya gaya pegas. 
+Traktor dapat bergerak karena ada gaya pada karet. Saat roda diputar ke arah belakang, karet akan tergulung pada bilah 
+bambu. Akibatnya, karet menjadi kencang. Saat traktor dilepaskan, gulungan karet juga terlepas. Traktor bergerak maju 
+bersamaan dengan terlepasnya gulungan karet. Gaya yang bekerja pada traktor adalah gaya pegas. Karenanya, traktor 
+tersebut biasa disebut traktor pegas. Gaya pegas yang bekerja pada traktor dapat menyebabkan traktor bergerak maju. 
+Traktor pun dapat berpindah dari tempatnya semula. Semakin lama kalian menggulung karet, semakin besar gaya pegasnya, 
+semakin jauh pula traktor berjalan. Prinsip kerja traktor pegas juga berlaku pada mobil-mobilan pegas. Mobil-mobilan 
+tersebut ditarik mundur kemudian dilepaskan sehingga bergerak maju.</p>
+
+<p>Hubungan antara gaya dan gerak telah kalian buktikan menggunakan model jungkat-jungkit, katapel, dan traktor pegas. 
+Dalam jungkat-jungkit, berat kedua anak yang bermain memengaruhi gerak jungkat-jungkit. Saat seorang anak berada di 
+bawah, anak lainnya berada di atas. Anak yang di atas mengerjakan gaya ke bawah. Besar gaya yang dikerjakan sama dengan 
+berat badan anak tersebut. Akibatnya, anak yang berada di bawah perlahan terangkat. Sesampainya di atas, anak ini juga 
+mengerjakan gaya ke bawah sebesar berat badannya. Pertukaran posisi ini berlangsung terus-menerus. Dalam permainan 
+jungkat-jungkit, seorang anak bergerak karena gaya berat anak lainnya. Dengan kata lain, gaya berat dapat membuat 
+benda berpindah posisi. Saat gaya menyebabkan benda berpindah, dikatakan gaya melakukan kerja. Demikian pula ketika 
+sebuah batu dilontarkan dengan katapel. Akibat gaya pegas pada karet pentil, batu terlontar dari bantalannya. Ini 
+berarti karet pentil melakukan kerja terhadap batu. Apa jadinya jika batu yang terlontar tersebut mengenai kaca?. 
+Tentunya, kaca akan pecah karena batu memiliki energi saat bergerak. Energi diartikan sebagai kemampuan suatu benda 
+dalam melakukan kerja. Jadi, jelaslah bahwa ada hubungan antara gaya dan energi. Dalam keseharian, energi disebut 
+tenaga.</p>
+
+<p>Energi yang dimiliki batu yang terlontar disebut energi kinetik. Energi kinetik juga disebut energi gerak. Jadi, semua 
+benda yang sedang bergerak memiliki energi kinetik. Misalnya, mobil yang melaju, orang berlari, atau bola melambung. 
+Pada katapel, energi kinetik tidak hanya dimiliki oleh batu. Karet pentil untuk melontarkan batu juga memiliki energi. 
+Pada saat ditarik, karet mempunyai energi potensial. Energi potensial tersebut ditimbulkan oleh gaya pegas. Karenanya, 
+energi potensial karet disebut energi potensial pegas. Energi potensial inilah yang melontarkan batu dari bantalan 
+katapel. Jika karet tidak memiliki energi, batu tidak mungkin dapat terlontar. Permainan jungkat-jungkit juga 
+berkaitan dengan energi potensial. Saat anak berada di atas, ia memiliki energi potensial. Energi potensial timbul 
+karena anak dipengaruhi gaya gravitasi bumi. Karenanya, energi potensial anak disebut energi potensial gravitasi. 
+Semua benda pada ketinggian tertentu memiliki energi potensial gravitasi. Contohnya, mangga di pohon dan lampu yang 
+tergantung.</p>
+
+<p>Selain energi kinetik dan potensial, masih ada bentuk energi yang lain. Energi tersebut adalah sebagai berikut.
+1) Energi panas, yaitu energi dalam bentuk panas. Energi panas juga disebut energi kalor. Energi panas berasal dari 
+matahari, api, ataupun benda panas lainnya. 
+2) Energi kimia, yaitu energi yang timbul akibat reaksi kimia. Contohnya, energi kimia di dalam tubuh kita. Energi 
+tersebut berasal dari pembakaran bahan makanan. Kita menggunakannya untuk bergerak. Contoh lainnya adalah energi 
+kimia dalam bahan bakar. Energi tersebut digunakan untuk menjalankan mesin. Contohnya, mobil, motor, dan pesawat 
+terbang. 
+3) Energi listrik, yaitu energi yang dimiliki arus listrik. Energi listrik merupakan energi yang paling banyak 
+digunakan. Energi listrik akan kalian pelajari lebih jelas di bab selanjutnya. 
+4) Energi bunyi, yaitu energi yang dimiliki oleh bunyi. Kita dapat membuktikan bahwa bunyi mempunyai energi. Saat 
+mendengar bunyi sangat keras, telinga kita menjadi sakit. Bunyi pesawat jet yang terbang rendah dapat memecahkan kaca 
+jendela. 
+5) Energi cahaya, yaitu energi yang dimiliki cahaya. Contohnya, penggunaan laser untuk memotong logam. Laser juga 
+digunakan untuk mengiris bagian tubuh yang akan dioperasi. 
+6) Energi nuklir, yaitu energi yang terdapat pada inti atom.</p>
+
+<p>Apa yang kalian rasakan setelah berolahraga?. Kalian tentunya merasa lelah. Rasa lelah terjadi karena energi tubuh 
+berkurang. Apakah itu berarti energi kalian ada yang musnah?. Sebenarnya, energi tidak dapat diciptakan dan dimusnahkan. 
+Energi hanya berubah dari satu bentuk menjadi bentuk lain. Begitu pula saat kalian berolahraga. Energi kimia dalam 
+tubuh diubah menjadi energi gerak. Karena itulah kalian dapat bergerak. Energi tubuh kalian juga diubah menjadi energi 
+panas. Kalian pun menjadi berkeringat. Peristiwa di atas adalah perubahan bentuk energi di dalam tubuh. Selain itu, 
+masih banyak perubahan bentuk energi di sekitar kita. Beberapa di antaranya adalah sebagai berikut.
+1) Perubahan energi listrik menjadi energi panas. Contohnya, pemakaian setrika listrik, solder, dan dispenser.
+2) Perubahan energi kimia menjadi energi listrik. Contohnya, baterai dan aki. Baterai dan aki mempunyai energi kimia. 
+Energi kimia tersebut diubah menjadi energi listrik. Selanjutnya, energi listrik digunakan untuk menyalakan lampu. 
+3) Perubahan energi kinetik menjadi energi panas. Contohnya, kedua telapak tangan yang saling digosokkan. Lama-kelamaan 
+telapak tangan menjadi hangat (panas). Berarti, terjadi perubahan energi kinetik menjadi energi panas. 
+4) Perubahan energi kinetik menjadi energi bunyi. Contohnya, saat kalian bertepuk. Energi kinetik tangan kalian 
+berubah menjadi energi bunyi. 
+5) Perubahan energi potensial menjadi energi kinetik. Contohnya, mangga yang jatuh dari pohon. Mangga di pohon 
+mempunyai energi potensial. Ketika jatuh, energi potensial mangga berubah menjadi energi kinetik. </p>

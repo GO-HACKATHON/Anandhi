@@ -1,0 +1,474 @@
+<j>Genetika.
+<p>Seorang ibu yang mempunyai mata sipit dapat melahirkan anak yang juga bermata sipit. Tidak 
+menutup kemungkinan, anak yang dilahirkan dapat juga mempunyai mata lebar seperti yang dimiliki 
+oleh ayahnya. Nah, faktor-faktor yang dapat memengaruhi munculnya sifat ini terdapat di dalam 
+sel tubuh yang disebut materi genetik. Ilmu yang mempelajarinya disebut genetika. Karena itu, 
+kalian perlu mempelajari lebih lanjut, apa saja dan bagaimanakah materi genetik itu?.</p>
+
+<p>Pada bab berikut, kalian akan mempelajari materi genetik (meliputi kromosom, DNA, RNA, dan gen) 
+serta mempelajari tahapan sintesis protein. Dengan mempelajarinya, kalian diharapkan dapat 
+menjelaskan perbedaan antara kromosom, DNA, RNA, dan gen meliputi struktur, fungsi, dan hubungan 
+antara ketiganya. Selain itu, kalian diharapkan dapat menjelaskan tahapan dalam sintesis protein 
+meliputi replikasi, transkripsi dan translasi.</p>
+
+<p>Materi Genetik. Apakah kalian masih ingat struktur nukleus?. Nukleus sel eukariotik seperti 
+sel-sel hewan dan tumbuhan tingkat tinggi mempunyai membran inti. Sementara itu, nukleus sel 
+prokariotik seperti sel bakteri tidak bermembran. Di dalam nukleus dijumpai beberapa materi 
+genetik yang berperan di dalam pewarisan sifat. Artinya, materi genetik tersebut akan diturunkan 
+pada individu keturunannya. Materi genetik tersebut meliputi kromosom, DNA, RNA, dan gen.</p>
+
+<p>Kromosom. Di dalam inti sel terdapat benang-benang kromatin (jika sel sedang tidak membelah). 
+Struktur kromatin seperti jala, tersusun atas benang-benang halus yang dapat menyerap zat warna. 
+Jika sel sedang membelah (pembelahan sel akan dibahas pada bab selanjutnya), benang-benang 
+kromatin ini memendek dan menebal membentuk struktur yang disebut kromosom. Feulgen melakukan 
+teknik pewarnaan ungu pada kromosom untuk memudahkan pengamatan kromosom.</p>
+
+<p>Di dalam sel, kromosom mempunyai bentuk maupun jumlah yang bermacam-macam. Nah, agar kalian dapat 
+mempelajari kromosom secara lengkap, simaklah uraian berikut ini.</p>
+
+<p>Struktur Kromosom. Makhluk hidup yang ada di alam ini tidak semuanya mempunyai struktur kromosom 
+yang sama dengan kromosom manusia. Bakteri dan virus mempunyai kromosom sirkuler (membulat). 
+Kromosom mempunyai 2 bagian utama yaitu sentromer (kinetokor) dan lengan.</p>
+
+<p>Sentromer (Kinetokor). Sentromer disebut juga bagian kepala kromosom. Bagian ini berfungsi 
+sebagai tempat melekatnya benang-benang gelendong pembelahan pada waktu sel membelah.</p>
+
+<p>Lengan. Kromosom dapat mempunyai satu buah lengan atau dua buah lengan, bahkan ada yang tidak 
+mempunyai lengan. Kromosom dengan dua lengan dapat mempunyai lengan yang sama panjang atau 
+berbeda panjangnya (lengan yang satu panjang dan lengan yang lain pendek). Bagian lengan berisi 
+cairan yang dinamakan matriks. Pada matriks tersebut terdapat benang halus atau pita berbentuk 
+spiral yang disebut kromonema (jamak = kromonemata). Penebalan dari kromonema ini disebut 
+kromomer. Ada yang menganggap kromomer tersebut sebagai nukleoprotein. Di daerah tertentu pada 
+lengan kromosom terbentuk lekukan sekunder. Lekukan sekunder berfungsi sebagai tempat 
+terbentuknya anak inti atau nukleolus.</p>
+
+<p>Pada daerah ujung kromosom (ujung lengan) terdapat bagian yang disebut telomer. Fungsi bagian ini 
+untuk mencegah agar kromosom satu dan yang lain tidak berlekatan. Pada beberapa kromosom terdapat 
+bentukan bulat di bagian ujung lengannya, disebut satelit.</p>
+
+<p>Jumlah dan Tipe Kromosom. Menurut Benden dan Boveri (1887), jumlah kromosom pada setiap jenis 
+organisme berbeda-beda, namun bersifat tetap (konstan). Jumlah kromosom tiap jenis organisme 
+menunjukkan banyaknya kromosom yang ada pada sebuah sel organisme tersebut.</p>
+
+<p>Tubuh organisme bersel banyak (multiseluler), mempunyai 2 jenis kelompok sel yaitu sel somatis 
+(sel tubuh) dan sel gamet (sel kelamin). Jumlah kromosom pada sel gamet (sel kelamin) adalah 
+separuh dari jumlah kromosom yang ada pada sel somatis (sel tubuh). Dengan demikian, sel gamet 
+bersifat haploid (n kromosom) dan sel somatis bersifat diploid (2n kromosom). Berdasarkan jenis 
+selnya, kromosom dibedakan menjadi 2 tipe, yaitu kromosom sel tubuh (autosom) dan kromosom sel 
+kelamin (gonosom).</p>
+
+<p>Kromosom autosom pada organisme jantan dan betina adalah sama. Kromosom autosom tidak menentukan 
+jenis kelamin (penentuan jenis kelamin akan dibahas pada bab hereditas). Kromosom seks (gonosom) 
+pada organisme jantan berbeda dengan kromosom organisme betina. Kromosom ini disebut juga 
+kromosom jenis kelamin. Organisme yang normal memiliki kromosom seks sepasang (2 buah) saja. 
+Jumlah kromosom sel somatis tumbuhan, hewan, dan manusia berbeda satu sama lain. Pada mamalia 
+misalnya, sel somatis (diploid) manusia mengandung 46 buah kromosom, sedangkan gorila 
+48 kromosom.</p>
+
+<p>Bentuk Kromosom. Berdasarkan letak sentromernya, bentuk kromosom dikelompokkan menjadi empat, 
+yaitu: metasentris, submetasentris, akrosentris, dan telosentris.</p>
+
+<p>Metasentris. Kromosom ini memiliki 2 buah lengan yang sama panjang, sentromernya tepat ada di 
+tengah. Submetasentris. Lengan kromosom tidak sama panjang, sentromer terletak tidak di tengah. 
+Sentromer agak mendekati ujung salah satu lengan kromosom. Sentromer berada di daerah submedian. 
+Akrosentris. Sentromernya mendekati salah satu ujung lengan kromosom (sub terminal). Lengan yang 
+satu, jauh lebih panjang dari lengan kromosom yang lain. Telosentris. Kromosom ini hanya memiliki 
+sebuah lengan karena sentromernya terletak pada ujung salah satu lengan kromosom.</p>
+
+<p>Ukuran Kromosom. Spesies yang berbeda memiliki ukuran kromosom yang berbeda. Pada umumnya, 
+kromosom sel tumbuhan lebih besar dibanding kromosom sel hewan. Ukuran kromosom tersebut 
+kadang-kadang berhubungan dengan jumlah kromosom. Apabila jumlah kromosomnya sedikit, biasanya 
+kromosomnya lebih panjang. Rata-rata ukuran panjang kromosom adalah 0,2 – 0,5 mikro dengan 
+diameter 0,2 - 20 mikro.</p>
+
+<p>Berdasarkan ukuran (panjang), jumlah, dan bentuk kromosom maka kromosom sel somatis dapat disusun 
+atau diatur secara standar. Hasil penyusunan ini disebut karyotipe. Bukankah dalam 1 sel, ukuran 
+kromosom dapat beraneka ragam?.</p>
+
+<p>Genom (Ploidi). Di depan telah dipelajari tentang contoh karyotipe manusia. Sel manusia mempunyai 
+kromosom sebanyak 46 buah atau 23 pasang kromosom. Setiap pasang kromosom terdiri dari 2 buah 
+kromosom yang membentuk pasangan homolog. Dapat dikatakan bahwa sel tubuh manusia memiliki 23 
+pasang atau 23 macam kromosom homolog. Jumlah atau keseluruhan set atau perangkat dari 
+bermacam-macam homolog tersebut dinamakan genom atau ploidi. Setiap macam homolog terdiri dari 2 
+buah kromosom, artinya sel tubuh (sel somatis) manusia terdiri dari 2 set kromosom sehingga 
+disebut diploid (biasa ditulis 2n).</p>
+
+<p>Apakah kalian mengetahui cara mencari jumlah kromosom sel gamet?. Sel gamet (sel telur dan sel 
+sperma) memiliki separuh jumlah kromosom sel tubuh (sel somatis). Jika sel somatis manusia 
+memiliki 46 buah kromosom, maka sel telur manusia memiliki 23 buah kromosom, yang terdiri dari 22 
+kromosom autosom dan 1 kromosom seks. Demikian pula pada sel sperma manusia. Setiap pasangan 
+homolog sel somatis (sel tubuh) membelah menjadi 2, sehingga sel gamet memiliki 23 buah kromosom 
+dimana setiap macamnya hanya terdiri dari satu buah kromosom saja. Dengan demikian, sel gamet 
+(sel kelamin) hanya memiliki satu set atau satu perangkat kromosom dan disebut haploid (biasa 
+ditulis n).</p>
+
+<p>Komponen Kromosom. Di dalam sel, setiap kromosom berpasang-pasangan dengan kromosom lain yang 
+identik, sehingga disebut kromosom homolog. Setiap pasang kromosom tersebut merupakan pasangan 
+kromosom homolog. Kromosom mempunyai komponen utama, antara lain: DNA (Deoxyribo Nucleic Acid 
+atau asam nukleat deoksiribosa), protein histon, dan protein nonhiston. Protein histon bersifat 
+basa kuat dan menetralkan keasaman DNA. Lalu, apa hubungan antara histon dengan DNA?.</p>
+
+<p>Histon adalah protein berbentuk seperti manik-manik yang membentuk untaian. DNA melipit atau 
+mengelilingi kumpulan histon (setiap 8 histon) tersebut dan membentuk ikatan dengan histon. 
+Kumpulan manik-manik histon yang dikelilingi oleh DNA ini membentuk struktur disebut nukleosom. 
+Setiap nukleosom tersusun oleh 8 manik dengan 1 atau 2 lilitan DNA. DNA dan protein histon 
+tersebut terdapat pada bagian kromomer. Sebenarnya, apakah DNA itu?. Simaklah uraian selanjutnya.</p>
+
+<p>DNA. Di dalam kromosom sel eukariotik, selain materi genetik DNA (Deoxyribo Nucleic Acid), 
+terdapat juga RNA (Ribo Nucleic Acid). Kedua materi genetik tersebut dikenal sebagai asam inti 
+atau asam nukleat. Berkat penemuan Alfred dan Marta Chase (1952), diketahui bahwa DNA lah yang 
+membawa dan menyimpan informasi genetik sel. Jumlah dan jenis informasi di dalam setiap sel (tiap 
+sebuah sel) sangat banyak. DNA sebagai penyimpan informasi genetik adalah material kromosom.</p>
+
+<p>Sifat dan fungsi DNA. Selain di dalam nukleus, DNA dapat ditemukan pada organel mitokondria, 
+plastida, dan sitoplasma (dalam jumlah yang sedikit). DNA merupakan komponen yang ditemukan 
+secara eksklusif di dalam kromosom dan mempunyai sifat dan fungsi, antara lain:
+1) Merupakan material kromosom sebagai pembawa informasi genetik, melalui aktivitas pembelahan 
+sel (lihat point 3).
+2) Tebalnya 20 Å (Amstrong) dan panjangnya beribu-ribu Å (1 Å = 10-10 meter).
+3) Dapat melakukan replikasi, yaitu membentuk turunan atau menggandakan diri. DNA hasil replikasi 
+(DNA anak) memiliki urutan basa yang identik dengan yang dimiliki oleh heliks ganda parental 
+(DNA induk).
+4) Pada sel organisme prokariotik (bakteri), DNA berantai tunggal. Pada sel eukariotik, DNA 
+berupa heliks (rantai) ganda.
+5) Pada suhu mendekati titik didih atau pada pH yang ekstrim (kurang dari 3 atau lebih dari 10), 
+DNA mengalami denaturasi (membuka). Jika lingkungan dikembalikan seperti semula, DNA dapat 
+kembali membentuk heliks ganda, disebut renaturasi.</p>
+
+<p>Struktur Kimia DNA. DNA dan RNA tersusun oleh nukleotida-nukleotida yang saling terpaut membentuk 
+polinukleotida yang amat panjang. DNA merupakan molekul yang besar (makromolekul) dan terdiri 
+dari dua rantai polinukleotida yang saling berikatan. Setiap nukleotida tersusun atas 3 komponen, 
+antara lain: sebuah basa nitrogen, sebuah gula pentosa yaitu deoksiribosa, dan satu gugus 
+fosfat.</p>
+
+<p>Basa nitrogennya meliputi basa purin dan basa pirimidin. Basa purin meliputi guanin (G) dan 
+adenin (A), basa pirimidin meliputi sitosin (C) dan timin (T). Basa nitrogen purin dari heliks, 
+yang satu berpasangan dengan basa pirimidin dari heliks yang lain membentuk struktur yang disebut 
+double helix (heliks atau rantai ganda). Struktur tersebut disebut juga "rantai ganda Watson-
+Crick" karena ditemukan oleh James Watson dan Francis Crick. Jika basa purinnya adalah adenin 
+maka pirimidinnya timin (membentuk ikatan ganda A=T), jika basa purinnya guanin maka pirimidinnya 
+sitosin (membentuk ikatan rangkap tiga). Oleh karena itu, untaian rantai ganda bersifat 
+komplementer (basa nitrogen pada rantai yang satu merupakan pasangan basa nitrogen pada rantai 
+lainnya). Pada virus bakteriofag T2 (fag T2) tidak terdapat basa sitosin, melainkan basa 
+pirimidin yang menyerupai sitosin.</p>
+
+<p>Basa purin pada heliks satu dengan pirimidin heliks pasangannya dihubungkan oleh ikatan hidrogen. 
+Pada heliksnya, basa nitrogen berikatan dengan gula pentosa deoksiribosa. Gula pentosa tersebut 
+mengikat gugus fosfat. Basa nitrogen, gula deoksiribosa, dan gugus fosfat membentuk satu molekul 
+nukleotida. Nah, gugus fosfat tersebut menghubungkan antara nukleotida satu dengan yang lain 
+dalam satu rantai atau heliks yang sama. Apabila rantai ganda DNA dapat diibaratkan sebagai 
+sebuah tangga maka ikatan basa purin dengan pirimidin sebagai anak tangganya, sedangkan gula 
+deoksiribosa beserta fosfatnya sebagai ibu tangganya.</p>
+
+<p>Menurut Chargaff (1940), jumlah adenin (A) = timin (T) dan jumlah guanin (G) = sitosin (C). Data 
+sinar X Rosalind Franklin, heliks ganda DNA membentuk satu putaran penuh setiap 3,4 nm panjang 
+heliks ganda. Jarak antara pasangan nukleotida satu dengan nukleotida berikutnya adalah 0,34 nm. 
+Dengan demikian, jumlah pasangan nukleotida setiap satu putaran penuh adalah 10 nukleotida.</p>
+
+<p>Bagan skematis rantai ganda DNA dapat disederhanakan dengan menggambar gugus fosfat dan 
+deoksiribosa pada sebuah garis. Huruf-huruf yang ada menggambarkan macam basa nitrogennya. 
+Nukleotida yang satu dengan nukleotida yang lain berhubungan satu sama lain melalui ikatan 
+fosfodiester. Ikatan atau hubungan tersebut selalu sama. Artinya, gugus fosfat mengikat residu 
+deoksiribosa pada atom karbon nomor 5 (5'= primer) dan atom karbon nomor 3 (3' = 3 primer) pada 
+residu deoksiribosa nukleotida berikutnya. Oleh karena itu, polinukleotida DNA merupakan 
+molekul-molekul yang linear.</p>
+
+<p>Setelah kalian mempelajari tentang DNA, berikut ini ulasan tentang jenis asam nukleat yang lain 
+yaitu RNA.</p>
+
+<p>RNA. Pada akhir abad ke-19, telah ditemukan bahwa sel memiliki asam nukleat yang disebut 
+ribonukleat atau Ribo Nucleic Acid (RNA). RNA mempunyai beberapa ciri yang berbeda dengan DNA.</p>
+
+<p>Susunan kimia RNA. Seperti pada DNA, RNA juga merupakan polinukleotida. Jika pada DNA, komponen 
+gula berupa deoksiribosa, komponen gula RNA berupa gula ribosa. Dua purin dan dua pirimidin juga 
+ditemukan pada RNA, tetapi basa pirimidin timin tidak ditemukan, melainkan berupa pirimidin 
+urasil.</p>
+
+<p>Molekul RNA dapat berupa: rantai tunggal dan rantai ganda tidak berpilin. Rantai tunggal, contoh: 
+pada virus tumbuhan (TMV atau virus mosaik tembakau), virus hewan (influenza), dan bakteriofag 
+(MS2). Rantai ganda tidak berpilin, contoh: pada virus tumbuhan (reovirus).</p>
+
+<p>RNA dapat dibentuk oleh DNA, karena di dalam DNA kromosom terdapat sandi-sandi yang berperan 
+dalam pembentukan RNA. Sintesis RNA tersebut melibatkan enzim RNA polimerase.</p>
+
+<p>Macam-macam dan Fungsi RNA. Berdasarkan tempat terdapat dan fungsinya, RNA dibedakan menjadi 
+RNA m (RNA messenger), RNA r (RNA ribosom), dan RNA t (RNA transfer).</p>
+
+<p>RNA m (RNA messenger). RNA m disebut juga RNA duta (RNA d) atau RNA kurir. Menurut Francois Jacob 
+dan Monod (1961), setelah RNA dibentuk oleh DNA di dalam inti, RNA m membawa cetakan-cetakan ke 
+sitoplasma dan bergerak di atas ribosom. RNA m menempatkan kode genetik berupa 3 urutan basa 
+nitrogen kodon-kodonnya berturut-turut di ribosom untuk menyusun asam amino. RNA m ini dibentuk 
+pada saat sel hendak melakukan sintesis protein. Macam RNA m yang dibentuk oleh DNA tergantung 
+jenis protein yang akan disusun. Oleh karena itu, RNA m ini dapat ditemukan di dalam inti sel dan 
+di sitoplasma. RNA m merupakan molekul untaian tunggal. RNA m ini membawa informasi genetik dari 
+DNA ke ribosom.</p>
+
+<p>RNA r (RNA ribosom). RNA r dibentuk dari prekusor yang disebut RNA pra ribosom, mempunyai berat 
+molekul sekitar 2 juta, dan merupakan molekul paling besar dibandingkan RNA m dan RNA t. RNA 
+ribosom mengandung 50 – 2000 asam amino. Bersama-sama dengan protein, RNA ini akan membentuk 
+struktur ribosom yang mengatur proses translasi.</p>
+
+<p>RNA t (RNA transfer). RNA t disebut RNA pemindah dan merupakan RNA yang terpendek. Fungsi RNA t 
+adalah menerjemahkan kode-kode (kodon) yang dibawa oleh RNA m. Hasil terjemahan ini berupa 
+deretan basa nitrogen yang sesuai dengan kodon yang ada pada RNA d atau RNA m. RNA t membawa 
+pasangan kodon pada RNA m, sehingga disebut antikodon. RNA t juga membawa asam amino yang sesuai 
+dengan kodon-kodon RNA d atau RNA m.</p>
+
+<p>Hubungan Gen dengan Kromosom, DNA, dan RNA. Pada akhir abad ke-19, pembahasan dan pernyataan 
+tentang gen mulai dikemukakan oleh Mendel (kalian akan mempelajarinya pada bab Hereditas). Mendel 
+melaporkan hasil percobaannya, bahwa sifat-sifat yang ada pada individu ditentukan oleh sepasang 
+unit. Anggota dari sepasang unit itu diturunkan oleh setiap induk (orang tua) kepada individu 
+keturunannya pada proses pewarisan sifat (akan dibahas pada bab Pembelahan Sel).</p>
+
+<p>Pada tahun 1900, W L Johanssen mengusulkan nama untuk "unit" (yang disampaikan Mendel) tersebut 
+sebagai gen. Semenjak itu, penelitian terus berjalan semakin pesat. Akhirnya pada tahun 1903, 
+Sutton dan Boveri mengeluarkan pernyataan bahwa sebenarnya gen-gen itu dibawa oleh kromosom.</p>
+
+<p>Gen adalah unit genetis yang terdapat di dalam kromosom. Dalam satu kromosom terdapat ribuan 
+bahkan puluhan ribu gen. Gen-gen tersebut terdapat di dalam DNA dan merupakan segmen dari DNA 
+yang berperan dalam menentukan sifat individu. Dengan mikroskop elektron, gen tidak akan nampak 
+melainkan struktur berupa asam nukleat Deoxyribo Nucleic Acid (DNA). Oleh karena itu, gen adalah 
+nama fungsional, sedangkan DNA adalah nama strukturalnya.</p>
+
+<p>Di dalam kromosom, gen-gen menempati suatu lokasi yang spesifik disebut lokus gen. Gen-gen itu 
+terletak berderet di sepanjang kromosom. Pada tahun 1982, berhasil dilaporkan letak gen pada 
+kromosom manusia. Suatu sifat dikendalikan oleh sepasang gen. Anggota dari pasangan gen disebut 
+sebagai alel, dimana satu alel diperoleh dari induk jantan dan yang lain dari induk betina. 
+Pasangan alel tersebut merupakan penentu dari suatu sifat. Alel dinyatakan dengan bentuk huruf. 
+Huruf yang dipilih biasanya huruf terdepan dari sifat yang dominan. Sifat dominan ditulis dengan 
+huruf kapital. Misalnya, menuliskan sifat manis pada mangga yang dominan dengan sifat masam, maka 
+alel penentu manis dinyatakan dengan alel M dan sifat masam dengan alel m. Sifat manis dinyatakan 
+dominan, artinya sifat manis ditentukan oleh alel dominan M. Apabila alel dominan M berpasangan 
+dengan alel dominan M, membentuk genotip MM (sifat manis). Namun, jika alel dominan M berpasangan 
+dengan alel resesif m maka genotipnya Mm (sifat manis). Genotip mangga masam adalah mm. Mangga 
+dengan genotip MM dan Mm memiliki fenotip yang sama, yaitu rasanya manis. Mangga dengan genotip 
+mm memiliki fenotip rasanya masam.</p>
+
+<p>Jika gen tersebut dua alel dominan, maka disebut gen homozigot dominan. Jika dibentuk oleh dua 
+alel resesif, maka disebut gen homozigot resesif. Sementara itu, jika gen dibentuk oleh sebuah 
+alel dominan dan sebuah alel resesif maka disebut gen heterozigot. Susunan genetis suatu sifat 
+(karakter) yang dikandung individu disebut genotip. Genotip dinyatakan dengan sepasang huruf 
+untuk setiap sifat. Pasangan huruf dapat disusun oleh 2 huruf yang sama, dapat pula disusun oleh 
+2 huruf yang berbeda. Genotip yang dinyatakan dengan 2 huruf yang sama, menunjukkan sifat 
+homozigot. Apabila 2 huruf tersebut berbeda menunjukkan sifat heterozigot. Fenotip adalah bentuk 
+luar atau sifat individu yang dapat ditangkap oleh panca indera kita. Contoh rambut hitam, rasa 
+asin, warna merah, suaranya keras, kulitnya kasar, tubuhnya gemuk, matanya sipit dan 
+lain-lainnya.</p>
+
+<p>Sintesis Protein. Proses sintesis atau pembentukan protein memerlukan adanya molekul RNA yang 
+merupakan materi genetik di dalam kromosom, serta DNA sebagai pembawa sifat keturunan. Informasi 
+genetik pada double helix DNA berupa kode-kode sandi atau kode genetik. Nah, kode-kode sandi 
+tersebut nantinya akan dibawa atau dicetak untuk membentuk RNA. Informasi berupa urutan kode-kode 
+sandi pada RNA akan dirangkai menjadi asam-asam amino, peptida, polipeptida, sampai terbentuk 
+protein.</p>
+
+<p>Protein-protein yang terbentuk akan menyusun sebagian besar komponen di dalam tubuh. Contoh 
+protein sebagai komponen penyusun tubuh adalah miosin, aktin, keratin, kolagen, hemoglobin, dan 
+insulin.</p>
+
+<p>Variasi dari 20 macam asam amino yang ada, dapat membentuk protein yang berbeda-beda. Oleh karena 
+itu, setiap individu akan mempunyai bermacam-macam protein yang berbeda pula satu sama lain. Lalu, 
+bagaimana hubungan sintesis protein dengan sifat-sifat individu?. Nah, seperti telah disebutkan 
+sebelumnya, protein akan menyusun komponen tubuh. Setiap komponen yang berbeda tentunya akan 
+menghasilkan sifat dan fungsi yang berbeda pula. Dengan demikian, protein dikatakan dapat 
+mengekspresikan sifat pada individu. Sebagai contoh, individu yang mempunyai kadar hemoglobin 
+yang rendah akan menunjukkan sifat atau ciri yang berbeda dengan individu yang berkadar 
+hemoglobin tinggi. Apa sajakah tahapan dalam sintesis protein?.</p>
+
+<p>Tahapan Sintesis Protein. Pada tahun 1950, Paul Zamecnik melakukan percobaan untuk mengetahui 
+tahapan dan tempat terjadinya sintesis protein. Paul menginjeksikan asam amino radioaktif ke 
+tubuh tikus dan berhasil menjelaskan tempat terjadinya sintesis protein, yaitu di dalam ribosom. 
+Selanjutnya, penelitian dilakukan bersama dengan Mahlon dan menyimpulkan bahwa molekul RNA 
+pemindah (RNA t) berperan dalam sintesis protein. Akhirnya, Francis Crick menemukan bahwa RNA 
+pemindah harus mengenali urutan nukleotida untuk disusun sebagai asam amino sesuai pemesanan, 
+yang kemudian dibawa oleh RNA pembawa pesan.</p>
+
+<p>Tahapan sintesis protein mengikuti aturan dogma sentral, dimana informasi genetik dipindahkan 
+dari DNA ke DNA melalui tahap replikasi. Dari DNA ke RNA melalui tahap transkripsi. Selanjutnya 
+dari RNA ke protein melalui sintesis protein. Sebelum terjadi sintesis protein, DNA pada struktur 
+nukleosom akan lepas dari protein histon oleh bantuan kerja enzim polimerase. Secara umum, proses 
+sintesis protein meliputi tiga tahapan utama, antara lain: replikasi DNA, transkripsi, dan 
+translasi.</p>
+
+<p>Replikasi DNA. Setiap sel dapat memperbanyak diri dengan cara membelah. Sebuah sel membelah 
+menjadi 2 sel, 2 sel membelah menjadi 4 sel, 4 sel membelah menjadi 8 sel dan seterusnya. Sebelum 
+sel membelah, terjadi perbanyakan komponen-komponen di dalam sel termasuk DNA. Perbanyakan DNA 
+dilakukan dengan cara replikasi. Dengan demikian, replikasi adalah proses pembuatan (sintesis) 
+DNA baru atau penggandaan DNA di dalam nukleus. Pada saat replikasi berlangsung, DNA induk 
+membentuk kopian DNA anak yang sama persis sehingga DNA induk berfungsi sebagai cetakan untuk 
+pembentukan DNA baru.</p>
+
+<p>Setelah Watson dan Crick menemukan model DNA yang berupa heliks ganda terpilin pada tahun 1953, 
+muncullah 3 macam hipotesis tentang cara atau model DNA bereplikasi, antara lain: model 
+konservatif, model semi konservatif, dan model dispersif.</p>
+
+<p>Model Konservatif. Menurut hipotesis ini, rantai ganda DNA induk langsung membentuk salinan 
+berupa rantai ganda DNA baru tanpa ada pemisahan rantai ganda DNA induk terlebih dahulu. 
+Replikasi pertama menghasilkan dua rantai ganda DNA, terdiri dari satu rantai ganda DNA induk 
+dan satu rantai ganda DNA yang benar-benar baru. Pada replikasi kedua, masing-masing rantai ganda 
+DNA tersebut langsung membentuk salinan DNA yang baru lagi. Akhirnya, menghasilkan empat buah 
+DNA. Satu DNA tetap merupakan DNA induk yang utuh dan tiga DNA merupakan DNA baru.</p>
+
+<p>Model Semi Konservatif. Hipotesis model semi konservatif ini dikemukakan oleh Watson dan Crick, 
+menyatakan bahwa rantai ganda DNA induk membuka atau memisah terlebih dahulu sehingga terbentuk 
+dua buah rantai tunggal DNA. Masing-masing rantai tunggal tersebut berfungsi sebagai cetakan 
+untuk membentuk rantai tunggal DNA baru, melalui pembentukan pasangan basa yang komplementer 
+dengan basa nitrogen DNA induk. Dengan demikian, hasil replikasi pertama adalah dua buah DNA. 
+Masing-masing DNA terdiri dari satu rantai tunggal induk dan satu rantai tunggal yang baru. Pada 
+replikasi kedua, masing-masing rantai ganda DNA tersebut membuka kembali sehingga dihasilkan 
+empat buah DNA. Dua buah DNA mengandung rantai tunggal induk dan dua buah DNA yang lain merupakan 
+rantai DNA baru.</p>
+
+<p>Model Dispersif. Rantai ganda DNA hasil replikasi pertama maupun replikasi ke dua dari DNA induk 
+mengandung segmen campuran antara rantai DNA induk dan rantai DNA baru. Artinya, rantai ganda 
+DNA salinannya terdiri dari dua rantai tunggal DNA yang masing-masing mengandung segmen (bagian 
+atau potongan) DNA induk dan segmen DNA baru.</p>
+
+<p>Pada akhir tahun 1950-an, Matthew Meselson dan Franklin Stahl melakukan percobaan untuk menguji 
+ketiga hipotesis tersebut. Ternyata, hasil percobaannya mendukung hipotesis atau ide dari Watson 
+dan Crick yaitu model semi konservatif.</p>
+
+<p>Replikasi merupakan tahapan rumit yang mengawali sintesis protein. Oleh karena itu, kalian perlu 
+menyimak dengan saksama. Proses replikasi dimulai pada beberapa daerah spesifik dari rantai DNA, 
+disebut pangkal replikasi. Beberapa tahapan dan enzim yang berperan dalam sintesis protein, 
+antara lain:
+a) DNA helikase, berfungsi untuk membuka rantai ganda DNA induk.
+b) Enzim primase, membentuk primer yang merupakan segmen pendek dari RNA sebagai pemula untuk 
+terjadinya sintesis protein.
+c) Dari ujung 3' RNA primer, DNA polimerase menambahkan pasangan basa nitrogen (dari 
+nukleotida-nukleotida) pada rantai tunggal DNA induk dan terbentuk rantai DNA yang bersambungan 
+secara kontinu (tanpa terpisah-pisah) yang disebut leading strand.
+d) Pada rantai tunggal DNA induk yang lain, DNA polimerase membentuk lagging strand (merupakan 
+keseluruhan rantai kopian DNA yang pertumbuhannya tidak kontinu) dengan memperpanjang RNA 
+primer-RNA primer di beberapa tempat sehingga membentuk segmen-segmen DNA baru yang saling 
+terpisah. Segmen-segmen itulah yang disebut fragmen Okazaki.
+e) DNA polimerase yang lainnya, menggantikan RNA primer dengan DNA dan enzim ligase menghubungkan 
+segmen-segmen okazaki, sehingga terbentuk salinan DNA baru.</p>
+
+<p>Nah, DNA baru yang telah terbentuk (identik dengan DNA induk) akan melanjutkan tahapan untuk 
+menyintesis protein yaitu tahapan transkripsi dan translasi.</p>
+
+<p>Transkripsi. Pada tahapan ini, DNA akan membentuk RNA dengan cara menerjemahkan kode-kode genetik 
+dari DNA. Proses pembentukan RNA ini disebut transkripsi, yang menghasilkan 3 macam RNA seperti 
+yang telah kalian ketahui sebelumnya, yaitu RNA m, RNA t, dan RNA r.</p>
+
+<p>Transkripsi terjadi di dalam sitoplasma dan diawali dengan membukanya rantai ganda DNA melalui 
+kerja enzim RNA polimerase. Sebuah rantai tunggal berfungsi sebagai rantai cetakan atau rantai 
+sense, rantai yang lain dari pasangan DNA ini disebut rantai anti sense. Tidak seperti halnya 
+pada replikasi yang terjadi pada semua DNA, transkripsi ini hanya terjadi pada segmen DNA yang 
+mengandung kelompok gen tertentu saja. Oleh karena itu, nukleotida nukleotida pada rantai sense 
+yang akan ditranskripsi menjadi molekul RNA dikenal sebagai unit transkripsi. Transkripsi 
+meliputi 3 tahapan, yaitu tahapan inisiasi, elongasi, dan terminasi.</p>
+
+<p>Inisiasi (Permulaan). Jika pada proses replikasi dikenal daerah pangkal replikasi, pada 
+transkripsi ini dikenal promoter, yaitu daerah DNA sebagai tempat melekatnya RNA polimerase untuk 
+memulai transkripsi. RNA polimerase melekat atau berikatan dengan promoter, setelah promoter 
+berikatan dengan kumpulan protein yang disebut faktor transkripsi. Nah, kumpulan antara promoter, 
+RNA polimerase, dan faktor transkripsi ini disebut kompleks inisiasi transkripsi. Selanjutnya, 
+RNA polimerase membuka rantai ganda DNA.</p>
+
+<p>Elongasi (Pemanjangan). Setelah membuka pilinan rantai ganda DNA, RNA polimerase ini kemudian 
+menyusun untaian nukleotida-nukleotida RNA dengan arah 5' ke 3'. Pada tahap elongasi ini, RNA 
+mengalami pertumbuhan memanjang seiring dengan pembentukan pasangan basa nitrogen DNA. 
+Pembentukan RNA analog dengan pembentukan pasangan basa nitrogen pada replikasi. Pada RNA tidak 
+terdapat basa pirimidin timin (T), melainkan urasil (U). Oleh karena itu, RNA akan membentuk 
+pasangan basa urasil dengan adenin pada rantai DNA. Tiga macam basa yang lain, yaitu adenin, 
+guanin, dan sitosin dari DNA akan berpasangan dengan basa komplemennya masing-masing sesuai 
+dengan pengaturan pemasangan basa. Adenin berpasangan dengan urasil dan guanin dengan sitosin.</p>
+
+<p>Terminasi (Pengakhiran). Penyusunan untaian nukleotida RNA yang telah dimulai dari daerah 
+promoter berakhir di daerah terminator. Setelah transkripsi selesai, rantai DNA menyatu kembali 
+seperti semula dan RNA polimerase segera terlepas dari DNA. Akhirnya, RNA terlepas dan 
+terbentuklah RNA m yang baru.</p>
+
+<p>Pada sel prokariotik, RNA hasil transkripsi dari DNA, langsung berperan sebagai RNA m. Sementara 
+itu, RNA hasil transkripsi gen pengkode protein pada sel eukariotik, akan menjadi RNA m yang 
+fungsional (aktif) setelah melalui proses tertentu terlebih dahulu.</p>
+
+<p>Dengan demikian, pada rantai tunggal RNA m terdapat beberapa urut-urutan basa nitrogen yang 
+merupakan komplemen (pasangan) dari pesan genetik (urutan basa nitrogen) DNA. Setiap tiga macam 
+urutan basa nitrogen pada nukleotida RNA m hasil transkripsi ini disebut sebagai triplet atau 
+kodon.</p>
+
+<p>Translasi. Setelah replikasi DNA dan transkripsi RNA m di dalam nukleus, RNA m dari nukleus 
+dipindahkan ke sitoplasma sel. Langkah selanjutnya adalah proses translasi RNA m untuk membentuk 
+protein. Translasi merupakan proses penerjemahan beberapa triplet atau kodon dari RNA m menjadi 
+asam amino-asam amino yang akhirnya membentuk protein. Urutan basa nitrogen yang berbeda pada 
+setiap triplet, akan diterjemahkan menjadi asam amino yang berbeda. Misalnya, asam amino 
+fenilalanin diterjemahkan dari triplet UUU (terdiri dari 3 basa urasil), asam amino triptofan 
+(UGG), asam amino glisin (GGC), dan asam amino serin UCA. Sebanyak 20 macam asam amino yang 
+diperlukan untuk pembentukan protein merupakan hasil terjemahan triplet dari RNA m. Selanjutnya, 
+dari beberapa asam amino (puluhan, ratusan, atau ribuan) tersebut dihasilkan rantai polipeptida 
+spesifik dan akan membentuk protein spesifik pula.</p>
+
+<p>Lalu, bagaimana mekanisme translasi tersebut?. Langkah-langkah pada proses translasi adalah 
+sebagai berikut: inisialisasi translasi, elongasi, dan terminasi.</p>
+
+<p>Inisiasi Translasi. Ribosom sub unit kecil mengikatkan diri pada RNA m yang telah membawa sandi 
+bagi asam amino yang akan dibuat, serta mengikat pada bagian inisiator RNA t. Selanjutnya, 
+molekul besar ribosom juga ikut terikat bersama ketiga molekul tersebut membentuk kompleks 
+inisiasi.</p>
+
+<p>Molekul-molekul RNA t mengikat dan memindahkan asam amino dari sitoplasma menuju ribosom dengan 
+menggunakan energi GTP dan enzim. Bagian ujung RNA t yang satu membawa antikodon, berupa triplet 
+basa nitrogen. Sementara, ujung yang lain membawa satu jenis asam amino dari sitoplasma. 
+Kemudian, asam amino tertentu tersebut diaktifkan oleh RNA t tertentu pula dengan menghubungkan 
+antikodon dan kodon (pengkode asam amino) pada RNA m.</p>
+
+<p>Kodon pemula pada proses translasi adalah AUG, yang akan mengkode pembentukan asam amino 
+metionin. Oleh karena itu, antikodon RNA t yang akan berpasangan dengan kodon pemula adalah UAC. 
+RNA t tersebut membawa asam amino metionin pada sisi pembawa asam aminonya.</p>
+
+<p>Elongasi. Tahap pengaktifan asam amino terjadi kodon demi kodon sehingga dihasilkan asam amino 
+satu demi satu. Asam-asam amino yang telah diaktifkan oleh kerja RNA t sebelumnya, dihubungkan 
+melalui ikatan peptida membentuk polipeptida pada ujung RNA t pembawa asam amino. Misalnya, RNA t 
+membawa asam amino fenilalanin, maka antikodon berupa AAA kemudian berhubungan dengan kodon RNA m 
+UUU. Fenilalanin tersebut dihubungkan dengan metionin membentuk peptida. Nah, melalui proses 
+elongasi, rantai polipeptida yang sedang tumbuh tersebut semakin panjang akibat penambahan asam 
+amino.</p>
+
+<p>Terminasi. Proses translasi berhenti setelah antikodon yang dibawa RNA t bertemu dengan kodon 
+UAA, UAG, atau UGA. Dengan demikian, rantai polipeptida yang telah terbentuk akan dilepaskan dari 
+ribosom dan diolah membentuk protein fungsional.</p>
+
+<p>Setelah kalian mempelajari tahapan dalam sintesis protein, simaklah uraian berikut ini agar 
+kalian lebih mudah memahami sintesis protein.</p>
+
+<p>Kode Genetik dalam Sintesis Protein. Sekarang kita sudah memperoleh jawaban tentang bagaimana 
+bahasa DNA yang hanya memiliki 4 basa nitrogen dapat diterjemahkan menjadi bahasa protein. 
+Rahasia ini terbongkar sejak tahun 1961 oleh Marshal Nirenberg dan Mathei. Mereka melakukan 
+percobaan menggunakan E coli dengan asam poli urasil. Menurut hasil percobaan tersebut, cetakan 
+UUU yang dibawa oleh RNA m, artinya adalah asam amino fenilalanin. Dengan cara yang sama, triplet 
+CCC diartikan sebagai prolin dan triplet AAA artinya asam amino lisin.</p>
+
+<p>Pada kamus kode genetik terdapat 64 kombinasi triplet untuk 20 asam amino. Jadi, terdapat asam 
+amino tertentu melebihi triplet (kodon). Setiap triplet disusun oleh 3 basa nitrogen. Rangkaian 
+tiga basa nitrogen yang menyusun kode disebut triple atau trikodon atau kodon. Rangkaian tiga 
+basa nitrogen yang ada pada DNA yang bertugas membuat kode-kode disebut kodogen (agen 
+pengkode).</p>
+
+<p>Jika kalian perhatikan, dari 64 triplet nukleotida terdapat 3 buah kode yaitu UAG, UAA dan UGA 
+tidak menyandi asam amino apapun. Kodon-kodon tersebut adalah kodon-kodon yang tak bernuksa 
+(nonsense) yang secara umum menjadi tanda berakhirnya rantai polipeptida. Kodon AUG menjadi kodon 
+sandi asam amino metionin serta sebagai tanda dimulainya rantai polipeptida.</p>
+
+<p>Heliks DNA merupakan material kromosom yang membawa informasi genetik. DNA tersebut memiliki 
+kemampuan membentuk atau membuat RNA d (RNA kurir = RNA m) melalui proses transkripsi. 
+Pesan-pesan DNA dicetak sebagai kode-kode. Heliks DNA yang bertugas mencetak kode-kode disebut 
+DNA template (DNA sense), sedangkan rantai DNA pasangannya disebut DNA anti sense. Satu kromosom 
+adalah satu molekul DNA. Satu molekul DNA mengandung jutaan pasangan nukleotida, artinya sebuah 
+heliks DNA mengandung jutaan nukleotida. Tidak semua kode-kode yang ada pada DNA 
+ditranskripsikan. Transkripsi DNA bersifat selektif. Kode-kode yang ditranskripsikan ditujukan 
+untuk urutan asam amino yang telah ditentukan secara genetik. DNA sense melalui proses 
+transkripsi membentuk RNA d. Basa nitrogen yang ada pada RNA d yang merupakan pesan DNA, disebut 
+kodon. Selanjutnya proses sintesis protein yang terjadi merupakan proses terjemahan kodon-kodon 
+yang dibawa oleh RNA d.</p>
+
+<p>Apakah yang akan terjadi jika RNA transfer salah dalam menerjemahkan kodon?. Yang akan terjadi 
+adalah terbentuknya asam amino yang tidak sesuai dengan pesanan DNA (tidak sesuai dengan 
+harapan). Asam amino yang berbeda membentuk protein yang berbeda, protein yang berbeda membentuk 
+enzim yang berbeda, sehingga sifat yang dikendalikan juga berbeda. Apabila terjadi kesalahan 
+seperti ini, maka dapat bersifat menurun dan menyebabkan terjadinya mutasi.</p>
+
+<p>Dengan penjelasan di atas dapat dipertegas bahwa kesalahan RNA t dalam menerjemahkan kodon-kodon 
+RNA d merupakan mekanisme terjadinya mutasi gen (mutasi akan dibahas pada bab tersendiri).</p>

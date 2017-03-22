@@ -1,0 +1,839 @@
+<j>Prinsip Hereditas.
+<p>Pernahkah kalian melihat kucing berbulu putih, coklat, atau bergaris-garis hitam?. Kalian 
+mungkin pernah pula mengunjungi pedagang tanaman hias (nurseri) yang mengoleksi aneka ragam sifat 
+tanaman (baik bentuk, warna, jumlah bunga, maupun ukuran tanamannya). Ternyata, mereka dapat 
+memperoleh koleksi binatang maupun tanaman dengan sifat sesuai yang mereka inginkan. Caranya 
+dengan melakukan persilangan dua individu yang mempunyai sifat yang diharapkan. Apa yang 
+menyebabkan hal ini dapat terjadi?. Kalian akan mengetahuinya setelah mempelajari materi berikut. 
+Simaklah bersama-sama.</p>
+
+<p>Nah, pada bab ini, kalian akan mempelajari hukum-hukum pewarisan sifat Mendel, pola-pola 
+hereditas, dan hereditas pada manusia. Selanjutnya, kalian diharapkan dapat menerapkan Hukum 
+Mendel dengan menentukan perbandingan fenotip dan genotip keturunan, menjelaskan macam-macam, 
+penyebab terjadi, dan aplikasi dari penyimpangan-penyimpangan semu Hukum Mendel. Selain itu, 
+kalian diharapkan dapat mengaplikasikan perhitungan perbandingan terjadinya pewarisan sifat pada 
+manusia.</p>
+
+<p>Hukum Pewarisan Sifat Mendel. Jika individu dengan sifat A melakukan perkawinan dengan individu 
+lain dengan sifat B, sifat keturunannya dapat mengikuti salah satu induknya atau merupakan hasil 
+kombinasi dari sifat kedua induknya. Penurunan atau pewarisan sifat dari induk atau tetua kepada 
+generasi (keturunan) berikutnya disebut inheritansi (inheritance). Peristiwa pewarisan sifat 
+tersebut mengikuti pola-pola tertentu yaitu pola-pola hereditas (Latin: heres atau ahli waris).</p>
+
+<p>Hukum Mendel merupakan Hukum Hereditas yang menjelaskan prinsip-prinsip penurunan sifat pada 
+organisme. Teori Mendel didukung beberapa biologiwan seperti De Vries (Belanda), Correns (Jerman), 
+dan Tschermak (Austria).</p>
+
+<p>Suatu hipotesis memprediksi bahwa dari generasi ke generasi, populasi dengan perkawinan bebas 
+akan menghasilkan individu yang sama (seragam). Namun kenyataannya, dalam pengamatan setiap hari 
+dan hasil percobaan pengembangbiakan hewan serta tumbuhan bertolak belakang dengan prediksi 
+tersebut. Untuk mengembangkan teorinya, Mendel menggunakan objek kajian berupa tanaman kacang 
+kapri atau ercis.</p>
+
+<p>Alasan dan keuntungan pemilihan kacang kapri untuk objek kajiannya antara lain: kapri memiliki 
+pasangan-pasangan yang kontras, mudah disilangkan, mampu menghasilkan keturunan banyak dan cepat 
+karena daur hidupnya yang pendek, serta dapat melakukan autogami atau penyerbukan sendiri karena 
+mempunyai organ kelamin jantan (stamen atau benang sari) dan organ kelamin betina (putik atau 
+pistillum) dalam tiap bunganya. Mendel mengamati tujuh sifat kacang kapri (Pisum sativum) 
+tersebut, antara lain: biji bulat dibandingkan dengan biji keriput; biji warna kuning 
+dibandingkan dengan biji warna merah; buah warna hijau dibandingkan dengan buah warna kuning; 
+buah mulus dibandingkan dengan buah berlekuk; bunga warna ungu dibandingkan dengan bunga warna 
+putih; dan letak bunga diaksial (ketiak) dibandingkan bunga di terminal ujung; serta batang 
+panjang dibandingkan dengan batang pendek.</p>
+
+<p>Mendel memindahkan serbuk sari yang belum dewasa atau matang, dan menaburkan serbuk sari ke 
+kepala putik pada bunga yang serbuk sarinya sudah dihilangkan. Selanjutnya, ia menyilangkan dua 
+individu galur murni atau true breeding (yaitu tanaman yang apabila melakukan penyerbukan sendiri, 
+senantiasa menghasilkan tunas yang sifatnya sama persis dengan sifat induknya) yang sama–sama 
+memiliki pasangan sifat kontras, misalnya : kacang kapri berbunga merah galur murni dengan kacang 
+kapri berbunga putih galur murni atau tanaman kacang kapri batang panjang dengan kacang kapri 
+berbatang pendek.</p>
+
+<p>Hasil penyilangan menunjukkan bahwa sifat dari dua induk tidak muncul sekaligus (hanya satu 
+sifat). Kacang kapri berbunga merah yang disilangkan dengan kacang kapri berbunga putih 
+menghasilkan kacang kapri berbunga merah. Berarti warna merah dominan terhadap warna putih, atau 
+warna putih resesif terhadap warna merah. Alel dominan yaitu gen penentu sifat yang menutupi 
+sifat pasangannya (alel resesif), dan ditulis dengan huruf besar (dalam contoh di atas, warna 
+merah bersifat dominan dan ditulis sebagai M). Alel resesif yaitu alel penentu sifat yang 
+ditutupi oleh sifat pasangannya (alel dominan), dan ditulis dengan huruf kecil (dalam contoh di 
+atas, warna putih bersifat resesif dan ditulis sebagai m).</p>
+
+<p>Selanjutnya, Mendel menyilangkan sesama F1 yang berbunga merah. Keturunan generasi kedua (F2)nya 
+terdiri dari tanaman berbunga merah dan tanaman berbunga putih dengan rasio (perbandingan) 3 : 1. 
+Berdasarkan penelitiannya, Mendel menyusun beberapa hipotesa sebagai berikut:
+1) Sepasang gen dari induk jantan dan induk betina berperan dalam mengendalikan setiap sifat pada 
+keturunannya.
+2) Setiap alel (anggota dari sepasang gen) menunjukkan bentuk alternatif sesamanya. Misalnya 
+warna merah dengan putih, atau biji bulat dengan biji keriput.
+3) Pasangan alel berbeda yang terdapat bersama–sama dalam satu individu tanaman, terdiri dari 
+alel yang merupakan faktor dominan dan faktor resesif. Faktor dominan akan menutupi faktor 
+resesif.
+4) Pada saat pembentukan gamet (meiosis), masing-masing alel memisah secara bebas. Selanjutnya, 
+penggabungan gamet terjadi secara acak.
+5) Individu murni mempunyai pasangan sifat (alel) yang sama yaitu dominan saja, atau resesif 
+saja.</p>
+
+<p>Setelah diuji berkali-kali ternyata hasil penelitian Mendel tetap, sehingga hipotesis Mendel 
+ditetapkan sebagai Hukum Mendel yang pokok, yaitu Hukum Mendel I (Hukum Segregasi) dan Hukum 
+Mendel II (Hukum Pengelompokan atau Penggabungan). Oleh karena itu, Mendel dikenal sebagai Bapak 
+Genetika.</p>
+
+<p>Hukum Mendel I (Hukum Segregasi). Hukum Mendel I disebut juga hukum segregasi yang menyatakan 
+bahwa pada waktu pembentukan gamet, terjadi pemisahan alel secara acak (The Law of Segregation of 
+Allelic Genes).</p>
+
+<p>Sebagaimana telah dijelaskan sebelumnya, gen merupakan bagian dari DNA yang terdapat dalam 
+kromosom. Pasangan kromosom homolog mengandung pasangan gen (terdiri dari 2 alel). Pada 
+pembentukan gamet secara meiosis, pasangan-pasangan gen pada kromosom homolog saling berpisah 
+(tahap Anafase). Pada akhir meiosis, setiap sel gamet yang dihasilkan hanya memiliki satu alel 
+dari pasangan gen saja (pelajari kembali tentang gametogenesis). Proses pemisahan gen inilah yang 
+disebut segregasi gen. Mengenai Hukum Mendel I ini dapat kalian kaji dari persilangan monohibrida 
+(pembastaran dengan satu sifat beda).</p>
+
+<p>Sebagai langkah awal kalian dalam mempelajari persilangan monohibrida, berikut ini akan 
+dijelaskan tentang istilah-istilah yang sering digunakan dalam persilangan.</p>
+
+<p>Genotip dan Fenotip. Di dalam suatu individu, terdapat 2 faktor penting yang saling terkait yaitu 
+faktor genotip dan faktor fenotip. Genotip adalah susunan genetik dari suatu sifat atau karakter 
+individu, biasanya diberi simbol dengan huruf dobel (misalnya TT, Tt dan tt). Genotip juga 
+dikatakan sebagai faktor pembawaan. Genotip menunjukkan sifat dasar yang tidak tampak dan 
+bersifat menurun atau diwariskan pada keturunannya. Sementara itu, fenotip adalah hasil ekspresi 
+atau perpaduan dari genotip dengan lingkungannya, berupa sifat yang tampak dari luar sehingga 
+dapat diamati. Sebagai contoh adalah bentuk (rambut, wajah, mata, tubuh, dan lain-lain) atau 
+warna (pada rambut, kulit, iris atau selaput pelangi). Genotip yang sama dapat menghasilkan 
+fenotip yang berbeda jika terdapat pada lingkungan berbeda.</p>
+
+<p>Nah, setelah kalian mengetahui tentang genotip dan fenotip, simaklah materi tentang persilangan 
+monohibrida berikut.</p>
+
+<p>Persilangan Monohibrida. Pernahkah kalian mendengar istilah monohibrida?. Persilangan monohibrida 
+adalah perkawinan 2 individu dengan satu sifat beda yang menyolok. Persilangan monohibrida dapat 
+terjadi pada tumbuhan, hewan maupun manusia.</p>
+
+<p>Monohibrida pada Tumbuhan. Persilangan monohibrida pada tumbuhan dapat dilakukan misalnya pada 
+buncis berbiji bulat dengan buncis berbiji keriput, buncis dengan biji warna kuning disilangkan 
+dengan biji warna hijau, buncis berbunga merah dengan buncis berbunga putih, dan seterusnya. Agar 
+mudah mempelajarinya, tiap-tiap persilangan diberi simbol (notasi). Pada saat menyilangkan, 
+tanaman induk diberi simbol P (singkatan dari parental). Keturunan I (keturunan pertama) yang 
+dihasilkan disebut fillial (keturunan) yang disingkat F1. Sementara itu, keturunan II sebagai F2.</p>
+
+<p>Pada persilangan monohibrida yang lain, Mendel melakukan eksperimen (percobaan) dengan 
+menyilangkan tanaman kacang kapri berbunga kuning dan tanaman kacang kapri berbunga putih. Maka 
+generasi keturunannya (F1) adalah 100% tanaman kacang kapri berbunga kuning. Namun, apabila 
+tanaman kacang kapri berbunga kuning disilangkan sesamanya (persilangan inbreeding), keturunannya 
+menunjukkan 75% tanaman berbunga kuning dan 25% berbunga putih.</p>
+
+<p>Peristiwa terbentuknya tanaman bunga kuning dari hasil persilangan menurut Mendel adalah sebagai 
+berikut: pada waktu pembentukan gamet betina (ovum), alel-alel KK ini memisah menjadi K dan K, 
+sehingga sel gamet pada tanaman berbunga kuning hanya mengandung satu macam alel yaitu alel K 
+saja. Sebaliknya, tanaman jantan berbunga putih, bersifat homozigot resesif dan genotipnya kk. 
+Alel ini memisah menjadi k dan k pada waktu pembentukan gamet jantan atau serbuk sari, sehingga 
+gamet-gamet jantan tanaman putih hanya memiliki satu macam alel k. Dalam persilangan, terjadilah 
+peleburan gamet jantan (k) dan gamet betina (K), membentuk individu bersifat heterozigot, dengan 
+genotip Kk (fenotip kuning). Pada persilangan ke-2 (P2), yaitu persilangan bebas antara genotip 
+Kk dengan Kk, juga dimulai dengan segregasi alel K dan k, baik pada individu jantan maupun 
+betina. Segregasi Kk menghasilkan dua macam gamet, yaitu gamet yang mengandung alel K dan gamet 
+yang mengandung alel k. Karena induk betina mempunyai 2 macam gamet (K dan k), maka terjadilah 
+penyilangan antara keempat macam gamet di atas, yaitu K dengan K membentuk KK (fenotip kuning, 
+homozigot dominan), K dengan k membentuk Kk (fenotip kuning, heterozigot), k dengan K membentuk 
+Kk (fenotip kuning, heterozigot), dan k dengan k membentuk kk (fenotip putih, homozigot 
+resesif).</p>
+
+<p>Monohibrida pada Hewan. Persilangan monohibrida pada hewan dapat dipelajari pada persilangan 
+antara marmot dengan rambut normal (hitam) dan marmot dengan rambut albino. Dari hasil 
+persilangan monohibrida sebelumnya, perbandingan fenotip antara marmot rambut hitam dengan albino 
+adalah (1 AA: 2 Aa: 1 aa) atau 3 hitam : 1 albino.</p>
+
+<p>Monohibrida pada Manusia. Hasil persilangan pada manusia dapat menghasilkan sifat-sifat berupa 
+jenis kelamin dan adanya kelainan atau cacat menurun (akan kalian pelajari pada sub bab 
+berikutnya). Kelainan albino dapat juga dialami oleh manusia. Seperti halnya pada marmot, 
+persilangan antara manusia berambut hitam dengan manusia berambut albino juga menghasilkan 
+perbandingan keturunan 3 (hitam) : 1 (albino).</p>
+
+<p>Hukum Mendel II (Hukum Asortasi). Selain hanya mempunyai satu sifat beda, individu dapat 
+mempunyai sifat beda lebih dari satu. Persilangan 2 individu yang mempunyai 2 sifat beda (dengan 
+dua alel yang berbeda) disebut dengan persilangan dihibrida. Misalnya: bentuk biji kacang kapri 
+(bulat dan keriput), warna (kuning dan hijau), atau ukuran batang (tinggi dan pendek). Hukum 
+Mendel II dikenal sebagai Hukum Asortasi, hukum berpasangan atau penggabungan secara bebas (The 
+Law of Independent Assortment of Genes). Hukum ini menyatakan bahwa setiap gen atau sifat 
+berpasangan secara bebas dengan gen atau sifat lain.</p>
+
+<p>Pada persilangan antara tanaman kapri berbiji bulat warna kuning homozigot (BBKK) dengan kapri 
+berbiji keriput warna hijau (bbkk), akan menghasilkan 16 kombinasi genotip keturunan sebanyak 
+100% tanaman berbiji bulat dan berwarna kuning. Selanjutnya, apabila tanaman F1 tersebut 
+disilangkan sesamanya ( sama-sama F1 ), ternyata pada keturunan kedua (F2), hasilnya : 9/16 bulat 
+kuning, 3/16 bulat keriput, 3/16 keriput kuning, dan 1/16 keriput hijau atau rasio 
+F2 = 9 : 3 : 3 : 1.</p>
+
+<p>Macam Gamet dan Macam Fenotip dari Persilangan. Di dalam contoh persilangan monohibrida, dapat 
+diketahui bahwa gamet yang terbentuk pada F1 ada dua macam dan fenotip yang terbentuk pada F2 ada 
+dua macam. Sementara pada perbandingan dihibrida, dapat diketahui bahwa gamet yang terbentuk pada 
+F1 ada empat macam dan fenotip yang terbentuk juga empat macam, dengan perbandingan 9 : 3 : 3 : 1.</p>
+
+<p>Persilangan Resiprok. Sebagaimana telah kalian ketahui, dalam persilangan tumbuhan diperlukan 
+gamet jantan (serbuk sari) dan gamet betina (putik). Dalam persilangan antara ercis berbuah hijau 
+dengan ercis berbuah kuning misalnya, serbuk sari diambil dari ercis berbuah hijau kemudian 
+diserbukkan pada putik tanaman ercis berbuah kuning. Semua keturunan F1nya berbuah hijau. 
+Keturunan F2nya menghasilkan ercis berbuah hijau dan kuning dengan perbandingan 3:1. Demikian 
+halnya jika serbuk sari diambil dari tanaman ercis berbuah kuning dan diserbukkan pada putik 
+ercis berbuah hijau, hasil yang diperoleh baik pada F1 maupun F2-nya tetap sama. Persilangan yang 
+merupakan kebalikan dari persilangan sebelumnya inilah yang disebut persilangan resiprok. Oleh 
+karena itu, baik tanaman yang berfungsi sebagai gamet jantan maupun sebagai gamet betina, 
+mempunyai kesempatan yang sama di dalam pewarisan sifat. Berarti, Hukum Mendel I dan II tidak 
+dipengaruhi oleh asal dari gamet jantan maupun betinanya.</p>
+
+<p>Back Cross (Persilangan Balik) dan Test Cross (Uji Silang). Berikutnya akan kalian pelajari 
+perbedaan antara back cross dan test cross. Back cross merupakan persilangan antara keturunan 
+F1 yang heterozigot dengan induknya (baik jantan atau betina) yang homozigot dominan. Pada contoh 
+di atas, diketahui bahwa dua individu yang mempunyai genotip yang berbeda dapat mempunyai fenotip 
+yang sama.</p>
+
+<p>Kemudian, bagaimana dengan test cross, simaklah uraian berikut. Test cross adalah persilangan 
+antara hibrid (individu F1) dengan salah satu induk homozigot resesif. Individu F1 tidak atau 
+belum diketahui genotipnya. Oleh karena itu, uji silang ini bertujuan untuk menguji 
+ketidakmurnian individu dengan mengetahui perbandingan fenotip keturunannya. Dengan demikian, 
+dapat diketahui individu yang diuji adalah heterozigot atau homozigot (galur murni).</p>
+
+<p>Sifat Intermedier. Seperti yang telah kalian ketahui sebelumnya bahwa persilangan satu sifat beda 
+(misalnya, buah bulat dengan buah keriput) menghasilkan fenotip individu anakannya seperti sifat 
+induknya (bulat atau keriput saja). Dengan kata lain, tidak dihasilkan individu dengan fenotip di 
+luar fenotip induknya (tidak dihasilkan fenotip buah kotak ataupun lonjong). Lain halnya pada 
+tanaman bunga pukul empat, pada persilangan antara tanaman bunga pukul empat (Mirabilis jalapa) 
+berwarna merah dengan bunga berwarna putih, dihasilkan individu keturunan dengan bunga berwarna 
+merah jambu. Warna merah jambu merupakan warna antara merah dan putih yang disebabkan oleh 
+ekspresi dari alel penentu warna merah dengan ekspresi dari alel warna putih. Oleh karena itu, 
+kedua alel penentu sifat beda tersebut dikatakan mempunyai kekuatan yang sama dalam memengaruhi 
+munculnya sifat. Sifat antara yang diturunkan dari sifat induk pertama dengan sifat induk ke-2 
+inilah yang disebut sebagai sifat intermedier.</p>
+
+<p>Penyimpangan Semu Hukum Mendel. Sebagaimana yang telah kalian pelajari bahwa persilangan 
+monohibrida menghasilkan perbandingan individu keturunan 3 : 1 atau 1 : 2 : 1, dan persilangan 
+dihibrida menghasilkan individu keturunan 9 : 3 : 3 : 1. Dalam prakteknya, hasil persilangan 
+Mendel dapat menghasilkan perbandingan individu yang tidak tepat. Pada persilangan dihibrida, 
+dapat dihasilkan perbandingan yang merupakan variasi dari perbandingan 9 : 3 : 3 : 1 yaitu 
+12 : 3 : 1; 9 ; 7 atau 15 : 1. Meskipun demikian, perbandingan tersebut tetap mengikuti aturan 
+Hukum Mendel. Oleh karena itu, hasil perbandingan tersebut dikatakan sebagai penyimpangan semu 
+Hukum Mendel.</p>
+
+<p>Penyimpangan tersebut terjadi karena adanya beberapa gen yang saling memengaruhi dalam 
+menghasilkan fenotip. Meskipun demikian, perbandingan fenotip tersebut masih mengikuti 
+prinsip-prinsip Hukum Mendel. Penyimpangan semu Hukum Mendel tersebut meliputi interaksi gen, 
+kriptomeri, polimeri, epistasis-hipostasis, gen-gen komplementer, gen dominan rangkap dan gen 
+penghambat.</p>
+
+<p>Interaksi gen (Interaksi beberapa pasangan gen). Penelitian tentang adanya interaksi gen ini 
+ditemukan oleh William Bateson (1861-1926) dan R C Punnet. Pada interaksi gen ini, suatu sifat 
+tidak ditentukan oleh satu gen tunggal pada autosom tetapi alel-alel dari gen yang berbeda dapat 
+berinteraksi atau saling memengaruhi dalam memunculkan sifat fenotip. Misalnya, pada ayam 
+dijumpai empat macam bentuk pial (jengger), antara lain: jengger berbentuk ercis atau biji (pea) 
+dengan genotip rrP-; jengger dengan belah atau tunggal (single) dengan genotip rrpp, jengger 
+berbentuk mawar atau gerigi (rose) dengan genotip Rpp, dan jengger berbentuk sumpel (walnut), 
+dengan genotip R-P-. Pada persilangan ayam berpial rose (mawar) dengan ayam berpial pea (biji), 
+semua keturunan F1nya berpial walnut (sumpel).</p>
+
+<p>Dari persilangan ayam berpial rose dan pea, dihasilkan fenotip baru yaitu walnut atau sumpel. Apa 
+yang menyebabkan terbentuknya pial walnut?. Pial walnut muncul karena interaksi 2 pasang alel 
+(gen) yang dominan. Sementara itu, persilangan antara sesama ayam berpial walnut dihasilkan 4 
+macam pial yaitu walnut, rose, pea, dan 1 pial yang baru yaitu single dengan perbandingan 
+9 : 3 : 3 : 1. Pial tunggal terjadi karena adanya 2 pasang alel (gen) yang resesif.</p>
+
+<p>Kriptomeri. Kriptos (Yunani) berarti tersembunyi, sehingga kriptomeri dikatakan sebagai gen 
+dominan yang seolah-olah tersembunyi jika berdiri sendiri dan akan tampak pengaruhnya apabila 
+bersama-sama dengan gen dominan yang lainnya. Peristiwa kriptomeri ini pertama kali ditemukan 
+oleh Correns (Tahun 1912) setelah menyilangkan bunga Linaria maroccana berwarna merah (Aabb), 
+dengan bunga Linaria maroccana berwarna putih (aaBB). Keturunan F1nya adalah bunga berwarna ungu 
+(AaBb) yang berbeda dengan warna dari bunga kedua induknya (yaitu merah dan putih). Rasio fenotip 
+F2nya adalah 9 ungu: 3 merah: 4 putih.</p>
+
+<p>Lantas dari manakah warna ungu tersebut timbul?. Dari hasil penelitian plasma sel, ternyata warna 
+merah disebabkan oleh adanya pigmen antosianin dalam lingkungan asam. Dalam lingkungan basa, 
+pigmen ini akan memberikan warna ungu. Jika di dalam plasma tidak terdapat pigmen antosianin, 
+baik di dalam lingkungan asam atau basa, maka akan terbentuk warna putih. Faktor A, apabila 
+mengandung pigmen antosianin dalam plasma sel dan faktor a jika tidak ada antosianin dalam plasma 
+sel. Faktor B, apabila kondisi basa dan b dalam kondisi asam. Sifat A dominan terhadap a dan 
+sifat B dominan terhadap sifat b. Oleh karena itu, tanaman yang berbunga merah disimbolkan dengan 
+Aabb atau AAbb, sedangkan tanaman yang berbunga putih disimbolkan dengan aaBB atau aabb.</p>
+
+<p>Dari penjelasan di atas, dapat dikatakan bahwa bunga merah memiliki antosianin di mana dalam 
+lingkungan plasma sel bersifat asam. Sedangkan bunga putih tidak memiliki antosianin di mana 
+lingkungan plasma sel bersifat basa.</p>
+
+<p>Polimeri. Pada uraian sebelumnya telah dijelaskan tentang kriptomeri. Selanjutnya, kalian akan 
+mempelajari tentang polimeri. Apakah perbedaan antara keduanya?. Untuk dapat menjawabnya, 
+simaklah uraian berikut.</p>
+
+<p>Polimeri atau karakter kuantitatif adalah persilangan heterozigot dengan banyak sifat beda yang 
+berdiri sendiri, tetapi memengaruhi bagian yang sama dari suatu organisme. Peristiwa polimeri 
+ditemukan oleh Lars Frederik Nelson dan Ehle, setelah melakukan percobaan dengan menyilangkan 
+gandum berbiji merah dengan gandum berbiji putih. Persilangan itu menghasilkan keturunan 
+heterozigot berwarna merah lebih muda bila dibandingkan dengan induknya yang homozigot (merah). 
+Oleh karena itu, biji merah bersifat dominan tidak sempurna terhadap warna putih. Setelah 
+generasi F1 disilangkan sesama, pada generasi F2 diperoleh perbandingan fenotip 
+3 merah : 1 putih.</p>
+
+<p>Dari hasil keturunan pada diagram di atas, banyaknya jumlah faktor M memengaruhi warna bijinya. 
+Semakin banyak faktor M yang ada, warnanya semakin tua atau semakin gelap. Kapankah peristiwa 
+polimeri dapat terjadi?. Peristiwa ini terjadi pada pewarisan, warna kulit manusia. Warna kulit 
+disebabkan oleh zat warna kulit (pigmen). Jika faktor pigmen kulit manusia dilambangkan dengan P, 
+genotip orang berkulit putih p1p1 p2p2 p3p3.</p>
+
+<p>Apabila pria kulit putih menikah dengan wanita kulit hitam (negro), maka keturunan F1 akan 
+mempunyai kulit mulad (coklat sawo matang), yang berfenotip P1p1P2p2P3p3. Derajat kehitaman kulit 
+bergantung pada banyaknya faktor pigmen P.</p>
+
+<p>Epistasis-hipostasis. Kalian tentunya masih ingat tentang istilah epikotil (epi = di atas) dan 
+hipokotil (hipo = di bawah) bukan?. Istilah tersebut dapat dianalogkan dengan epistasis dan 
+hipostasis. Dalam hal ini, epistasis adalah sebuah atau sepasang gen yang menutupi atau 
+mengalahkan ekspresi gen lain yang tidak selokus (sealel). Bagaimana dengan Hipostasis?. 
+Hipostasis adalah gen yang tertutupi oleh sebuah atau sepasang gen lain yang tidak selokus (yang 
+bukan alelnya).</p>
+
+<p>Epistasis dibedakan menjadi tiga, yaitu epistasis dominan, epistasis resesif, dan epistasis 
+dominan resesif. Nah, agar kalian lebih memahami perbedaannya, perhatikanlah contoh berikut.</p>
+
+<p>Epistasis Dominan. Epistasis dominan terjadi pada persilangan umbi lapis bawang berwarna merah 
+dengan umbi berwarna kuning. Gen A menyebabkan umbi berwarna merah dan gen B menyebabkan umbi 
+berwarna kuning.</p>
+
+<p>Jika dilihat, hasil perbandingan fenotip F2 tersebut adalah 12 merah : 3 kuning : 1 putih. Angka 
+perbandingan tersebut merupakan variasi atau modifikasi dari perbandingan dihibrida 9:3:3:1. 
+Berdasarkan hasil yang diperoleh tersebut, dapat disimpulkan bahwa epistasis dominan terjadi bila 
+sebuah gen dominan mengalahkan pengaruh gen lain yang bukan alelnya. Rumusnya adalah gen A 
+bersifat epistasis terhadap gen B dan b. Oleh karena itu, meskipun dalam genotip terdapat gen B 
+atau b, gen A tetap menutup ekspresi dari gen B dan b.</p>
+
+<p>Epistasis Resesif. Peristiwa ini terjadi jika gen resesif mengalahkan pengaruh gen dominan dan 
+resesif yang bukan alelnya. Rumusnya adalah gen aa epistasis terhadap B dan b. Pada persilangan 
+antara anjing berambut emas dan anjing berambut coklat, dihasilkan keturunan F1 berambut hitam. 
+Beberapa gen yang berperan adalah gen B (menentukan warna hitam), gen b (menentukan warna 
+coklat), gen E (menentukan keluarnya warna), dan gen e (menghambat keluarnya warna).</p>
+
+<p>Dari hasil penyilangan tersebut menunjukkan perbandingan fenotip 9 hitam: 4 emas: 3 coklat. Oleh 
+karena itu, rumus epistasis resesif adalah aa epistasis terhadap B dan b. Dalam contoh ini, aa 
+adalah ee (menghambat keluarnya warna).</p>
+
+<p>Epistasis dominan resesif. Epistasis dominan resesif merupakan peristiwa suatu gen menghambat 
+ekspresi fenotip yang disebabkan oleh gen mutan yang bukan alelnya. Gen mutan tersebut bersifat 
+menghambat, sehingga disebut gen penghalang atau inhibitor atau gen suspensor. Epistasis dominan 
+resesif terjadi pada persilangan lalat buah (Drossophila melanogaster). Gen P menentukan warna 
+mata merah, gen p menentukan warna mata ungu, gen S merupakan gen nonsuspensor, dan s merupakan 
+gen suspensor.</p>
+
+<p>Perbandingan fenotipnya adalah 13 merah: 3 ungu. Rumus epistasis dominan resesif adalah A 
+epistasis terhadap B dan b serta bb epistasis terhadap A dan a.</p>
+
+<p>Gen-gen komplementer. Berikutnya akan kalian bahas tentang gen-gen komplementer. Apakah yang 
+dimaksud dengan istilah tersebut?. Nah, bacalah dengan cermat penjelasan berikut. Gen-gen 
+komplementer merupakan interaksi antara gen-gen dominan yang berbeda, sehingga saling melengkapi. 
+Jika kedua gen tersebut terdapat bersama-sama dalam genotip, maka akan saling membantu dalam 
+menentukan fenotip. Jika salah satu gen tidak ada, maka pemunculan fenotip menjadi terhalang. 
+Agar lebih jelas, simaklah contoh berikut.</p>
+
+<p>Apabila F1 (keturunan pertama) hasil perkawinan 2 orang yang bisu tuli disilangkan dengan 
+sesamanya, maka generasi atau keturunan F2 ada yang normal dan bisu tuli. Dalam hal ini, gen T 
+dan gen B tidak akan menunjukkan sifat normal apabila kedua gen tersebut tidak terdapat 
+bersama-sama dalam satu genotip. Dengan demikian, jika hanya terdapat gen T tanpa gen B, atau 
+jika hanya terdapat gen B tanpa gen T maka akan tetap memunculkan sifat bisu tuli. Rasio fenotip 
+F2 yang dihasilkan adalah 9 Normal : 7 bisu tuli.</p>
+
+<p>Gen Dominan Rangkap. Masih ingatkah kalian dengan gen dominan?. Gen dominan rangkap merupakan dua 
+gen dominan yang memengaruhi bagian tubuh makhluk hidup yang sama. Kedua gen itu berada 
+bersama-sama dan fenotipnya merupakan gabungan dari kedua sifat gen-gen dominan tersebut.</p>
+
+<p>Pada persilangan tanaman Bursa sp yang berbuah oval dengan tanaman Bursa sp yang berbuah 
+segitiga, dihasilkan keturunan pertama (F1) yaitu tanaman Bursa sp semua berbentuk oval.</p>
+
+<p>Atavisme. Sebelum mengetahui tentang peristiwa atavisme, cobalah ingat kembali tentang interaksi 
+gen pada pial ayam. Pial walnut dihasilkan dari persilangan ayam berpial rose dan pea. Pial pea 
+dikatakan menghilang dan muncul sifat di luar induknya. Setelah ayam berpial walnut disilangkan 
+sesamanya, dihasilkan 4 macam pial yaitu rose, pea, walnut, dan single. Pada peristiwa ini, pial 
+rose dan pea muncul kembali setelah menghilang pada keturunan pertama. Nah, oleh Charles Darwin, 
+peristiwa munculnya kembali sifat keturunan pada generasi berikutnya setelah sempat menghilang 
+ini disebut atavisme.</p>
+
+<p>Atavisme juga terjadi pada burung merpati (Columba livia) India. Hasil perkawinan antara sesama 
+merpati berekor seperti kipas, akan menghasilkan merpati berekor lurus. Merpati berekor seperti 
+kipas muncul kembali setelah perkawinan antara sesama merpati berekor lurus.</p>
+
+<p>Pada subbab sebelumnya, telah dipelajari tentang hereditas pada tumbuhan dan hewan serta pada 
+manusia. Pada subbab berikut, akan kalian pelajari lebih khusus lagi tentang pola-pola hereditas 
+pada manusia.</p>
+
+<p>Pola-pola Hereditas. Sebagaimana telah dijelaskan sebelumnya, peristiwa inheritansi baik pada 
+hewan, tumbuhan, maupun manusia akan mengikuti pola-pola hereditas. Kemudian, bagaimanakah sifat 
+individu baru yang akan dihasilkan tersebut?. Berikut akan kalian pelajari tentang pola-pola
+hereditas pada pewarisan sifat keturunan.</p>
+
+<p>Tautan Autosomal. Bagian kromosom yang berperan dalam peristiwa pewarisan sifat keturunan adalah 
+gen. Telah kalian pelajari bersama bahwa satu kromosom dapat mengandung ratusan bahkan ribuan gen. 
+Nah, kondisi di mana dalam satu kromosom yang sama terdapat dua atau lebih gen inilah yang 
+disebut tautan atau berangkai (linkage). Gen-gen yang berada pada kondisi tautan ini disebut 
+gen-gen berangkai. Gen-gen berangkai juga terdapat pada kromosom seks.</p>
+
+<p>Berdasarkan tempat terdapatnya, kromosom dibedakan menjadi kromosom autosom (terdapat pada 
+sel-sel tubuh diploid atau sel-sel somatis) dan kromosom seks atau gonosom (terdapat pada sel-sel
+kelamin). Oleh karena itu, tautan gen yang terjadi pada kromosom autosom disebut tautan autosomal. 
+Sementara itu, gen yang terdapat pada kromosom seks disebut tautan seks.</p>
+
+<p>Penemuan adanya tautan gen diawali oleh penelitian Morgan pada lalat buah (Drosophila sp). Lalat 
+buah dipilih sebagai objek penelitiannya karena mudah dan cepat berkembang biak, jumlah 
+kromosomnya hanya 4 pasang (8 kromosom) sehingga kromosomnya mudah diamati dan dihitung, serta 
+mudah dibedakan antara lalat jantan dan betina (lalat betina mempunyai ukuran tubuh lebih besar). 
+Morgan melakukan persilangan dihibrida pada lalat buah, yaitu antara lalat buah betina (tubuh 
+abu-abu dan sayap normal) dengan lalat buah jantan (tubuh hitam dan sayap keriput). Simbol vg+ 
+menunjukkan alel penentu warna tubuh abu-abu, vg sebagai penentu tubuh hitam, b+ penentu sayap 
+normal, dan b penentu sayap keriput. Warna tubuh hitam dan sayap keriput menunjukkan fenotip yang 
+berlawanan (tidak normal) dengan fenotip yang dimiliki oleh induk betina. Fenotip tersebut dapat 
+terjadi karena adanya perubahan gen di dalam kromosom (mutasi). Oleh karena itu, fenotip ini 
+disebut fenotip mutan. Perkawinan kedua lalat buah dengan kedua induk yang memiliki fenotip 
+saling berlawanan tersebut merupakan peristiwa test cross antara sifat dihibrida dengan resesif 
+homozigotnya. Dengan demikian, perbandingan fenotip yang akan dihasilkan adalah 1:1:1:1. Namun, 
+hasil tersebut tidak terjadi pada persilangan Morgan karena menunjukkan perbandingan jumlah 
+fenotip yang jauh berbeda (tidak proporsional). Dari hasil tersebut, Morgan mendapatkan 
+kesimpulan bahwa pewarisan warna tubuh dan bentuk sayap umumnya terjadi bersama-sama dalam 
+kombinasi yang spesifik. Hal ini disebabkan gen-gen penentu kedua sifat atau fenotip tersebut 
+terdapat pada satu kromosom yang sama sebagai peristiwa tautan gen.</p>
+
+<p>Fertilisasi antara gamet jantan dan betina akan terjadi secara acak. Pada persilangan lalat buah 
+tersebut, terbentuk individu keturunan dengan fenotip yang berbeda dengan fenotip dari kedua 
+induknya. Fenotip pada individu seperti ini disebut fenotip rekombinan (abu-abu, keriput dan 
+hitam, normal), sedangkan fenotip individu keturunan yang sama dengan yang dimiliki induk disebut 
+fenotip induk (abu-abu, normal dan hitam, keriput). Individu-individu yang dihasilkan tersebut 
+mengalami variasi genetik yang disebabkan adanya pindah silang. Peristiwa pembentukan keturunan 
+melalui kombinasi-kombinasi baru dari fenotip induknya ini disebut rekombinasi genetik.</p>
+
+<p>Pindah Silang. Berdasarkan tempat terjadinya, pindah silang dibedakan menjadi pindah silang 
+tunggal dan pindah silang ganda. Nah, agar lebih jelasnya perhatikan peristiwa pindah silang 
+berikut.</p>
+
+<p>Pindah silang tunggal. Pindah silang ini hanya terjadi pada satu tempat saja. Hasil dari pindah 
+silang ini akan membentuk 4 gamet. Gamet tersebut adalah gamet tipe parental, yaitu gamet yang 
+mempunyai gen-gen seperti induknya dan gamet tipe rekombinasi, yaitu gamet tipe baru hasil pindah 
+silang.</p>
+
+<p>Pindah silang ganda. Pindah silang ini terjadi pada 2 tempat (kiasmata). Seperti halnya pada 
+pindah silang tunggal, pindah silang ganda ini juga menghasilkan 4 kromatid dan 4 gamet. Pindah 
+silang tersebut terjadi pada individu trihibrid (dengan 3 gen berangkai). Gamet no 1 dan 4 
+merupakan gamet tipe parental, sedangkan gamet no 2 dan 3 merupakan gamet tipe rekombinasi. 
+Dengan dihasilkannya individu-individu tipe parental dan tipe rekombinasi, maka dapat dihitung 
+besarnya persentase kombinasi baru yang dihasilkan sebagai akibat terjadinya pindah silang. Nilai 
+ini disebut nilai pindah silang (NPS). Persentase nilai pindah silang tersebut menunjukkan 
+kekuatan pindah silang antara gen-gen yang tertaut.</p>
+
+<p>Tautan Seks. Jumlah kromosom pada manusia, lalat, dan hewan yang lain tentunya mempunyai 
+perbedaan. Kromosom manusia terdiri dari 23 pasang, berupa 22 pasang kromosom autosom dan 1 
+pasang kromosom kelamin atau gonosom (kromosom X dan kromosom Y). Jagung mempunyai 10 pasang 
+kromosom, sedangkan lalat buah mempunyai 8 pasang kromosom termasuk kromosom kelamin. Seperti 
+halnya tautan kromosom, peristiwa tautan seks ini dapat dipelajari juga pada lalat buah. Tautan 
+seks dibedakan menjadi tautan kromosom X dan tautan kromosom Y. Seperti apakah tautan seks 
+tersebut?. Simaklah uraian berikut ini.</p>
+
+<p>Tautan Kromosom X. Tautan kromosom X berarti kromosom X membawa gen yang dapat diturunkan pada 
+keturunannya baik jantan atau betina. Kromosom kelamin pada lalat betina sama seperti pada 
+manusia, yaitu terdiri dari 2 kromosom X ( XX), sedangkan pada lalat jantan terdiri dari 1 
+kromosom X dan 1 kromosom Y (XY). Sebelum mempelajari persilangan pada lalat buah, simbol-simbol 
+gen yang digunakan yaitu gen +, penentu warna mata merah (normal atau wild type) dan gen w, 
+penentu warna mata putih (white eye).</p>
+
+<p>Lalat buah betina mata merah homozigot dikawinkan dengan lalat jantan mata putih, ternyata F1 nya 
+berkelamin jantan dan betina masing-masing bermata merah. Setelah sesama F1 tersebut dikawinkan, 
+dihasilkan keturunan F2 sebanyak 2 lalat buah betina bermata merah dan 2 lalat buah jantan 
+masing-masing bermata merah dan putih.</p>
+
+<p>Pada persilangan ini, gen penentu warna mata hanya dibawa oleh kromosom X saja (baik kromosom 
+pada kelamin jantan atau betina). Hasil persilangan tersebut menunjukkan bahwa warna merah 
+dominan terhadap warna putih dan gen dominan (+) terangkai pada kromosom X. Beberapa contoh gen 
+yang hanya terdapat pada kromosom X adalah gen penentu warna bulu pada burung, gen penentu warna 
+rambut pada kucing, gen penentu kelainan buta warna, anodontia, dan hemofilia. Kelainan-kelainan 
+tersebut akan dibahas pada subbab Hereditas Pada Manusia.</p>
+
+<p>Tautan Kromosom Y. Seperti halnya tautan kromosom X, tautan kromosom Y berarti bahwa pada 
+kromosom Y terdapat gen yang hanya diturunkan pada keturunan laki-laki atau jantan saja. Oleh 
+karena itu, jika gen dominan terdapat pada kromosom Y, maka setiap keturunan jantan atau 
+laki-laki akan mewarisi sifat dominan tersebut. Pewarisan sifat ini disebut holandrik. Gen pada 
+kromosom Y dapat berangkai, demikian juga pada kromosom X. Beberapa contoh gen yang hanya 
+terdapat pada kromosom Y adalah gen penentu jari-jari berselaput, gen penentu tumbuhnya rambut 
+pada telinga, serta gen penentu tumbuhnya rambut panjang dan kaku pada manusia yang juga akan 
+dibahas pada subbab Hereditas Pada Manusia.</p>
+
+<p>Determinasi Seks. Telah dijelaskan sebelumnya bahwa jumlah kromosom pada tumbuhan, hewan, dan 
+manusia mempunyai perbedaan. Perbedaan ini juga terjadi pada susunan kromosom kelamin atau 
+kromosom seks pada tumbuhan, hewan, dan manusia tersebut.</p>
+
+<p>Susunan kromosom pada jenis kelamin jantan atau pria tentunya berbeda dengan jenis kelamin betina 
+atau wanita. Perbedaan ini dapat disebabkan oleh 2 faktor. Faktor yang pertama adalah faktor 
+lingkungan, di mana individu keturunan jantan maupun betina yang dihasilkan melalui fertilisasi 
+dapat dipengaruhi oleh faktor fisiologi induknya. Jika produksi dan peredaran atau kadar hormon 
+kelamin dalam tubuh tidak seimbang, maka pernyataan fenotip tentang jenis kelaminnya dapat 
+berubah. Akibatnya, watak kelaminnya juga mengalami perubahan. Faktor kedua adalah faktor genetik. 
+Secara umum, faktor genetiklah yang paling menentukan jenis kelamin suatu individu. Komposisi 
+kromosom dapat memengaruhi perbedaan jenis kelamin.</p>
+
+<p>Pada tahun 1891, seorang biolog Jerman bernama H Henking yang sedang melakukan penelitian tentang 
+spermatogenesis, mengamati adanya struktur tertentu pada nukleus spermatozoa serangga. Henking 
+menyebut struktur tersebut sebagai "badan X" kemudian membedakan antara spermatozoa berbadan X 
+dengan spermatozoa tanpa badan X. Pembuktian hal tersebut dilakukan pada tahun 1902 oleh 
+Mc Clung. Clung tidak menemukan adanya badan X tersebut pada sel telur belalang betina. Oleh 
+karena itu, disimpulkan bahwa badan X memiliki hubungan dengan jenis kelamin. Setelah penelitian 
+dilanjutkan oleh Wilson dan Steven, dinamakanlah badan X tersebut sebagai kromosom X.</p>
+
+<p>Berikut ini akan kalian pelajari tentang tipe-tipe penentuan jenis kelamin (determinasi seks) 
+yang telah dikenal pada hewan, tumbuhan, dan manusia.</p>
+
+<p>Tipe XY. Tipe penentuan seks ini dapat dijumpai pada lalat buah, manusia, tumbuh-tumbuhan berumah 
+dua, dan pada hewan menyusui. Pada nukleus lalat buah terdapat 8 buah kromosom (4 pasang) yang 
+terdiri dari 3 pasang kromosom tubuh (autosom) dan 1 pasang kromosom seks. Kromosom seks pada 
+lalat betina mempunyai 2 kromosom X (bentuknya batang lurus), sedangkan pada lalat jantan terdiri 
+dari kromosom X dan kromosom Y (lebih pendek dari kromosom X dan salah satu ujungnya membengkok). 
+Formula kromosom lalat buah betina adalah 8,XX (3 pasang kromosom atau 6 buah autosom + 1 pasang 
+kromosom X), sedangkan lalat buah jantan adalah 8,XY (3 pasang kromosom autosom + 1 kromosom X + 
+1 kromosom Y).</p>
+
+<p>Jumlah kromosom pada manusia adalah 46 buah (23 pasang). Pada wanita, terdapat 22 pasang autosom 
+dan 1 pasang kromosom X (46,XX), sedangkan pada laki-laki terdapat 22 pasang autosom, 
+1 kromosom X, dan 1 kromosom Y (46,XY). Pada gametogenesis, dihasilkan ovum (sel telur) haploid 
+sehingga mengandung 22 autosom (11 pasang) dan 1 kromosom X. Pada spermatogenesis dihasilkan 
+spermatozoa yang mengandung 22 autosom dan 1 kromosom X serta spermatozoa yang mengandung 22 
+autosom dan 1 kromosom Y. Lalu, bagaimanakah terjadinya pembentukan jenis kelamin laki-laki atau 
+perempuan?. Hal ini dapat kalian lihat pada skema pembentukan jenis kelamin.</p>
+
+<p>Selain pada manusia dan lalat, hewan menyusui mempunyai sistem kelamin XY (jantan) dan XY 
+(betina). Demikian juga pada tumbuhan berumah dua (tumbuhan yang satu sebagai tumbuhan betina dan 
+yang satu sebagai tumbuhan jantan), misalnya salak (Salacca edulis).</p>
+
+<p>Tipe XO. Tipe XO ini dijumpai pada serangga seperti belalang (Ordo Orthoptera) dan kepik 
+(Ordo Hemiptera). Pada belalang tidak dijumpai adanya kromosom Y sehingga hanya mempunyai 
+kromosom X saja. Oleh karena itu, belalang jantan bertipe XO dan belalang betina bertipe XX 
+(mempunyai sepasang kromosom X).</p>
+
+<p>Tipe ZW. Tipe ini dijumpai pada serangga (kupu-kupu), beberapa jenis ikan dan reptil. Berbeda 
+dengan tipe seks pada manusia dan lalat buah yang homogametik (terdiri dari kromosom kelamin yang 
+sama) pada betina atau wanita, tipe seks ZW pada betina bersifat heterogametik (terdiri dari 
+kromosom kelamin yang berbeda). Agar tidak terjadi kekeliruan dengan tipe penentuan kelamin XY, 
+maka digunakan Z dan W. Oleh karena itu, yang betina mempunyai tipe ZW (atau XY) dan yang jantan 
+mempunyai tipe ZZ (atau XX).</p>
+
+<p>Tipe ZO. Tipe ZO dijumpai pada unggas seperti ayam dan itik. Unggas betina juga bersifat 
+heterogametik, yaitu hanya mempunyai satu kromosom X saja, sehingga tipenya adalah ZO atau XO. 
+Unggas jantan bersifat homogametik, sehingga tipenya adalah ZZ atau XX.</p>
+
+<p>Gen Letal. Individu baru yang dihasilkan dari perkawinan induk tidak selalu berada dalam keadaan 
+hidup. Secara genetik, hal ini dapat disebabkan oleh adanya gen letal, yaitu gen yang jika berada 
+dalam keadaan homozigotik, ia dapat menyebabkan kematian individu. Oleh karena itu, adanya gen 
+letal menyebabkan perbandingan fenotip keturunan yang dihasilkan akan menyimpang dari Hukum 
+Mendel.</p>
+
+<p>Dengan adanya gen letal, fungsi gen akan mengalami gangguan dalam menumbuhkan sifat atau fenotip. 
+Adanya gen letal ini dapat disebabkan oleh mutasi (akan dibahas pada bab berikutnya). Gen letal 
+akan berpengaruh atau dapat menyebabkan kematian saat individu masih berada dalam tahap embrio, 
+pada saat kelahiran individu, atau setelah individu berkembang dewasa.</p>
+
+<p>Lalu, gen apa sajakah yang dapat menyebabkan kematian tersebut?. Gen letal dapat dibedakan 
+menjadi 2 macam, yaitu gen dominan letal dan gen resesif.</p>
+
+<p>Gen dominan letal. Gen dominan letal adalah gen dominan yang dapat menyebabkan kematian jika 
+bersifat homozigotik. Contoh adanya gen dominan letal ini terdapat pada ayam "Creeper" (ayam 
+redep), tikus kuning, dan manusia. Jika ayam redep (ayam yang bertubuh normal, tetapi kakinya 
+pendek) heterozigotik dikawinkan dengan sesamanya, maka akan dihasilkan keturunan ayam letal, 
+ayam redep, dan ayam normal. Gen C sebagai penentu ayam redep dan gen c sebagai penentu ayam 
+normal.</p>
+
+<p>Berdasarkan Hukum Mendel, perbandingan fenotip yang diharapkan adalah 3 : 1. Dengan adanya gen 
+letal yaitu gen dominan C yang homozigotik (CC), maka terjadi penyimpangan perbandingan fenotip 
+menjadi 2 redep : 1 normal. Gen letal tersebut menyebabkan ayam mati dalam keadaan embrio.</p>
+
+<p>Pada manusia, gen dominan letal dapat menyebabkan Thalasemia, yaitu kelainan akibat rusak atau 
+pecahnya (hemolisis) eritrosit, dengan ciri-ciri: ukuran eritrosit kecil berbentuk lonjong (tidak 
+bulat bikonkaf), jumlahnya melebihi normal, dan daya ikat terhadap oksigen rendah. Thalasemia 
+dibedakan menjadi dua, yakni: Thalasemia Mayor dan Thalasemia Minor.</p>
+
+<p>Thalasemia mayor merupakan Thalasemia yang parah, sehingga menyebabkan kematian saat bayi. 
+Thalasemia mayor disebabkan gen dominan homozigot (Th Th).</p>
+
+<p>Thalasemia Minor. Pada Thalasemia minor ini, terjadi sedikit kerusakan pada eritrosit atau 
+penderita hanya mengalami anemia (kekurangan darah). Penderita biasanya masih dapat hidup, 
+meskipun mengalami anemia. Thalasemia minor disebabkan oleh gen heterozigot (Th th). Oleh karena 
+itu, orang yang normal mempunyai genotip resesif homozigot (thth).</p>
+
+<p>Gen resesif letal. Gen resesif letal adalah gen resesif yang menyebabkan kematian jika dalam 
+keadaan homozigot. Gen ini dijumpai pada tanaman jagung, yaitu gen G sebagai pembentuk klorofil 
+dan gen g yang menyebabkan tidak terbentuknya klorofil jika bersifat homozigotik.</p>
+
+<p>Pada persilangan tanaman jagung tersebut, diketahui perbandingan fenotip yang dihasilkan semula 
+adalah 75% berdaun hijau : 25% berdaun putih. Tanaman berdaun hijau dapat menjalankan proses 
+fotosintesis serta dapat menyerap zat makanan dengan akarnya. Namun, tanaman berdaun putih dengan 
+akar yang belum sempurna hanya mampu bertahan selama 14 hari saja, yaitu dengan menerima makanan 
+dari endospermnya (putih lembaga). Tanaman putih tidak dapat berfotosintesis karena tidak 
+memiliki klorofil pada daunnya. Setelah 14 hari, tanaman tersebut segera mati. Oleh karena itu, 
+persilangan dua tanaman monohibrida tersebut tidak menghasilkan perbandingan fenotip 3 : 1, 
+tetapi terjadi penyimpangan yaitu menjadi 3 : 0.</p>
+
+<p>Selain pada jagung, contoh gen resesif letal antara lain: gen penyebab perlekatan paru-paru 
+sehingga bayi mati saat dilahirkan, gen penyebab bentuk tulang rawan tidak normal (salah), 
+penyebab mencit berekor pendek, lalat buah bermata bintang, dan gen penyebab kelainan darah 
+(Sicklemia).</p>
+
+<p>Sicklemia pada manusia atau sickle cell merupakan keadaan pada seseorang yang mempunyai eritrosit 
+berbentuk bulan sabit. Hal ini menyebabkan terganggunya peredaran darah. Gen penyebab sicklemia 
+adalah gen resesif homozigot yang bersifat letal (ss). Sementara itu, pada orang normal dapat 
+mempunyai genotip SS (dominan homozigot) atau heterozigot (Ss).</p>
+
+<p>nondisjunction. Sebelum kalian mempelajari lebih lanjut tentang gagal berpisah ini, ada beberapa 
+hipotesis tentang hubungan (korelasi) pemindahan kromosom dengan gen, antara lain: pertama, pada 
+sel somatik (sel-sel tubuh) terdapat 2 kelompok kromosom yang identik (homolog), yang satu 
+berasal dari induk jantan dan satu lagi dari induk betina. Terdapatnya kromosom-kromosom dalam 
+pasangan-pasangan kromosom yang tidak identik adalah sejajar dengan terdapatnya gen-gen dalam 
+pasangan; kedua, kromosom-kromosom tetap mempunyai sifat morfologi yang sama sepanjang berbagai 
+pembelahan sel. Demikian pula gen-gen akan menunjukkan kontinuitas yang sama; ketiga, setiap 
+kromosom atau setiap pasang kromosom mempunyai peranan tertentu dalam kehidupan dan perkembangan 
+individu; dan keempat, selama meiosis, kromosom-kromosom homolog berpasangan dan kemudian anggota 
+dari pasangan kromosom tersebut memisah secara bebas ke sel-sel kelamin. Gen-gen juga memisah 
+secara bebas sebelum terbentuknya gamet.</p>
+
+<p>Nah, pada uraian ini, kalian akan menemukan peristiwa yang tidak mengikuti hipotesis yang 
+terakhir tersebut. Selama pembentukan individu keturunan, dapat terjadi beberapa kemungkinan 
+peristiwa yang tidak berjalan normal. Salah satu dari peristiwa tersebut adalah peristiwa 
+gagalnya pemisahan kromosom pada saat meiosis (pembentukan gamet) dan disebut gagal berpisah atau 
+nondisjunction. Gagal berpisah dapat terjadi pada peristiwa meiosis yaitu pada anafase I atau 
+pada anafase II sehingga pasangan kromatid tidak dapat memisahkan diri. Peristiwa gagal berpisah 
+tersebut menyebabkan terjadinya perubahan jumlah kromosom pada individu keturunannya (berkurang 
+atau bertambah), baik pada kromosom seks maupun autosom.</p>
+
+<p>Hal-hal apa sajakah yang menyebabkan gagal berpisah?. Gagal berpisah tersebut kemungkinan dapat 
+disebabkan oleh beberapa hal, yaitu:
+a) Adanya virus atau kerusakan akibat radiasi. Pengaruh ini akan mudah terlihat pada wanita yang 
+telah berumur tua.
+b) Kandungan antibodi tiroid yang tinggi.
+c) Sel telur dalam saluran telur yang tidak segera dibuahi akan mengalami kemunduran. Oleh karena 
+itu, risiko melahirkan anak yang cacat akan dialami oleh wanita berumur lebih dari 25 tahun.</p>
+
+<p>Hereditas pada Manusia. Kalian telah mengetahui bersama bahwa manusia satu dengan manusia lainnya 
+di dunia ini tentunya tidak ada yang sama persis (benar-benar identik). Penyebabnya ialah adanya 
+materi genetik yang mempunyai sifat-sifat berbeda antar individu. Dalam ilmu tentang materi 
+genetik (genetika), telah banyak dipelajari tentang peristiwa penurunan sifat, baik pada tumbuhan, 
+hewan, maupun manusia. Di antara objek yang dipelajari dalam genetika tersebut, genetika manusia 
+paling lambat perkembangannya dibandingkan pada hewan dan tumbuhan. Beberapa hambatan yang 
+menyebabkan lambatnya perkembangan tersebut, antara lain: sulitnya mencari objek (manusia) untuk 
+penelitian, sulitnya mengarahkan manusia dalam mencapai tujuan atau keinginan peneliti, sulitnya 
+mengamati perkembangan sifat manusia yang mengarah pada tujuan peneliti, keturunan manusia yang 
+relatif lebih sedikit dibandingkan hewan dan tumbuhan karena umur atau siklus hidup manusia lebih 
+panjang, serta lingkungan manusia yang tidak mudah bahkan tidak dapat dikontrol.</p>
+
+<p>Setelah kalian mengetahui adanya beberapa hambatan dalam perkembangan genetika manusia, 
+bagaimanakah cara yang dilakukan untuk mengatasi hambatan tersebut?. Cara-cara untuk mengatasi 
+masalah tersebut dapat dilakukan dengan membuat peta silsilah keluarga atau keturunan (pedegree 
+chart) dan menerapkan hasil percobaan hewan pada manusia. Selain itu, dapat juga dilakukan dengan 
+mempelajari adanya fenomena-fenomena pada manusia seperti munculnya anak kembar hasil 
+perkawinan.</p>
+
+<p>Kalian tentunya mengetahui hal apa saja yang diwariskan pada manusia, bukan?. Ya, sifat-sifat 
+pada manusia yang dapat diwariskan meliputi: jenis kelamin, kelainan atau cacat menurun, dan 
+golongan darah. Selain itu, ada juga ekspresi gen-gen (genotip) yang ditentukan oleh jenis 
+kelamin. Peristiwa pembentukan jenis kelamin pada manusia telah kalian pelajari sebelumnya. Oleh 
+karena itu, pada uraian berikut akan kalian pelajari tentang tiga hal yang diwariskan pada 
+manusia.</p>
+
+<p>Kelainan atau Cacat Menurun. Pewarisan sifat pada manusia terhadap keturunannya mengikuti 
+pola-pola tertentu. Masih ingatkah kalian dengan istilah autosom dan gonosom?. Cobalah ingat 
+kembali.</p>
+
+<p>Sifat-sifat yang diturunkan pada anak-anak yang dilahirkan belum tentu sesuai dengan harapan 
+orang tua. Ada beberapa individu keturunan yang bersifat normal sebagaimana harapan orang tua 
+pada umumnya, ada pula beberapa keturunan yang mempunyai sifat yang tidak diharapkan oleh orang 
+tuanya, seperti mengalami cacat atau kelainan menurun (sindrom).</p>
+
+<p>Pewarisan sifat pada manusia dapat diturunkan melalui kromosom seks (kromosom X dan kromosom Y) 
+atau kromosom autosom. Kelainan dapat disebabkan oleh gen-gen yang terpaut pada kromosom tubuh 
+maupun gonosom. Sebelumnya, telah kalian pelajari tautan seks pada hewan atau tumbuhan. Pada 
+materi ini, kalian akan mempelajari tautan seks tersebut pada manusia.</p>
+
+<p>Kelainan oleh alel resesif dan dominan autosomal. Kelainan ini diturunkan dari kromosom sel-sel 
+diploid tubuh. Kelainan ini dapat ditentukan oleh gen dominan atau resesif pada autosom tersebut. 
+Oleh karena itu, kelainan ini dapat diturunkan pada keturunan pria atau wanita. Beberapa contoh 
+kelainan yang terpaut pada autosom manusia adalah sebagai berikut.</p>
+
+<p>Albinisma (Albino). Kelainan ini terjadi karena tubuh seseorang tidak mempunyai gen yang mampu 
+membentuk enzim untuk mengubah tirosin menjadi pigmen melanin (pembentuk warna kulit). Gen 
+tersebut adalah gen dominan A. Oleh karena itu, orang yang normal akan mempunyai genotip AA atau 
+Aa dan orang albino tidak mempunyai gen A atau mempunyai genotip aa (resesif homozigot).</p>
+
+<p>Penderita albino mempunyai ciri-ciri yaitu seluruh bagian tubuhnya tidak berpigmen. Kulit badan 
+dan matanya berwarna merah jambu karena warna darah menembus kulit. Oleh karena itu, matanya 
+sangat sensitif terhadap cahaya.</p>
+
+<p>Pada perkawinan dua orang yang normal, heterozigot dapat menghasilkan keturunan albino. Hal ini 
+disebabkan kedua orang tuanya mempunyai gen resesif yang akan bergabung membentuk gen resesif 
+homozigot (aa). Orang tua yang terlihat normal tetapi dapat menurunkan albino kepada anaknya ini 
+disebut "carrier".</p>
+
+<p>Gangguan Mental. Salah satu contoh bentuk gangguan mental adalah idiot, yang ditentukan oleh gen 
+resesif homozigot (gg) seperti pada albino. Anak idiot umumnya diturunkan dari kedua orang tua 
+yang normal heterozigot (Gg). Nah, cobalah kalian buat sendiri skema perkawinannya. Penderita ini 
+mempunyai ciri-ciri, antara lain: wajahnya menunjukkan kebodohan, reflek (daya responsnya) lambat, 
+kulit dan rambutnya kekurangan pigmen, umumnya tidak berumur panjang, steril (tidak mampu 
+menghasilkan keturunan atau mandul), dan jika urinnya ditetesi larutan fenil oksida 5% akan 
+berwarna hijau kebiruan karena terdapatnya senyawa derivat fenil ketourinarin (FKU). Senyawa ini 
+tidak ditemukan pada orang normal. Adanya senyawa FKU ini disebabkan tidak adanya enzim pengubah 
+asam amino fenilalanin menjadi tirosin.</p>
+
+<p>Brachydactily (Brakhidaktili). Brachydactily adalah keadaan seseorang yang mempunyai jari-jari 
+pendek atau tidak normal. Hal ini terjadi karena pendeknya tulang-tulang pada ujung jari dan 
+tumbuh menjadi satu. Kelainan ini disebabkan oleh gen dominan B. Orang yang normal akan mempunyai 
+genotip homozigot resesif (bb). Genotip homozigot dominan (BB) menyebabkan individu letal.</p>
+
+<p>Cystinuria (Sistinuria). Cystinuria adalah keadaan seseorang yang mempunyai kelebihan asam amino 
+sistein yang sukar larut, diekskresikan dan ditimbun menjadi batu ginjal. Kelainan ini disebabkan 
+oleh adanya gen dominan homozigot (CC).</p>
+
+<p>Polydactily (Polidaktili). Selain ada brakhidaktili, ada juga polidaktili, yaitu keadaan 
+seseorang yang mempunyai kelebihan (tambahan) jari pada tangan atau kaki. Jadi jumlah jari kaki 
+atau tangannya lebih dari lima. Polidaktili disebabkan oleh adanya gen dominan homozigot (PP). 
+Karena itu, genotip orang normal adalah Pp atau pp.</p>
+
+<p>Kelainan oleh alel resesif pada gonosom X. Alel resesif atau dominan pada kromosom X juga dapat 
+menentukan terjadinya kelainan pada individu keturunan manusia. Pada manusia, telah dikenal lebih 
+dari 150 sifat keturunan yang kemungkinan disebabkan oleh gen-gen tertaut kromosom X. Beberapa 
+kelainan, terutama akibat alel resesif pada kromosom X tersebut adalah: buta warna, anodontia, dan 
+hemofilia.
+
+Buta Warna. Buta warna dibedakan menjadi 2 tipe. Yang pertama adalah tipe protan, yaitu apabila 
+tidak dapat membedakan warna hijau karena bagian mata yang sensitif terhadap warna hijau tersebut 
+rusak. Kedua adalah tipe deutan, yaitu apabila yang rusak adalah bagian mata yang sensitif 
+terhadap warna merah. Tipe deutan ini paling sering terjadi. Buta warna disebabkan oleh gen 
+resesif c (colour blind) pada kromosom X. Gen ini tidak dijumpai pada kromosom Y. Oleh karena 
+itu, wanita dapat mempunyai genotip CC (normal homozigot), Cc (normal heterozigot), atau cc 
+(buta warna). Sementara itu, pria hanya dapat mempunyai gen C (normal) atau c (buta warna) 
+saja.</p>
+
+<p>Dari perkawinan tersebut, tampak bahwa sifat dari orang tua wanita (buta warna) akan diwariskan 
+pada keturunan pria. Sebaliknya, sifat dari orang tua pria (normal) akan diwariskan kepada 
+keturunan wanita. Pewarisan sifat yang bersilang ini merupakan ciri khas pada pewarisan gen-gen 
+tertaut kromosom X dan disebut criss-cross inheritance.</p>
+
+<p>Anodontia. Anodontia merupakan kelainan pada seseorang yang tidak mempunyai benih gigi pada 
+rahangnya, sehingga gigi tidak dapat tumbuh selamanya. Kelainan ini banyak ditemukan pada pria. 
+Menurut para ahli, penderita anodontia juga menunjukkan ciri seperti berambut jarang dan susah 
+berkeringat. Gen resesif penyebab anodontia adalah a, sehingga pewarisan sifatnya juga seperti 
+pada buta warna.</p>
+
+<p>Hemofilia. Sebelum ditemukan, penyakit hemofilia mula-mula dikenal di negara-negara Arab. Pada 
+waktu itu, seorang anak mengalami pendarahan akibat dikhitan (disunat). Sementara itu, putera 
+mahkota Alfonso dari Spanyol juga meninggal akibat pendarahan karena kecelakaan. Selanjutnya, 
+penelitian mendalam tentang hemofilia juga dilakukan pada anggota kerajaan Inggris. Ratu Victoria 
+adalah orang yang dikenal pertama kali sebagai carrier hemofilia yaitu mempunyai genotip 
+heterozigotik (Suryo, 2005). Gen penentu hemofilia adalah gen resesif h. Berbeda dengan buta 
+warna dan anodontia, genotip resesif homozigot pada hemofilia bersifat letal.</p>
+
+<p>Hemofilia merupakan suatu penyakit keturunan, dengan ciri sulitnya darah membeku saat terjadi 
+luka. Waktu yang diperlukan oleh seorang penderita hemofilia untuk pembekuan darah adalah 50 
+menit hingga 2 jam, sehingga akan menyebabkan perdarahan bahkan kematian. Sementara itu, orang 
+yang normal hanya memerlukan waktu 5-7 menit untuk pembekuan darah.</p>
+
+<p>Kelainan oleh alel resesif pada gonosom Y. Karena yang mempunyai kromosom Y hanya pria, maka 
+kelainan ini hanya dialami oleh pria saja.</p>
+
+<p>Kelainan oleh aberasi jumlah dan struktur kromosom autosom. Selain disebabkan oleh adanya gen 
+dominan atau resesif, kelainan dapat disebabkan oleh adanya aberasi atau perubahan jumlah dan 
+struktur kromosom. Aberasi kromosom serta kelainan-kelainannya akan kalian pelajari lebih lanjut 
+pada pada Bab 6 Mutasi.</p>
+
+<p>Golongan Darah. Salah satu aplikasi (manfaat) mempelajari golongan darah seseorang adalah untuk 
+transfusi darah. Oleh karena itu, dikenal istilah donor (yang memberikan darah) dan resipien 
+(yang menerima transfusi darah). Begitu pentingnya darah bagi kehidupan manusia, penelitian 
+mendalam tentang darah pun kian banyak dilakukan. Dua komponen penyusun darah adalah sel-sel 
+darah (leukosit dan eritrosit) dan cairan (plasma). Plasma sendiri, terdiri dari atas fibrinogen 
+(protein untuk pembekuan darah) dan serum.</p>
+
+<p>Penelitian mengenai penggolongan darah diawali oleh Dr Karl Landsteiner pada tahun 1901. Dari 
+hasil penelitian dalam sel darah merah (eritrosit) terdapat suatu 
+substansi asing yaitu antigen yang akan bereaksi dengan substansi pada plasma darah yaitu 
+antibodi (zat anti). Selanjutnya, penggolongan darah pada manusia ini didasarkan pada antigen 
+(aglutinogen) yang terdapat di dalam eritrosit. Pada materi ini akan dipelajari 3 sistem 
+penggolongan darah, yaitu sistem A, B, O; sistem M, N; dan sistem Rhesus.</p>
+
+<p>Sistem A,B,O. Berbeda dengan pewarisan yang telah kalian pelajari sebelumnya, pewarisan golongan 
+darah ini ditentukan oleh adanya alel ganda (beberapa alel atau seri alel yang terdapat dalam 
+satu lokus yang sama). Simbol untuk alel tersebut adalah I (berasal dari kata isoaglutinin, 
+merupakan protein pada permukaan sel eritrosit). Orang yang mampu membentuk aglutinogen A akan 
+mempunyai alel IA, yang mampu membentuk aglutinogen B mempunyai alel IB, dan yang mampu membentuk 
+aglutinogen A dan B mempunyai alel IA dan IB. Sementara itu, orang yang tidak mampu membentuk 
+aglutinogen A dan B mempunyai alel resesif i. Golongan darah ditentukan oleh adanya interaksi 
+alel-alel tersebut.</p>
+
+<p>Sistem M, N. Penggolongan sistem ini ditemukan oleh Landsteiner dan Lavine, didasarkan pada ada 
+tidaknya antigen M dan N. Jika pada penggolongan darah A, B, AB, dan O terdapat antibodi dalam 
+darah seseorang, maka pada golongan darah ini darah seseorang tidak mengandung antibodi M atau N. 
+Oleh karena itu, untuk menguji apakah seseorang mempunyai antigen M atau N atau keduanya 
+digunakan antibodi dari kucing. Dengan tidak adanya antigen M atau N dalam darah manusia, maka 
+penggolongan darah dengan sistem ini tidak berpengaruh atau tidak berperan dalam transfusi 
+darah.</p>
+
+<p>Sistem Rhesus. Penemuan sistem ini sejak tahun 1940 oleh Landsteiner dan Wiener. Berdasarkan ada 
+tidaknya faktor Rh (Rhesus) dalam eritrosit, golongan darah pada manusia dibedakan menjadi Rh+, 
+yaitu jika mempunyai antigen Rh dan golongan darah Rh -, jika tidak mempunyai antigen Rh. 
+Transfusi atau pencampuran darah dengan sistem Rh berbeda dapat menyebabkan terjadinya 
+penggumpalan akibat ketidaksesuaian Rh yang disebut incompatibilitas rhesus.</p>
+
+<p>Pada perkawinan antara pria Rh+ homozigot (IRh IRh) dengan wanita Rh- homozigot (Irh Irh), semua 
+anak yang dilahirkan akan mempunyai Rh+. Fetus dalam tubuh ibu akan menerima zat makanan atau 
+menerima pertukaran gas dan air melalui saluran penghubung yang disebut plasenta. Nah, jika 
+seorang ibu Rh- mengandung bayi Rh+ maka setelah bayi lahir, eritrosit-eritrosit bayi yang 
+mengandung antigen Rh masuk dalam aliran darah ibu. Dengan demikian, darah ibu akan membentuk 
+antibodi. Bayi pertama yang dilahirkan akan selamat.</p>
+
+<p>Pada kehamilan berikutnya tentu dihasilkan anak Rh+ lagi, bukan?. Karena ibu telah mempunyai 
+anti Rh, maka akan beraglutinasi dengan antigen Rh pada bayi yang dikandungnya. Akibatnya, 
+eritrosit bayi akan rusak dan mengalami kelebihan zat bilirubin yang akan masuk ke dalam 
+sirkulasi darah ibu. Kelebihan dan penimbunan bilirubin tersebut menyebabkan penyakit kuning, 
+ditandai dengan kulit bayi yang kuning, tubuh menggembung oleh cairan, hati dan limfa membengkak, 
+dalam darah banyak eritrosit yang belum masak (eritroblas), serta otaknya rusak. Penyakit inilah 
+yang disebut eritroblastosis fetalis. Pada umumnya, bayi penderita penyakit tersebut akan mati 
+sejak lahir atau hidup beberapa saat saja.</p>
+
+<p>Sementara itu, perkawinan antara wanita Rh- dengan pria Rh+ heterozigot masih mempunyai 
+kemungkinan menghasilkan bayi normal.</p>
+
+<p>Gen-gen yang Ekspresinya Dipengaruhi oleh Jenis Kelamin. Pewarisan sifat pada manusia dapat 
+dipengaruhi oleh jenis kelamin individu. Artinya, ekspresi gen-gen autosomal penentu sifat pada 
+keturunan tersebut dipengaruhi oleh jenis kelamin keturunan yang dihasilkan. Sifat tersebut dapat 
+tampak pada kedua seks, tetapi ekspresinya akan lebih besar pada salah satu seks tersebut. 
+Beberapa ekspresi gen tersebut antara lain: kepala botak dan jari telunjuk yang panjang.</p>
+
+<p>Kepala botak. Sebelum diketahui adanya ekspresi gen yang dipengaruhi oleh seks, semula kepala 
+botak merupakan gen terangkai kelamin. Namun, pada kenyataannya anak pria kepala botak diturunkan 
+langsung dari ayahnya (hal ini tidak akan terjadi jika gen tersebut terangkai kromosom X). 
+Demikian juga, jika gen tersebut terangkai kromosom Y maka tidak pernah diturunkan pada wanita. 
+Kenyataannya, ada pula wanita yang berkepala botak meskipun sangat jarang dijumpai.</p>
+
+<p>Jika gen B penentu kepala botak dan gen b penentu rambut normal, maka dengan adanya pengaruh 
+jenis kelamin, ekspresi gen tersebut terjadi sedemikian rupa.</p>
+
+<p>Jari telunjuk yang panjang. Pada umumnya, setiap orang mempunyai jari telunjuk yang lebih pendek 
+(normal) daripada jari manis. Gen penentu jari telunjuk pendek adalah gen T, sedangkan penentu 
+jari telunjuk panjang adalah gen t. Namun, ekspresinya dipengaruhi oleh jenis kelamin. Selain 
+mempelajari tentang pewarisan sifat, kalian juga perlu mengaplikasikannya dalam kehidupan 
+kalian.</p>
+
+<p>Upaya Menghindari Kelainan Menurun. Pada umumnya, gen yang menyebabkan kelainan menurun pada 
+manusia sulit untuk dilacak. Oleh karena itu agar pewarisan sifat tersebut dapat dilacak serta 
+dihindari, perlu dilakukan upaya melalui: eugenetika dan eutenetika.</p>
+
+<p>Eugenetika yaitu upaya perbaikan sosial yang meliputi penerapan (implementasi) hukum-hukum 
+pewarisan sifat, antara lain dengan:
+1) Menghindari perkawinan dengan keluarga dekat, karena dapat memungkinkan rekombinasi gen-gen 
+resesif yang umumnya menimbulkan ketidaknormalan.
+2) Harus memahami hukum-hukum hereditas bagi generasi muda.
+3) Tidak menikahkan orang-orang yang mengalami gangguan mental seperti idiot, imbisil, dan debil.
+4) Dilakukan pemeriksaan kesehatan dan asal-usul calon pasangan suami-istri. Akan tetapi, 
+pasangan yang sudah menikah dapat melakukan upaya untuk mengetahui lebih awal kondisi 
+kandungannya. Hal ini dapat dilakukan misalnya dengan amniosentesis. Amniosentesis merupakan cara 
+untuk mengetes kemungkinan adanya kelainan kromosom pada bayi yang masih dikandung oleh ibu. 
+Waktu yang paling baik untuk melakukan amniosentesis ini adalah pada saat usia kehamilan mencapai 
+14-16 minggu.
+5) Memelihara kesehatan fisik dan mental.
+6) Menggunakan peta silsilah. Peta silsilah dapat menunjukkan keadaan atau sifat individu dalam 
+keluarga besar (1 garis keturunan), sehingga dapat dilacak adanya individu yang mewariskan sifat 
+kepada keturunannya.</p>
+
+<p>Eutenika. Upaya eutenika dilakukan melalui pengelolaan lingkungan seperti pendidikan, peningkatan 
+gizi, perbaikan tempat tinggal, olah raga, dan rekreasi.</p>

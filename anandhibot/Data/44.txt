@@ -1,0 +1,851 @@
+<j>Sistem Regulasi pada Manusia.
+<p>Apabila kalian mendengar suara halilintar yang menggelegar disertai sambaran kilat, apa yang 
+kalian lakukan?. Mungkin kalian akan berteriak keras sambil menutup telinga. Bahkan, mungkin 
+kalian juga merasakan jantung berdegup lebih kencang. Padahal, dalam kondisi normal, kalian tidak 
+mengalami keadaan tersebut. Mengapa hal itu dapat terjadi?. Adakah sistem tertentu dalam tubuh 
+yang mengatur hal itu?. Dengan menyimak materi tentang sistem regulasi manusia, kalian akan 
+menemukan jawabannya.</p>
+
+<p>Kini kita akan mempelajari beberapa hal, yakni struktur dan fungsi sistem regulasi (seperti 
+saraf, endrokin, dan indra). Kemudian, kita juga akan mempelajari proses regulasi yang bekerja 
+sesuai rangsangan dan koordinasi secara mantap. Berikutnya, berbagai kelainan atau penyakit pada 
+sistem regulasi perlu kita ketahui pula. Dengan semua itu, kalian diharapkan mampu menjelaskan 
+keterkaitan antara struktur, fungsi, dan proses pada sistem regulasi manusia. Selain itu, kalian 
+juga diharapkan mampu mengidentifikasi berbagai gangguan pada sistem tersebut termasuk cara 
+mengatasinya.</p>
+
+<p>Sistem Saraf pada Manusia. Kita dapat merasakan makanan, memahami bacaan, melihat, dan melakukan 
+berbagai aktivitas tidak terjadi secara sendirinya. Namun, Tuhan Yang Maha Esa telah memberikan 
+mekanisme yang canggih untuk mengkoordinasi terjadinya segala aktivitas tersebut. Nah, adanya
+sistem saraf dalam tubuh menjadikan semua aktivitas yang kita lakukan berjalan dengan semestinya.</p>
+
+<p>Rasa nikmat dan lezat dari setiap makanan yang dirasakan dipengaruhi oleh adanya rangsangan pada 
+lidah. Ungkapan rasa sakit seperti mengucapkan kata "aduh" juga terkait rangsangan pada bagian 
+tertentu tubuh kita. Oleh karena itu, rangsangan (stimulus) diartikan sebagai segala sesuatu yang 
+menyebabkan perubahan pada tubuh atau bagian tubuh tertentu. Sedangkan alat tubuh yang menerima 
+rangsangan tersebut dinamakan indra (reseptor).</p>
+
+<p>Adanya reseptor, memungkinkan rangsangan dihantarkan menuju sistem saraf pusat. Di dalam saraf 
+pusat, rangsangan akan diolah untuk dikirim kembali menuju efektor, seperti otot dan tulang oleh 
+suatu sel saraf sehingga terjadi tanggapan (respons).</p>
+
+<p>Sementara itu, rangsangan yang menuju tubuh dapat berasal dari luar dan dalam tubuh. Rangsangan 
+yang berasal dari luar tubuh misalnya bau, rasa (seperti pahit, manis, asam, dan asin), sentuhan, 
+cahaya, suhu, tekanan, dan gaya berat. Rangsangan semacam ini akan diterima oleh indra penerima 
+yang disebut reseptor luar (eksteroseptor). Sedangkan rangsangan yang berasal dari dalam tubuh 
+misalnya rasa lapar, kenyang, nyeri, maupun kelelahan akan diterima oleh indra yang dinamakan 
+reseptor dalam (interoseptor). Tentu semua rangsangan ini dapat kita rasakan karena pada tubuh 
+kita terdapat sel-sel reseptor. Untuk mengenal lebih dalam, mari kita simak bahasan tentang sel 
+saraf.</p>
+
+<p>Sel Saraf (Neuron). Sistem saraf tersusun atas miliaran sel yang sangat khusus yang disebut sel 
+saraf (neuron). Setiap neuron tersusun atas badan sel, dendrit, dan akson (neurit).</p>
+
+<p>Badan sel merupakan bagian sel saraf yang mengandung nukleus (inti sel) dan tersusun pula 
+sitoplasma yang bergranuler dengan warna kelabu. Di dalamnya juga terdapat membran sel, nukleolus 
+(anak inti sel), dan retikulum endoplasma. Retikulum endoplasma tersebut memiliki struktur 
+berkelompok yang disebut badan Nissl.</p>
+
+<p>Pada badan sel terdapat bagian yang berupa serabut dengan penjuluran pendek. Bagian ini disebut 
+dendrit. Dendrit memiliki struktur yang bercabang-cabang (seperti pohon) dengan berbagai bentuk 
+dan ukuran. Fungsi dendrit adalah menerima impuls (rangsang) yang datang dari reseptor. Kemudian 
+impuls tersebut dibawa menuju ke badan sel saraf.</p>
+
+<p>Selain itu, pada badan sel juga terdapat penjuluran panjang dan kebanyakan tidak bercabang. 
+Namanya adalah akson atau neurit. Akson berperan dalam menghantarkan impuls dari badan sel menuju 
+efektor, seperti otot dan kelenjar. Walaupun diameter akson hanya beberapa mikrometer, namun 
+panjangnya bisa mencapai 1 hingga 2 meter. Supaya informasi atau impuls yang dibawa tidak bocor 
+(sebagai isolator), akson dilindungi oleh selubung lemak yang kemilau. Kita bisa menyebutnya 
+selubung mielin. Selubung mielin dikelilingi oleh sel-sel Schwan. Selubung mielin tersebut 
+dihasilkan oleh sel-sel pendukung yang disebut oligodendrosit. Sementara itu, pada akson terdapat 
+bagian yang tidak terlindungi oleh selubung mielin. Bagian ini disebut nodus Ranvier, yang 
+berfungsi memperbanyak impuls saraf atau mempercepat jalannya impuls.</p>
+
+<p>Berdasarkan struktur dan fungsinya, neuron dikelompokkan dalam tiga bagian, yaitu neuron sensorik, 
+neuron motorik, dan interneuron. Neuron sensorik merupakan neuron yang memiliki badan sel 
+bergerombol membentuk simpul saraf atau ganglion (jamak = ganglia). Dendritnya berhubungan dengan 
+neurit neuron lain, sedangkan neuritnya berkaitan dengan dendrit neuron lain. Fungsi neuron 
+sensorik yakni meneruskan impuls (rangsangan) dari reseptor menuju sistem saraf pusat (otak dan 
+sumsum tulang belakang). Oleh karena itu, neuron sensorik disebut pula neuron indra.</p>
+
+<p>Sementara itu, neuron motorik merupakan neuron yang berperan meneruskan impuls dari sistem saraf 
+pusat ke otot dan kelenjar yang akan melakukan respons tubuh. Karena perannya ini, neuron motorik 
+disebut pula neuron penggerak. Dendrit neuron motorik berhubungan dengan neurit neuron lain, 
+adapun neuritnya berkaitan dengan efektor (otot dan kelenjar).</p>
+
+<p>Antara neuron sensorik dan neuron motorik dihubungkan oleh interneuron atau neuron ajustor dengan 
+letak yang berada pada otak dan sumsum tulang belakang. Interneuron merupakan neuron yang membawa 
+impuls dari sensorik atau interneuron lain. Karena itu, interneuron disebut pula neuron konektor.</p>
+
+<p>Mekanisme Penghantaran Impuls Saraf. Seperti halnya jaringan komputer, sistem saraf mengirimkan 
+sinyal-sinyal listrik yang sangat kecil dan bolak-balik, dengan membawa informasi dari satu 
+bagian tubuh ke bagian tubuh yang lain. Sinyal listrik tersebut dinamakan impuls (rangsangan). 
+Ada dua cara yang dilakukan neuron sensorik untuk menghantarkan impuls tersebut, yakni melalui 
+membran sel atau membran plasma dan sinapsis.</p>
+
+<p>Penghantaran Impuls Saraf melalui Membran Plasma. Di dalam neuron, sebenarnya terdapat membran 
+plasma yang sifatnya semipermeabel. Membran plasma neuron tersebut berfungsi melindungi cairan 
+sitoplasma yang berada di dalamnya. Hanya ion-ion tertentu akan dapat bertranspor aktif melewati 
+membran plasma menuju membran plasma neuron lain.</p>
+
+<p>Apabila tidak terdapat rangsangan atau neuron dalam keadaan istirahat, sitoplasma di dalam 
+membran plasma bermuatan listrik negatif, sedangkan cairan di luar membran bermuatan positif. 
+Keadaan yang demikian dinamakan polarisasi atau potensial istirahat. Perbedaan muatan ini terjadi 
+karena adanya mekanisme transpor aktif yakni pompa natrium-kalium. Konsentrasi ion natrium (Na+) 
+di luar membran plasma dari suatu akson neuron lebih tinggi dibandingkan konsentrasi di dalamnya. 
+Sebaliknya, konsentrasi ion kalium (K+) di dalamnya lebih besar daripada di luar. Akibatnya, 
+mekanisme transpor aktif terjadi pada membran plasma.</p>
+
+<p>Kemudian, apabila neuron dirangsang dengan kuat, permeabilitas membran plasma terhadap ion Na+ 
+berubah meningkat. Peningkatan permeabilitas membran ini menjadikan ion Na+ berdifusi ke dalam 
+membran, sehingga muatan sitoplasma berubah menjadi positif. Fase seperti ini dinamakan 
+depolarisasi atau potensial aksi. Sementara itu, ion K+ akan segera berdifusi keluar melewati 
+membran plasma. Fase ini dinamakan repolarisasi. Perbedaan muatan pada bagian yang mengalami 
+polarisasi dan depolarisasi akan menimbulkan arus listrik.</p>
+
+<p>Nah, kondisi depolarisasi ini akan berlangsung secara terus-menerus, sehingga menyebabkan arus 
+listrik. Dengan demikian, impuls saraf akan terhantar sepanjang akson. Setelah impuls terhantar, 
+bagian yang mengalami depolarisasi akan mengalami fase istirahat kembali dan tidak ada impuls 
+yang lewat. Waktu pemulihan ini dinamakan fase refraktori atau undershoot.</p>
+
+<p>Penghantaran Impuls Saraf melalui Sinapsis. Selain melalui membran plasma, impuls juga dihantarkan 
+melalui sinapsis. Sinapsis merupakan persambungan unik yang mengendalikan komunikasi antar satu 
+neuron dengan sel-sel lain. Sinapsis dapat ditemukan antara dua neuron, antara reseptor sensorik 
+dan neuron sensoris, antara neuron motoris dan sel otot yang dikontrolnya. Selain itu, sinapsis 
+dapat ditemukan antara neuron dengan sel kelenjar.</p>
+
+<p>Struktur Sinapsis. Pada setiap neuron, terminal aksonnya membengkak membentuk suatu tonjolan 
+kecil yang disebut tombol sinapsis. Permukaan membran tombol sinapsis ini dinamakan membran 
+prasinapsis yang menghantarkan impuls dari terminal sinapsis menuju dendrit atau badan sel 
+berikutnya. Impuls tersebut akan diterima oleh permukaan membran dendrit atau badan sel yang 
+dituju. Membran yang demikian dinamakan membran pascasinapsis. Di antara kedua membran ini 
+dipisahkan oleh suatu celah yang disebut celah sinapsis.</p>
+
+<p>Di dalam tombol sinapsis terdapat suatu zat kimia yang dapat menghantarkan impuls ke neuron 
+berikutnya. Zat yang demikian dinamakan neurotransmiter. Saat menghantarkan implus, dalam 
+sitoplasma neurotransmiter dibawa oleh banyak kantung dalam sitoplasma, yang disebut vesikula 
+sinapsis. Ada berbagai macam jenis neurotransmiter, contohnya asetilkolin, dopamine, noradrenalin, 
+dan serotonin. Asetilkolin berada pada seluruh sistem saraf; sementara noradrenalin berada pada 
+sistem saraf simpatik; sementara dopamine dan serotonin terdapat pada otak. Asetilkolin dan 
+noradrenalin merupakan salah dua neurotransmiter utama yang terdapat pada mamalia.</p>
+
+<p>Mekanisme Kerja Sinapsis. Apabila impuls sampai pada tombol sinapsis, segera neuron mengirimkan 
+neurotransmiter. Selanjutnya, neurotransmiter dibawa oleh vesikula sinapsis menuju membran 
+prasinapsis. Kedatangan impuls tersebut membuat permeabilitas membran prasinapsis terhadap ion 
+Ca2+ meningkat (terjadi depolarisasi). Sehingga, ion Ca2+ masuk dan merangsang vesikula sinapsis 
+untuk menyatu dengan membran prasinapsis. Bersama kejadian tersebut, neurotransmiter dilepaskan 
+ke dalam celah sinapsis melalui eksositosis. Dari celah sinapsis, neurotransmiter ini berdifusi 
+menuju membran pascasinapsis.</p>
+
+<p>Setelah impuls dikirim, membran pasca sinapsis akan mengeluarkan enzim untuk menghidrolisis 
+neurotransmiter. Enzim tersebut misalnya enzim asetilkolineterase yang menghidrolisis 
+asetilkolin menjadi kolin dan asam etanoat. Oleh vesikula sinapsis, hasil hidrolisis (kolin dan 
+asam etanoat) akan disimpan sehingga sewaktu-waktu bisa digunakan kembali.</p>
+
+<p>Mekanisme Terjadinya Gerak Refleks. Suatu waktu tanpa disengaja kita dapat melakukan gerak yang 
+tidak disadari. Gerak yang demikian dinamakan gerak refleks.</p>
+
+<p>Bersin, batuk, menguap, menggaruk bila gatal, kaget merupakan suatu aksi yang disebut refleks. 
+Kita melakukan kegiatan tersebut tanpa melalui proses pada otak terlebih dahulu. Refleks 
+merupakan cara tubuh kita untuk menjaga dan melindungi diri dengan cepat dan aman. Gerak ini 
+terjadi pada bagian tubuh yang terlibat, sehingga bagian tubuh tersebut bergerak secara otomatis.</p>
+
+<p>Refleks sentakan lutut misalnya, merupakan respons sederhana. Satu ketukan pada lutut akan 
+menyebabkan tarikan pada tendon yang berkaitan dengan otot paha (otot kuadrisep). Akibatnya, kaki 
+bagian bawah ikut tertarik. Reseptor regangan yang merupakan reseptor sensorik menerima tarikan 
+itu. Kemudian, reseptor sensorik mengirimkan informasi ke sinapsis dengan neuron motorik pada 
+sumsum tulang belakang. Selanjutnya, neuron motorik mengirimkan impuls/ sinyal menuju otot 
+kuadrisep untuk berkontraksi. Kontraksi ini menyebabkan kaki bagian bawah tersentak ke arah 
+depan.</p>
+
+<p>Sebenarnya, sentakan lutut hanya melibatkan dua neuron, yakni neuron sensorik dan neuron motorik. 
+Namun, neuron sensorik pada kuadrisep berkomunikasi pula dengan interneuron pada sumsum tulang 
+belakang. Interneuron ini menghambat neuron motorik yang mengirimkan sinyal ke otot fleksor (otot 
+kaki yang berbeda), sehingga otot tersebut tidak berkontraksi.</p>
+
+<p>Susunan Sistem Saraf. Secara umum, sistem saraf manusia tersusun atas dua jenis, yaitu sistem 
+saraf sadar (somatik) dan sistem saraf tak sadar (otonom). Satu persatu sistem saraf tersebut 
+akan kita pelajari pada uraian berikut.</p>
+
+<p>Sistem Saraf Sadar. Di dalam tubuh ada berbagai susunan saraf yang termasuk dalam sistem saraf 
+sadar. Kita ingin makan, menulis, membaca, berjalan, berlari, bertegur sapa, dan lainnya 
+merupakan aktivitas yang melibatkan sistem saraf sadar. Semua kegiatan tersebut terjadi atas 
+kehendak kita. Secara struktural, sistem saraf sadar terbagi atas dua bagian, meliputi sistem 
+saraf pusat dan sistem saraf tepi. Simak bahasan berikut.</p>
+
+<p>Sistem Saraf Pusat. Tanpa sistem saraf pusat, kemungkinan kita menjadi makhluk yang tak berdaya 
+dan tidak bisa melakukan apapun. Sebab, di dalam sistem saraf pusat tubuh kita terdiri atas otak 
+dan sumsum tulang belakang. Dua bagian tubuh inilah yang menjadi sentral pusat koordinasi tubuh 
+kita.</p>
+
+<p>Pada manusia, otak dan sumsum tulang belakang dilindungi oleh suatu tulang. Tulang yang melindungi 
+otak adalah tulang tengkorak, sedangkan sumsum tulang belakang dilindungi oleh ruas-ruas tulang 
+belakang. Kedua organ penting ini juga dilindungi oleh suatu lapisan pembungkus yang tersusun 
+dari jaringan pengikat. Lapisan ini disebut meninges.</p>
+
+<p>Meninges terbagi menjadi tiga lapisan, meliputi lapisan dalam disebut piameter; lapisan tengah 
+disebut arachnoid; dan lapisan dalam disebut durameter. Di antara piameter dan arachnoid terdapat 
+ruangan yang berisi cairan, disebut ruang sub-arachnoid. Cairannya dinamakan cairan serebrospinal. 
+Fungsi cairan ini adalah sebagai bantalan yang meredam guncangan saat terjadi benturan pada otak 
+dan sumsum tulang belakang. Di dalam otak dapat terjadi benturan misalnya antara otak dengan 
+tulang kepala. Sedangkan pada sumsum tulang belakang, benturan yang terjadi antara sumsum tulang 
+belakang dengan tulang belakang.</p>
+
+<p>Otak. Otak merupakan benda lengket yang lunak, berminyak, dan kenyal. Jutaan saraf 
+menghubungkannya dengan seluruh tubuh, saraf tersebut membawa pesan baik menuju otak atau dari 
+otak. Beratnya sekitar 1,6 kg pada laki-laki dan 1,45 kg pada perempuan. Perbedaan ini terjadi 
+semata-mata karena bentuk otak laki-laki yang lebih besar dan berat. Sementara, berat ini tidak 
+terkait dengan kecerdasan seseorang. Namun, banyaknya jumlah hubungan sel dalam otaklah yang 
+menunjukkan kecerdasan.</p>
+
+<p>Otak manusia terdiri atas dua belahan (hemisfer) yang besar, yakni belahan kiri dan belahan kanan. 
+Oleh karena terjadi pindah silang pada tali spinal, belahan otak kiri mengendalikan sistem bagian 
+kanan tubuh, sebaliknya belahan kanan mengendalikan sistem bagian kiri tubuh. Tali spinal (sumsum 
+tulang belakang) merupakan tali putih kemilau yang berasal dari dasar otak hingga tulang belakang. 
+Saat masih embrio, otak manusia terdapat tiga bagian yaitu otak depan, otak tengah, dan otak 
+belakang. Setelah dewasa, otak depannya terbagi menjadi telensefalon dan diensefalon. Sementara, 
+otak belakangnya terbagi menjadi metensefalon dan mielensefalon. Bagian dorsal metensefalon 
+membentuk serebelum, sedangkan mielensefalon menjadi medula oblongata.</p>
+
+<p>Antara bagian tengah sumsum tulang belakang dan otak terdapat saluran yang saling berhubungan, 
+yang disebut ventrikel. Ventrikel membagi otak menjadi empat ruangan. Di dalam ventrikel, 
+terdapat cairan serebrospinal yang dapat bertukar bahan dengan darah dari pembuluh kapiler pada 
+otak.</p>
+
+<p>Otak depan (Prosensefalon). Pada bagian depan otak manusia terdapat bagian yang paling menonjol 
+disebut otak besar atau serebrum (cerebrum). Serebrum ini terbagi menjadi belahan (hemisfer) 
+serebrum kanan dan kiri. Permukaan luar serebrum (korteks serebrum) berwarna abu-abu karena 
+mengandung banyak badan sel saraf. Selain itu, pada bagian dalam (medula) otak depan terdapat 
+lapisan yang berwarna putih, karena mengandung dendrit dan akson.</p>
+
+<p>Korteks serebrum berkaitan dengan sinyal saraf ke dan dari berbagai bagian tubuh. Karenanya, pada 
+korteks serebrum terdapat area sensorik yang menerima impuls dari reseptor pada indra. Di samping 
+itu, bagian tersebut terdapat juga area motorik yang mengirimkan perintah pada efektor. Selain 
+itu, terdapat terdapat area asosiasi yang menghubungkan area motorik dan sensorik serta berperan 
+dalam berbagai aktivitas misalnya berpikir, menyimpan ingatan, dan membuat keputusan.</p>
+
+<p>Otak depan manusia terbagi atas empat lobus (bagian), meliputi lobus frontalis (bagian depan), 
+lobus temporalis (bagian samping), lobus oksipitalis (bagian belakang), dan lobus parietalis 
+(bagian antara depan-belakang). Pada bagian kepala manusia, lobus frontalis berada pada bagian
+dahi; lobus temporalis berada pada bagian pelipis; lobus oksipitalis berada pada bagian belakang 
+kepala; dan lobus parietalis berada pada bagian ubun-ubun.</p>
+
+<p>Lobus-lobus ini memiliki fungsi yang beragam. Lobus frontalis berfungsi sebagai pusat berpikir; 
+lobus temporalis sebagai pusat pendengaran dan berbahasa; lobus oksipitalis sebagai pusat 
+penglihatan; dan lobus parietalis sebagai pusat sentuhan dan gerakan.</p>
+
+<p>Otak depan juga mencakup bagian-bagian yang lain, seperti talamus, hipotalamus, kelenjar 
+pituitari, dan kelenjar pineal. Sebelum diterima area sensorik serebrum, semua rangsangan akan 
+diproses terlebih dahulu oleh talamus. Hanya rangsangan penciuman saja yang tidak diterima oleh 
+talamus tersebut. Sedangkan fungsi talamus yang lain misalnya mengatur suhu dan kandungan air 
+dalam darah, kemudian juga mengkoordinasi aktivitas yang terkait emosi.</p>
+
+<p>Hipotalamus merupakan bagian yang berfungsi mengatur suhu tubuh, selera makan, dan tingkah laku. 
+Selain itu, hipotalamus juga mengontrol kelenjar pituitari, yakni kelenjar hormon yang berperan 
+dalam mengontrol kelenjar-kelenjar hormon lainnya, seperti kelenjar tiroid, kelenjar adrenalin, 
+dan pankreas.</p>
+
+<p>Otak Tengah (Mesenfalon). Otak tengah manusia berbentuk kecil dan tidak terlalu mencolok. Di 
+dalam otak tengah terdapat bagian-bagian seperti lobus optik yang mengatur gerak bola mata dan 
+kolikulus inferior yang mengatur pendengaran. Otak tengah berfungsi menyampaikan impuls antara 
+otak depan dan otak belakang, kemudian antara otak depan dan mata.</p>
+
+<p>Otak Belakang (Rombesenfalon). Otak belakang manusia tersusun atas dua bagian utama yakni otak 
+kecil (serebelum) dan medula oblongata. Serebelum adalah bagian yang berkerut di bagian belakang 
+otak, dan terdiri atas dua belahan yang berliku-liku sangat dalam. Fungsinya adalah sebagai pusat 
+keseimbangan dalam tubuh, koordinasi motorik/ gerakan otot, dan memantau kedudukan posisi tubuh. 
+Adanya serebelum memungkinkan kita belajar gerakan yang terlatih dan saksama, seperti menulis 
+atau bermain musik tanpa berpikir.</p>
+
+<p>Di antara kedua belahan serebelum terdapat suatu bagian yang berisi serabut saraf. Bagian tersebut 
+dinamakan jembatan varol (pons varolii). Fungsinya ialah menghantarkan impuls dari bagian kiri 
+dan kanan otak kecil. Selain itu, jembatan varol juga menghubungkan korteks otak besar dengan 
+otak kecil, dan antara otak depan dengan sumsum tulang belakang.</p>
+
+<p>Sementara itu, medula oblongata (sumsum lanjutan) tampak seperti ujung bengkak pada tali spinal. 
+Letaknya di antara bagian tertentu otak dengan sumsum tulang belakang. Medula oblongata berfungsi 
+saat terjadi proses pengaturan denyut jantung, tekanan darah, gerakan pernapasan, sekresi ludah, 
+menelan, gerak peristaltik, batuk, dan bersin.</p>
+
+<p>Serebelum, jembatan varol, dan medula oblongata membentuk batang otak. Batang otak merupakan 
+bagian otak sebelah bawah yang berhubungan dengan sumsum tulang belakang. Batang otak berfungsi 
+mengontrol berbagai proses penting bagi kehidupan, seperti bernapas, denyut jantung, mencerna 
+makanan, dan membuang kotoran.</p>
+
+<p>Sumsum Tulang Belakang. Sumsum tulang belakang atau tali spinal merupakan tali putih kemilau 
+berbentuk tabung dari dasar otak menuju ke tulang belakang. Pada irisan melintangnya, tampak ada 
+dua bagian, yakni bagian luar yang berpenampakan putih dan bagian dalam yang berpenampakan 
+abu-abu dengan berbentuk kupu-kupu. Bagian luar sumsum tulang belakang berwarna putih, karena 
+tersusun oleh akson dan dendrit yang berselubung mielin. Sedangkan bagian dalamnya berwarna 
+abu-abu, tersusun oleh badan sel yang tak berselubung mielin dari interneuron dan neuron motorik.</p>
+
+<p>Apabila sumsum tulang belakang diiris secara vertikal, bagian dalam berwarna abu-abu terdapat 
+saluran tengah yang disebut ventrikel dan berisi cairan serebrospinal. Ventrikel ini berhubungan 
+juga dengan ventrikel di dalam otak. Bagian dalamnya mempunyai dua akar saraf yaitu akar dorsal 
+yang berisi saraf sensorik ke arah punggung, dan akar ventral yang berisi saraf motorik ke arah 
+perut.</p>
+
+<p>Sumsum tulang belakang memiliki fungsi penting dalam tubuh. Fungsi tersebut antara lain 
+menghubungkan impuls dari saraf sensorik ke otak dan sebaliknya, menghubungkan impuls dari otak 
+ke saraf motorik; memungkinkan menjadi jalur terpendek pada gerak refleks.</p>
+
+<p>Mekanisme penghantaran impuls yang terjadi pada tulang belakang yakni sebagai berikut; rangsangan 
+dari reseptor dibawa oleh neuron sensorik menuju sumsum tulang belakang melalui akar dorsal untuk 
+diolah dan ditanggapi. Selanjutnya, impuls dibawa neuron motorik melalui akar ventral ke efektor 
+untuk direspons.</p>
+
+<p>Sistem Saraf Tepi. Sistem saraf tepi dinamakan pula sistem saraf perifer. Sistem saraf tepi 
+merupakan bagian dari sistem saraf tubuh yang meneruskan rangsangan (impuls) menuju dan dari 
+sistem saraf pusat. Karena itu, di dalamnya terdapat serabut saraf sensorik (saraf aferen) dan 
+serabut saraf motorik (saraf eferen). Serabut saraf sensorik adalah sekumpulan neuron yang 
+menghantarkan impuls dari reseptor menuju sistem saraf pusat. Sedangkan serabut saraf motorik 
+berperan dalam menghantarkan impuls dari sistem saraf pusat menuju efektor (otot dan kelenjar) 
+untuk ditanggapi.</p>
+
+<p>Berdasarkan asalnya, sistem saraf tepi terbagi atas saraf kranial dan saraf spinal yang 
+masing-masing berpasangan, serta ganglia (tunggal: ganglion). Saraf kranial merupakan semua saraf 
+yang keluar dari permukaan dorsal otak. Saraf spinal ialah semua saraf yang keluar dari kedua 
+sisi tulang belakang. Masing-masing saraf ini mempunyai karakteristik fungsi dan jumlah saraf 
+yang berbeda. Sementara itu, ganglia merupakan kumpulan badan sel saraf yang membentuk 
+simpul-simpul saraf dan di luar sistem saraf pusat.</p>
+
+<p>Saraf kranial berjumlah 12 pasang dan setiap pasangnya diidentifikasi dengan penomoran Romawi. 
+Pasangan saraf kranial terdiri atas tiga karakteristik fungsi, meliputi tiga pasang bersifat 
+sensorik yakni saraf nomor I, II, dan VIII; lima pasang bersifat motorik yakni saraf nomor III, 
+IV, VI, XI, dan XII; dan empat pasang bersifat sensorik dan motorik yakni saraf nomor V, VII, IX, 
+dan X.</p>
+
+<p>Saraf I bernama Olfaktori. Saraf ini bersifat sensorik berasal dari selaput lendir hidung dan 
+berfungsi sebagai saraf penciuman. Saraf II bernama Optik. Saraf ini bersifat Sensorik berasal dari 
+retina dan berfungsi sebagai saraf penglihatan. Saraf III bernama Okulomotor. Saraf ini bersifat 
+motorik berasal dari proprioseptor otot bola mata dan berfungsi sebagai saraf pergerakan otot mata 
+ke kanan-kiri dan kelopak mata. Saraf IV bernama Troklear. Saraf ini bersifat motorik berasal dari 
+proprioseptor otot bola mata dan berfungsi sebagai saraf pergerakan bola mata. Saraf V bernama 
+Trigeminal. Saraf ini bersifat sensorik motorik berasal dari gigi dan kulit kepala dan berfungsi 
+sebagai saraf perasa (sensorik) dan penggerak lidah (motorik). Saraf VI bernama Abdusen. Saraf ini 
+bersifat motorik berasal dari proprioseptor otot bola mata dan berfungsi sebagai saraf pergerakan 
+bola mata.</p>
+
+<p>Saraf VII bernama Fasial. Saraf ini bersifat sensorik motorik berasal dari ujung pengecap dua 
+pertiga bagian depan lidah dan berfungsi sebagai saraf pengecap (sensorik) dan pengatur mimik 
+wajah (motorik). Saraf VIII bernama Vestibulo koklea. Saraf ini bersifat sensorik berasal dari 
+saluran semisirkular, utrikulus, sakulus (keseimbangan), koklea (pendengaran) dan berfungsi 
+sebagai saraf pendengaran. Saraf IX bernama Glosofaringeal. Saraf ini bersifat sensorik motorik 
+berasal dari ujung pengecap sepertiga bagian belakang lidah, lapisan faring dan berfungsi sebagai 
+saraf pengecap (sensorik) dan penggerak faring (motorik). Saraf X bernama Vagus. Saraf ini bersifat 
+sensorik motorik berasal dari reseptor sejumlah organ dalam laring paru-paru, jantung, aorta, 
+lambung dan berfungsi sebagai saraf pengatur suara (sensorik) dan perasa (motorik). Saraf XI 
+bernama Asesori. Saraf ini bersifat motorik berasal dari proprioseptor otot leher, pundak, faring, 
+dan laring dan berfungsi sebagai saraf pergerakan leher dan pundak, pergerakan faring dan laring. 
+Saraf XII bernama Hipoglosal. Saraf ini bersifat motorik berasal dari proprioseptor dalam lidah 
+dan berfungsi sebagai saraf pergerakkan otot lidah.</p>
+
+<p>Adapun saraf spinal memiliki jumlah 31 pasang. Setiap pasang saraf spinal yang keluar dari tulang 
+belakang merupakan gabungan dari neuron sensorik dan neuron motorik. Kedua neuron ini keluar dari 
+sisi tulang belakang melalui dua akar, yakni akar dorsal dan akar ventral. Neuron sensorik membawa 
+impuls dari reseptor menuju sumsum tulang belakang melewati akar dorsal. Adapun neuron motorik 
+meneruskan impuls yang diproses dalam sumsum tulang belakang menuju efektor melewati akar 
+ventral.</p>
+
+<p>Sistem Saraf Tak Sadar. Sistem saraf tak sadar merupakan sekumpulan saraf yang mengatur aktivitas 
+yang tidak kita pikirkan terlebih dahulu. Misalnya saja, pergerakan paru-paru dan jantung. Kita 
+tidak pernah berkehendak supaya aktivitas gerakan paru-paru dan jantung terjadi dengan koordinasi 
+oleh sistem saraf pusat. Oleh karena itu, sistem saraf sadar disebut juga sistem saraf otonom. 
+Organ yang beraktivitas dan dikontrol oleh sistem saraf sadar, meliputi kelenjar keringat, otot 
+perut, pembuluh darah, dan alat-alat reproduksi.</p>
+
+<p>Menurut karakteristik kerjanya, sistem saraf sadar terbagi atas dua saraf, meliputi saraf 
+simpatik dan saraf parasimpatik. Masing-masing saraf ini dapat bekerja pada organ yang sama, 
+namun kerja yang dilakukan saling berlawanan (antagonis). Sebagai contoh, saat saraf simpatik 
+memengaruhi sebuah organ untuk meningkatkan aktivitas organ tertentu, justru saraf parasimpatik 
+malah menurunkannya. Perbedaan ini terjadi karena neurotransmiter yang dihasilkan kedua saraf 
+tersebut berbeda. Noradrenalian merupakan neurotransmiter saraf simpatik, sedangkan asetilkolin 
+ialah neurotransmiter saraf parasimpatik.</p>
+
+<p>Pada saraf simpatik dan saraf parasimpatik terdapat penghubung antara sistem saraf pusat dan 
+efektor, yang dinamakan ganglion. Ganglion saraf simpatik berada dekat sumsum tulang belakang. 
+Serabut praganglion saraf simpatik berukuran pendek, sementara serabut pasca ganglionnya berukuran 
+panjang. Sebaliknya, saraf parasimpatik memiliki serabut pra ganglion yang berukuran panjang dan 
+serabut pasca ganglion yang pendek.</p>
+
+<p>Gangguan atau Kelainan yang Terjadi pada Sistem Saraf. Ada beberapa gangguan atau kelainan sistem 
+saraf yang dapat dialami oleh manusia. Berbagai gangguan itu antara lain:
+a) Stroke, merupakan penyakit yang timbul karena pembuluh darah di otak tersumbat atau pecah 
+sehingga otak menjadi rusak. Penyebab penyumbatan ini ialah adanya penyempitan pembuluh darah 
+(arteriosklerosis). Selain itu, bisa juga karena penyumbatan oleh suatu emboli. Ciri yang tampak 
+dari penderita stroke misalnya wajah yang tak simetris.
+b) Neuritis, merupakan gangguan sistem saraf yang disebabkan tekanan, pukulan, patah tulang, dan 
+ keracunan/ kekurangan vitamin B. Adanya penyakit ini menjadikan penderita sering kesemutan.
+c) Amnesia, merupakan gangguan yang terjadi pada otak karena disebabkan goncangan batin atau 
+cidera. Ciri gangguan ini yakni hilangnya kemampuan seseorang mengenali dan mengingat kejadian 
+masa lampau dalam kurun waktu tertentu.
+d) Transeksi, merupakan gangguan pada sistem saraf terutama medula spinalis karena jatuh atau 
+tertembak. Akibat yang timbul yakni penderita akan kehilangan segala rasa (mati rasa).
+e) Parkinson, merupakan penyakit yang terjadi karena kekurangan neurotransmiter dopamine pada 
+dasar ganglion. Secara fisik, penderita ini memiliki ciri tangan gemetaran saat istirahat, gerak 
+susah, mata sulit berkedip, dan otot kaku sehingga salah satu cirinya adalah langkah kaki menjadi 
+kaku.
+f) Epilepsi, merupakan penyakit yang disebabkan oleh adanya luka, infeksi, tumor, atau lainnya 
+terutama pada jaringan-jaringan otak, sehingga terjadi letusan-letusan listrik (impuls) pada 
+neuron-neuron di otak.
+g) Poliomielitis, ialah penyakit yang menyerang neuron-neuron motorik sistem saraf pusat terutama 
+otak dan medula spinalis oleh infeksi virus. Penderitanya mengalami berbagai gejala seperti panas, 
+sakit kepala, kaki duduk, sakit otot, dan kelumpuhan.</p>
+
+<p>Selain sistem saraf, aktivitas tubuh manusia diatur pula oleh sistem hormon. Sistem hormon 
+tersebut akan bekerja sama dengan sistem saraf sehingga membentuk sistem koordinasi. Nah, apakah 
+sebenarnya sistem hormon itu?. Samakah dengan sistem saraf?. Simak dan pahami bahasan berikut.</p>
+
+<p>Sistem Hormon pada Manusia. Sehabis berolahraga, tenggorokan kita akan terasa kering dan kehausan. 
+Ini terjadi karena tubuh banyak mengeluarkan keringat, sehingga air dalam tubuh juga banyak yang 
+keluar. Keadaan demikian membuat tubuh segera mengeluarkan zat yang menghentikan pengeluaran 
+cairan tersebut. Zat yang dimaksud dinamakan hormon. Apabila kita minum air, segera hormon yang 
+dikeluarkan tubuh tersebut akan berhenti.</p>
+
+<p>Asal kata hormon dari bahasa Yunani yakni hormaen yang berarti menggerakkan. Hormon merupakan 
+suatu zat yang dihasilkan oleh suatu bagian dalam tubuh. Organ yang berperan dalam sekresi hormon 
+dinamakan kelenjar endokrin. Disebut demikian karena hormon yang disekresikan diedarkan ke 
+seluruh tubuh oleh darah dan tanpa melewati saluran khusus. Di pihak lain, terdapat pula kelenjar 
+eksokrin yang mengedarkan hasil sekresinya melalui saluran khusus.</p>
+
+<p>Walaupun jumlah yang diperlukan sedikit, namun keberadaan hormon dalam tubuh sangatlah penting. 
+Ini dapat diketahui dari fungsinya yang berperan antara lain dalam proses pertumbuhan dan 
+perkembangan tubuh, proses reproduksi, metabolisme zat, dan lain sebagainya. Hormon akan 
+dikeluarkan oleh kelenjar endokrin bila ada rangsangan (stimulus). Hormon tersebut akan diangkut 
+oleh darah menuju kelenjar yang sesuai. Akibatnya, bagian tubuh tertentu yang sesuai akan 
+meresponsnya. Sebagai contoh, hormon insulin disekresikan pankreas saat ada rangsangan gula darah 
+yang tinggi, hormon adrenalin disekresikan medula adrenal oleh stimulasi saraf simpatik, dan 
+lain-lain.</p>
+
+<p>Di dalam tubuh manusia ada beberapa jenis kelenjar endokrin, yakni kelenjar hipofisis, tiroid, 
+paratiroid, timus, pankreas, adrenal, ovarium, testis, dan kelenjar pencernaan. Simak dan pahami 
+uraian berikut.</p>
+
+<p>Kelenjar Hipofisis (Pituitari). Kelenjar hipofisis terletak pada dasar otak dan di bawah kendali 
+hipotalamus. Di dalam tubuh, ukurannya lebih kurang sebesar kacang ercis. Kelenjar ini seringkali 
+disebut pula sebagai master of gland, sebab hormon yang dihasilkan dapat memengaruhi fungsi 
+endokrin yang lain.</p>
+
+<p>Berdasarkan strukturnya, kelenjar hipofisis terdiri atas tiga bagian, yaitu bagian depan (lobus 
+anterior), bagian tengah (intermediet), dan bagian belakang (posterior). Bagian tengahnya hanya 
+dimiliki oleh bayi, sementara pada orang dewasa telah hilang atau tinggal sisanya saja. Oleh 
+karena itu, pada orang dewasa, kelenjar hipofisis hanya tersusun dua bagian saja yakni bagian 
+depan dan bagian belakang. Berikut dibahas dua bagian kelenjar hipofisis tersebut.</p>
+
+<p>Kelenjar Hipofisis Anterior. Kelenjar hipofisis anterior berkembang dari lipatan langit-langit 
+mulut yang tubuh ke arah otak. Lipatan tersebut akhirnya kehilangan persambungan dengan saluran 
+pencernaan. Bagian depan kelenjar hipofisis ini menghasilkan banyak hormon. Selain itu, 
+berpengaruh juga terhadap berbagai macam organ.</p>
+
+<p>Hormon-hormon yand disekresikan kelenjar hipofisis anterior adalah hormon pertumbuhan, prolaktin, 
+hormon perangsang folikel, luteinizing hormone, hormon perangsang tiroid, dan hormon 
+adrenokortikotropik. Hormon pertumbuhan (somatotrop hormone = STH) merupakan hormon dengan bentuk 
+senyawa organik berupa protein berfungsi untuk merangsang pertumbuhan tulang dan fungsi 
+metabolisme. Hormon ini diatur oleh hormon hipotalamus. Hormon prolaktin (luteotrophic hormone = 
+LTH) merupakan protein dengan bentuk senyawa protein dan berfungsi untuk merangsang kelenjar susu 
+mengekskresikan susu. Hormon ini diatur oleh hormon hipotalamus. Hormon perangsang folikel 
+(follicle stimulating hormone = FSH) merupakan hormon dengan bentuk senyawa organik berupa 
+glikoprotein dan berfungsi untuk merangsang pertumbuhan dan pematangan folikel pada ovarium dan 
+memulai pembentukan sperma pada testis. Hormon ini diatur oleh hormon hipotalamus.</p>
+
+<p>Hormon luteinizing hormone (LH) merupakan hormon dengan bentuk senyawa glikoprotein. Hormon ini 
+menyebabkan folikel yang sudah matang pecah, sehingga ovum keluar (ovulasi) dan merangsang sekresi 
+testosteron dari testis. Hormon ini diatur oleh hormon hipotalamus. Hormon perangsang tiroid atau 
+hormon theotrop (Thyroid stimulating hormone = TSH) merupakan hormon dengan bentuk senyawa 
+glikoprotein dan berfungsi untuk merangsang sekresi kelenjar tiroid. Hormon ini diatur oleh 
+tiroksin dalam darah dan hormon hipotalamus. Hormon adrenokortikotropik (adrenocorticotrophic 
+hormone) merupakan hormon dengan bentuk senyawa peptida. Hormon ini berfungsi untuk merangsang dan 
+mengendalikan sekresi kelenjar korteks adrenal. Hormon ini diatur oleh glukokortikoid dan hormon 
+hipotalamus.</p>
+
+<p>Di dalam tubuh, berbagai hormon yang disekresikan kelenjar hipofisis anterior ini hanya digunakan 
+dengan jumlah tertentu saja. Apabila terlalu berlebihan atau justru kekurangan dapat memberikan 
+dampak yang tidak baik bagi tubuh. Misalnya saja, kelebihan hormon somatotrof (hormon pertumbuhan) 
+dapat menyebabkan pertumbuhan raksasa (gigantisme). Selanjutnya, bila kelebihan tersebut terjadi 
+pada waktu dewasa dapat menyebabkan pertumbuhan yang tidak seimbang (akromegali), seperti tulang 
+muka, jari-jari tangan, dan kaki yang membesar. Sebaliknya, bila sekresi hormon pertumbuhan 
+kurang, akibatnya adalah pertumbuhan terhambat atau kekerdilan (kretinisme).</p>
+
+<p>Kelenjar Hipofisis Posterior. Kelenjar hipofisis posterior merupakan hasil dari perluasan otak. 
+Tepatnya berasal dari perkembangan tonjolan hipotalamus ke arah bawah, ke arah lipatan mulut yang 
+membentuk bagian anterior hipofisis. Hormon yang dihasilkan kelenjar ini ada tiga, yakni 
+vasopresin (antidiuretic hormone = ADH), pretesin, dan oksitosin. Vasopresin dan pretesin 
+berfungsi mengurangi jumlah air yang hilang dari ginjal saat keluar sebagai urine. Selain itu, 
+kedua hormon tersebut berfungsi menaikkan tekanan darah dengan mengecilkan arteriol. Sementara, 
+oksitosin berperan dalam membantu proses kelahiran dengan kontraksi uterus. Oksitosin juga 
+membantu sekresi susu dari payudara ibu.</p>
+
+<p>Kelenjar Tiroid (Kelenjar Gondok). Kelenjar tiroid merupakan kelenjar yang terletak pada leher, 
+tepatnya pada laring. Kelenjar ini terdiri atas dua lobus yakni sebelah kanan dan kiri laring. 
+Beratnya sekitar 25 g dan kaya akan darah. Hormon terpenting yang disekresikan kelenjar tiroid 
+adalah tiroksin. Hormon tiroksin terbentuk dari asam amino yang mengandung yodium. Bagi tubuh, 
+hormon ini berpengaruh dalam proses metabolisme sel. Selain itu, hormon tersebut juga memengaruhi 
+pertumbuhan, perkembangan, dan diferensiasi jaringan tubuh.</p>
+
+<p>Beberapa penyakit manusia ada yang disebabkan oleh kelenjar tiroid. Kondisi kelebihan hormon 
+tiroid (hipertiroid) dapat menimbulkan gejala hipermetabolisme (morbus basedowi), dengan 
+tanda-tanda meningkatnya detak jantung sehingga muncul gugup, napas cepat dan tidak teratur, 
+mulut menganga, dan mata melebar. Sementara itu, apabila seseorang sebelum dewasa kekurangan 
+hormon tiroid (hipotiroid), tubuhnya dapat mengalami kretinisme (kerdil). Kretenisme ditandai
+dengan fisik dan mental penderita yang tumbuh tidak normal.</p>
+
+<p>Pada orang dewasa, kondisi hipotiroid dapat menyebabkan miksedema. Gejala penyakit ini, adalah 
+laju metabolisme rendah, berat badan bertambah, bentuk badan menjadi besar, kulit kasar, dan 
+rambut mudah rontok. Selain penyakit-penyakit tersebut, seseorang juga dapat mengalami 
+pembengkakan kelenjar tiroid karena kekurangan makanan yang mengandung yodium. Penyakit 
+pembengkakan demikian dinamakan gondok.</p>
+
+<p>Kelenjar Paratiroid (Anak Gondok). Kelenjar paratiroid terdiri atas empat struktur kecil yang 
+terdapat pada permukaan kelenjar tiroid. Hormon yang disekresikan kelenjar ini disebut 
+parathormon (PTH). Hormon parathormon berperan dalam pengaturan pemakaian ion kalsium (Ca2+) dan 
+fosfat (PO43+) pada jaringan.</p>
+
+<p>Manusia jarang mengalami hipoparathormon (kondisi kekurangan hormon parathormon). Kalaupun 
+mengalaminya, seseorang dapat kejang otot atau tetani. Sedangkan hiperparathormon (kondisi 
+kelebihan hormon parathormon) dapat menimbulkan berbagai gejala seperti tulang menjadi rapuh, 
+lemah, dan berbentuk abnormal. Selain itu, kadar ion Ca2+ yang berlebihan dalam darah dapat masuk 
+ke air seni dan mengendap bersama ion fosfat. Endapan ini dapat membentuk batu ginjal sehingga 
+menyumbat saluran air seni.</p>
+
+<p>Kelenjar Timus. Kelenjar timus merupakan kelenjar hasil penimbunan hormon somatotrof atau hormon 
+pertumbuhan. Pada orang dewasa, kelenjar ini tidak digunakan kembali.</p>
+
+<p>Kelenjar Adrenal (Anak Ginjal). Kelenjar adrenal (glandula adrenal) pada manusia berbentuk 
+sepasang struktur kecil yang terletak di ujung anterior ginjal dan kaya akan darah. Masing-masing 
+struktur kelenjar ini memiliki dua bagian, yakni bagian luar (korteks) dan bagian dalam (medula). 
+Bagian korteks kelenjar adrenal menghasilkan hormon adrenalin (epinefrin) yang berpengaruh dalam 
+penyempitan pembuluh darah sehingga tekanan darah dan denyut jantung meningkat. Hormon ini juga 
+berperan mengubah glikogen (gula otot) menjadi glukosa (gula darah). Selain itu, hormon adrenalin 
+bersama hormon insulin memengaruhi proses pengaturan kadar gula dalam darah.</p>
+
+<p>Sementara itu, bagian korteks (bagian luar) adrenal mengeluarkan hormon kortin yang tersusun atas 
+kortison dan deoksikortison. Hormon kortin dapat memudahkan perubahan protein menjadi karbohidrat, 
+kemudian juga mengatur metabolisme garam dan air. Penyakit manusia yang disebabkan oleh kurangnya 
+sekresi hormon ini adalah penyakit Addison. Gejala yang timbul pada penderita penyakit ini antara 
+lain tekanan darah rendah, kelemahan otot, gangguan pencernaan, peningkatan retensi kalium dalam 
+cairan tubuh dan sel, kulit kecoklatan, dan nafsu makan hilang. Penderitanya dapat diobati dengan 
+pemberian hormon kortin melalui mulut atau intramuskular.</p>
+
+<p>Kelenjar Pankreas. Kelenjar pankreas dinamakan juga kelenjar Langerhans atau pulau Langerhans. 
+Pulau Langerhans merupakan sekelompok kecil yang tersebar di seluruh pankreas. Sel-sel pulau 
+Langerhans tak terkait dengan saluran pembawa getah pankreas yang menuju duodenum. Namun, sel-sel 
+kelenjar ini sangat kaya akan pembuluh darah.</p>
+
+<p>Sekresi yang dihasilkan dari kelenjar Langerhans yakni hormon insulin, sebuah hormon berbentuk 
+protein yang ditemukan oleh Dr Frederick Banting pada tahun 1922. Hormon insulin berperan saat 
+proses pengubahan gula darah (glukosa) menjadi gula otot (glikogen) di dalam hati. Sehingga, oleh 
+hormon tersebut, kadar gula darah menjadi turun. Kekurangan hormon insulin pada seseorang dapat 
+menyebabkan penyakit diabetes melitus atau penyakit kencing manis. Gejala penyakit kencing manis 
+ditandai dengan tingginya glukosa dalam darah yang tinggi. Glukosa yang ada dalam tubuh penderita 
+tidak diubah menjadi glikogen dan lemak, justru sebaliknya glikogen dan lemak yang diubah menjadi 
+glukosa. Selain hormon insulin, kelenjar Langerhans juga memproduksi hormon guklagon. Hormon 
+guklagon hormon yang berperan dalam mengubah glikogen menjadi glukosa.</p>
+
+<p>Kelenjar Kelamin. Kelenjar kelamin disebut pula dengan gonad. Meskipun fungsi utamanya adalah 
+memproduksi sel-sel kelamin, namun kelenjar kelamin juga memproduksi hormon. Kelenjar kelamin 
+laki-laki terdapat pada testis, sementara kelenjar kelamin perempuan berada pada ovarium. Di 
+dalam testis terdapat sel Leydig yang menghasilkan hormon testosteron atau androgen. Hormon 
+testosteron sangat berpengaruh terhadap proses spermatogenesis (proses pembentukan sperma) dan 
+pertumbuhan sekunder pada laki-laki. Pertumbuhan sekunder pada anak laki-laki ditandai dengan 
+suara menjadi besar, bahu dan dada bertambah bidang, dan tumbuh rambut pada bagian tubuh tertentu 
+misalnya kumis, janggut, cambang, ketiak, dan sekitar kemaluan.</p>
+
+<p>Sementara itu, hormon estrogen dan progesteron disekresikan oleh ovarium. Estrogen dihasilkan 
+oleh folikel de Graff dan dirangsang oleh hormon FSH. Hormon estrogen berfungsi saat pembentukan 
+kelamin sekunder wanita, seperti bahu mulai berisi, tumbuhnya payudara, pinggul menjadi lebar, 
+dan rambut mulai tumbuh di ketiak dan kemaluan. Di samping itu, hormon estrogen juga membantu 
+dalam pembentukan lapisan endometrium. Bagi wanita, hormon progesteron berfungsi menjaga 
+penebalan endometrium, menghambat produksi hormon FSH, dan memperlancar produksi laktogen (susu). 
+Hormon ini dihasilkan oleh korpus luteum dan dirangsang oleh LH.</p>
+
+<p>Kelenjar Pencernaan. Kelenjar pencernaan merupakan kelenjar yang terdapat pada saluran pencernaan. 
+Misalnya saja kelenjar pada lambung dan usus. Pada lambung, kelenjar mensekresikan hormon gastrin, 
+yaitu hormon yang berperan dalam sekresi getah lambung. Sementara hormon sekretin dan hormon 
+kolsistokinin disekresikan oleh kelenjar pada usus. Masing-masing fungsi hormon ini adalah 
+merangsang sekresi getah pankreas dan getah empedu.</p>
+
+<p>Selain sistem saraf dan sistem hormon, pada tubuh manusia terdapat pula sistem indra. Sistem 
+indra koordinasi dengan sistem saraf pada manusia untuk melakukan tugasnya. Apakah yang dimaksud 
+sistem indra pada bahasan ini?. Simak dan ikuti uraiannya pada subbab berikut.</p>
+
+<p>Sistem Indra pada Manusia. Sistem indra merupakan salah satu bagian penting yang dimiliki tubuh 
+kita. Tanpa sistem ini, kita tidak dapat menikmati atau merasakan berbagai rangsangan yang datang 
+dari luar.</p>
+
+<p>Kita bisa melihat, mendengar, merasakan, menyentuh, mencium bau, karena adanya rangsangan dari 
+luar yang diterima oleh reseptor pada tubuh. Reseptor yang demikian dinamakan eksoreseptor. Kita 
+sering menyebutnya dengan istilah alat indra. Tuhan Yang Maha Esa telah menganugerahkan kepada 
+makhluk-Nya terutama manusia salah satu karunia yakni alat indra. Sewajarnya kita patut 
+mensyukuri dengan nikmat yang diberikan-Nya ini.</p>
+
+<p>Alat indra yang dimiliki manusia ada 5 macam, meliputi indra penglihat, peraba dan perasa, 
+pencium, dan pengecap. Untuk mengetahui lebih lanjut, simak dan pahami bahasan berikut.</p>
+
+<p>Indra Penglihat. Pemandangan yang indah, acara televisi yang menarik, gambar yang berwarna warni, 
+dapat kita nikmati karena adanya indra penglihatan yaitu mata. Mata merupakan salah satu organ 
+tubuh yang strukturnya begitu kompleks. Organ ini memiliki reseptor khusus yang menangkap cahaya 
+dari luar. Reseptor ini dinamakan fotoreseptor. Pada bagian luar mata manusia terdapat bagian yang 
+berfungsi sebagai penjaga dan pelindung dalam aktivitas sehari-hari. Bagian yang dimaksud, 
+meliputi alis mata, kelopak mata, dan bulu mata yang bertugas sebagai pelindung mata dari keringat 
+atau debu. Pada mata juga terdapat kelenjar air mata yang berfungsi menghasilkan air mata 
+berenzim lisozim.</p>
+
+<p>Setiap mata yang kita miliki merupakan sebuah bola dengan diameter 2,5 sentimeter. Secara 
+struktural, ada beberapa lapisan yang menyusunnya, yakni lapisan luar, lapisan tengah, dan 
+lapisan dalam. Lapisan luar bola mata manusia tersusun atas jaringan ikat berwarna putih, keras 
+dan serat berlapis yang dinamakan sklera. Bila dilihat dari depan, sklera tampak sebagai mata 
+putih. Sklera membentuk rentetan lapisan pelindung pada bola mata dan membentang menjadi kornea 
+transparan pada bagian depannya. Oleh karena transparan, kornea dapat melewatkan cahaya ke dalam 
+mata dan berperan sebagai lensa tetap. Adanya kornea menyebabkan cahaya dari luar berbelok.</p>
+
+<p>Sementara pada lapisan tengahnya, bola mata manusia tersusun oleh lapisan koroid. Di dalam lapisan 
+ini terdapat pembuluh kapiler darah yang menyuplai makanan pada mata. Pigmennya amat tipis dan 
+berwarna hitam. Fungsi lapisan koroid yakni menjaga pembelokan cahaya. Di depan koroid, terdapat 
+bagian yang berbentuk donat dan berwarna, yang disebut iris. Bagian tengah iris memiliki sebuah 
+lubang sebagai tempat masuknya cahaya yang disebut pupil. Jumlah cahaya yang masuk ke dalam pupil 
+dapat diatur dengan mengubah ukuran iris.</p>
+
+<p>Di belakang iris terdapat lensa mata. Lensa mata melekat pada otot-otot bersilia dan ditahan oleh 
+ligamen suspensori. Adanya otot-otot bersilia menjadikan lensa mampu berubah bentuk baik rata 
+ataupun hampir bulat. Kemampuan mata demikian disebut akomodasi. Selain itu, lensa mata membagi 
+mata menjadi dua rongga, yakni aqueous humor dan vitreous humor. Aqueous humor merupakan rongga 
+mata berisi cairan bening yang berada pada bagian depan lensa. Penyumbatan pada saluran aqueous 
+humor dapat menyebabkan glukoma. Keadaan ini terjadi karena sumbatan menaikkan tekanan pada 
+retina sehingga menjadikan kebutaan. Sementara, vitreous humor merupakan bagian belakang lensa 
+yang berisi cairan transparan seperti jeli.</p>
+
+<p>Pada bagian belakang mata, tepatnya bagian dalam koroid mata terdapat sel-sel fotoreseptor. 
+Bagian ini disebut retina. Pada bagian luar bawah retina terdapat cakram optik (bintik buta), 
+yang menghubungkan saraf optik dengan mata. Apabila impuls dari luar jatuh pada bagian ini, 
+cahaya yang masuk tidak dapat terdeteksi. Penyebabnya adalah bintik hitam yang tidak memiliki 
+sel-sel fotoreseptor. Sesuai bentuknya, di dalam retina terdapat dua sel fotoreseptor yang peka 
+terhadap cahaya, yakni sel batang (basilus) dan sel kerucut (konus).</p>
+
+<p>Sel batang berjumlah 125 juta, berbentuk tinggi dan ramping. Sel ini mendeteksi bayangan cahaya 
+dan bekerja dengan baik dalam cahaya remang (malam hari). Namun, sel batang tidak mampu melihat 
+warna. Dengan kata lain, hanya warna hitam putih yang diterima. Di dalam sel batang terdapat peka 
+cahaya yang disebut rhodopsin. Rhodopsin merupakan senyawa yang terbentuk dari vitamin A dan 
+mudah terurai bila terkena sinar terang. Setelah sinar terang berganti dengan sinar gelap, pigmen 
+rhodopsin akan terbentuk kembali. Proses pembentukan pigmen rhodopsin ini dinamakan waktu adaptasi 
+rhodopsin. Apabila kekurangan pigmen ini, seseorang dapat mengalami rabun senja. Adapun sejumlah 
+6,5 juta sel kerucut berbentuk lebih pendek dan lebar. Selain itu, sel kerucut mengumpul di 
+bagian belakang, tepatnya bintik kuning atau fovea. Fovea berfungsi sebagai tempat jatuhnya 
+bayangan pada retina.</p>
+
+<p>Sel kerucut yang banyak ini mampu melihat warna dan rincian halus dalam cahaya terang. Pigmen 
+yang terdapat dalam sel kerucut adalah iodopsin. Iodopsin merupakan senyawa antara pigmen 
+penyerap cahaya yakni retinin dan protein membran turunan vitamin A yang disebut opsin. Sel 
+kerucut peka terhadap rangsang warna merah, biru, dan hijau. Akibatnya, kita dapat melihat 
+seluruh spektrum warna dari ungu hingga merah atau kombinasi dari ketiga warna (merah, biru, dan 
+hijau) tersebut.</p>
+
+<p>Sel kerucut dapat rusak, sehingga sehingga seseorang yang mengalaminya tidak bisa membedakan 
+warna suatu benda atau buta warna, baik warna merah, biru, ataupun kuning. Sebagai contoh, 
+penderita dikromat dan monokromat. Pada penderita dikromat, sel kerucut yang dimiliki hanya dua. 
+Sehingga, warna yang dilihatnya tidak sempurna, bisa dua warna atau kombinasinya. Penderita 
+semacam ini dinamakan penderita buta warna sebagian. Sementara pada penderita monokromatik, tidak 
+ada satupun di antara ketiga warna tersebut yang dapat dilihat, hanya hitam, putih atau kelabu 
+saja yang dapat dilihat. Orang yang mengalaminya disebut penderita buta total.</p>
+
+<p>Adanya pantulan cahaya benda menjadikan mata kita dapat melihat. Cahaya yang masuk ke mata akan 
+diteruskan menuju kornea dan melewati aqueous humor. Oleh iris, cahaya yang melewati pupil diatur 
+jumlah intensitasnya. Kemudian, cahaya diteruskan menuju lensa dan diubah bentuknya sehingga 
+fokus pada retina. Sebelum menuju retina, terlebih dahulu cahaya melewati vitreous humor. 
+Bayangan yang terbentuk pada retina adalah nyata, terbalik, dan lebih kecil dari ukuran 
+sebenarnya. Sementara, rangsangan yang dibawa cahaya akan diterima oleh sel fotoreseptor. Melalui 
+saraf optik, impuls ini dibawa menuju bagian oksipital otak. Oleh otak, bayangan diterjemahkan 
+sesuai bentuk benda yang asli, baik dari ukuran, warna, ataupun jaraknya.</p>
+
+<p>Jarak suatu benda dapat dilihat mata karena dipengaruhi kontraksi dan relaksasi otot siliaris. 
+Untuk melihat benda yang dekat, otot siliaris mata akan berkontraksi. Kontraksi otot ini 
+menjadikan lensa menebal sehingga cahaya pantulan objek menjadi fokus pada retina. Sebaliknya, 
+benda jauh dapat dilihat mata, bila otot siliaris berelaksasi. Sehingga, lensa memipih dan objek 
+fokus pada retina. Seperti organ tubuh kita yang lain, organ indra penglihatan juga dapat 
+mengalami gangguan atau kelainan.</p>
+
+<p>Mata hipermetropi atau rabun dekat, ialah kelainan mata akibat berlensa terlalu pipih atau bola 
+mata yang berukuran pendek. Pada penderita hipermetropi, bayangan benda berjarak dekat dan jatuh 
+di belakang retina, sehingga bayangan menjadi kabur. Penderitanya dibantu dengan kacamata 
+berlensa cembung atau positif.</p>
+
+<p>Mata miopi atau rabun jauh, merupakan kebalikan dari rabun dekat. Pada mata miopi, lensa bola mata 
+terlalu cembung atau ukuran bola mata terlalu panjang. Bayangan benda yang jauh, jatuh di depan 
+retina mata penderita, sehingga bayangan menjadi kabur. Kacamata yang digunakan berlensa cekung 
+atau negatif.</p>
+
+<p>Mata presbiopi, yakni mata yang kurang daya akomodasinya akibat mata tua. Baik benda berjarak 
+dekat maupun jauh, semuanya tidak dapat dilihat penderita. Umumnya, gangguan mata ini diderita 
+oleh orang yang sudah tua. Oleh karena itu, presbiopi disebut dengan rabun tua. Untuk membantu 
+penglihatan, biasanya penderita menggunakan kacamata berlensa positif dan negatif (lensa 
+rangkap).</p>
+
+<p>Mata astigmatisme, adalah kelainan yang terjadi akibat permukaan kornea mata melengkung atau 
+berlensa tidak rata. Secara bersamaan, garis tegak dan horizontal tidak dapat dilihat penderita. 
+Sehingga, cara yang digunakan agar penglihatan menjadi normal yakni dengan menggunakan kacamata 
+berlensa silindris.</p>
+
+<p>Indra Peraba dan Perasa. Permukaan meja yang kasar, permukaan kulit yang halus, rasa panas pada 
+api dapat kita rasakan karena adanya suatu indra. Indra yang berperan ialah kulit. Kulit 
+merupakan bagian tubuh yang sangat peka terhadap rangsangan. Rangsangan yang datang menuju kulit 
+akan diterima oleh suatu reseptor khusus. Rangsangan itu bisa berupa sentuhan, tekanan lemah, 
+tekanan keras, panas, dingin, rasa sakit, gerakan, maupun getaran.</p>
+
+<p>Sentuhan, tekanan lemah, getaran, dan gerakan diterima oleh reseptor khusus yang disebut 
+mekanoreseptor. Rasa sakit dapat kita rasakan karena adanya noiseptor. Sedangkan suhu panas dan 
+dingin direspons oleh termoreseptor. Termoreseptor juga berperan mengatur fungsi suhu tubuh dengan 
+cara mendeteksi suhu permukaan bagian dalam tubuh.</p>
+
+<p>Mekanoreseptor dan noiseptor terletak pada lapisan epidermis. Sementara, rangsangan yang berupa 
+panas, dingin, dan tekanan kuat direspons oleh lapisan dermis. Ada juga reseptor yang berada pada 
+otot rangka dan tendon dan disebut proprioseptor.</p>
+
+<p>Adapun saraf-saraf yang berperan merespons berbagai rangsangan dan terletak pada bagian epidermis 
+dan dermis kulit meliputi: korpuskula Pacini, merupakan ujung saraf perespon tekanan kuat; 
+korpuskula Ruffini merupakan ujung saraf sekeliling rambut sebagai penerima respons berupa rabaan; 
+korpuskula Meissner dan lempeng (diskus) Merkel, sebagai ujung saraf sentuhan dan tekanan ringan; 
+korpuskula Krause, yakni penerima respons rangsangan dingin; dan rasa nyeri yang direspons oleh 
+ujung saraf selaput.</p>
+
+<p>Berbagai saraf ini berperan sebagai saraf sensorik yang akan menghantarkan impuls menuju sistem 
+saraf pusat. Letak berbagai saraf ini juga tidak tersebar merata pada seluruh bagian kulit kita. 
+Oleh karenanya, kemungkinan bagian tubuh yang satu kemungkinan akan lebih peka terhadap rangsangan 
+tertentu dibandingkan bagian lainnya. Semisal, ujung jari kita akan lebih peka terhadap sentuhan 
+daripada kulit lutut.</p>
+
+<p>Indra Pendengar. Suara musik dan penyanyi yang merdu, suara pesawat yang bising, hingga suara 
+jangkrik yang menghiasi malam dapat kita dengarkan karena ada organ tertentu pada tubuh yang 
+berperan. Organ yang berperan yakni telinga. Gelombang suara yang merambat melalui udara dan 
+masuk ke telinga membuat suara tersebut terdengar. Di dalam telinga, gelombang suara akan diubah 
+menjadi getaran yang selanjutnya diterima oleh fonoreseptor. Berikut akan disampaikan struktur, 
+fungsi dan mekanisme penghantaran impuls pada telinga.</p>
+
+<p>Struktur Telinga. Secara struktural, telinga manusia terbagi menjadi tiga bagian, meliputi 
+telinga bagian luar, telinga bagian tengah, dan telinga bagian dalam. Telinga bagian luar terdiri 
+atas daun telinga, liang telinga, dan gendang telinga (membran timpani).</p>
+
+<p>Daun telinga berfungsi menangkap gelombang/ getaran suara supaya dapat masuk ke dalam telinga. 
+Selanjutnya, getaran suara disalurkan menuju liang telinga atau saluran auditori. Di dalam liang 
+telinga terdapat bulu-bulu halus dan kelenjar yang menghasilkan zat berasa pahit. Bulu-bulu halus 
+berperan dalam proses penyaringan debu-debu atau kotoran yang masuk ke dalam telinga. Sementara, 
+zat yang disekresikan oleh kelenjar tersebut berfungsi untuk menghalangi dan membunuh binatang 
+yang masuk menuju telinga.</p>
+
+<p>Dari liang telinga, getaran suara akan ditangkap oleh gendang telinga atau membran timpani. 
+Adanya membran timpani membuat getaran suara tersebut mengalami resonansi atau vibrasi (getaran). 
+Apabila membran timpani rusak, getaran tidak dapat diterima dengan baik. Akibatnya, suara yang 
+didengar kacau atau sama sekali tak terdengar. Setelah melewati membran timpani, selanjutnya 
+getaran suara masuk menuju telinga bagian tengah. Pada bagian tengah, telinga tersusun atas tiga 
+tulang kecil (osikula) yakni tulang martil (maleus), tulang landasan (incus), dan tulang 
+sanggurdi (stapes). Secara berurutan, getaran akan melewati ketiga tulang tersebut. Kemudian, 
+getaran masuk ke telinga bagian dalam melalui jendela oval. Oleh pembuluh Eustachius, rongga 
+telinga bagian tengah ini dihubungkan dengan rongga mulut. Pembuluh ini berperan dalam menjaga 
+keseimbangan tekanan udara antara telinga bagian luar dengan telinga bagian dalam.</p>
+
+<p>Keseimbangan tekanan udara di antara dua bagian tersebut menjadikan membran timpani terjaga 
+keutuhan atau tidak rusak. Selanjutnya, dari telinga bagian tengah, getaran akan diteruskan 
+menuju telinga bagian dalam. Pada bagian dalam, telinga manusia terdiri atas labiran tulang dan 
+labirin selaput. Labirin tulang tersusun oleh beberapa bagian, yaitu serambi (vestibulum), 
+saluran setengah lingkaran (kanal semisirkularis), dan rumah siput (koklea). Serambi dan saluran 
+setengah lingkaran berperan dalam proses keseimbangan, sedangkan koklea berperan dalam 
+pendengaran.</p>
+
+<p>Koklea terbagi menjadi dua ruangan, yakni bagian atas terdapat saluran vestibulum dan bagian 
+bawah terdapat saluran koklea. Di antara kedua saluran ini dipisahkan oleh saluran berukuran 
+kecil yang dinamakan saluran timpani. Saluran vestibulum berhubungan dengan jendela oval, 
+sementara saluran timpani terkait dengan jendela bundar yang menghubungkan telinga tengah. Di 
+dalam saluran vestibulum dan saluran timpani terisi oleh cairan yang dinamakan perilimfa, dan 
+saluran koklea terisi dengan cairan endolimfa. Selain berisi cairan, selaput dasar saluran koklea 
+(membran basiler) terdapat organ Corti yang mengandung sel-sel rambut. Adanya organ Corti 
+menjadikan getaran dapat direspons oleh saraf auditori dan selanjutnya dikirim menuju sistem 
+saraf pusat (otak) dalam bentuk impuls saraf.</p>
+
+<p>Mekanisme Pendengaran pada Telinga. Semua suara atau bunyi dari luar tubuh dapat kita dengarkan 
+karena masuk dalam bentuk gelombang suara yang melalui medium udara. Sebelum telinga kita 
+mendengar bunyi, terlebih dahulu daun telinga akan menangkap dan mengumpulkan gelombang suara. 
+Selanjutnya, gelombang suara masuk ke dalam liang telinga (saluran pendengaran) dan ditangkap 
+gendang telinga (membran timpani). Akibatnya, gelombang suara tersebut terjadi vibrasi (getaran). 
+Getaran ini akan diteruskan menuju telinga tengah melalui tiga tulang kecil (osikula) yakni 
+tulang martil (maleus), tulang landasan (inkus), dan tulang sanggurdi (stapes).</p>
+
+<p>Dari tulang sanggurdi, getaran diteruskan melalui jendela oval menuju koklea yang berisi cairan. 
+Selanjutnya, getaran diteruskan menuju jendela bundar dengan arah gerak yang berlawanan . Setelah 
+itu, getaran akan diterima oleh sel-sel rambut (fonoreseptor) di dalam organ Corti. Getaran dalam 
+cairan koklea akan menggetarkan membran basiler, dan getaran ini juga akan menyebabkan membran 
+tektorial ikut bergetar. Getaran akan diubah menjadi impuls saraf, yang selanjutnya dihantarkan 
+saraf auditori menuju otak. Otak akan memberikan tanggapan, sehingga kita dapat mendengar suara.</p>
+
+<p>Mekanisme Kesetimbangan dalam Telinga. Ketika kita berjalan di atas balok titian, mekanisme 
+kesetimbangan tubuh akan berusaha dijaga. Bagian tertentu dalam telinga turut menjaga mekanisme 
+keseimbangan dalam tubuh tersebut. Dengan demikian, selain berperan dalam pengolahan gelombang 
+suara, telinga juga berfungsi sebagai alat kesetimbangan tubuh saat melakukan gerakan dan 
+perubahan gravitasi.</p>
+
+<p>Bagian telinga yang berfungsi sebagai kesetimbangan terletak di atas koklea yakni tiga saluran 
+setengah lingkaran (saluran semisirkuler) dan serambi (vestibulum). Seperti yang telah dijelaskan 
+sedikit di depan, kedua bagian ini berisi cairan limfa. Pada bagian dasar saluran semisirkuler 
+terdapat bagian membesar yang disebut ampula. Di dalam ampula tersusun banyak sel rambut kecil 
+bersilia. Sel rambut berfungsi sebagai reseptor dan dinamakan krista. Krista terbenam dalam suatu 
+zat seperti gelatin yang disebut kupula. Apabila kepala kita melakukan gerakan menggeleng, cairan 
+perilimfa akan bergoyang dan menstimulasi sel-sel rambut untuk mengirimkan impuls saraf ke otak. 
+Bagian inilah yang berperan dalam kesetimbangan gerakan.</p>
+
+<p>Sementara itu, vestibulum berperan saat terjadi kesetimbangan gravitasi. Vestibulum tersusun atas 
+dua bagian berbentuk kantung dan berlapis sel-sel rambut dan silia. Dua bagian ini meliputi 
+sakula dan utrikula, yang di dalamnya berisi cairan endolimfa. Pada bagian dinding sakula dan 
+utrikula terdapat bagian yang tersusun dari zat kapur. Bagian yang dimaksud disebut otolit. 
+Adanya perubahan gravitasi saat kepala menunduk atau menggeleng (tubuh bergerak), dapat 
+menyebabkan otolit bergerak. Perubahan posisi otolit tersebut mengakibatkan silia melengkung, 
+sehingga menstimulasi impuls saraf untuk dikirim menuju otak. Informasi dari otak menjadikan 
+posisi kepala dapat diketahui.</p>
+
+<p>Gangguan atau Kelainan pada Indra Pendengaran. Indra pendengaran dapat mengalami gangguan atau 
+kelainan yang disebut tuli. Menurut asal penyebabnya, penyakit tuli terdiri atas dua macam yakni 
+tuli konduksi dan tuli saraf. Tuli konduksi terjadi karena gangguan saluran pendengaran seperti 
+penyumbatan oleh kotoran, pengapuran pada tulang telinga, dan pecahnya membran timpani. Sedangkan 
+tuli saraf, yakni gangguan yang terjadi karena organ Corti rusak. Orang yang mengalami tuli saraf 
+biasanya sudah lanjut usia.</p>
+
+<p>Indra Pembau. Bau parfum yang harum dan bau masakan yang nikmat dapat kita rasakan karena adanya 
+indra pembau. Organ yang berperan sebagai indra pembau ialah hidung. Hidung memiliki reseptor 
+khusus yang disebut kemoreseptor. Bagian yang berperan sebagai kemoreseptor pada hidung yakni sel 
+olfaktori yang terletak pada jaringan epitel olfaktori di langit-langit rongga hidung. Setiap 
+epitel olfaktori pada kedua rongga hidung mempunyai ukuran luas kurang lebih 250 mm2. Udara yang 
+masuk ke dalam rongga hidung tentu akan melaluinya. Di dalam sel-sel olfaktori terdapat sekumpulan 
+rambut mikro atau silia. Silia akan mendeteksi partikel-partikel pembawa bau tertentu dari udara, 
+yang melewati hidung sehingga mendarat pada silia. Partikel-partikel ini larut dalam lapisan mukus. 
+Silia berhubungan dengan sel saraf olfaktori yang membawa impuls saraf menuju otak.</p>
+
+<p>Berdasarkan strukturnya, sel reseptor pada epitel olfaktori memiliki dua jenis sel. Namun, 
+berdasarkan fungsinya, sel-sel reseptor tersebut terbagi atas tujuh macam sel. Bau-bauan yang kita 
+rasakan, sebenarnya gabungan dari berbagai macam bahan kimia kompleks. Bau-bauan primer yang 
+dapat kita rasakan misalnya bunga, kamper, peppermint, bau menusuk, dan bau tengik.</p>
+
+<p>Indra Pengecap. Kita bisa mengatakan bahwa gula berasa manis, sedangkan obat terasa pahit. 
+Kemudian, kita juga bisa mengatakan bahwa makanan itu enak atau sebaliknya. Ini dapat kita ketahui 
+karena di rongga mulut kita terdapat organ pengecap. Organ demikian disebut lidah.</p>
+
+<p>Rasa berasal dari partikel-partikel kecil dalam makanan dan minuman. Partikel kecil ini terlarut 
+dalam ludah, sehingga membentuk rangsangan kimia yang menyebar ke seluruh permukaan lidah. 
+Rangsangan direspons oleh reseptor kimia atau biasa disebut kemoreseptor. Kemoreseptor berbentuk 
+tunas pengecap atau kuncup rasa.</p>
+
+<p>Sebagian besar kuncup rasa berada pada permukaan lidah. Sementara yang lainnya, terletak pada 
+langit-langit lunak tinggi di belakang mulut. Secara struktural, kuncup rasa terletak pada epitel 
+lidah dan bersanding dengan tonjolan-tonjolan kecil yang dinamakan papila. Pada lidah, papila 
+memiliki jumlah yang amat banyak, yakni sekitar 2000 buah. Bentuk papila ada yang besar dan kecil. 
+Selain ciri tersebut, kuncup rasa tersusun atas sel pendukung dan pengecap. Pada bagian permukaan 
+sel pengecap terdapat mikrovilus yang merespons rangsangan berbagai rasa. Selanjutnya, sel pengecap 
+ini berhubungan dengan banyak sel saraf yang akan mengirimkan impuls menuju otak untuk 
+ditanggapi.</p>
+
+<p>Ada ratusan rasa yang berbeda. Namun, semuanya merupakan campuran dari empat rasa pengecap dasar, 
+yakni manis, asam, asin, dan pahit. Berbagai rasa ini dapat dikecap oleh bagian lidah yang berbeda. 
+Bagian depan lidah digunakan mengecap rasa manis; bagian samping depannya berfungsi mengecap rasa 
+asin; bagian samping belakang pada kedua sisi lidah digunakan sebagai pengecap rasa asam; dan 
+bagian pangkal lidah sebagai pengecap rasa pahit.</p>
+
+<p>Ketika kita mengunyah makanan, kemungkinan uap keluar melalui faring mulut menuju rongga hidung. 
+Uap ini akan terdeteksi oleh reseptor bau, sehingga menambah cita rasa makanan tersebut. Selain 
+bau, terdapat pula faktor yang lain sehingga makanan dapat memiliki cita rasa yakni suhu dan 
+sentuhan. Oleh karena itu, ketiga indra yaitu pengecap, pembau, dan peraba saling memiliki kaitan 
+di dalam otak.</p>

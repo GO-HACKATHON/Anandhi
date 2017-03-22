@@ -1,0 +1,597 @@
+<j>Struktur dan Fungsi Tumbuhan.
+<p>Di kelas VII, kamu telah mempelajari bahwa makhluk hidup
+tersusun atas sel. Tumbuhan juga tersusun atas sel-sel yang
+terorganisasi membentuk jaringan dan organ. Tumbuhan bersifat  
+autotrof  yaitu dapat membuat makanan sendiri melalui
+fotosintesis. Seperti halnya hewan, tumbuhan juga menanggapi
+rangsangan dari lingkungan. Salah satu bentuk aksinya yaitu
+dengan melakukan gerak. Gerak tumbuhan tentu saja berbeda
+dengan gerak pada hewan.</p>
+
+<p>Jaringan pada Tumbuhan. Apabila kamu amati, semua tumbuhan tingkat tinggi
+mempunyai alat tubuh (organ) berupa akar, batang, dan daun.
+Khusus untuk tumbuhan berbiji, juga terdapat alat tubuh
+berupa bunga dan biji sebagai alat perkembangbiakan. Semua
+bagian tumbuhan tersebut tersusun dari sel yang berasal dari
+pembelahan sel meristem. Sel-sel ini kemudian berkembang
+menjadi berbagai tipe sel. Seperti halnya pada hewan, sel-sel
+tumbuhan yang mempunyai bentuk dan fungsi yang sama
+terorganisasi menjadi jaringan.</p>
+
+<p>Jenis-Jenis Jaringan pada Tumbuhan. 
+Setiap alat tubuh tumbuhan tersusun oleh tiga jaringan
+pokok, yaitu jaringan epidermis, jaringan parenkim, dan
+jaringan pengangkut. Selain itu di beberapa bagian tumbuhan
+terdapat jaringan penguat yang berkembang dari sel-sel jaringan
+parenkim. Sesuai dengan namanya, jaringan penguat berfungsi
+untuk memperkuat struktur tumbuhan. Jaringan lainnya yang
+terdapat pada tumbuhan adalah jaringan meristem.</p>
+
+<p>Jaringan meristem terdiri dari sel-sel yang senantiasa
+membelah. Jaringan meristem terdapat di ujung batang dan
+ujung akar dan disebut meristem apikal atau meristem
+primer. Selain itu, jaringan meristem juga terdapat pada 
+ruas-ruas batang dan batang tumbuhan dikotil dan 
+Gymnospermae. Jaringan ini disebut meristem lateral atau meristem
+sekunder. Meristem lateral pada batang tumbuhan dikotil
+dan Gymnospermae terdapat pada kambium.</p>
+
+<p>Aktivitas meristem apikal menghasilkan pertumbuhan
+memanjang pada batang atau akar. Pertumbuhan yang
+dihasilkan disebut pertumbuhan primer. Sedangkan aktivitas
+meristem lateral menyebabkan bertambahnya ukuran
+diameter batang atau memanjangnya ruas-ruas batang.
+Pertumbuhan yang dihasilkan disebut pertumbuhan
+sekunder. Coba kamu ingat kembali pelajaran di bab I.</p>
+
+<p>Jaringan epidermis terdiri dari sel-sel epidermis yang tersusun
+rapat dan tanpa rongga antarsel. Biasanya hanya terdiri dari
+satu lapisan sel. Epidermis berfungsi sebagai pelindung bagi 
+jaringan-jaringan yang ada di bawahnya. Epidermis dapat
+mengalami modifikasi membentuk stomata, lentisel, rambut
+akar, dan trikoma. Pada daun tumbuhan yang hidup di darat,
+sel-sel epidermis menghasilkan kutikula yang dapat
+mencegah penguapan yang berlebihan dari sel-sel daun.</p>
+
+<p>Jaringan parenkim terdiri dari sel-sel yang telah dewasa.
+Walaupun demikian, sel-sel parenkim masih dapat
+membelah. Fungsi sel parenkim adalah sebagai penyimpan
+cadangan makanan, tempat fotosintesis, penutupan luka,
+regenerasi, dan penyusun utama berbagai alat tubuh atau
+organ tumbuhan. Jaringan parenkim terdapat di semua
+organ tumbuhan dengan bentuk dan fungsi yang beragam.</p>
+
+<p>Misalnya terdapat sebagai  empulur yang mengisi sebagian
+besar atau seluruh korteks akar dan batang, mesofil daun,
+dan bagian buah yang berdaging. Jaringan tiang atau
+parenkim palisade merupakan sel-sel parenkim yang
+terdapat di daun. Jaringan ini terdiri dari sel-sel yang
+bentuknya memanjang dan banyak mengandung klorofil.
+Jaringan bunga karang atau parenkim spons merupakan 
+sel-sel parenkim yang berada di bawah lapisan jaringan
+parenkim palisade. Selain itu, di dalam jaringan yang lain
+seperti jaringan pengangkut (xilem dan floem) juga terdapat
+sel parenkim.</p>
+
+<p>Jaringan pengangkut pada tumbuhan terdiri dari xilem dan
+floem.
+1) Xilem atau pembuluh kayu, susunan jaringannya
+kompleks, terdiri dari beberapa tipe sel. Penyusun utama
+jaringan xilem adalah trakea dan trakeid. Sel-sel ini
+berfungsi sebagai pengangkut air dan zat-zat yang terlarut
+di dalamnya dari akar menuju daun.
+2) Floem atau pembuluh tapis, pada batang dikotil terletak
+di sebelah luar xilem. Fungsinya untuk mengantarkan
+hasil fotosintesis dari daun ke seluruh bagian tubuh
+tumbuhan. Floem disebut pula pembuluh tapis karena
+terdapat sel-sel tapis yang mirip saringan.</p>
+
+<p>Jaringan penguat berfungsi untuk mendukung kokohnya
+struktur berbagai bagian tumbuhan. Jaringan penguat terdiri
+dari kolenkim dan skelerenkim.
+1) Kolenkim, sel-selnya memiliki dinding yang tipis dengan
+penebalan di sudut-sudut sel. Bentuk selnya bervariasi,
+berfungsi sebagai penyokong bagian-bagian tumbuhan.
+Misalnya terdapat pada batang, tangkai daun, dan bunga.
+2) Sklerenkim, sel-selnya mengalami penebalan di seluruh
+bagian sel. Sklerenkim dapat berasal dari kolenkim yang
+mengalami penebalan lebih lanjut. Contohnya terdapat
+pada tempurung kelapa, kulit biji, dan tangkai buah.</p>
+
+<p>Susunan Jaringan di Akar, Batang, dan Daun.
+Di awal subbab ini kamu telah mengetahui berbagai alat
+tubuh tumbuhan, yaitu akar, batang, dan daun. Bagaimanakah
+susunan jaringan di alat tubuh tumbuhan itu?. Untuk
+mengetahuinya, pelajarilah uraian berikut ini.</p>
+
+<p>Susunan Jaringan di Akar. 
+Bila sepotong akar kamu sayat secara melintang dan diamati
+dengan mikroskop, akan tampak jaringan-jaringan pokok
+yang menyusunnya, yaitu dari luar ke dalam berturut-turut
+adalah epidermis, korteks, endodermis dan silinder pusat
+(stele). Tentu saja terdapat variasi antara berbagai jenis
+tumbuhan dan antara akar muda dan akar tua.</p>
+
+<p>Sel-sel epidermis akar berdinding tipis dan berfungsi sebagai
+penyerap air. Sebagian sel epidermis mengalami modifikasi
+membentuk rambut akar yang membantu memperluas
+bidang penyerapan. Bagian korteks pada akar terdiri atas
+jaringan parenkim. Ciri-cirinya adalah terdapat ruang antarsel
+untuk transportasi gas dan penampung oksigen yang
+diperlukan dalam respirasi sel. Pada bagian stele terdapat
+berkas jaringan pengangkut yaitu xilem dan floem yang
+letaknya bergantian dan tersusun dalam lingkaran.</p>
+
+<p>Jaringan meristem terdapat di ujung akar yang diikuti dengan
+daerah pemanjangan. Di ujung akar terdapat tudung 
+akar/ kaliptra. Tudung akar terdiri dari sel-sel parenkim yang
+berdinding tipis. Fungsinya adalah sebagai pelindung
+jaringan meristem dan mengatur arah pertumbuhan akar.</p>
+
+<p>Susunan Jaringan di Batang.
+Struktur anatomi batang mirip dengan akar, yaitu tersusun
+dari jaringan epidermis, jaringan dasar (parenkim), dan
+jaringan pengangkut. Epidermis batang biasanya terdiri dari
+satu lapisan sel. Epidermis ini sering mengalami modifikasi
+menjadi trikoma dan stomata. Pada batang yang sudah
+dewasa, stomata menghilang dan digantikan dengan lentisel.</p>
+
+<p>Lentisel merupakan pori penghubung ruang antarsel dalam
+batang dengan udara lingkungan. Di sebelah dalam
+epidermis terdapat korteks. Korteks tersusun dari jaringan
+parenkim. Jaringan penguat kolenkim dan sklerenkim juga
+sering ditemukan pada korteks. Di sebelah dalam korteks
+terdapat silinder pusat/ stele yang tersusun oleh jaringan
+parenkim berbentuk jari-jari empulur.</p>
+
+<p>Batang monokotil umumnya tidak bercabang, tidak
+berkambium, dan beruas-ruas. Susunan berkas pembuluh
+angkut tersebar atau tidak teratur. Bagian luar batang
+monokotil sering ditutupi oleh epidermis yang memiliki
+stomata, misalnya pada jagung. Di bawah epidermis terdapat
+seludang sklerenkim yang membantu mengokohkan batang.</p>
+
+<p>Batang monokotil tidak mengalami tumbuh membesar
+karena tidak memiliki meristem sekunder.
+Batang tumbuhan dikotil umumnya bercabang-cabang,
+berkambium, tetapi tidak beruas-ruas. Bagian batang yang
+masih muda umumnya dilindungi oleh selapis sel epidermis.
+Di bawah epidermis terdapat jaringan penguat kolenkim dan
+sklerenkim. Pada ikatan pembuluh terdapat kambium yang
+terletak di antara xilem dan floem. Adanya kambium
+menyebabkan batang tumbuhan dikotil dapat membesar.
+Hal ini disebakan oleh aktivitas pembelahan sel dari jaringan
+meristem pada kambium.</p>
+
+<p>Susunan Jaringan di Daun. 
+Struktur anatomi daun juga terdiri dari tiga jenis jaringan,
+yaitu jaringan epidermis, jaringan dasar/ parenkim, dan
+jaringan pengangkut. Pada jaringan epidermis terdapat
+kutikula untuk mengurangi penguapan berlebihan dari 
+sel-sel daun. Pada beberapa jenis tumbuhan, selain kutikula juga
+terdapat lapisan lilin. Sebagian sel epidermis daun mengalami
+modifikasi menjadi stomata. Pada daun tumbuhan dikotil,
+letak stomata umumnya tersebar, sedangkan pada daun
+tumbuhan monokotil umumnya terletak sejajar. Stomata
+dapat ditemukan pada satu atau kedua sisi daun. Pada
+tanaman yang hidup di darat, umumnya stomata terletak di
+permukaan bawah. Sedangkan pada tanaman air, stomata
+terletak di permukaan daun sebelah atas. Tahukah kamu apa
+penyebabnya?.</p>
+
+<p>Jaringan dasar pada parenkim daun (mesofil) mempunyai
+banyak kloroplas dan terdapat ruang antarsel yang luas.
+Berdasarkan bentuknya, jaringan parenkim daun terdiri atas
+jaringan tiang (parenkim palisade) dan jaringan bunga karang
+(parenkim spons). Jaringan tiang merupakan tempat
+fotosintesis yang utama karena banyak mengandung klorofil.
+Jaringan pengangkut pada daun berkumpul di tulang daun
+atau urat daun. Jaringan pengangkut ini merupakan 
+kelanjutan berkas pengangkut pada batang dan tangkai daun.</p>
+
+<p>Fotosintesis. Tahukah kamu bagaimana tumbuhan hijau memperoleh
+nutrisi atau makanan?. Tumbuhan hijau memperoleh makanan
+dengan fotosintesis. Fotosintesis merupakan proses kimia-fisika
+dengan menggunakan energi cahaya matahari yang berlangsung
+di dalam kloroplas. Hasil fotosintesis berupa karbohidrat dan
+oksigen. Karbohidrat inilah yang menjadi nutrisi bagi tumbuhan.</p>
+
+<p>Karbohidrat digunakan sebagai sumber energi dan bahan untuk
+membuat senyawa lain yang dibutuhkan tumbuhan. Sebagian
+dari karbohidrat ini disimpan sebagai cadangan makanan. Jika
+tumbuhan dimakan hewan atau manusia, maka terjadi
+perpindahan energi dari energi matahari menjadi energi kimia
+dalam tumbuhan kemudian berpindah ke tubuh hewan atau
+manusia. Jika hewan itu dimakan hewan lain, maka akan disertai
+pula dengan perpindahan energi. Jadi sumber energi utama bagi
+kehidupan di bumi ini adalah matahari.</p>
+
+<p>Sejarah Penemuan Fotosintesis. Dalam sejarah, beberapa ahli telah melakukan penelitian yang
+berkaitan dengan fotosintesis, antara lain Ingenhousz, Engelmann, Sachs, Hill, dan Blackman.</p>
+
+<p>Ingenhousz. Pada tahun 1770, Joseph Priestley seorang ahli kimia Inggris
+memperlihatkan bahwa tumbuhan mengeluarkan suatu gas yang
+dibutuhkan dalam pembakaran. Dia mendemonstrasikan hal ini
+dengan cara membakar lilin dalam suatu wadah tertutup sampai
+api mati. Lalu ia menyimpan setangkai tumbuhan mint dalam
+ruang tertutup itu dan dapat mempertahankan nyala api sampai
+beberapa hari. Meskipun Priestley tidak tahu jenis gas apa yang
+dikeluarkan tumbuhan, tetapi apa yang dilakukannya 
+memperlihatkan bahwa tumbuhan menghasilkan oksigen ke udara.</p>
+
+<p>Pada tahun 1799, seorang dokter berkebangsaan Inggris
+bernama Jan Ingenhousz berhasil membuktikan bahwa proses
+fotosintesis menghasilkan oksigen (O2). la melakukan percobaan
+dengan tumbuhan air Hydrilla verticillata di bawah corong kaca
+bening terbalik yang dimasukkan ke dalam gelas kimia berisi
+air. Jika Hydrilla verticillata terkena cahaya matahari, maka akan
+timbul gelembung-gelembung gas yang akhirnya mengumpul
+di dasar tabung reaksi. Ternyata gas tersebut adalah oksigen.</p>
+
+<p>Beliau juga membuktikan bahwa cahaya berperan penting dalam
+proses fotosintesis dan hanya tumbuhan hijau yang dapat
+melepaskan oksigen.</p>
+
+<p>Engelmann. Pada tahun 1822 Engelmann berhasil membuktikan bahwa
+klorofil merupakan faktor yang harus ada dalam proses
+fotosintesis. Ia melakukan percobaan dengan ganggang hijau
+Spirogyra yang kloroplasnya berbentuk pita melingkar seperti
+spiral. Dalam percobaan tersebut ia mengamati bahwa hanya
+kloroplas yang terkena cahaya mataharilah yang mengeluarkan
+oksigen. Hal itu terbukti dari banyaknya bakteri aerob yang
+bergerombol di sekitar kloroplas yang terkena cahaya matahari.</p>
+
+<p>Sachs. Pada tahun 1860, seorang ahli botani Jerman bernama Julius
+von Sachs berhasil membuktikan bahwa proses fotosintesis
+menghasilkan amilum (zat tepung). Adanya zat tepung ini dapat
+dibuktikan dengan uji yodium, sehingga percobaan Sachs ini
+juga disebut uji yodium.</p>
+
+<p>Hill. Theodore de Smussure, seorang ahli kimia dan fisiologi
+tumbuhan dari Swiss menunjukkan bahwa air diperlukan
+dalam proses fotosintesis. Temuan ini diteliti lebih lanjut
+sehingga pada tahun 1937 seorang dokter berkebangsaan Inggris
+bernama Robin Hill berhasil membuktikan bahwa cahaya matahari 
+diperlukan untuk memecah air (H2O) menjadi hidrogen
+(H) dan oksigen (O2). Pemecahan ini disebut  fotolisis.</p>
+
+<p>Blackman. Pada tahun 1905 Blackman membuktikan bahwa perubahan 
+karbon dioksida (CO2) menjadi glukosa (C6H12O6)
+berlangsung tanpa bantuan cahaya matahari. Peristiwa ini sering
+disebut sebagai reduksi karbon dioksida. Dengan demikian
+dalam fotosintesis ada dua macam reaksi, yaitu reaksi terang
+dan reaksi gelap. Yang merupakan reaksi terang (reaksi Hill)
+adalah fotolisis, yang merupakan reaksi gelap (reaksi Blackman)
+adalah reduksi karbon dioksida. Gabungan antara reaksi terang
+dan reaksi gelap itulah yang kita kenal sekarang sebagai reaksi
+fotosintesis. Pada tahun 1940 Melvin Calvin dan timnya
+berhasil menemukan urutan reaksi/ proses yang berlangsung
+pada reaksi gelap. Rangkaian reaksi itu selalu berulang terus
+menerus dan disebut siklus Calvin.</p>
+
+<p>Pengertian Fotosintesis. Fotosintesis adalah proses pembentukan karbohidrat dari
+karbon dioksida (CO2) dan air (H2O) dengan bantuan sinar
+matahari. Tumbuhan mampu melakukan fotosintesis karena
+mempunyai sel-sel yang mengandung klorofil (zat hijau daun).</p>
+
+<p>Dalam fotosintesis, energi cahaya matahari diserap oleh klorofil
+dan diubah menjadi energi kimia yang disimpan dalam bentuk
+karbohidrat atau senyawa organik lainnya. Di dalam tumbuhan
+karbohidrat diubah menjadi protein, lemak, vitamin, atau
+senyawa yang lain. Senyawa-senyawa organik ini selain
+dimanfaatkan oleh tumbuhan itu sendiri, juga dimanfaatkan
+oleh manusia dan hewan herbivora sebagai bahan makanan.
+Fotosintesis melibatkan banyak reaksi kimia yang kompleks.</p>
+
+<p>syarat-syarat agar proses fotosintesis dapat berlangsung, yaitu sebagai berikut.
+a) Karbon dioksida (CO2), diambil oleh tumbuhan dari udara
+bebas melalui stomata (mulut daun).
+b) Air, diambil dari dalam tanah oleh akar dan diangkut ke daun
+melalui pembuluh kayu (xilem).
+c) Cahaya matahari.
+d) Klorofil (zat hijau daun), sebagai penerima energi dari cahaya
+matahari untuk melangsungkan proses fotosintesis.</p>
+
+<p>Faktor-Faktor yang memengaruhi Fotosintesis. 
+Fotosintesis dipengaruhi oleh faktor internal maupun faktor
+eksternal. Faktor-faktor yang memengaruhi fotosintesis adalah
+sebagai berikut.
+a) Konsentrasi karbon dioksida (CO2) di udara, semakin tinggi
+konsentrasi CO2 di udara, maka laju fotosintesis semakin
+meningkat.
+b) Klorofil, semakin banyak jumlah klorofil dalam daun maka
+proses fotosintesis berlangsung semakin cepat. Pembentukan
+klorofil memerlukan cahaya matahari. Kecambah yang
+ditumbuhkan di tempat gelap tidak dapat membuat klorofil
+dengan sempurna. Kecambah ini dikatakan mengalami
+etiolasi, yaitu tumbuh sangat cepat (lebih tinggi/ panjang dari
+seharusnya) dan batang dan daunnya tampak berwarna pucat
+karena tidak mengandung klorofil.
+Umur daun juga memengaruhi laju fotosintesis. Semakin
+tua daun, kemampuan berfotosintesis semakin berkurang
+karena adanya perombakan klorofil dan berkurangnya
+fungsi kloroplas.
+c) Cahaya, intensitas cahaya yang cukup diperlukan agar
+fotosintesis berlangsung dengan efisien.
+d) Air, ketersediaan air memengaruhi laju fotosintesis karena
+air merupakan bahan baku dalam proses ini.
+e) Suhu, umumnya semakin tinggi suhunya, laju fotosintesis
+akan meningkat, demikian juga sebaliknya. Namun bila
+suhu terlalu tinggi, fotosintesis akan berhenti karena 
+enzim-enzim yang berperan dalam fotosintesis rusak. Oleh karena
+itu tumbuhan menghendaki suhu optimum (tidak terlalu
+rendah atau terlalu tinggi) agar fotosintesis berjalan secara
+efisien.</p>
+
+<p>Gerak pada Tumbuhan. Tumbuhan juga melakukan gerak meskipun gerak pada
+tumbuhan tidak menghasilkan perpindahan tempat. Gerak
+tumbuhan hanya dilakukan oleh bagian tertentu, seperti bagian
+ujung tunas, ujung akar, dan daun. Tumbuhan tingkat tinggi
+dapat merespons rangsangan tertentu dari lingkungannya dengan
+melakukan gerak. Gerak tumbuhan umumnya sangat lambat
+sehingga perlu ketelitian tinggi untuk dapat mengamatinya.</p>
+
+<p>Gerak pada tumbuhan terbagi menjadi tiga yaitu gerak endonom,
+esionom, dan  higroskopis.</p>
+
+<p>Gerak endonom adalah gerak yang tidak diketahui penyebab
+luarnya. Gerak ini dikenal pula sebagai gerak spontan karena
+tumbuhan melakukan gerakan secara spontan tanpa perlu
+adanya rangsangan dari luar. Contoh gerak endonom ini adalah
+gerak pertumbuhan daun dan gerak rotasi sitoplasma (siklosis)
+pada sel-sel daun Hydrilla verticillata yang dapat dideteksi dari
+gerak sirkulasi klorofil di dalam sel.</p>
+
+<p>Gerak esionom adalah gerak tumbuhan yang disebabkan
+oleh adanya rangsangan dari lingkungan sekitar. Berdasarkan
+jenis rangsangannya, gerak esionom dapat dibedakan menjadi
+tiga, yaitu tropisme, taksis, dan nasti.</p>
+
+<p>Gerak Tropisme. Tropisme adalah gerak sebagian organ tumbuhan yang
+disebabkan oleh rangsangan dari luar dan arah geraknya
+dipengaruhi oleh arah datangnya rangsang. Tropisme berasal
+dari kata Yunani yaitu trope yang artinya belokan. Tropisme
+biasanya diberi nama sesuai dengan jenis rangsangannya.
+Gerak tropisme yang mendekati arah rangsang disebut
+tropisme positif sedangkan gerak tropisme yang menjauhi
+rangsang disebut tropisme negatif.</p>
+
+<p>Geotropisme/ gravitropisme, adalah gerak tropisme yang
+dipengaruhi oleh rangsangan gaya gravitasi bumi. Charles
+Darwin adalah orang yang pertama kali mencatat bahwa
+gerak pertumbuhan akar  adalah  geotropisme positif
+karena  searah dengan gaya gravitasi bumi. Sedangkan
+pertumbuhan batang  termasuk  geotropisme negatif,
+karena arahnya berlawanan dengan arah gravitasi bumi.</p>
+
+<p>Hidrotropisme, adalah gerak tropisme yang dipengaruhi
+oleh rangsangan kelembapan atau air. Makhluk hidup
+memiliki kecenderungan untuk mendekati atau menjauhi
+air. Tentu kamu mengetahui bahwa pertumbuhan akar
+umumnya menuju ke sumber air.</p>
+
+<p>Tigmotropisme, adalah gerak tropisme yang dipengaruhi
+oleh rangsangan sentuhan atau kontak fisik dengan
+benda padat. Tumbuhan merambat umumnya tumbuh
+lurus terus-menerus hingga ujung batangnya menyentuh
+sesuatu. Kontak itu membuat lengkungan pada 
+tumbuhan. Sel pada bagian yang bersentuhan dengan benda
+lain perkembangannya lebih lambat dibandingkan
+dengan bagian yang tidak tersentuh, sehingga 
+pertumbuhannya menjadi melengkung. Contoh gerak 
+tigmotropisme adalah gerak membelit sulur tumbuhan markisa
+dan mentimun.</p>
+
+<p>Fototropisme/ heliotropisme, adalah gerak tropisme yang
+dipengaruhi oleh rangsangan cahaya. Umumnya arah
+tumbuh tumbuhan dipengaruhi oleh cahaya, khususnya
+cahaya matahari. Pertumbuhan yang mendekati sumber
+cahaya disebut  fototropisme positif sedangkan 
+pertumbuhan yang menjauhi cahaya (menuju kegelapan)
+disebut  fototropisme negatif atau  skototropisme. Contoh
+fototropisme negatif adalah pada Monstera  sp yang
+pertumbuhannya mendekati daerah yang gelap. Akar
+biasanya memperlihatkan fototropisme negatif, meskipun
+geotropisme lebih berperan dalam pertumbuhannya.</p>
+
+<p>Kemotropisme, adalah gerakan yang dipengaruhi oleh
+rangsangan bahan kimiawi. Contoh adalah gerak
+pertumbuhan buluh serbuk sari menuju bakal buah saat
+berlangsungnya pembuahan.</p>
+
+<p>Gerak taksis adalah gerak seluruh bagian tumbuhan yang
+arahnya dipengaruhi oleh sumber rangsangan. Gerak taksis
+biasanya dilakukan oleh organisme uniseluler. Berdasarkan
+jenis rangsangannya, taksis dapat dibedakan menjadi
+kemotaksis dan fototaksis.</p>
+
+<p>Kemotaksis,  yaitu gerak taksis yang dipengaruhi oleh
+rangsangan berupa bahan kimia. Contohnya adalah gerak
+pada sel sperma tumbuhan berbiji tertutup yang menuju
+sel telur karena adanya rangsangan senyawa kimia yang
+diproduksi oleh sel telur. Arkegonium tumbuhan paku
+juga menghasilkan protein serupa untuk merangsang sel
+sperma bergerak secara kemotaksis mendekatinya agar
+terjadi pembuahan.</p>
+
+<p>Fototaksis, yaitu gerak taksis yang dipengaruhi rangsang
+berupa cahaya. Contoh gerakan kloroplas pada Spirogyra
+yang bergerak ke daerah yang terkena cahaya. Gerak
+ganggang hijau uniseluler Euglena dan Clamidomonas ke
+tempat yang lebih terang juga termasuk fototaksis.</p>
+
+<p>Gerak Nasti. Nasti adalah gerak sebagian tumbuhan akibat rangsangan
+dari luar, tetapi arah geraknya tidak dipengaruhi oleh arah
+datangnya rangsang. Gerak nasti dibedakan menjadi lima
+macam, yaitu sebagai berikut.
+1) Niktinasti, yaitu gerak tidur daun tanaman Leguminosae
+(kacang-kacangan) menjelang petang akibat perubahan
+tekanan turgor pada tangkai daun. Perubahan ini
+disebabkan karena rangsangan suasana yang gelap.
+2) Fotonasti, yaitu gerak nasti yang sumber rangsangannya
+berupa cahaya, misalnya mekarnya bunga pukul empat
+(Mirabilis jalapa) pada sore hari karena telah memperoleh
+periode terang yang cukup dari cahaya matahari.
+3) Seismonasti/ tigmonasti,  adalah gerak yang dipengaruhi
+oleh getaran/ sentuhan. Contoh paling mudah adalah
+gerak menutupnya daun putri malu (Mimosa pudica) saat
+tersentuh. Gerak ini disebabkan adanya perubahan
+tekanan turgor pada tangkai daun.
+4) Termonasti, adalah gerak nasti yang sumber rangsangnya
+berupa suhu. Misalnya mekarnya bunga tulip pada 
+hari-hari yang hangat pada musim semi.
+5) Nasti  kompleks,  yaitu gerak nasti yang sumber
+rangsangnya lebih dari satu. Contoh gerak ini adalah
+membuka menutupnya stomata karena pengaruh kadar
+air, cahaya, suhu, dan zat kimia.</p>
+
+<p>Gerak higroskopis disebabkan karena perubahan kadar air.
+Gerak ini dapat menyebabkan pecahnya buah kapas dan 
+polong-polongan setelah mengering. Contoh lainnya adalah 
+membukanya sel anulus pada sporangium tumbuhan paku dan
+membukanya gigi peristom pada sporangium tumbuhan lumut.</p>
+
+<p>Hama dan Penyakit pada Tumbuhan. 
+Berbagai sistem pada tumbuhan dapat mengalami gangguan
+atau kelainan. Gangguan ini dapat disebabkan karena kelainan
+genetis, kondisi lingkungan yang tidak sesuai, atau karena
+serangan hama dan penyakit. Gangguan hama dan penyakit
+dalam skala besar pada tanaman budidaya dapat mengganggu
+persediaan bahan pangan bagi manusia.</p>
+
+<p>Hama Tanaman. Hama adalah semua binatang yang mengganggu dan
+merugikan tanaman yang dibudidayakan manusia. Hewan yang
+termasuk hama dikelompokkan ke dalam beberapa golongan,
+yaitu sebagai berikut.
+a) Mamalia, misalnya musang, tupai, tikus, dan babi hutan.
+b) Aves, misalnya burung dan ayam.
+c) Serangga, misalnya belalang, wereng, dan kumbang.
+d) Molusca, misalnya siput dan bekicot.</p>
+
+<p>Beberapa contoh hama yang sering kamu jumpai dalam
+kehidupan sehari-hari adalah sebagai berikut. 
+Belalang setan (Aularches miliaris), menyebabkan kerusakan
+terhadap tanaman besar, misalnya berbagai jenis pisang,
+kelapa, pinang, dan jeruk. Lalat buncis (Agromyza phaseoli), menyebabkan kerusakan
+pada bagian batang, daun, dan buah tanaman buncis. Lalat
+ini biasanya membuat saluran-saluran di daun, batang, dan
+tangkai daun. Dengan adanya saluran ini tanaman menjadi
+layu. Tanaman yang masih muda dapat mati, sedangkan
+tanaman yang telah tua akan terhambat pertumbuhannya.</p>
+
+<p>Tungau bercak dua (Tetranichus urticae), memakan hampir
+semua jenis tanaman budidaya seperti buncis, kacang tanah,
+mentimun, semangka, apel, jeruk, dan jagung. Tanaman
+yang diserang oleh tungau daunnya akan menjadi bercak-bercak dan berwarna kekuningan.
+Hama penggerek umbi kentang. Hama pada umbi kentang
+ini adalah ulat berwarna kelabu Phthorimaea aperculella
+dengan panjang tubuh 1 cm, yang akan tumbuh menjadi
+ngengat berwarna kelabu.</p>
+
+<p>Hama pemakan daun kubis. Hama yang menyerang daun
+kubis adalah ulat berwarna hijau muda, berbulu hitam,
+kepala kekuningan dengan bercak-bercak gelap, dan ukuran
+tubuhnya sekitar 9 mm. Hama pada bawang putih, berupa ulat berwarna hijau atau
+cokelat tua dengan garis kekuningan, tubuhnya berukuran
+25 mm. Bawang putih yang terkena hama daunnya
+berlubang dan ada bekas gigitan berwarna putih atau daun
+menjadi berselaput tipis dan layu.</p>
+
+<p>Hama penggerek buah mangga, berupa ulat dengan warna
+tubuh berselang-selang merah dan putih dan ulat cokelat
+kehitaman. Buah mangga yang terserang hama menjadi
+berlubang-lubang dan di sekitarnya terdapat kotoran yang
+meleleh dari dalam. Lubang ini dapat menembus sampai ke
+biji. Jika buah dibelah, maka bagian dalamnya sudah rusak
+dan busuk.</p>
+
+<p>Hama tikus, sering menyerang tanaman padi dan palawija.
+Belalang, juga sering menyerang tanaman padi. Burung pipit, dalam jumlah yang besar dapat menyerang
+tanaman padi dengan memakan biji padi yang menimbulkan kerugian yang tidak sedikit.
+Hama wereng, selain sebagai hama tanaman padi, wereng juga
+menjadi vektor penyebar virus penyebab penyakit tungro.</p>
+
+<p>Babi hutan, menyerang tanaman budidaya terutama umbi-umbian.
+Kera, menyerang tanaman budidaya buah-buahan dan sayuran.</p>
+
+<p>Untuk menanggulangi serangan hama, dapat dilakukan
+dengan memberikan pestisida. Terdapat beberapa jenis pestisida
+buatan, misalnya insektisida (untuk menanggulangi serangan
+serangga), molisida (menanggulangi serangan Mollusca), dan
+rodentisida (untuk menanggulangi serangan rodensia/ binatang
+pengerat). Namun demikian penggunaan pestisida buatan
+berdampak buruk terhadap lingkungan, sehingga sekarang
+banyak dikembangkan biopestisida. Contoh biopestisida untuk
+memberantas serangga dengan memanfaatkan ekstrak daun
+mimba dan daun paitan.</p>
+
+<p>Selain cara di atas, untuk menanggulangi hama dapat
+dilakukan dengan memanfaatkan musuh alaminya, misalnya
+tikus ditanggulangi dengan burung hantu. Teknik lain yang
+digunakan untuk mencegah perkembangan serangga adalah
+dengan teknik jantan mandul. Caranya dengan dibiakkan
+serangga jantan mandul, lalu dilepaskan pada musim kawin.
+Serangga betina yang kawin dengan jantan mandul tidak akan
+menghasilkan telur fertil dan keturunan, sehingga populasi hama
+akan menurun.</p>
+
+<p>Penyakit pada Tanaman. Tanaman dikatakan sakit apabila ada perubahan atau
+gangguan pada organ-organ tanaman. Tanaman yang sakit
+menyebabkan pertumbuhan dan perkembangannya tidak
+normal. Penyakit tanaman disebabkan oleh mikroorganisme
+misalnya jamur, virus, dan bakteri. Selain itu penyakit tanaman
+dapat disebabkan karena kekurangan salah satu atau beberapa
+jenis unsur hara.</p>
+
+<p>Tanda-tanda tanaman yang terkena penyakit adalah sebagai
+berikut.
+a) Layu, tanaman yang layu karena sakit berbeda dengan yang
+kekurangan air. Kamu dapat mengujinya dengan menyiram
+tanaman dengan air. Jika tanaman tetap layu setelah disiram
+air, kemungkinan ada bagian akar dan jaringan dalam batang
+yang rusak oleh bakteri atau virus.
+b) Rontok, bila kerontokan terjadi pada daun, ranting, buah,
+dan bunga secara bersamaan dapat dipastikan bahwa
+tanaman tersebut menderita sakit. Penyebabnya dapat
+karena parasit, nonparasit, atau serangan hama.
+c) Perubahan warna, misalnya daun menjadi berwarna kuning,
+redup, atau hijau pucat dalam jumlah banyak mengindikasikan 
+bahwa tanaman itu sakit. Tetapi perubahan warna pada
+daun juga dapat disebabkan oleh rusaknya klorofil atau
+karena kekurangan cahaya matahari.
+d) Daun berlubang, biasanya diawali oleh bercak berbentuk
+lingkaran, kemudian kering dan terbentuk lubang.
+e) Kerdil, terjadi pada daun, buah, atau bagian lainnya.
+f) Daun mengeriting
+g) Busuk pada batang, daun, atau buah
+h) Semai roboh</p>
+
+<p>Beberapa contoh penyakit yang menyerang tumbuhan adalah
+sebagai berikut.
+a) Penyakit layu cabai. Penyakit ini disebabkan oleh bakteri.
+Cabai yang terkena penyakit ini mempunyai ciri-ciri daun
+muda layu diikuti dengan menguningnya daun-daun tua.
+b) Penyakit hawar daun kentang. Disebabkan oleh jamur,
+gejalanya pada tepi-tepi daun ditemukan bercak-bercak
+terutama pada suhu rendah, kelembapan tinggi, dan curah
+hujan tinggi.
+c) Penyakit busuk daun bawang merah. Disebabkan oleh jamur,
+gejalanya di dekat ujung daun timbul bercak hijau pucat, di
+permukaan daun berkembang jamur berwarna putih ungu,
+daun menguning, layu, dan mengering. Daun yang telah
+mati akan berwarna putih dan banyak terdapat jamur hitam.
+d) Penyakit tungro pada tanaman padi. Penyakit ini menyebabkan 
+padi tumbuh kerdil dan tidak normal. Disebabkan oleh
+virus tungro dengan perantaraan wereng.
+e) Penyakit mosaik, banyak menyerang tanaman tembakau
+yang disebabkan oleh virus TMV (Tobacco Mosaic Virus).
+Tanaman yang terkena penyakit karena kekurangan unsur
+hara dapat dicegah dan ditanggulangi dengan melakukan
+pemupukan yang tepat. Sedangkan penyakit karena 
+mikroorganisme dapat ditanggulangi dengan memberikan pesitisida,
+misalnya bakterisida (memberantas bakteri parasit) dan
+fungisida (memberantas jamur parasit). Selain pestisida buatan,
+sekarang telah banyak dibuat pestisida alami yang lebih aman
+terhadap lingkungan. Contohnya jamur dapat diberantas
+dengan bubur  bordeaux yaitu campuran yang mengandung
+kalsium karbonat dan senyawa tembaga.</p>

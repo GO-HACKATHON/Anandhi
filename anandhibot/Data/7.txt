@@ -1,0 +1,105 @@
+<j>Gaya.
+<p>Dalam kehidupan sehari-hari secara tidak sadar kita mendapati kegiatan yang berhubungan dengan gaya. Pada saat kita 
+membuka atau menutup pintu kita telah melakukan gaya yang berupa dorongan dan tarikan. Selain itu, pada saat kamu 
+bermain kelereng kamu tentu dapat menggerakkan kelereng dengan menggunakan salah satu jari tanganmu. Gerakan mendorong 
+atau menarik yang menyebabkan benda bergerak disebut gaya. Gaya yang dikerjakan pada suatu benda akan memengaruhi benda 
+tersebut. Gaya terhadap suatu benda dapat mengakibatkan benda bergerak, berubah bentuk, dan berubah arah. Pada saat kamu 
+menendang bola maka bola akan bergerak dan berubah arahnya. Gaya pada benda juga mengakibatkan benda berubah bentuk. 
+Sebagai contohnya, ketika kamu bermain dengan plastisin kamu dapat membuat berbagai macam bentuk. Gaya tangan 
+menyebabkan bentuk plastisin berubah sesuai dengan bentuk yang diinginkan.</p>
+
+<p>Benda-benda yang dapat tertarik oleh magnet disebut benda yang bersifat magnetis sedangkan benda-benda yang tidak dapat 
+tertarik oleh magnet disebut benda yang tidak magnetis. Kekuatan gaya magnet untuk menarik benda-benda yang bersifat 
+magnetis dipengaruhi oleh garis gaya magnet dan jarak magnet dengan benda tersebut. Gaya magnet paling kuat terletak di 
+kutub-kutub magnet. Daerah di sekitar magnet yang masih dipengaruhi oleh gaya magnet disebut medan magnet. Area medan 
+magnet itu biasa ditunjukkan dengan garis-garis gaya magnet. Garis-garis gaya magnet tersebut saling bertemu di ujung 
+kedua kutubnya.</p>
+
+<p>Magnet mempunyai dua kutub. Pada keadaan bebas, magnet akan selalu menunjuk ke arah utara dan selatan. Ujung magnet yang 
+mengarah ke utara disebut kutub utara, sedangkan ujung magnet yang mengarah ke selatan disebut kutub selatan. Biasanya 
+kedua ujung magnet diberi warna yang berbeda untuk membedakan kedua kutub magnet itu. Apa yang terjadi jika dua buah 
+kutub magnet saling didekatkan?. Kutub-kutub magnet mempunyai sifat-sifat khusus. Saat kutub yang sama dari dua buah 
+magnet batang saling didekatkan, keduanya akan saling menolak. Sebaliknya jika kutub yang berbeda dari dua magnet 
+didekatkan, akan terjadi tarik-menarik.</p>
+
+<p>Gaya tarik magnet banyak digunakan dalam kehidupan sehari-hari. Gaya tarik magnet digunakan pada berbagai macam alat, 
+mulai dari alat yang sederhana hingga alat yang rumit. Magnet digunakan pada alat-alat berikut.
+a) Ujung gunting untuk memudahkan mengambil jarum jahit.
+b) Bel listrik untuk menggerakkan pemukul lonceng.
+c) Papan catur agar buah catur tidak mudah terguling.
+d) Kompas sebagai penunjuk arah utara-selatan.
+e) Dinamo sepeda dan generator untuk membangkitkan tenaga listrik.
+f) Alat untuk mengangkut benda-benda dari besi.</p>
+
+<p>Magnet berasal dari kata "magnesia" yang merupakan nama sebuah daerah kecil di Asia. Orang yang pertama kali menemukan 
+magnet adalah Magnus. Pada saat itu tongkatnya tertarik oleh batuan. Batu itulah yang kemudian dinamakan magnet. 
+Seiring dengan teknologi yang semakin maju, maka dibuatlah magnet buatan. Bahan yang dapat dibuat untuk membuat magnet 
+adalah besi atau baja. Besi lebih mudah dibuat menjadi magnet namun kemagnetannya cepat hilang. Baja sangat sukar 
+dibuat magnet. Namun demikian, kemagnetannya lebih tahan lama dibandingkan dengan magnet yang dibuat dari besi.</p>
+
+<p>Magnet dibedakan menjadi dua macam berdasarkan cara terbentuknya. Magnet tersebut yaitu magnet alam dan magnet buatan. 
+Magnet alam terjadi secara alami, contohnya magnet bumi. Magnet buatan merupakan magnet yang sengaja dibuat. Ada 
+beberapa bentuk magnet buatan, misalnya magnet batang, tabung (silinder), jarum, huruf U, dan magnet berbentuk ladam 
+(tapal kuda). Terdapat beberapa cara dalam pembuatan magnet di antaranya adalah cara induksi, menggosok, dan 
+mengalirkan arus listrik.</p>
+
+<p>Magnet dapat dibuat dengan cara induksi, yaitu mendekatkan atau menempelkan magnet pada benda yang akan dijadikan 
+sebagai magnet, contohnya paku. Benda magnetis yang menempel pada magnet dapat menarik benda-benda magnetis lainnya, 
+contohnya jarum atau paku payung.</p>
+
+<p>Magnet dapat dibuat dengan cara menggosok benda yang akan dijadikan magnet dengan magnet batang yang kita miliki atau 
+terdapat di sekolah. Untuk mendapatkan magnet dengan cara menggosok, lakukanlah langkah-langkah berikut ini.
+a) Letakkan sebatang besi atau baja yang akan dijadikan magnet di atas meja.
+b) Gosokkan salah satu kutub magnet pada besi atau baja tersebut dengan kuat dan searah.
+c) Lakukan gosokkan tersebut berulang-ulang. Semakin lama menggosok maka semakin kuat kemagnetannya.
+</p>
+
+<p>Magnet dapat dibuat dengan cara mengalirkan arus listrik searah ke dalam suatu penghantar. Magnet yang ditimbulkan 
+disebut elektromagnet. Elektromagnet pertama kali ditemukan oleh Hans Christian Oersted pada tahun 1819. Elektromagnet 
+bersifat sementara. Artinya, jika arus listrik diputus, sifat magnet itu akan hilang. Untuk membuat magnet dengan cara 
+mengalirkan arus listrik, kita membutuhkan paku yang cukup besar, kawat kumparan, dan batu baterai sebagai sumber arus 
+listriknya. Perhatikan cara pembuatan magnet dengan mengalirkan arus listrik berikut ini!. 
+a) Lilitkan paku dengan kawat kumparan. Semakin banyak kumparan maka kemagnetannya akan semakin kuat
+b) Sambungkan kedua kawat kumparan pada batu baterai.
+c) Dekatkan paku tersebut dengan jarum atau paku payung maka jarum dan paku payung akan menempel pada paku.
+</p>
+
+<p>Buah mangga yang ada di atas pohonnya dapat jatuh ke bawah karena adanya gaya tarik dari bumi. Pada saat kamu melempar 
+bola ke atas, bola itupun akan jatuh ke bawah. Gaya tarik bumi inilah yang disebut gaya gravitasi. Gaya gravitasi yang 
+terjadi pada benda yang jatuh dari ketinggian tertentu tentunya berbeda-beda. Hal ini disebabkan karena gaya gravitasi 
+dipengaruhi oleh ukuran dan bentuk benda tersebut. Gravitasi adalah gaya tarik-menarik yang terjadi antara semua 
+partikel yang mempunyai massa di alam semesta. Bumi yang mempunyai massa yang sangat besar menghasilkan gaya gravitasi 
+yang sangat besar untuk menarik benda-benda di sekitarnya, termasuk benda-benda yang ada di bumi. Gaya gravitasi ini 
+juga menarik benda-benda yang ada di luar angkasa seperti meteor, satelit buatan manusia, dan bulan. Gaya tarik ini 
+menyebabkan benda-benda tersebut selalu berada di tempatnya.</p>
+
+<p>Gravitasi menyebabkan benda bergerak ke bawah. Buah yang jatuh dari pohonnya, air yang mengalir dari tempat yang 
+tinggi ke tempat yang rendah, dan bola yang dilempar ke atas akan kembali jatuh ke tanah merupakan beberapa peristiwa 
+yang menunjukkan bahwa gravitasi menyebabkan benda bergerak ke bawah. Apa yang akan terjadi apabila tidak ada gaya 
+gravitasi di bumi?. Sebelum menjawab pertanyaan tersebut, kamu mungkin pernah melihat film atau berita mengenai 
+astronot yang ada di bulan. Astronot tersebut dapat melayang-layang di bulan karena gaya gravitasi di bulan sangat 
+kecil. Hal yang sama akan terjadi pada benda-benda yang ada di bumi apabila gaya gravitasi tidak ada. Kita akan 
+melayang-layang di udara tanpa bisa menyentuh tanah.</p>
+
+<p>Gaya gesekan merupakan gaya yang ditimbulkan oleh dua permukaan yang saling bersentuhan. Gerakan benda semakin 
+terhambat jika gaya gesekan semakin besar. Demikian sebaliknya jika permukaan licin. Pada permukaan licin, gaya 
+gesekan yang terjadi juga kecil. Akibatnya, benda itu semakin mudah bergerak pada permukaan tersebut. Dalam kehidupan 
+sehari-hari, kamu tentu pernah melakukan tindakan untuk memperkecil gaya gesek. Misalnya ketika kamu memberi minyak 
+pelumas pada rantai sepeda. Akibatnya sepedamu lebih mudah dikayuh. Akan tetapi, gaya gesek juga dapat memberikan 
+manfaat dalam kehidupan kita. Ketika berjalan, kita tidak akan tergelincir karena adanya gaya gesek. Sepatu yang kita 
+pakai akan bergesekan dengan lantai sehingga timbul gaya gesek. Alas sepatu yang terbuat dari karet dan dibuat 
+beralur-alur dapat menghasilkan gaya gesek yang besar.</p>
+
+<p>Gaya gesek juga dimanfaatkan pada saat kita mengerem sepeda. Rem sepeda akan mencengkeram roda untuk menghambat 
+perputaran roda. Kampas rem sepeda akan memberikan gaya gesek terhadap pelek. Gaya gesek juga terjadi antara ban 
+sepeda dengan jalan. Ban sepeda biasanya dibuat beralur-alur sehingga ketika direm mendadak tidak akan tergelincir. 
+Model alur juga terdapat pada ban kendaraan bermotor dan ban mobil. Ada beberapa kerugian yang ditimbulkan oleh gaya 
+gesek. Salah satunya yaitu menghambat gerakan benda. Kardus ketika didorong di lantai yang kasar akan terasa lebih 
+berat dibandingkan di lantai yang halus. Hal ini disebabkan oleh gaya gesek yang menahannya. Gaya gesek dalam peristiwa 
+ini dapat diperkecil dengan cara memasang roda di bawah beban. Pemasangan roda ini sangat bermanfaat ketika kita 
+mendorong benda yang berat, tetapi tenaga orang yang mendorong kurang. Roda yang menggelinding menyebabkan benda di 
+atasnya mudah bergerak. Gaya gesek yang ditimbulkan dengan cara ini akan lebih kecil karena hanya sebagian kecil 
+permukaan roda yang menyentuh permukaan jalan. Roda juga sering dipasang pada meja atau kursi agar mudah digeser. 
+Selain menghambat gerakan, gaya gesek juga mengakibatkan permukaan yang bergesekan cepat aus. Misalnya alas sepatu 
+menjadi tipis karena sering bergesekan dengan lantai atau tanah. Gigi gir sepeda juga cepat tumpul akibat sering 
+bergesekan dengan rantai.</p>

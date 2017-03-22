@@ -1,0 +1,472 @@
+<j>Ekosistem.
+<p>Dalam pembahasan berikut kalian akan mempelajari berbagai komponen penyusun ekosistem, 
+interaksi antar komponen ekosistem, serta mengkaji mekanisme aliran energi pada suatu ekosistem. 
+Selain membahas aliran energi, kalian juga akan mempelajari daur biogeokimia. Setelah mempelajari 
+bab ini kalian diharapkan dapat menjelaskan komponen-komponen ekosistem dan interaksi yang 
+terjadi di dalamnya, menjelaskan faktor-faktor pendukung terjadinya keseimbangan ekosistem, serta 
+menganalisis jika terjadi ketidakseimbangan hubungan antar komponen (karena faktor alami dan 
+akibat perbuatan manusia). Selain itu, kalian juga diharapkan dapat menjelaskan mekanisme aliran 
+energi pada suatu ekosistem, membuat charta daur biogeokimia, seperti air, karbon, nitrogen, 
+sulfur, fosfor, serta menjelaskan peran mikroorganisme atau organisme dalam berbagai daur 
+tersebut.</p>
+
+<p>Semua jenis makhluk hidup di alam ini selalu berinteraksi dengan lingkungannya, baik dengan 
+lingkungan fisik maupun dengan makhluk hidup yang lain. Tumbuhan membutuhkan tanah, udara, dan 
+air untuk dapat hidup dan berfotosintesis. Hewan membutuhkan tumbuhan atau hewan lain sebagai 
+makanannya. Selain itu hewan juga membutuhkan udara untuk bernapas dan air untuk minum.</p>
+
+<p>Ketika jumlah tumbuhan berkurang, hewan pemakan tumbuhan akan kelaparan. Begitu pula, hewan-hewan 
+yang menjadikan tumbuhan sebagai tempat tinggal akan kehilangan rumahnya. Ketika jumlah air 
+berkurang, tumbuhan dan hewan mungkin akan mati karena kekeringan. Berbagai interaksi tersebut 
+merupakan hubungan saling memengaruhi yang terjadi antara makhluk hidup dengan lingkungannya dan 
+membentuk suatu sistem yang disebut ekosistem. Ekosistem disusun oleh dua komponen, yaitu 
+lingkungan fisik atau makhluk tidak hidup (komponen abiotik) dan berbagai jenis makhluk hidup 
+(komponen biotik). Berbagai jenis makhluk hidup tersebut dapat dikelompokkan menjadi 
+satuan-satuan makhluk hidup dan ekosistem merupakan salah satunya.</p>
+
+<p>Komponen abiotik merupakan komponen penyusun ekosistem yang terdiri dari benda-benda tak hidup. 
+Secara terperinci, komponen abiotik merupakan keadaan fisik dan kimia di sekitar organisme yang 
+menjadi medium dan substrat untuk menunjang berlangsungnya kehidupan organisme tersebut. Contoh 
+komponen abiotik adalah air, udara, cahaya matahari, tanah, topografi, dan iklim.</p>
+
+<p>Hampir semua makhluk hidup membutuhkan air. Karena itu, air merupakan komponen yang sangat vital 
+bagi kehidupan. Sebagian besar tubuh makhluk hidup tersusun oleh air dan tidak ada satupun 
+makhluk hidup yang tidak membutuhkan air. Meskipun demikian, kebutuhan organisme akan air 
+tidaklah sama antara satu dengan yang lainnya. Begitu pula dengan ketersediaan air di suatu 
+daerah, tidak sama antara daerah satu dengan yang lainnya. Hal ini juga akan memengaruhi cara 
+hidup organisme yang ada di daerah-daerah tersebut. Misalnya hewan yang hidup di daerah gurun 
+akan memiliki kapasitas penggunaan air yang relatif sedikit sebagai penyesuaian terhadap 
+lingkungan hidupnya yang miskin air. Berbagai jenis tumbuhan yang ada juga beradaptasi dengan 
+keadaan tersebut, salah satunya dengan membentuk daun yang tebal dan sempit sehingga mengurangi 
+penguapan. Contohnya adalah tumbuhan kaktus.</p>
+
+<p>Komponen abiotik lainnya adalah udara. Kita tidak bisa menyangkal bahwa peranan udara sangat 
+penting bagi kehidupan di bumi ini. Oksigen yang kita gunakan untuk bernapas atau CO2 yang 
+diperlukan tumbuhan untuk berfotosintesis juga berasal dari udara. Bahkan bumi kita pun 
+dilindungi oleh atmosfer yang merupakan lapisan-lapisan udara.</p>
+
+<p>Keadaan udara di suatu tepat dipengaruhi oleh cahaya matahari, kelembapan, dan juga temperatur 
+(suhu). Intensitas cahaya matahari yang diterima oleh suatu daerah akan memengaruhi kelembapan 
+atau kadar uap air di udara. Selain itu, cahaya matahari juga menyebabkan peningkatan suhu atau 
+temperatur udara. Adanya perbedaan temperatur menyebabkan terjadinya perbedaan tekanan udara, 
+sehingga udara mengalir atau bergerak membentuk angin. Kesemuanya memberikan pengaruh bagi 
+organisme.</p>
+
+<p>Cahaya matahari merupakan sumber energi utama semua makhluk hidup, karena dengannya tumbuhan 
+dapat berfotosintesis. Sedangkan keberadaan uap air di udara akan memengaruhi kecepatan 
+penguapan air dari permukaan tubuh organisme. Organisme yang hidup di daerah panas (suhu udara 
+tinggi dan kelembapan rendah) akan berupaya untuk mengurangi penguapan air dari dalam tubuh, 
+misalnya unta yang merupakan hewan khas padang pasir. Sedangkan beruang kutub, karena hidup di 
+lingkungan yang sangat dingin, beradaptasi dengan memiliki bulu yang tebal. Selain itu, 
+perbedaan suhu udara juga bisa menimbulkan angin, yaitu aliran udara akibat perbedaan tekanan. 
+Sehingga organisme akan menyesuaikan diri dengan kondisi tersebut. Contohnya pada tumbuhan. 
+Tumbuhan yang hidup di daerah dengan angin yang kencang, daerah pantai misalnya, membentuk sistem 
+perakaran yang kuat dan batang yang elastis supaya tidak mudah patah ketika diterpa angin. 
+Contohnya jenis tumbuhan tersebut adalah cemara udang.</p>
+
+<p>Selain air, udara, dan cahaya matahari, keberadaan suatu ekosistem juga dipengaruhi oleh kondisi 
+tanah. Apa yang akan terjadi bila bumi kita ini hanya berisi batu dan logam, tanpa ada tanah?. 
+Tentu kita tidak akan menjumpai berbagai jenis tumbuhan dan organisme lainnya. Tanah merupakan 
+tempat hidup bagi berbagai jenis organisme, terutama tumbuhan. Adanya tumbuhan akan menjadikan 
+suatu daerah memiliki berbagai organisme pemakan tumbuhan dan organisme lain yang memakan pemakan 
+tumbuhan tersebut. Coba kalian bandingkan tanah yang subur dengan tanah yang tandus. Di tanah 
+yang manakah lebih banyak terdapat organisme?. Tentu di tanah yang subur, bukan?. Kualitas tanah 
+bisa dilihat dari derajat keasaman (pH), tekstur (komposisi partikel tanah), dan kandungan garam 
+mineral atau unsur haranya.</p>
+
+<p>Komponen abiotik yang juga tidak kalah penting adalah topografi dan iklim. Topografi adalah letak 
+suatu tempat dipandang dari ketinggian di atas permukaan air laut (altitude) atau dipandang dari 
+garis bujur dan garis lintang (latitude). Topografi yang berbeda menyebabkan perbedaan penerimaan 
+intensitas cahaya, kelembapan, tekanan udara, dan suhu udara, sehingga topografi dapat 
+menggambarkan distribusi makhluk hidup. Sedangkan iklim merupakan keadaan cuaca rata-rata di 
+suatu tempat yang luas dalam waktu yang lama (30 tahun), terbentuk oleh interaksi berbagai 
+komponen abiotik seperti kelembapan udara, suhu, curah hujan, cahaya matahari, dan lain 
+sebagainya. Iklim mempunyai hubungan yang erat dengan komunitas tumbuhan dan kesuburan tanah. 
+Contohnya adalah di daerah yang beriklim tropis, seperti Indonesia, memiliki hutan yang lebat dan 
+kaya akan keanekaragaman hayati yang disebut hutan hujan tropis sedangkan di daerah subtropis 
+hutan seperti itu tidak dijumpai.</p>
+
+<p>Komponen biotik meliputi semua jenis makhluk hidup yang ada pada suatu ekosistem. Contoh komponen 
+biotik adalah manusia, hewan, tumbuhan, dan mikroorganisme. Menurut peranannya dalam ekosistem, 
+komponen biotik dibedakan menjadi tiga golongan, yaitu produsen, konsumen, dan pengurai. 
+Organisme yang berperan sebagai produsen adalah semua organisme yang dapat membuat makanan 
+sendiri. Organisme ini disebut organisme autotrof, contohnya adalah tumbuhan hijau. Sedangkan 
+organisme yang tidak mampu membuat makanan sendiri (heterotrof) berperan sebagai konsumen.</p>
+
+<p>Tumbuhan merupakan organisme autotrof karena dapat membuat makanan sendiri melalui fotosintesis. 
+Dalam proses ini, bahan anorganik diubah menjadi senyawa organik dengan bantuan sinar matahari. 
+Melalui proses fotosintesis, gas CO2 hasil buangan organisme lain diubah oleh tumbuhan menjadi 
+zat gula, oksigen, dan energi, sesuai dengan reaksi berikut 6H2O + 6CO2 – cahaya matahari -> 
+C6H12O6 + 6O2 + Energi.</p>
+
+<p>Selain mampu mencukupi kebutuhannya akan energi, produsen juga berperan sebagai sumber energi 
+bagi organisme lain. Energi yang dihasilkan produsen akan dimanfaatkan oleh organisme lain 
+melalui proses makan dan dimakan. Hewan pemakan tumbuhan memperoleh energi dari tumbuhan yang 
+dimakannya. Sedangkan hewan pemakan tumbuhan tersebut juga bisa dijadikan sumber energi bagi 
+hewan lain yang memakannya. Organisme yang memperoleh makanan dengan cara demikian disebut 
+konsumen. Jadi, organisme yang berperan sebagai konsumen adalah organisme yang tidak dapat 
+membuat makanan sendiri (organisme heterotrof).</p>
+
+<p>Berdasarkan jenis makanan yang dikonsumsinya, konsumen dibedakan menjadi tiga macam yaitu 
+herbivora, karnivora, dan omnivora. Herbivora adalah organisme pemakan tumbuhan. Contohnya adalah 
+kerbau, sapi, kambing, kelinci, dan zebra. Karnivora adalah organisme pemakan hewan (daging). 
+Misalnya singa, serigala, harimau, kucing, dan elang. Sedangkan omnivora adalah organisme pemakan 
+segala jenis makanan, baik tumbuhan maupun hewan. Contoh omnivora adalah ayam, itik, dan manusia.</p>
+
+<p>Selain produsen dan konsumen, terdapat pula organisme yang berperan sebagai pengurai. Pernahkah 
+kalian berpikir bagaimana tumbuhan dan hewan yang mati di suatu tempat dapat hilang setelah 
+beberapa waktu kemudian?. Hilangnya tumbuhan dan hewan yang telah mati ini disebabkan oleh 
+aktivitas organisme pengurai atau dekomposer. Mereka berperan menguraikan (melakukan dekomposisi) 
+sisa-sisa organisme yang sudah mati (detritus). Karena memakan detritus, organisme ini disebut 
+juga detritivora.</p>
+
+<p>Organisme pengurai memperoleh makanan dengan cara merombak sisa produk organisme dan organisme 
+yang mati dengan enzim pencernaan yang dimilikinya. Hasil perombakan ini kemudian diserap sebagai 
+makanan. Kegiatan pengurai memungkinkan senyawa sederhana didaur ulang, sehingga dapat digunakan 
+kembali oleh organisme autotrof atau produsen. Contoh organisme yang termasuk pengurai adalah 
+cacing tanah, jamur, dan bakteri, lipan, luing, kutu kayu, rayap, nematoda, dan larva serangga.</p>
+
+<p>Satuan-Satuan Makhluk hidup. Ketika kalian mengamati komponen-komponen pembentuk ekosistem, 
+kalian mendapatkan beberapa komponen biotik yang sejenis. Misalnya dalam kebun berukuran 3m×7m 
+terdapat tiga jenis pohon, yaitu dua pohon akasia, tiga pohon kelapa, dan tiga pohon jati. Kalian 
+juga menemukan sekelompok semut dan sekelompok burung. Nah, sebatang pohon, seekor semut, dan 
+seekor burung tersebut merupakan individu. Sedangkan dua pohon akasia, tiga pohon kelapa, tiga 
+pohon jati, sekelompok semut, dan sekelompok burung merupakan populasi.</p>
+
+<p>Individu berasal dari bahasa Latinu in (tidak) dan dividus (dapat dibagi). Jadi, individu 
+diartikan sebagai satu organisme hidup yang berdiri sendiri dan secara fisiologis bersifat bebas 
+serta tidak mempunyai hubungan organik dengan sesamanya. Populasi juga berasal dari bahasa Latin, 
+yaitu populus (semua yang bertempat tinggal pada suatu tempat). Sehingga pengertian populasi 
+adalah sekelompok individu sejenis (satu spesies) yang menempati suatu daerah pada waktu 
+tertentu. Makhluk hidup dikatakan sejenis apabila mempunyai persamaan bentuk tubuh, dapat 
+melakukan perkawinan, dan mampu menghasilkan keturunan yang fertil.</p>
+
+<p>Besarnya populasi dapat dinyatakan sebagai densitas atau kerapatan, yaitu jumlah individu anggota 
+populasi di suatu luasan tertentu. Perhatikan persamaan berikut - densitas = 
+jumlah individu / luas daerah.</p>
+
+<p>Densitas populasi pada suatu daerah dapat berubah setiap saat, tergantung beberapa faktor, 
+seperti emigrasi, migrasi, natalitas, dan mortalitas.</p>
+
+<p>Di alam, populasi makhluk hidup saling berinteraksi satu sama lain. Kumpulan beberapa populasi 
+tersebut adalah komunitas. Contohnya adalah komunitas padang rumput. Komunitas tersebut disusun 
+oleh berbagai populasi rumput, populasi kijang, dan populasi harimau. Kata komunitas berasal dari 
+Bahasa Latin commune (umum). Kesatuan komunitas dengan lingkungan hidupnya yang saling 
+berinteraksi dengan faktor lingkungan disebut ekosistem.</p>
+
+<p>Kumpulan dari berbagai komunitas pada suatu zona habitat disebut bioma. Bioma di bumi bisa 
+dikelompokkan menjadi bioma darat (terestrial) dan bioma perairan (akuatik). Bioma terestrial 
+terjadi karena daratan memiliki variasi geografis seperti ketinggian di atas permukaan laut dan 
+garis lintang. Di daratan terdapat 6 bioma yaitu bioma gurun, bioma padang rumput, bioma hutan 
+hujan tropis, bioma hutan 4 musim, bioma taiga, dan bioma tundra. Contoh bioma yang ada di 
+Indonesia adalah hutan hujan tropis.</p>
+
+<p>Kesemua bioma yang ada di bumi atau semua zona kehidupan di bumi disebut biosfer (lapisan 
+kehidupan). Biosfer meliputi semua lapisan kehidupan, dari dasar laut yang dalam sampai lapisan 
+udara di mana masih terdapat kehidupan. Biosfer merupakan kumpulan semua komunitas dan ekosistem 
+yang ada di planet bumi, meliputi semua bagian dari lapisan bumi paling atas, yaitu air, kulit 
+bumi, dan atmosfer.</p>
+
+<p>Kalian telah memahami pengertian ekosistem dan komponen-komponen penyusunnya. Komponen-komponen 
+tersebut saling berinteraksi membentuk hubungan yang dinamis. Hubungan dinamis di antara komponen 
+tersebut menyebabkan terjadinya keseimbangan lingkungan. Mari kita pelajari bersama.</p>
+
+<p>Hubungan Antar-komponen Ekosistem. Di dalam ekosistem, komponen-komponen biotik dan abiotik 
+saling berinteraksi dan masing-masing memiliki fungsi atau peran tertentu. Hubungan tersebut bisa 
+berupa hubungan antar komponen biotik (makhluk hidup) maupun hubungan semua komponen antara 
+komponen biotik dan abiotik secara menyeluruh. Di dalam hubungan antar organisme terdapat aliran 
+energi, yaitu transfer energi dari produsen ke konsumen melalui rantai makanan. Sedangkan 
+hubungan komponen biotik dan komponen abiotik adalah bagian dari siklus kimia, yaitu siklus 
+unsur-unsur kimia penyusun makhluk hidup dan makhluk tak hidup. Kedua proses tersebut, aliran 
+energi dan siklus kimia, merupakan fenomena yang tidak dapat dijelaskan pada tingkatan organisasi 
+kehidupan di bawah ekosistem. Karenanya ekosistem merupakan tingkatan yang paling inklusif dalam 
+organisasi kehidupan.</p>
+
+<p>Aliran Energi di Dalam Ekosistem. Energi memasuki sebagian besar ekosistem dalam bentuk cahaya 
+matahari yang kemudian diubah oleh organisme autotrof menjadi energi kimia. Energi tersebut 
+kemudian diteruskan ke organisme heterotrof dalam bentuk senyawa-senyawa organik. Proses ini 
+terjadi melalui peristiwa makan dan dimakan yang terjadi di dalam rantai makanan.</p>
+
+<p>Pola-Pola Interaksi. Untuk memenuhi kebutuhannya akan makanan, setiap organisme melakukan 
+interaksi tertentu dengan organisme lain. Pola-pola interaksi yang terjadi dapat berupa 
+persaingan (kompetisi), pemangsaan (predasi), dan kerja sama (simbiosis). Persaingan atau 
+kompetisi terjadi di antara beberapa organisme yang membutuhkan bahan makanan yang sama. 
+Kebutuhan untuk memperoleh sumber makanan atau nutrien sebanyak-banyaknya menyebabkan terjadinya 
+persaingan pada suatu komunitas. Kompetisi merupakan satu pola interaksi yang menyebabkan 
+kerugian bagi salah satu pihak yang kalah bersaing. Contoh kompetisi adalah persaingan antar 
+produsen (berbagai jenis tumbuhan) untuk memperoleh air, sinar matahari, atau bahan organik 
+lainnya. Pada tingkat di atasnya yaitu konsumen primer (konsumen yang mengonsumsi produsen secara 
+langsung), juga terjadi persaingan yaitu dalam mendapatkan tumbuhan. Selain antar produsen dan 
+antar konsumen primer, antar konsumen sekunder bahkan sampai pengurai atau detritivorpun juga 
+melakukan kompetisi. Kompetisi bisa terjadi antara individu satu dengan individu lainnya dalam 
+satu populasi. Kompetisi seperti ini disebut kompetisi interspesifik. Selain itu, kompetisi ini 
+juga dapat terjadi antara satu jenis populasi dengan jenis populasi lainnya dalam satu komunitas, 
+disebut kompetisi intraspesifik. Tanaman padi dan rumput, misalnya, karena sama-sama membutuhkan 
+makanan berupa unsur hara, maka mereka akan bersaing untuk hidup di sebuah sawah. Akibatnya, 
+rumput liar yang hidup di areal pertanian padi oleh manusia dianggap sebagai gulma (tanaman 
+pengganggu).</p>
+
+<p>Selain melakukan persaingan, beberapa organisme mendapatkan makanan dengan memangsa organisme 
+lain. Contohnya adalah singa yang memakan kijang atau rusa. Pola interaksi semacam ini disebut 
+predasi. Organisme yang memakan organisme lain disebut predator atau pemangsa, sedangkan 
+organisme yang dimakan disebut prey atau mangsa. Pada suatu ekosistem, hewan herbivora (misalnya 
+sapi, kerbau, belalang, atau ulat) merupakan predator bagi produsen. Hewan karnivora (harimau, 
+singa, atau anjing) atau binatang lain yang memangsa herbivora juga merupakan predator.</p>
+
+<p>Beberapa makhluk hidup dapat hidup berdampingan tanpa melakukan kompetisi atau predasi. Pola 
+interaksi seperti ini disebut simbiosis, dan organisme yang melakukannya disebut simbion. 
+Pernahkah kalian memperhatikan tanaman anggrek yang tumbuh di sebuah pohon?. Itu adalah salah satu 
+contoh simbiosis. Simbiosis antara dua jenis makhluk hidup dibedakan menjadi tiga macam, yaitu 
+simbiosis mutualisme, komensalisme, dan parasitisme.</p>
+
+<p>Simbiosis mutualisme adalah hubungan simbiosis yang saling menguntungkan. Contohnya adalah pada 
+simbiosis antara red-billed oxpeckers (sejenis burung jalak) dan impala (sejenis rusa). 
+Burung tersebut memperoleh keuntungan dengan memakan kutu yang ada di tubuh impala. Sebaliknya, 
+impala juga memperoleh keuntungan karena kutu ditubuhnya menjadi bersih.</p>
+
+<p>Berbeda dengan simbiosis mutualisme, pada simbiosis komensalisme tidak semua simbion memperoleh 
+keuntungan. Simbiosis ini hanya menguntungkan salah satu simbion, tetapi simbion yang lainnya 
+tidak merasa dirugikan. Contoh bentuk simbiosis ini adalah yang terjadi antara ikan remora dengan 
+ikan hiu. Dengan hidup bersama ikan hiu, ikan remora akan terlindungi dari pemangsa dan juga 
+mendapatkan makanan dari serpihan-serpihan kulit hiu. Sedangkan ikan hiu sendiri tidak merasa 
+dirugikan dengan kehadiran ikan remora.</p>
+
+<p>Sedangkan simbiosis yang terjadi antara benalu dan pohon yang ditumpanginya merupakan contoh 
+simbiosis parasitisme. Benalu mendapatkan makanan dengan menyerap air dan garam mineral atau 
+hasil fotosintesis pohon yang ditumpanginya. Dengan demikian, pohon merupkan simbion yang 
+dirugikan, sedangkan benalu merupakan simbion yang mendapatkan keuntungan. Contoh lainnya adalah 
+simbiosis antara kutu anjing dengan anjing, dan jamur yang hidup pada udang. Organisme yang hidup 
+menempel dan mengambil makanan dari organisme yang ditempelinya disebut parasit, sedangkan 
+organisme yang menjadi tempat hidup parasit disebut inang atau hospes.</p>
+
+<p>Rantai Makanan dan Piramida Ekologi. Proses makan dan dimakan yang diikuti perpindahan energi 
+dari satu organisme ke organisme lain dalam tingkatan tertentu disebut rantai makanan (food chain). 
+Tingkatan dalam rantai makanan disebut juga trofik. Tingkat trofik yang secara mendasar mendukung 
+tingkatan lainnya dalam suatu ekosistem terdiri dari organisme autotrof yang berperan sebagai 
+produsen primer. Produsen primer meliputi tumbuhan, alga, dan banyak spesies bakteri.</p>
+
+<p>Produsen primer utama pada sebagian besar ekosistem terestrial adalah tumbuhan. Sedangkan di 
+dalam zona limnetik danau dan dalam lautan terbuka, fitoplankton (alga dan bakteri) adalah 
+autotrof yang paling penting, sementara alga multiseluler dan tumbuhan akuatik kadang-kadang 
+merupakan produsen primer yang lebih penting di zona litoral dalam ekosistem air tawar maupun air 
+laut. Akan tetapi di dalam zona afotik di laut dalam, sebagian besar kehidupan bergantung pada 
+produksi fotosintetik di dalam zona fotik. Dalam hal ini energi dan nutrien turun ke bawah dalam 
+bentuk plankton yang mati dan detritus lainnya.</p>
+
+<p>Tingkat trofik di atas produsen primer adalah konsumen primer atau konsumen tingkat I. Konsumen 
+ini merupakan organisme herbivora. Konsumen primer ini akan dimakan oleh tingkat trofik 
+selanjutnya, yaitu konsumen sekunder atau konsumen tingkat II yang sebagian besar berupa 
+organisme karnivora. Konsumen sekunder ini akhirnya akan dimakan oleh konsumen tersier atau 
+konsumen tingkat III. Beberapa ekosistem bahkan memiliki tingkat trofik yang lebih tinggi lagi.</p>
+
+<p>Beberapa konsumen, detritivora, mendapatkan energinya dengan memakan detritus. Detritus adalah 
+sisa-sisa organisme yang mati, misalnya feses, daun yang gugur, dan bangkai dari semua tingkat 
+trofik. Detritus ini akan mengembalikan senyawa-senyawa organik kembali ke tanah menjadi 
+senyawa-senyawa anorganik sehingga dapat dimanfaatkan kembali oleh organisme autotrof. Proses 
+dekomposisi menjadi proses yang vital karena membuat siklus energi dapat berlangsung 
+terus-menerus.</p>
+
+<p>Berdasarkan komponen tingkat trofiknya, rantai makanan dibedakan menjadi dua, yaitu rantai 
+makanan perumput dan rantai makanan detritus. Rantai makanan perumput merupakan rantai makanan 
+yang diawali dari tumbuhan pada trofik awalnya. Contohnya tumbuhan dimakan belalang, belalang 
+dimakan burung, burung dimakan ular, dan ular dimakan burung elang. Sedangkan rantai makanan 
+detritus tidak dimulai dari tumbuhan, tetapi dimulai dari detritus sebagai trofik awalnya. Contoh 
+rantai makanan detritus adalah seresah atau dedaunan dimakan cacing tanah, cacing tanah dimakan 
+ikan, dan ikan dimakan manusia.</p>
+
+<p>Detritivora seringkali menjadi penghubung utama antara produsen dan konsumen dalam suatu ekosistem. 
+Di ekosistem sungai, misalnya, banyak bahan organik yang dibutuhkan oleh konsumen disediakan oleh 
+tumbuhan terestrial. Bahan organik tersebut masuk ke dalam ekosistem sungai sebagai guguran 
+dedaunan dan serpihan-serpihan lain yang jatuh ke dalam air atau tercuci oleh aliran permukaan. 
+Seekor siput air (Lymnaea sp) mungkin bisa memakan detritus tersebut di dasar sungai dan kemudian 
+siput tersebut dimakan ikan. Contoh lain adalah organisme prokariotik yang menguraikan 
+sampah-sampah organik berupa dedaunan di lantai hutan.</p>
+
+<p>Dalam rantai makanan, konsumen pada tingkat trofik tertentu tidak hanya memakan satu jenis 
+organisme yang ada di tingkat trofik bawahnya. Akan tetapi, setiap organisme dapat memakan dua 
+atau lebih organisme lain. Ini menyebabkan terjadinya beberapa rantai makanan di dalam ekosistem 
+saling berhubungan satu sama lain. Hubungan antar-rantai makanan tersebut membentuk susunan yang 
+lebih kompleks, disebut jaring-jaring makanan (food web). Sehingga rantai makanan dari produsen 
+-> konsumen primer -> konsumen sekunder -> dan seterusnya, sebenarnya hanyalah penyederhanaan 
+dari beberapa permutasi yang dapat dimiliki oleh interaksi makan dan dimakan.</p>
+
+<p>Interaksi di dalam ekosistem yang sehat menunjukkan adanya keseimbangan dinamis. Lalu bagaimana 
+keseimbangan tersebut terjadi, mengapa interaksi makan dan dimakan di dalam jaring-jaring makanan 
+tersebut bisa seimbang?. Hal ini terjadi karena adanya proporsi yang sesuai pada setiap tingkatan 
+trofik di dalam rantai makanan.</p>
+
+<p>Kalian telah memahami bahwa pada rantai makanan terdapat tingkat trofik tertentu. Organisme yang 
+menempati tingkat trofik di bagian bawah merupakan sumber makanan bagi organisme di tingkat 
+trofik selanjutnya. Untuk menjaga keseimbangan antara bahan makanan dan pemangsa, organisme di 
+tingkat trofik atas mempunyai jumlah yang lebih sedikit dari organisme di tingkat trofik 
+bawahnya. Sebagai contoh, pada rantai makanan rumput, jumlah rumput pada suatu ekosistem lebih 
+banyak dari jumlah hewan herbivora. Begitu pula, jumlah hewan herbivora lebih banyak daripada 
+hewan karnivora.</p>
+
+<p>Piramida tersebut merupakan salah satu jenis piramida ekologi. Piramida ekologi merupakan 
+gambaran yang menunjukkan hubungan struktur trofik dan fungsi trofik. Berdasarkan fungsinya, 
+piramida ekologi dibedakan menjadi tiga macam, yaitu piramida jumlah, piramida biomassa, dan 
+piramida energi.</p>
+
+<p>Piramida jumlah didasarkan pada jumlah individu pada setiap tingkatan trofik. Organisme yang 
+menempati tingkat dasar adalah produsen selalu memiliki jumlah jauh lebih banyak daripada 
+konsumen primer (tingkat trofik di atasnya). Sementara jumlah konsumen primer lebih banyak dari 
+jumlah konsumen sekunder. Konsumen sekunder ini jumlahnya pun lebih banyak dari konsumen tersier. 
+Organisme yang berada di puncak piramida mempunyai jumlah paling sedikit dibandingkan organisme 
+di tingkat bawahnya.</p>
+
+<p>Jika piramida jumlah didasarkan pada jumlah individu pada setiap tingkatan trofik, piramida 
+biomassa didasarkan pada pada pengukuran massa individu per-m2 pada setiap tingkatan trofik. 
+Biomassa merupakan ukuran massa organisme hidup pada waktu tertentu. Biomassa pada setiap tingkat 
+trofik dicari sebagai rata-rata massa organisme pada suatu daerah dengan luas tertentu. Pada 
+piramida biomassa, massa rata-rata produsen lebih besar dari massa rata-rata konsumen di atasnya. 
+Piramida biomassa umumnya menyempit secara tajam dari produsen di bagian dasar ke karnivora 
+tingkat teratas. Pada beberapa ekosistem akuatik terjadi piramida biomassa terbalik karena 
+konsumen primer melebihi produsen.</p>
+
+<p>Jenis piramida ekologi yang ketiga adalah piramida energi. Kalian telah memahami bahwa proses 
+makan dan dimakan yang terjadi pada sebuah ekosistem juga diikuti oleh perpindahan energi. Kalian 
+masih ingat Hukum Kekekalan Energi bukan?. Menurut Hukum Kekekalan Energi, energi tidak dapat 
+diciptakan dan tidak dapat dimusnahkan, tetapi dapat berubah dari satu bentuk ke bentuk yang 
+lain. Semua energi yang ada di bumi sebenarnya berasal dari satu sumber yaitu matahari. Energi 
+cahaya matahari diubah menjadi makanan oleh produsen melalui proses fotosintesis. Energi ini 
+kemudian dimanfaatkan oleh konsumen primer dan berlanjut sampai konsumen tersier.</p>
+
+<p>Satu hal yang perlu diingat adalah tidak semua konsumen memanfaatkan energi dari makanan yang 
+didapatnya. Keadaan ini mengisyaratkan adanya pengurangan energi pada setiap tingkatan trofik 
+pada suatu piramida. Piramida semacam ini disebut sebagai piramida energi. Piramida energi mampu 
+memberikan gambaran akurat tentang kecepatan aliran energi dalam suatu ekosistem atau 
+produktivitas pada tingkat trofik. Tingkatan trofik pada piramida energi didasarkan pada energi 
+yang dikeluarkan individu dan dinyatakan dalam kilokalori/ m2/ waktu.</p>
+
+<p>Energi dapat berada dalam berbagai bentuk. Misalnya energi kimia, energi potensial, energi 
+kinetik, energi panas, energi listrik, dan lain-lain. Namun, semua bentuk energi tersebut berasal 
+dari satu sumber yaitu matahari. Perubahan bentuk energi ke bentuk energi lain ini dinamakan 
+transformasi energi. Sedangkan perpindahan energi dari satu tempat ke tempat lain disebut 
+transfer energi atau aliran energi.</p>
+
+<p>Dalam suatu ekosistem, energi matahari diubah oleh produsen menjadi makanan bagi konsumen primer. 
+Oleh konsumen primer, makanan yang diperoleh diubah kembali menjadi energi. Konsumen sekunder 
+juga melakukan hal yang sama setelah memakan konsumen primer. Namun, tidak semua makanan yang 
+dikonsumsi diubah menjadi energi.</p>
+
+<p>Selama proses transfer energi, selalu terjadi pengurangan jumlah energi setiap melewati suatu 
+tingkat trofik. Selama terjadi aliran energi dalam suatu rantai makanan, terjadi pula aliran 
+materi. Materi berupa unsur-unsur dalam bentuk senyawa kimia yang merupakan materi dasar makhluk 
+hidup dan tak hidup.</p>
+
+<p>Pergerakan energi dan materi melalui ekosistem saling berhubungan karena keduanya berlangsung 
+melalui transfer zat-zat di dalam rantai makanan. Dari 200 J energi yang dikonsumsi oleh ulat, 
+misalnya, hanya sekitar 33 J (seperenam) yang digunakan untuk pertumbuhannya, sedangkan sisanya 
+dibuang sebagai feses atau digunakan untuk respirasi seluler. Tentunya, energi yang yang 
+terkandung dalam feses tersebut tidak hilang dari ekosistem karena masih dapat dikonsumsi oleh 
+detritivora. Akan tetapi, energi yang digunakan untuk respirasi hilang dari ekosistem. Dengan 
+demikian, jika radiasi cahaya matahari merupakan sumber utama energi untuk sebagian ekosistem, 
+maka kehilangan panas pada respirasi adalah tempat pembuangan energi. Hal inilah yang menyebabkan 
+energi dikatakan mengalir melalui ekosistem dan bukan di daur di dalam ekosistem. Hanya energi 
+kimia yang di simpan untuk pertumbuhan (atau produksi keturunan) oleh herbivora yang tersedia 
+sebagai makanan bagi konsumen sekunder. Energi berbeda dengan materi karena energi tidak dapat 
+di daur ulang (disiklus ulang). Sehingga suatu ekosistem harus terus-menerus diberi tenaga dari 
+sumber eksternal (matahari). Dengan demikian, energi mengalir melewati ekosistem, sementara 
+materi bersiklus di dalam ekosistem tersebut.</p>
+
+<p>Siklus Biogeokimia. Aliran energi pada suatu ekosistem berjalan dalam satu arah. Energi ekosistem 
+berasal dari energi matahari yang digunakan produsen untuk berfotosintesis. Sehingga, energi 
+tersebut diubah menjadi energi kimia dan kemudian diteruskan ke konsumen dalam bentuk 
+senyawa-senyawa organik dalam makanannya, dan dibuang dalam bentuk panas. Unsur-unsur kimia, 
+seperti karbon dan nitrogen, bersiklus di antara komponen-komponen abiotik dan biotik ekosistem. 
+Organisme fotosintetik mendapatkan unsur-unsur ini dalam bentuk anorganik dari udara, tanah, dan 
+air, dan mengasimilasi unsur-unsur tersebut menjadi molekul organik, yang sebagian kemudian 
+dikonsumsi oleh hewan. Unsur itu dikembalikan dalam bentuk anorganik ke udara, tanah, dan air 
+melalui metabolisme tumbuhan dan hewan, serta melalui organisme lain, seperti bakteri dan fungi, 
+yang menguraikan buangan organik dan organisme yang mati.</p>
+
+<p>Karena pergerakan unsur-unsur yang merupakan nutrien di dalam ekosistem terjadi secara berulang 
+melalui komponen biotik dan abiotik (geologis), maka proses tersebut juga disebut siklus 
+biogeokimia (biogeochemical cycle). Pada siklus tersebut, unsur atau senyawa kimia mengalir dari 
+komponen abiotik ke komponen biotik, lalu kembali lagi ke komponen abiotik. Siklus unsur-unsur 
+tersebut tidak hanya melalui makhluk hidup, tetapi melibatkan juga reaksi-reaksi kimia dalam 
+lingkungan abiotik.</p>
+
+<p>Proses-proses biologis dan geologis menggerakkan nutrien di antara komponen-komponen organik dan 
+anorganik. Lintasan spesifik suatu bahan kimia melalui suatu siklus biogeokimia bervariasi 
+menurut unsur yang dimaksud pada struktur trofik suatu ekosistem. Dalam uraian berikut kita akan 
+membahas beberapa siklus, yaitu siklus karbon, siklus fosfor, siklus nitrogen, dan siklus air.</p>
+
+<p>Siklus Karbon. Karbon merupakan bahan dasar penyusun senyawa organik. Di dalam organisme hidup 
+terdapat 18% karbon. Kemampuan saling mengikat pada atom-atom karbon (C) merupakan dasar bagi 
+keragaman molekul dan ukuran molekul yang sangat diperlukan dalam kehidupan. Selain terdapat 
+dalam bahan organik, karbon juga ditemukan dalam senyawa anorganik, yaitu gas karbon dioksida (CO2) 
+dan batuan karbonat (batu kapur dan koral) dalam bentuk calsium karbonat (CaCO3). Organisme 
+autotrof (tumbuhan) menangkap karbon dioksida dan mengubahnya menjadi karbohidrat, protein, 
+lipid, dan senyawa organik lainnya. Bahan organik yang dihasilkan tumbuhan ini merupakan sumber 
+karbon bagi hewan dan konsumen lainnya.</p>
+
+<p>Pada setiap tingkatan trofik rantai makanan, karbon kembali ke atmosfer atau air sebagai hasil 
+pernapasan (respirasi). Produsen, herbivora, dan karnivora selalu bernapas dan menghasilkan gas 
+karbon dioksida. Setiap tahun, tumbuhan mengeluarkan sekitar sepertujuh dari keseluruhan CO2 yang 
+terdapat di atmosfer. Meskipun konsentrasi CO2 di atmosfer hanya sekitar 0,03%, namun karbon 
+mengalami siklus yang cepat, sebab tumbuhan mempunyai kebutuhan yang tinggi akan gas CO2. 
+Walaupun begitu, sejumlah karbon dipindahkan dari siklus itu dalam waktu yang lebih lama. Hal ini 
+mungkin terjadi karena karbon terkumpul di dalam kayu dan bahan organik lain yang tahan lama, 
+termasuk batu bara dan minyak bumi. Perombakan oleh detritivor akhirnya mendaur ulang karbon ke 
+atmosfer sebagai CO2. Selain itu pembakaran kayu dan bahan bakar fosil juga ikut berperan, karena 
+api dapat mengoksidasi bahan organik atau kayu menjadi CO2 dengan lebih cepat.</p>
+
+<p>Siklus Fosfor. Keberadaan fosfor pada organisme hidup sangat kecil, tetapi peranannya sangat 
+diperlukan. Atom fosfor hanya ditemukan dalam bentuk senyawa fosfat (PO4-3). Fosfat diserap oleh 
+tumbuhan dan digunakan untuk sintesis organik. Fosfor banyak dikandung oleh asam nukleat, yaitu 
+bahan yang menyimpan dan mentranslasikan sandi genetik. Atom fosfor juga merupakan dasar bagi 
+ATP (Adenosine Tri Phospat) berenergi tinggi yang digunakan untuk respirasi seluler dan 
+fotosintesis. Selain itu merupakan salah satu mineral penyusun tulang dan gigi.</p>
+
+<p>Fosfor merupakan komponen yang sangat langka dalam organisme tak hidup. Produktivitas ekosistem 
+darat dapat ditingkatkan jika fosfor dalam tanah ditingkatkan. Peristiwa pelapukan batuan oleh 
+fosfat akan menambah kandungan fosfat di dalam tanah. Contohnya adalah akibat hujan asam. Setelah 
+produsen menggabungkan fosfor ke dalam bentuk biologis, fosfor dipindahkan ke konsumen dalam 
+bentuk organik. Setelah itu, fosfor ditambahkan kembali ke tanah melalui ekskresi fosfat oleh 
+hewan dan bakteri pengurai detritus. Humus dan partikel tanah mengikat fosfat sedemikian rupa, 
+sehingga siklus fosfor terlokalisir dalam ekosistem. Namun, fosfor dapat dengan mudah terbawa 
+aliran air yang pada akhirnya terkumpul di laut. Erosi yang terjadi akan mempercepat pengurasan 
+fosfat di samping pelapukan batuan yang sejalan dengan hilangnya fosfat.</p>
+
+<p>Fosfat yang berada di lautan secara perlahan terkumpul dalam endapan yang kemudian tergabung 
+dalam batuan. Ketika permukaan air laut mengalami penurunan atau dasar laut mengalami kenaikan, 
+batuan yang mengandung fosfor ini menjadi bagian dari ekosistem darat. Dengan demikian, fosfat 
+mengalami siklus di antara tanah, tumbuhan, dan konsumen dalam waktu tertentu.</p>
+
+<p>Siklus Nitrogen. Atmosfer mengandung lebih kurang 80% atom nitrogen dalam bentuk gas nitrogen (N2). 
+Di dalam organisme, nitrogen ditemukan dalam semua asam amino yang merupakan penyusun protein. 
+Bagi tumbuhan, nitrogen tersedia dalam bentuk amonium (NH4+) dan nitrat (NO3-) yang masuk ke 
+dalam tanah melalui air hujan dan pengendapan debu-debu halus atau butiran lainnya. Beberapa 
+tumbuhan, seperti seperti Bromeliaceae epifit yang ditemukan di hutan hujan tropis, memiliki akar 
+udara yang dapat mengambil NH4 + dan NO3 - secara langsung dari atmosfer.</p>
+
+<p>Jalur lain penambahan nitrogen dalam ekosistem adalah melalui fiksasi nitrogen (nitrogen fixation). 
+Fiksasi nitrogen merupakan proses perubahan gas nitrogen (N2) menjadi mineral yang digunakan 
+untuk menyintesis senyawa organik seperti asam amino. Nitrogen difiksasi oleh bakteri Rhizobium, 
+Azotobacter, dan Clostridium yang hidup bebas dalam tanah. Selain dari sumber alami, sekarang 
+ini fiksasi nitrogen dibuat secara industri yang digunakan sebagai pupuk. Pupuk bernitrogen ini 
+memberikan sumbangan utama dalam siklus nitrogen di suatu ekosistem akibat kegiatan pertanian.</p>
+
+<p>Meskipun tumbuhan dapat menggunakan amonium secara langsung, tetapi sebagian besar amonium dalam 
+tanah digunakan oleh bakteri aerob tertentu sebagai sumber energi. Aktivitas ini mengubah amonium 
+menjadi nitrat (NO3-) kemudian menjadi nitrit (NO2-). Proses ini disebut nitrifikasi. Nitrat yang 
+dibebaskan bakteri ini kemudian diubah oleh tumbuhan menjadi bentuk organik, seperti asam amino 
+dan protein. Beberapa hewan akan mengasimilasi nitrogen organik dengan cara memakan tumbuhan atau 
+hewan lain. Pada kondisi tanpa oksigen (anaerob), beberapa bakteri dapat memperoleh oksigen untuk 
+metabolisme dari senyawa nitrat. Proses ini disebut denitrifikasi. Akibat proses ini, beberapa 
+nitrat diubah menjadi N2 yang kembali ke atmosfer. Perombakan dan penguraian nitrogen organik 
+kembali menjadi amonium yang disebut amonifikasi dilakukan oleh bakteri dan jamur pengurai. 
+Proses-proses tersebut akan mendaur ulang sejumlah besar nitrogen di dalam tanah.</p>
+
+<p>Siklus Air. Air merupakan komponen penting bagi kehidupan. Selain itu, aliran air dalam ekosistem 
+berperan mentransfer zat-zat dalam siklus biogeokimia. Siklus air digerakkan oleh energi matahari 
+melalui penguapan (evaporasi) dan terjadinya hujan (presipitasi). Di lautan, jumlah air yang 
+menguap lebih besar dari curah hujan. Kelebihan uap air ini dipindahkan oleh angin ke daratan. Di 
+atas daratan, presipitasi melebihi evaporasi. Aliran air permukaan dan air tanah dari darat 
+menyeimbangkan aliran uap air dari lautan ke darat.</p>
+
+<p>Siklus air memiliki sifat khas dibandingkan siklus biogeokimia yang lain. Sebagian besar siklus 
+ini terjadi melalui proses fisik, bukan kimia. Dalam proses-proses tersebut air berbentuk H2O, 
+sedangkan di dalam fotosintesis terjadi perubahan air secara kimiawi.</p>

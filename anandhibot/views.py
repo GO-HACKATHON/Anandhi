@@ -11,7 +11,8 @@ from linebot import LineBotApi
 from linebot.models import (TextSendMessage, ImageSendMessage, CarouselTemplate, CarouselColumn, TemplateSendMessage, MessageTemplateAction)
 from linebot.exceptions import LineBotApiError
 
-from anandhibot.questionanalyzer import QuestionAnalyzer
+from anandhibot.questionanalyzer.questionanalyzer import QuestionAnalyzer
+from anandhibot.documentretriever import DocumentRetriever
 
 from app_properties import channel_secret, channel_access_token
 from django.views.generic import TemplateView
@@ -102,8 +103,9 @@ def replyToUser(reply_token, text_message):
 def getInfo(pertanyaan, reply_token, target_id):
     msgToUser = ' '
     hasilQuestionAnalyzer = []
+    hasilDocumentRetriever = []
 
-    questionAnalyzer = QuestionAnalyzer(pertanyaan)
+    questionAnalyzer = QuestionAnalyzer(pertanyaan[11:])
     hasilQuestionAnalyzer = []
     hasilQuestionAnalyzer.append("Pertanyaan: %s" % questionAnalyzer.query)
     print("Query: ")
@@ -115,9 +117,13 @@ def getInfo(pertanyaan, reply_token, target_id):
     print("Keywords: ")
     print(questionAnalyzer.keywords)
 
-    msgToUser = ', '.join(hasilQuestionAnalyzer)
+    documentRetriever = DocumentRetriever()
 
-    print("Message to user: " + ', '.join(hasilQuestionAnalyzer))
+    hasilDocumentRetriever = documentRetriever.retrieve(questionAnalyzer.keywords)
+
+    msgToUser = ', '.join(hasilQuestionAnalyzer) + '\n\n' + ', '.join(hasilDocumentRetriever)
+
+    print("Message to user: " + ', '.join(hasilQuestionAnalyzer) + '\n' + ', '.join(hasilDocumentRetriever))
 
     if len(msgToUser) <= 11 :
         replyToUser(reply_token, "Request Timeout")
@@ -209,7 +215,7 @@ def getRecommendation(subject, reply_token, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
-    pelajaran = subject.split(" ")
+    pelajaran = subject[17:].split(" ")
     recom_list = []
     # # Clear any previous changes
     # try:

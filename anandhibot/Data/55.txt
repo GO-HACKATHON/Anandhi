@@ -1,0 +1,318 @@
+<j>Bioteknologi.
+<p>Siapa tak kenal tempe?. Meski terlanjur dipatenkan oleh orang Jepang, makanan ini telah begitu 
+populer di negeri kita. Tentu saja demikian, sebab konon tanah tumpah darah tempe memanglah 
+Indonesia. Bung Karno pernah menyebut orang-orang pemalas sebagai "bangsa bermental tempe". Tapi 
+kini kita boleh saja membantah julukan itu. Toh, terbukti tempe bergizi tinggi. Di dalamnya 
+terkandung protein, karbohidrat, dan vitamin. Maka, tempe pun dikonsumsi sebagai lauk pauk, 
+pelengkap sayur, bahkan ada yang dimakan langsung tanpa dimasak. Begitu hebatnya tempe, karena 
+memang ia tak dibuat dengan asal buat. Pembuatan tempe melibatkan peran suatu mikroorganisme, 
+yakni jamur benang. Sehingga, tempe merupakan satu contoh produk bioteknologi. Nah, tentu kalian 
+jadi penasaran tentang jenis teknologi yang satu ini. Iya kan?. Baca saja bab ini baik-baik.</p>
+
+<p>Pada bab ini, kalian akan mempelajari pengertian dan jenis-jenis bioteknologi serta implikasi 
+(dampak) bioteknologi pada sains, lingkungan, teknologi, dan masyarakat (salingtemas). Setelah 
+mempelajarinya, kalian diharapkan dapat menjelaskan perbedaan prinsip dan produk bioteknologi 
+konvensional dan modern, termasuk di dalamnya adalah proses rekayasa genetika. Selain itu, kalian 
+diharapkan dapat mengidentifikasi sumber-sumber agen (mikroorganisme) yang berperan dalam 
+bioteknologi dan menjelaskan keuntungan serta kerugian dari produk bioteknologi.</p>
+
+<p>Pengertian dan Jenis-jenis Bioteknologi. Ilmu semakin berkembang dari waktu ke waktu. Perkembangan 
+ilmu terapan (applied science) yang menyebabkan transformasi atau perubahan, baik tentang teknik, 
+prosedur, atau bahan sesuai dengan kebutuhan proses produksi disebut teknologi. Sementara itu, 
+teknologi pemanfaatan mikroorganisme untuk menghasilkan produk yang berguna bagi manusia disebut 
+bioteknologi.</p>
+
+<p>Arti dan Prinsip Dasar Bioteknologi. Bioteknologi merupakan puncak dari perkembangan ilmu biologi. 
+Oleh karena itu, perkembangan teknologi memengaruhi pula perkembangan biologi. Biologi saling 
+berkaitan dengan ilmu-ilmu yang lain. Beberapa cabang biologi dan ilmu kimia yang mendukung 
+kemajuan dan perkembangan bioteknologi, antara lain: sitologi, fisiologi, mikrobiologi, biologi 
+molekuler, genetika (genetika molekuler dan rekayasa genetika), biokimia, dan teknik kimia. Adanya 
+bioteknologi menyebabkan peningkatan nilai tambah dari bahan mentah.</p>
+
+<p>Berikut adalah pendapat beberapa ahli tentang istilah bioteknologi. Bull Etaf (1982) mendefinisikan 
+bioteknologi sebagai penerapan asas-asas sains (Ilmu Pengetahuan Alam) dan rekayasa untuk 
+pengolahan suatu bahan, dengan melibatkan aktivitas jasad atau mikrobia hidup untuk menghasilkan 
+barang dan jasa.</p>
+
+<p>Smith (1981) mendefinisikan bioteknologi sebagai upaya pemanfaatan organisme untuk usaha industri 
+dan manufaktur. Tri Wibowo (2001) mendefinisikan bioteknologi sebagai suatu penerapan 
+teknik-teknik biologi, biokimia, dan rekayasa dalam pengolahan bahan dengan memanfaatkan agensia 
+jasad hidup dan komponen-komponennya untuk menghasilkan barang dan jasa. Primrose (1987) 
+mendefinisikan bioteknologi secara lebih sederhana, yaitu eksploitasi komersial organisme hidup 
+atau komponennya (misalnya: enzim).</p>
+
+<p>Jenis-jenis Bioteknologi. Sejalan dengan berkembangnya ilmu pengetahuan dan teknologi, 
+bioteknologi dibedakan menjadi dua jenis, yaitu: bioteknologi konvensional dan bioteknologi 
+modern.</p>
+
+<p>Bioteknologi konvensional merupakan bioteknologi yang memanfaatkan mikroorganisme (mikrobia) dalam 
+proses biokimiawi dan proses genetik alami (mutasi). Beberapa ciri atau sifat dari bioteknologi 
+konvensional, antara lain: masih menerapkan teknik-teknik biologi, bioteknologi, dan rekayasa 
+genetika yang terbatas, masih menggunakan mikroorganisme seadanya, belum mengembangkan teknik 
+sampai tingkatan molekuler yang terarah, belum sepenuhnya steril (bebas dari mikrobia yang tidak 
+diinginkan), jumlah produknya relatif sedikit, serta kualitasnya belum terjamin.</p>
+
+<p>Fermentasi merupakan salah satu contoh dari penerapan bioteknologi konvensional dan telah 
+digunakan dalam menghasilkan produk, baik dalam skala kecil maupun industri besar (misalnya: 
+tauco, kecap, minuman anggur, dan sake). Kalian tentunya sering menjumpai pula beberapa produk 
+fermentasi yang bersifat khas dalam masyarakat (indegenous fermented food). Contohnya adalah 
+industri tempe dan tape.</p>
+
+<p>Bioteknologi Modern. Selain mendasarkan pada mikrobiologi dan biokimia, bioteknologi modern 
+mendasarkan pula pada manipulasi atau rekayasa genetika (DNA). Ciri atau sifat bioteknologi 
+modern, antara lain: steril, produksi dalam jumlah lebih banyak, kualitasnya standar, dan 
+terjamin.</p>
+
+<p>Berbeda dengan bioteknologi konvensional, bioteknologi modern sudah memanfaatkan metode-metode 
+mutakhir bioteknologi (currents methods of biotechnology), antara lain: kultur jaringan dan 
+rekayasa genetik.</p>
+
+<p>Kultur jaringan merupakan suatu teknik atau metode untuk mengisolasi bagian-bagian tanaman (sel, 
+jaringan, atau organ seperti akar, batang, daun, dan pucuk) kemudian menumbuhkan bagian tersebut 
+secara aseptis (teknik untuk mendapatkan kondisi suci hama) di dalam atau di atas medium budidaya 
+(in vitro). Dengan demikian, bagian-bagian tanaman tersebut dapat memperbanyak diri dan dapat 
+menjadi tanaman lengkap kembali.</p>
+
+<p>Isolasi atau pemisahan bagian tanaman dapat dilakukan secara mekanis maupun kimiawi (enzimatis). 
+Kultur jaringan pada tanaman dapat dilakukan karena setiap tanaman mempunyai sifat totipotensi. 
+Totipotensi adalah kemampuan sel tanaman untuk menjadi tanaman baru yang lengkap, jika ditumbuhkan 
+dalam medium atau lingkungan yang sesuai.</p>
+
+<p>Teknik kultur jaringan memerlukan syarat mutlak, yaitu keadaan steril pada alat, bahan, lingkungan 
+(ruang kerja), maupun seluruh rangkaian kerjanya. Secara umum, rangkaian kerja teknik kultur 
+jaringan meliputi: persiapan, inokulasi, pemeliharaan, dan aklimatisasi.</p>
+
+<p>Persiapan. Tahap awal dalam kultur jaringan adalah menyiapkan eksplan, yaitu bagian dari tanaman 
+(sel, jaringan, atau organ) yang digunakan sebagai bahan untuk memulai suatu kultur. Proses yang 
+diperlukan untuk menghasilkan keadaan steril (bebas hama) atau terhindar dari mikroorganisme yang 
+tidak diinginkan disebut sterilisasi.</p>
+
+<p>Sterilisasi alat dan bahan dapat dilakukan dengan menggunakan alat yang disebut autoklaf. 
+Alat-alat dan bahan yang diperlukan dalam kultur jaringan tumbuhan antara lain: botol kultur, 
+pinset, scalpel (pisau kultur), cawan petri, erlenmeyer, pipet, akuades, dan medium kultur buatan. 
+Seluruh alat dan bahan tersebut harus dalam keadaan steril sebelum dipakai.</p>
+
+<p>Secara umum, medium yang digunakan dalam kultur jaringan harus mengandung garam-garam anorganik 
+(unsur makro dan mikro), zat-zat organik (zat pengatur tumbuh), substansi organik yang kompleks 
+(air kelapa dan ekstrak buah-buahan), bahan pemadat medium (agar-agar), pH tertentu, dan bahan 
+tambahan (arang aktif).</p>
+
+<p>Beberapa kelompok zat pengatur tumbuh yang digunakan dalam kultur jaringan antara lain: auksin 
+(IAA, 2,4 D, dan NAA), sitokinin (adenin, kinetin, zeatin, dan BAP), giberelin, asam absisat, dan 
+etilen. Zat pengatur tumbuh (ZPT) merupakan faktor yang mendukung proses pertumbuhan pada kultur 
+jaringan tumbuhan. Hormon auksin memacu pembelahan sel, sehingga membentuk gumpalan atau massa 
+sel yang belum terdiferensiasi, disebut kalus. Sel-sel kalus ini dapat berkembang menjadi tanaman 
+baru.</p>
+
+<p>Inokulasi merupakan tahapan penanaman eksplan yang sudah steril ke dalam atau di atas medium 
+buatan pada botol kultur. Teknik yang dilakukan untuk mendapatkan eksplan yang steril disebut 
+teknik aseptis, dengan mengambil atau mengiris bagian tanaman. Entkas dan LAF (Laminar Air Flow) 
+merupakan peralatan utama untuk melakukan kerja secara aseptis.</p>
+
+<p>Pemeliharaan. Tahapan setelah inokulasi adalah meletakkan atau menyimpan botol-botol kultur secara 
+rapi dan teratur pada ruang pemeliharaan (ruang inkubator), yaitu di rak-rak pemeliharaan. Selama 
+pemeliharaan, kultur diamati secara rutin untuk mengetahui pertumbuhan dan perkembangan eksplan. 
+Ruang inkubator harus dalam keadaan bersih dan dilengkapi dengan pengatur suhu ruangan serta 
+sumber cahaya (lampu), sehingga mendukung pertumbuhan dan perkembangan eksplan.</p>
+
+<p>Aklimatisasi. Tahapan setelah memelihara kultur yaitu menyesuaikan tanaman agar mampu beradaptasi 
+dengan lingkungan yang baru. Proses ini disebut aklimatisasi. Perlakuan sebelum memindahkan atau 
+menumbuhkan tanaman hasil kultur jaringan pada lingkungan luar (lapangan), yaitu menumbuhkan 
+kultur dalam suatu ruangan khusus (green house), dengan mengatur faktor kelembapan, cahaya, dan 
+suhu.</p>
+
+<p>Ada beberapa manfaat dan keuntungan kultur jaringan tanaman, antara lain: menghasilkan tanaman 
+atau individu baru dalam jumlah besar dan cepat (waktu relatif singkat); menghasilkan tanaman 
+bebas virus, menghasilkan tanaman yang persis dengan induknya, sehingga dapat melestarikan sifat 
+tanaman induk; menghasilkan hibrid baru melalui persilangan somatis (melalui fusi atau 
+penggabungan protoplas); menghasilkan tanaman haploid (melalui kultur mikrospora), sehingga untuk 
+pemuliaan tanaman; untuk menyimpan plasma nutfah; untuk menyelamatkan embrio; hanya memerlukan 
+tempat yang relatif sempit; serta semua bagian tanaman dapat digunakan.</p>
+
+<p>Rekayasa Genetika. Tahun 1973 merupakan sejarah yang mengawali penelitian sebelum berkembangnya 
+rekayasa genetika, yaitu pencangkokan gen mamalia ke dalam sel bakteri, sehingga menimbulkan 
+fenotip maupun genotip yang baru. Teknik rekayasa genetika dapat dilakukan melalui: teknologi DNA 
+Rekombinan, transplantasi nukleus, kloning, dan teknologi hibridoma.</p>
+
+<p>Teknologi DNA Rekombinan (Recombinant DNA Technology). Teknologi DNA rekombinan atau disebut juga 
+Rekayasa Genetika adalah suatu metode biokimiawi atau manipulasi gen, dengan cara menyisipkan 
+(insert) atau menggabungkan gen yang dikehendaki ke dalam suatu organisme. Hasil penggabungan DNA 
+dari individu yang tidak sama ini disebut DNA rekombinan. Sementara itu, gen dari satu individu 
+yang disisipkan atau digabungkan pada gen individu yang lain disebut transgen, individunya disebut 
+transgenik (misalnya: tanaman transgenik).</p>
+
+<p>Teknologi DNA rekombinan memerlukan suatu perantara atau vektor berupa plasmid bakteri (DNA 
+berbentuk lingkaran yang terdapat di luar kromosom), sehingga merupakan bentuk teknologi plasmid. 
+Adapun syarat-syarat vektor yang baik antara lain: mempunyai kemampuan untuk bereplikasi sendiri 
+dan melakukan transkripsi; mampu memasuki sel; mampu menjadi bagian genom sel; serta mempunyai
+ciri khusus, sehingga sel yang ditransformasi dapat dikenali oleh sel yang tidak ditransformasi. 
+Segmen DNA atau gen yang disisipkan akan berkembang di dalam sel individu penerima (inang atau 
+host) dan tidak akan mengalami perubahan fungsi atau tetap berfungsi, sebagaimana pada sel yang 
+diambil gennya.</p>
+
+<p>Salah satu contoh rekayasa genetika yang sudah berhasil adalah penyisipan atau pemindahan gen 
+manusia sebagai penghasil insulin, ke dalam plasmid bakteri Escherichia coli.</p>
+
+<p>Transplantasi Nukleus. Dua ahli mikrobiologi (Robert Briggs dan Thomas King) adalah orang yang 
+pertama kali melakukan percobaan transplantasi nukleus pada tahun 1950-an. Kemudian, John Gurdon 
+melanjutkan penelitian tersebut. Mereka menghancurkan nukleus dari sel telur katak menggunakan 
+radiasi sinar ultraviolet dan menggantinya dengan nukleus dari sel usus embrio katak (berudu) 
+yang sedang berkembang. Nukleus dari sel usus tersebut diambil dengan mikropipet. Bila nukleus 
+berasal dari sel usus embrio muda yang belum terdiferensiasi, maka sel telur penerima (resipien) 
+dapat berkembang menjadi berudu. Perkembangan ini tidak terjadi, jika nukleus diambil dari sel 
+usus berudu yang telah terdiferensiasi. Transplantasi atau pemindahan nukleus dari satu sel ke 
+sel yang lain dapat menghasilkan individu yang baru.</p>
+
+<p>Kloning. Selain transplantasi gen, pembentukan individu baru dapat dilakukan dengan teknik yang 
+disebut kloning. Kloning adalah suatu metode untuk menghasilkan keturunan atau individu yang 
+identik secara genetik dengan induknya. Pada tahun 1997, para peneliti dari Scotlandia (Ian Wilmut 
+dan rekan-rekannya) berhasil menghasilkan seekor domba yang kemudian diberi nama Dolly. Pada 
+penelitiannya, mereka mengambil sel telur dari satu domba dan menghilangkan nukleusnya. 
+Selanjutnya, sel telur tanpa nukleus tersebut digabungkan dengan sel kelenjar susu (kambing) dari 
+domba lainnya menggunakan aliran arus listrik. Setelah 6 hari ditumbuhkan dalam kultur, terbentuk 
+embrio dan ditanam di dalam uterus domba lainnya (domba ke-3 yang mirip dengan pendonor sel telur). 
+Akhirnya, domba tersebut melahirkan anak yang identik dengan domba pendonor sel kambing.</p>
+
+<p>Para ahli dapat saja menerapkan kloning pada manusia, sehingga dihasilkan klon dari manusia itu 
+sendiri (pria maupun wanita) yang mempunyai sifat identik.</p>
+
+<p>Teknologi hibridoma adalah suatu metode penggabungan (fusi) dua macam sel dari organisme yang sama 
+atau berbeda untuk mendapatkan sel hibrid (hibridoma) yang mempunyai kombinasi kedua sifat 
+tersebut. Proses penggabungan sel menggunakan tenaga listrik, sehingga prosesnya disebut 
+elektrofusi.</p>
+
+<p>Teknologi hibridoma menghasilkan antibodi minoklonal, yaitu antibodi murni yang tidak tercemar 
+oleh kuman atau protein lain. Teknik ini dikembangkan oleh Kohler dan Mistein, dengan menyuntikkan 
+antigen ke dalam tubuh tikus atau kelinci. Selanjutnya, tikus atau kelinci tersebut membentuk 
+antibodi. Sel pembentuk antibodi dari limpa tikus atau kelinci dipisahkan dan diambil, kemudian 
+meleburkan atau menggabungkan sel tersebut dengan sel kanker. Penggabungan kedua sel tersebut 
+membentuk sel hibridoma. Sel penghasil antibodi hasil kultur sel hibridoma dipisahkan kemudian 
+dikultur. Dengan demikian dihasilkan beberapa antibodi monoklonal dari beberapa kultur sel.</p>
+
+<p>Implikasi (Dampak) Bioteknologi pada Sains, Lingkungan, Teknologi, dan Masyarakat. Sampai saat ini, 
+perkembangan ilmu masih akan terus berkembang di kemudian hari. Seiring perkembangan tersebut, 
+bioteknologi mempunyai dampak positif maupun dampak negatif.</p>
+
+<p>Dampak Positif. Bioteknologi mempunyai dampak (implikasi) bagi perkembangan berbagai bidang, baik 
+bidang pangan, pertanian, kesehatan dan pengobatan, maupun bidang peternakan. Dampak positif dari 
+bioteknologi adalah dihasilkannya produk-produk yang bermanfaat bagi peningkatan kesejahteraan 
+manusia.</p>
+
+<p>Produk Bioteknologi pada Berbagai Bidang. Sebagaimana telah dijelaskan sebelumnya, ilmu yang satu 
+saling berkaitan dengan ilmu yang lainnya. Oleh karena itu, perkembangan suatu ilmu juga berdampak 
+pada perkembangan ilmu yang lain. Mikroorganisme yang dikembangkan dalam bioteknologi mampu 
+mengubah bahan mentah hingga memiliki nilai tambah lebih tinggi, seperti pada pembuatan 
+obat-obatan dan pembuatan makanan (mengubah bahan pangan).</p>
+
+<p>Produk-produk lain dari bioteknologi yang bermanfaat bagi peningkatan kesejahteraan yaitu:
+1) Pembasmi hama tanaman. Penerapan bioteknologi untuk pembasmian hama tanaman dengan memanfaatkan 
+mikroorganisme disebut biological control. Salah satu contoh mikroorganisme yang digunakan adalah 
+Bacillus thuringensis, yaitu bakteri yang digunakan sebagai patogen terhadap hama tanaman (ulat). 
+Beberapa bakteri Bacillus thuringensis yang dikembangkan untuk membasmi hama tanaman adalah:
+a) Bacillus thuringensis varietas tenebrionis, menyerang kumbang kentang Colorado dan larva 
+kumbang kayu.
+b) Bacillus thuringensis varietas kurstaki, menyerang berbagai jenis ulat tanaman pertanian.
+c) Bacillus thuringensis varietas israelensis, menyerang nyamuk dan lalat hitam.
+d) Bacillus thuringensis varietas aizawai, menyerang larva ngengat.</p>
+
+<p>Selain pembasmi hama tanaman, rekayasa genetika juga mampu menghasilkan mikrobia (mikroorganisme) 
+yang membunuh bakteri pembentuk salju (snow maker) atau kristal es yang merusak tanaman 
+(Pseudomonas syringae).</p>
+
+<p>Tanaman Pengikat Nitrogen. Bioteknologi dapat menghasilkan tanaman yang mampu mengikat nitrogen 
+bebas dari udara dengan menggunakan bakteri seperti Rhizobium dan Acetobacter.</p>
+
+<p>Pengelola limbah. Bioteknologi dapat menghasilkan mikroorganisme strain baru yang dapat mengurangi 
+polutan. Bakteri Clostridium butyricum digunakan untuk mengatasi limbah cair yang mengandung gula 
+sebagai limbah buangan dari pabrik alkohol. Bakteri tersebut mampu menguraikan gula menjadi gas 
+H2. Bakteri kelompok metanogen (penghasil metana), yaitu Metanomonas mecanica dapat menguraikan 
+limbah bahan-bahan organik (kotoran ternak). Mikroorganisme dapat digunakan dalam proses 
+bioremediasi karena mengurangi bahan-bahan polutan dan meningkatkan kualitas tanah dan air.</p>
+
+<p>Pemisah logam dari bijihnya. Bakteri Thiobacillus ferooksidans merupakan bakteri yang memperoleh 
+energi hasil oksidasi zat anorganik (besi dan belerang pada batuan), sehingga tergolong dalam 
+kemolitoautotrof. Bakteri ini dapat tumbuh subur pada lingkungan tanpa zat organik karena dapat 
+menggunakan karbon langsung dari CO2 di udara dan dapat tumbuh pada lingkungan asam.</p>
+
+<p>Menghasilkan bayi tabung. Pada umumnya, pasangan yang menginginkan bayi tabung adalah pasangan 
+yang mempunyai hambatan dalam menghasilkan keturunan (infertilitas). Beberapa penyebab 
+infertilitas yaitu tersumbatnya saluran sel telur pada istri (35%), masalah antibodi, lendir mulut 
+rahim tidak normal, endometriosis, dan masalah sperma suami.</p>
+
+<p>Untuk menjalankan proses bayi tabung, pertama-tama sperma dari orang tua yang akan digunakan untuk 
+membentuk bayi tabung disimpan secara terjaga (melalui pembekuan) pada suatu tempat penyimpanan 
+khusus yang disebut bank sperma. Pengambilan sel telur dilakukan melalui teknik yang disebut 
+laparoskopi. Bayi tabung dihasilkan melalui penyatuan atau penggabungan sel telur dan sperma 
+secara in vitro (di dalam tabung khusus dengan kondisi sama seperti kondisi di dalam rahim). 
+Setelah mengalami masa kultur beberapa waktu, zigot atau embrio ditanam di dalam rahim wanita. 
+Embrio semakin berkembang di dalam rahim dan akhirnya wanita tersebut dapat melahirkan.</p>
+
+<p>Sebelum menggunakan metode bayi tabung, untuk menolong pasangan suami-istri tidak subur digunakan 
+teknik inseminasi buatan, yakni penyemprotan sejumlah cairan semen suami ke dalam rahim dengan 
+bantuan alat suntik. Dengan cara ini, diharapkan sperma lebih mudah bertemu dengan sel telur. 
+Namun, tingkat keberhasilannya hanya 15%.</p>
+
+<p>Dampak Negatif. Pada umumnya, bioteknologi memberikan manfaat. Akan tetapi, tidak selamanya hasil 
+bioteknologi selalu menguntungkan. Beberapa dampak negatif bioteknologi yaitu: mengancam 
+kelestarian alam, dan mengancam kesehatan.
+
+Mengancam kelestarian alam. Sebagian orang menganggap bahwa produk hasil rekayasa genetika 
+tidak selalu mengalami pengujian secara ketat dan sempurna. Oleh karena itu, mereka juga 
+menyatakan bahwa produk hasil rekayasa genetika (terutama tanaman transgenik) hendaknya tidak 
+ditanam sebelum adanya pengujian yang benar-benar meyakinkan. Nampaknya, bioteknologi juga dapat 
+memengaruhi kehidupan alam ini karena:
+1) Jagung hasil rekayasa genetik dapat membunuh ulat yang tidak berbahaya. Selain membunuh hama 
+penyakit, tanaman transgenik juga dapat membunuh hama yang tidak merusak tanaman. Serbuk sari 
+tanaman jagung transgenik dapat membunuh ulat kupu-kupu Monarch, meskipun ulat tersebut tidak 
+merusak tanaman jagung. Bahkan, racun tanaman tersebut dapat masuk ke dalam tanah dan dapat 
+merugikan organisme di dalamnya.
+2) Tanaman rekayasa genetika dapat membahayakan burung. Organisme lain yang terkena dampak adanya 
+tanaman transgenik adalah burung, baik burung pemakan biji tanaman maupun burung pemakan serangga. 
+Racun yang ada pada tanaman transgenik akan masuk ke dalam tubuh serangga pemakan tanaman 
+tersebut. Apabila burung memangsa serangga tersebut, maka burung juga akan membawa racun dari 
+tanaman transgenik.
+3) Agen penyerbuk dapat menyebarkan gen-gen rekayasa genetika. Lebah, angin, dan beberapa 
+serangga penyerbuk berperan dalam memindahkan serbuk sari suatu tanaman ke tanaman yang lain. 
+Jika serbuk sari dari tanaman hasil rekayasa genetika menyebar pada tanaman biasa (bukan hasil 
+rekayasa genetika), maka gen-gen rekayasa genetika dapat pula menyebar pada tanaman yang lain. 
+4) Rekayasa genetika dapat menghasilkan gulma-gulma super. Gen-gen hasil rekayasa genetika yang 
+digunakan sebagai herbisida dapat berpindah pada gulma. Seiring berjalannya waktu, gulma tersebut 
+akan dapat menyesuaikan diri terhadap racun tanaman. Akibatnya, gulma menjadi semakin tahan 
+terhadap racun herbisida tersebut dan menghasilkan gulma-gulma super.</p>
+
+<p>Mengancam kesehatan. Selain faktor lingkungan, dampak bioteknologi juga berpengaruh pada 
+kesehatan masyarakat, antara lain:
+1) Kedelai transgenik dapat menyebabkan gangguan kesehatan. Pada tahun 1990-an, rekayasa genetika 
+dapat menghasilkan kedelai transgenik yang mengandung gen kacang Brazil. Akan tetapi, beberapa 
+orang yang mengonsumsi kedelai tersebut menunjukkan alergi atau reaksi yang buruk.
+2) Makanan dari bahan kentang dapat mengganggu kesehatan. Meskipun kentang yang mengandung 
+sedikit pati (lebih sedikit menyerap minyak goreng dan dikatakan makanan sehat) dapat dihasilkan 
+melalui rekayasa genetika, hal ini tetap membuat para ahli khawatir dan menganggap 
+makanan-makanan sehat yang lain lebih aman dikonsumsi.
+3) Gen rekayasa genetika dapat menimbulkan masalah tulang. Tikus, hewan, dan ayam merupakan hewan 
+yang digunakan untuk menguji makanan hasil rekayasa genetika sebelum dikonsumsi manusia. Para 
+ahli menguji kentang transgenik pada tikus dan ternyata membahayakan organ-organ dalam tikus. 
+Selain itu, masuknya gen rekayasa genetika dalam tubuh babi menyebabkan adanya masalah pada 
+tulang.</p>
+
+<p>Solusi untuk Mengatasi Kontroversi Rekayasa Genetika. Seperti telah kalian ketahui bahwa tidak 
+semua orang menerima dengan positif hasil dari rekayasa genetika. Berikut ini adalah beberapa 
+solusi yang dapat dipilih sebagai jalan terbaik untuk memenuhi kebutuhan hidup manusia.</p>
+
+<p>Peningkatan peralatan pertanian yang canggih dan mencukupi. Peralatan pertanian yang canggih 
+memungkinkan peningkatan produksi pangan. Pengelolaan tanah dan penyediaan air yang baik dalam 
+pertanian dapat menghasilkan bahan makanan yang lebih banyak dan berkualitas. Negara yang maju 
+dan kaya dapat membantu memberikan peralatan pertanian yang canggih bagi negara-negara miskin, 
+untuk meningkatkan produk pertanian. Tidak menutup kemungkinan, hal ini dapat mengatasi masalah 
+kelaparan yang melanda dunia.</p>
+
+<p>Mengembangkan teknik pertanian hidroponik. Hidroponik merupakan cara untuk mengatasi keinginan 
+menghasilkan tanaman rekayasa genetika, terutama di daerah yang kaya air tetapi tandus. 
+Hidroponik adalah cara menumbuhkan tanaman tanpa medium tanah, tetapi menggunakan air yang 
+mengandung mineral-mineral penting untuk pertumbuhan dan perkembangan tanaman. Misalnya, stroberi 
+dapat tumbuh tanpa tanah.</p>
+
+<p>Menggunakan metode alami untuk menghasilkan tanaman. Para petani melakukan metode alami untuk 
+mengatasi metode rekayasa genetika. Salah satu contohnya adalah menggunakan serangga pemakan hama 
+(kumbang koksinelid) untuk mengganti bahan kimiawi pembasmi hama. Sebagian pihak menganggap cara 
+ini lebih baik dibanding cara rekayasa genetika.</p>

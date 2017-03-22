@@ -1,0 +1,335 @@
+<j>Virus.
+<p>Hampir semua di antara kita pernah menderita flu. Flu atau influenza merupakan salah satu penyakit yang disebabkan 
+oleh virus. Selain influenza, berbagai penyakit yang mematikan juga disebabkan oleh virus. Contohnya adalah AIDS dan 
+flu burung. Hal tersebut mendorong manusia untuk terus bekerja keras mempelajari virus guna menemukan obat untuk 
+mengatasi penyakit yang disebabkannya. Lantas, mengapa kalian semua harus mempelajari virus?. Pemahaman tentang virus 
+ini tidak hanya penting bagi kalian yang ingin menjadi dokter atau ahli farmasi. Bukankah kalian semua ingin selalu 
+sehat?. Nah, dengan memahami virus, kalian akan lebih waspada dan terhindar dari penyakit yang disebabkannya. Untuk 
+itu, kalian dapat mencapainya dengan mempelajari ciri-ciri virus dan peranannya dalam kehidupan sehari-hari.</p>
+
+<p>Pada uraian berikut, kalian akan diajak untuk mengenal lebih dekat tentang virus. Setelah mempelajarinya, kalian akan 
+mampu membedakan virus dari makhluk hidup lain. Kalian juga akan mempelajari ciri-ciri, struktur tubuh virus dan 
+fungsinya, dan replikasi pada virus. Kemudian kalian akan mempelajari contoh virus yang bermanfaat dan yang merugikan 
+bagi kehidupan makhluk hidup (manusia, hewan, tumbuhan). Setelah memahami uraian dalam bab ini, kalian diharapkan 
+dapat mengidentifikasi ciri-ciri virus dan membedakan struktur virus dengan makhluk lainnya. Selain itu, kalian 
+diharapkan dapat menjelaskan cara hidup dan cara replikasi virus. Kemampuan lain yang harus kalian kuasai adalah 
+menyebutkan contoh berbagai jenis virus dan pengaruhnya terhadap makhluk hidup lain, terutama manusia.</p>
+
+<p>Aktivitas manusia yang berlebihan dan diiringi oleh perkembangan ilmu pengetahuan dan teknologi yang canggih telah 
+banyak menimbulkan dampak bagi kehidupan. Dampak tersebut antara lain adalah timbulnya berbagai polusi akibat kegiatan 
+yang menghasilkan sampah, terlebih lagi bila sampah-sampah tersebut tidak di daur ulang. Akibatnya timbullah masalah 
+tersendiri di bidang kesehatan, yaitu banyaknya jenis penyakit yang disebabkan oleh mikroorganisme yang hidup pada 
+sampah. Berbagai penyakit juga disebabkan oleh aktivitas virus. Umumnya penyakit akibat virus ini lebih susah untuk 
+diatasi. Oleh karena itu, perhatian manusia terhadap virus semakin besar setelah ditemukannya berbagai penyakit yang 
+aneh dan belum pernah ditemukan sebelumnya.</p>
+
+<p>Virus berasal dari bahasa latin virulae yang artinya 'menular'. Virus merupakan substansi aseluler (tubuh tidak berupa 
+sel), karena hanya memiliki kapsid (selubung yang berfungsi sebagai dinding) dan asam nukleat, tetapi tidak memiliki 
+inti sel, sitoplasma, dan membran sel. Ukuran virus sangat kecil, sehingga disebut juga mikroba atau mikroorganisme. 
+Di dalam biologi, virus dipelajari lebih mendalam pada cabang ilmu mikrobiologi atau lebih khusus lagi disebut 
+virologi.</p>
+
+<p>Menurut para ahli biologi, virus merupakan substansi atau bentuk peralihan antara benda hidup (makhluk hidup) dan 
+benda mati. Virus disebut benda mati karena virus lebih dominan mempunyai ciri-ciri sebagai benda mati daripada 
+ciri-ciri makhluk hidup. Virus berbentuk seperti molekul atau partikel yang disebut virion. Tetapi virus juga 
+menunjukkan ciri-ciri makhluk hidup karena virus mempunyai materi genetik berupa asam nukleat yang terdiri dari dari 
+ADN (Asam Deoksiribo Nukleat) atau ARN (Asam Ribo Nukleat), serta dapat melakukan perkembangbiakan yang dinamakan 
+replikasi. Sejarah penemuan virus dimulai tahun 1883 oleh ilmuwan Jerman yang bernama Adolf Meyer. Ia melakukan 
+penelitian pada tanaman tembakau. Pada suatu ketika ia menemukan adanya daun tembakau yang tidak normal. Daun tersebut 
+berwarna hijau kekuning-kuningan, yang ternyata setelah diamati, terdapat cairan atau lendir. Daun yang mengalami hal 
+demikian menderita penyakit mosaik. Penyakit ini disebabkan oleh mikroorganisme yang kita sebut virus. Penyakit mosaik 
+ini menyebabkan pertumbuhan tembakau menjadi terhambat (kerdil) dan daunnya berwarna belang-belang.</p>
+
+<p>Menurut Meyer, penyakit mosaik pada daun tembakau tersebut dapat menular. Hal ini dibuktikan dengan menyemprotkan 
+ekstrak daun tembakau yang telah tertulari penyakit mosaik ke tanaman tembakau yang masih normal (segar). Setelah 
+diamati ternyata daun yang semula normal tersebut menjadi berwarna hijau kekuning-kuningan (berbintik-bintik kuning). 
+Setelah dilakukan penelitian, penyebab penyakit tersebut adalah mikroba yang kecil sekali dan hanya dapat dilihat 
+dengan menggunakan mikroskop elektron. Penelitian serupa dengan yang dilakukan oleh Meyer tersebut dilakukan kembali 
+oleh Dmitri Ivanovsky. Ia berhasil menemukan filter (alat penyaring) bakteri. Di dalam penelitiannya, Ivanovsky 
+mengoleskan hasil saringan (dari daun tembakau yang telah terkena penyakit mosaik) pada daun tanaman yang sehat. 
+Hasilnya tanaman yang sehat tersebut akhirnya tertular. Ivanovsky menyimpulkan bahwa mikroba penyebab penyakit 
+tersebut adalah mikroba yang bersifat patogen (penyebab penyakit) yang mempunyai ukuran lebih kecil daripada bakteri, 
+karena mikroba tersebut dapat lolos dari saringan atau filter untuk menyaring bakteri.</p>
+
+<p>Selanjutnya, pada tahun tahun 1897, M Beijerinck, seorang ahli mikrobiologi berkebangsaan Belanda, menemukan fakta 
+bahwa mikro organisme yang menyerang tembakau tersebut dapat melakukan reproduksi dan tidak dapat dibiakkan pada 
+medium untuk bakteri. Fakta lainnya adalah apabila mikroorganisme tersebut dimasukkan ke dalam alkohol, ia tidak mati. 
+Tetapi pada waktu itu M Beijerinck belum berhasil menemukan struktur dan spesies makroorganisme tersebut. Menyusul 
+penemuan Beijerinck, ilmuwan Amerika, Wendell M Stanlye, pada tahun 1935 berhasil mengkristalkan makhluk hidup yang 
+menyerang tanaman tambakau. Hasil penelitian tersebut menjawab pertanyaan tentang makhluk apa yang menyebabkan 
+penyakit tersebut. Makhluk hidup tersebut kemudian dinamakan TMV (Tobacco Mosaic Virus) atau Virus Mosaik Tembakau. 
+Sampai saat ini penelitian-penelitian tentang virus dan penyakit-penyakit yang disebabkan oleh virus terus dilakukan 
+dan semakin berkembang.</p>
+
+<p>Ciri-ciri virus meliputi ukuran, bentuk, struktur dan fungsi, cara hidup, serta cara reproduksinya. Ukuran virus 
+berkisar antara 25-300 nm. Virus yang berukuran 25 nm dijumpai pada virus penyebab polio. Sedangkan virus yang 
+berukuran 100 nm misalnya Bakteriofag atau virus T (Bacteriophage atau phage), yaitu virus yang menyerang bakteri 
+Escherichia coli. Sedangkan virus yang berukuran lebih kurang 300 nm contohnya adalah TMV (Tobacco Mosaic Virus). 
+Bentuk tubuh virus sangat bervariasi. Virus yang berbentuk bulat contohnya adalah virus influenza (influenza virus) 
+dan HIV penyebab AIDS. Virus juga ada yang berbentuk oval, seperti virus rabies (Rabiez virus). Bentuk batang dijumpai 
+pada TMV, bentuk jarum dijumpai pada Tungrovirus (virus penyebab kekerdilan pada batang padi), dan bentuk seperti 
+huruf T dijumpai pada Bakteriofag. Sedangkan bentuk polihedral contohnya adalah pada Adenovirus (penyebab penyakit 
+demam).</p>
+
+<p>Tubuh virus bukan merupakan sel (aseluler), tidak memiliki inti sel, sitoplasma, dan membran sel, tetapi hanya memiliki 
+kapsid sebagai pelindung luar. Virus berupa partikel (molekul) yang disebut virion. Tubuh virus yang berupa kristal 
+atau partikel ini lebih menunjukkan ciri mineral daripada ciri kehidupan. Oleh karena itu ada anggapan bahwa virus 
+bukan makhluk hidup. Struktur tubuh virus yang kita gunakan sebagai contoh dalam pembahasan ini adalah struktur tubuh 
+Bakteriofag (virus T). Tubuh virus T terbagi atas bagian kepala dan bagian ekor. Bagian kepala terbungkus oleh suatu 
+selubung dari protein yang disebut kapsid. Kapsid mempunyai fungsi sebagai pemberi bentuk pada virus, dan juga 
+berfungsi sebagai pelindung bagian dalam tubuh virus. Bagian di luar kapsid terdapat selubung yang tersusun dari 
+lipida dan karbohidrat. Di dalam tubuh virus (isi tubuh virus) terdapat materi genetik sederhana yang terdiri dari 
+senyawa asam nukleat yang berupa ADN atau ARN. Bentuk ADN dan ARN tergantung pada spesifikasi virus. Setiap jenis 
+virus hanya memiliki 1 macam molekul materi genetik, yaitu ADN saja atau ARN saja. Materi genetik tersebut dapat berupa 
+rantai ganda yang berpilin atau rantai tunggal, dengan bentuk memanjang, lurus, atau melingkar. Bentuk kapsid pada 
+virus bermacam-macam, ada yang bulat, oval, batang, polihedral, atau seperti huruf T. Pada beberapa virus, misalnya 
+virus flu dan herpes, di luar kapsid masih terdapat struktur tambahan yang berupa kapsul pembungkus atau amplop. 
+Kapsul pembungkus ini berfungsi membantu virus untuk menyerang (menginfeksi) tubuh inang atau hospes, sehingga tubuh 
+inang tersebut menderita suatu penyakit.</p>
+
+<p>Virus tidak dapat berdiri sendiri atau hidup bebas di alam ini. Virus hidup secara parasit pada bakteri, tumbuhan, 
+hewan, dan manusia. Tidak ada satu bakteri pun yang tidak mengandung virus. Virus yang menginfeksi bakteri adalah 
+bakteriofag. Bakteriofag dapat berkembang cepat sehingga dalam waktu yang singkat dapat menghancurkan sejumlah bakteri. 
+Bakteriofag memiliki inti asam nukleat berbentuk DNA ganda berpilin atau tunggal berpilin atau RNA rantai tunggal. 
+Contoh bakteriofag adalah Escherichia coli (bakteri yang terdapat di dalam colon atau usus besar manusia). Sebagian 
+besar penyakit pada tumbuh-tumbuhan disebabkan oleh virus. Serangan virus ini dapat mengakibatkan kerugian secara 
+ekonomi yang sangat besar, misalnya, virus yang menyerang tanaman kentang dan tembakau. Bahan genetik dari virus 
+tumbuh-tumbuhan adalah RNA. Virus ini dapat memasuki bagian dalam sel secara aktif atau dapat melalui cedera, misalnya, 
+cedera akibat gosokan pada daun. Di alam virus ditularkan secara kontak langsung atau melalui vektor. Sejumlah besar 
+virus dapat juga ditularkan melalui serangga. Virus sering memperbanyak diri di dalam saluran pencernaan serangga 
+(virus persisten). Virus dapat menginfeksi tumbuhan lain setelah terjadi masa inkubasi di dalam serangga. Sementara 
+itu, virus yang tidak persisten dapat ditularkan melalui gigitan serangga secara langsung.</p>
+
+<p>Bahan genetik virus hewan adalah DNA ganda berpilin atau RNA polinukleotida tunggal. Virus dapat menimbulkan penyakit 
+rabies (anjing gila), sampar pada ayam, ebola pada kera, dan penyakit kuku pada ternak. Virus ini dapat ditularkan 
+secara kontak langsung atau melalui perantara serangga. Untuk penelitiannya, diperlukan hewan percobaan atau telur 
+ayam yang sudah dierami. Selain itu, virus juga dapat diperbanyak dengan kultur jaringan. Perbanyakan ini dapat 
+dilakukan di laboratorium. Virus yang menyerang manusia, antara lain, virus cacar air, cacar, campak, influenza, polio, 
+mata belek, hepatitis, demam berdarah, diare, HIV AIDS, dan virus AI. Virus pada manusia dapat ditularkan secara kontak 
+langsung maupun tidak langsung. Mata belek, influenza, dan cacar dapat ditularkan secara kontak langsung atau lewat 
+udara. Hepatitis dan polio dapat ditularkan melalui air sumur yang tercemar dan sendok atau piring bekas penderita 
+ataupun keringat penderita. Demam berdarah dapat ditularkan melalui gigitan nyamuk Aedes aegypti. Sementara itu, virus 
+HIV AIDS dapat ditularkan melalui jarum suntik, air ludah, transfusi darah, air susu, plasenta ibu hamil pada janinnya, 
+hubungan kelamin, serta cairan vagina dan sperma.</p>
+
+<p>Virus bukanlah sel yang dapat berkembang biak sendiri. Cara berkembang biak virus berbeda dengan makhluk hidup lain. 
+Virus tidak mampu memperbanyak diri di luar sel-sel hidup sehingga dikatakan bahwa virus bukanlah makhluk hidup yang 
+dapat hidup mandiri. Virus selalu memanfaatkan sel-sel hidup sebagai inang untuk memperbanyak dirinya. Replikasi 
+terjadi di dalam sel inang. Untuk dapat mereplikasi asam nukleat dan menyintesis protein selubungnya, virus bergantung 
+pada sel-sel inang. Replikasi ini menyebabkan rusaknya sel inang. Setelah itu, virus akan keluar dari sel inang. Di 
+luar sel inang, virus disebut sebagai partikel virus yang disebut virion. Ada beberapa tahapan dalam replikasi virus, 
+yaitu tahap adsorpsi (penempelan) virus pada inang, tahap injeksi (masuknya) asam inti ke dalam sel inang, tahap 
+sintesis (pembentukan), tahap perakitan, dan tahap litik (pemecahan sel inang). Berdasarkan tahapan tersebut, siklus 
+hidup virus dapat dibedakan lagi menjadi siklus litik dan siklus lisogenik.</p>
+
+<p>Replikasi virus dalam sel inang merupakan peristiwa yang sangat kompleks, tahap demi tahap dari proses sintesis, mulai 
+dari terinfeksinya sel inang sampai pembebasan partikel-partikel virus. Seperti virus lain, bakteriofag tidak 
+dapat bergerak. Jika suspensi bakteriofag bebas bercampur dengan suspensi bakteri, akan terjadi persinggungan 
+kebetulan yang menyebabkan bakteriofag teradsorpsi pada permukaan bakteri. Selanjutnya, DNA bakteriofag terinjeksi ke 
+dalam bakteri. Setelah beberapa waktu, terjadilah lisis sel-sel inang yang ditandai dengan pembebasan bakteriofag 
+bentukan, kemudian baru ke dalam medium suspensi.</p>
+
+<p>Pada tahap adsorpsi, ekor virus mulai menempel di dinding sel bakteri. Virus hanya menempel pada dinding sel yang 
+mengandung protein khusus yang dapat ditempeli protein virus. Menempelnya virus pada dinding sel disebabkan oleh adanya 
+reseptor pada ujung serabut ekor. Setelah menempel, virus akan mengeluarkan enzim lisozim yang dapat menghancurkan atau 
+membuat lubang pada sel inang.</p>
+
+<p>Proses injeksi DNA ke dalam sel inang ini terdiri atas penambatan lempeng ujung, kontraksi sarung, dan penusukan pasak 
+berongga ke dalam sel bakteri. Pada peristiwa ini, asam nukleat masuk ke dalam sel, sedangkan selubung proteinnya 
+tetap berada di luar sel bakteri. Jika sudah kosong, selubung protein ini akan terlepas dan tidak berguna lagi.</p>
+
+<p>Virus tidak dapat melakukan sintesis sendiri, tetapi virus akan melakukan sintesis dengan menggunakan sel inangnya. 
+Setelah asam nukleat disuntikan ke dalam sel inang, segera menimbulkan perubahan-perubahan besar pada metabolisme sel 
+yang terinfeksi (sel inang atau bakteri). Enzim penghancur yang dihasilkan oleh virus akan menghancurkan DNA bakteri 
+yang menyebabkan sintesis DNA bakteri terhenti. Posisi ini digantikan oleh DNA virus yang kemudian mengendalikan 
+kehidupannya. Dengan fasilitas dari DNA bakteri yang sudah tidak berdaya, DNA virus akan mereplikasi diri berulang 
+kali dengan jalan mengopi diri dalam jumlah yang sangat banyak. Sintesis DNA virus dan protein terbentuk atas kerugian 
+sintesis bakteri yang telah rusak. DNA virus ini kemudian akan mengendalikan sintesis DNA dan protein yang akan 
+dijadikan kapsid virus.</p>
+
+<p>Pada tahap perakitan, kapsid virus yang masih terpisah-pisah antara kepala, ekor, dan serabut ekor akan mengalami 
+proses perakitan menjadi kapsid yang utuh. Kemudian, kepala yang sudah selesai terbentuk diisi dengan DNA virus. 
+Proses ini dapat menghasilkan virus sejumlah 100 sampai 200 buah. Pada tahap litik, dinding sel bakteri yang sudah 
+dilunakkan olen enzim lisozim akan pecah dan diikuti oleh pembebasan virus-virus baru yang siap untuk mencari sel-sel 
+inang yang baru. Pemecahan sel-sel bakteri secara eksplosif dapat diamati dengan mikroskop lapangan gelap. Jangka 
+waktu yang dilewati lima tahap ini dan jumlah virus yang dibebaskan sangat bervariasi, tergantung dari jenis virus, 
+bakteri, dan kondisi lingkungan.</p>
+
+<p>Virus lambda dapat melakukan siklus litik, tetapi kadang-kadang juga melakukan siklus lisogenik. Pada siklus lisogenik, 
+tahap yang dilalui lebih banyak daripada siklus litik. Tahap adsorpsi dan tahap injeksi sama dengan siklus litik. Akan 
+tetapi, sebelum tahap sintesis, terlebih dahulu virus melewati tahap penggabungan dan tahap pembelahan. Kemudian, 
+dilanjutkan dengan tahap perakitan dan tahap litik.</p>
+
+<p>Tahap adsorpsi dan tahap injeksi pada siklus lisogenik sama seperti tahap adsorpsi dan tahap injeksi siklus litik.
+Tahap penggabungan adalah tahap ketika DNA virus masuk ke dalam tubuh bakteri dan terjadinya penggabungan antara DNA 
+bakteri dan DNA virus. Proses ini terjadi ketika DNA yang berbentuk kalung tak berujung pangkal terputus dan DNA virus 
+menyisip di antara DNA bakteri yang terputus tadi. Kemudian, terbentuklah rangkaian DNA yang utuh yang telah terinfeksi 
+atau tersisipi DNA virus.</p>
+
+<p>Pada tahap pembelahan, DNA virus telah tersambung dengan DNA bakteri. DNA virus tidak dapat bergerak atau disebut 
+sebagai profag. Karena bergabung dengan DNA bakteri, ketika DNA bakteri melakukan replikasi selnya secara langsung, 
+profag juga melakukan replikasi. Demikian juga ketika sel bakteri mengalami pembelahan, secara langsung dua anak sel 
+bakteri yang mengandung profag tersebut juga ikut mengalami pembelahan. Dengan kata lain, jumlah profag sama dengan 
+jumlah sel bakteri inangnya. Sedangkan pada tahap sintesis, kondisi lingkungan tertentu akan menyebabkan profag menjadi 
+aktif. Profag dapat saja memisahkan diri dengan DNA bakteri dan merusak DNA bakteri. Kemudian menggantikan peran DNA 
+bakteri dengan DNA virus untuk sistesis protein yang berfungsi sebagai kapsid bagi virus-virus baru dan replikasi DNA.</p>
+
+<p>Pada tahap perakitan, terjadi perakitan kapsid-kapsid virus yang utuh sebagai selubung virus. Setelah kapsid virus 
+utuh, diisi dengan DNA hasil replikasi, terjadilah virus-virus baru. Tahap litik sama dengan tahap litik pada siklus 
+litik saat dinding bakteri akan pecah dan virus baru berhamburan keluar. Virus baru ini selanjutnya akan menyerang 
+bakteri yang lain. Begitu seterusnya, virus akan mengalami siklus litik atau lisogenik.</p>
+
+<p>Berdasarkan asam intinya, replikasi virus dapat dibedakan menjadi virus yang berasam inti DNA dan virus yang berasam 
+inti RNA. Virus dengan asam inti DNA menginfeksi sel inang dan memperbanyak diri menjadi beberapa DNA. Beberapa DNA 
+virus mengalami transkripsi menjadi mRNA penghasil selubung protein virus. mRNA menghasilkan enzim yang dapat 
+menghancurkan dinding sel inang. Hancurnya sel inang menjadikan virus-virus baru berhamburan keluar dan virus-virus 
+baru ini siap menginfeksi sel-sel inang lain. Contoh virus berasam inti DNA adalah virus cacar, virus herpes, dan 
+bakteriofag. Contohnya virus dengan asam inti RNA adalah virus AIDS. RNA virus AIDS menginfeksi sel inang, lalu 
+melakukan penerjemahan balik membentuk RNA-DNA baru dan membentuk DNA virus. Selanjutnya, DNA virus masuk ke dalam 
+inti sel inang yang menyebabkan DNA inang mengandung DNA virus. DNA virus membentuk mRNA dari inti. RNA virus 
+membentuk protein virus di dalam sitoplasma sel inang. RNA virus dan protein virus akhirnya bergabung membentuk HIV.</p>
+
+<p>Dalam kehidupan manusia, hewan, dan tumbuhan virus dapat merugikan dan menguntungkan. Pada umumnya virus merugikan 
+tubuh makhluk hidup yang menjadi inangnya. Virus bisa merugikan karena menimbulkan penyakit baik pada manusia, hewan, 
+maupun tumbuhan. Tetapi ternyata ada juga virus yang menguntungkan, terutama bagi manusia.</p>
+
+<p>DNA sebagai pembawa materi genetik dapat mengubah sifat makhluk hidup. Dalam siklus lisogenik, penggabungan DNA 
+bakteri dan DNA virus menjadikan DNA bakteri mengandung DNA virus. Pada saat DNA virus aktif dan DNA bakteri hancur, 
+sebagian DNA bakteri tidak hancur sehingga sebagian DNA virus tetap membawa gen bakteri. Jika di dalam DNA virus 
+terkandung DNA bakteri A dan DNA virus tersebut menginfeksi bakteri B, di dalam bakteri B mengandung DNA virus dan DNA 
+bakteri A. Dengan demikian, sebagian sifat bakteri A dapat dimiliki oleh bakteri B. Berdasarkan teori di atas, virus 
+dapat berperan dalam berbagai hal.</p>
+
+<p>Virus dapat digunakan untuk memproduksi vaksin. Vaksin merupakan patogen yang telah dilemahkan sehingga tidak 
+berbahaya jika menyerang manusia. Ada beberapa virus yang dimanfaatkan untuk memproduksi vaksin. Jika telah diberi 
+vaksin, tubuh manusia akan dapat memproduksi antibodi sehingga jika sewaktu-waktu terserang patogen yang sebenarnya, 
+tubuh manusia tersebut telah kebal karena di dalam tubuhnya telah diproduksi antibodi patogen tersebut.</p>
+
+<p>Antitoksin dapat dibuat dengan menggabungkan DNA virus dan gen yang mempunyai sifat menguntungkan sehingga jika virus 
+menginfeksi bakteri, di dalam sel bakteri tersebut terkandung gen yang menguntungkan. Gen manusia adalah gen yang 
+menguntungkan yang dapat mengendalikan produksi antitoksin. Jika oleh DNA virus, DNA manusia disambungkan dengan DNA 
+bakteri, sel bakteri tersebut akan mengandung gen manusia penghasil antitoksin. Jadi, yang mulanya gen bakteri tidak 
+mengandung antitoksin manusia, sekarang mampu memproduksi antitoksin manusia. Pembelahan akan terus-menerus dilakukan 
+oleh bakteri. Setiap bakteri baru dipastikan mengandung antitoksin yang dihasilkan oleh DNA manusia. Antitoksin dapat 
+dipisahkan dan dimanfaatkan untuk pelawan penyakit pada manusia. Dengan rekayasa genetik, dapat dikatakan bahwa virus 
+dapat dimanfaatkan sebagai perantara gen manusia atau gen makhluk hidup lainnya untuk masuk ke dalam sel bakteri agar 
+sel bakteri tersebut membawa sifat gen manusia atau gen makhluk hidup lain.</p>
+
+<p>Selain itu, virus dapat digunakan untuk melemahkan bakteri. Virus yang menyerang bakteri patogen merupakan virus yang 
+menguntungkan. Jika DNA virus lisogenik menginfeksi DNA bakteri patogen, bakteri tersebut menjadi melemah atau tidak 
+berbahaya.</p>
+
+<p>Virus dapat menyebabkan beberapa penyakit pada tubuh manusia. Serangan virus ini dapat merugikan manusia. Beberapa 
+penyakit yang disebabkan oleh virus adalah influenza, pilek, cacar, polio, herpes, rabies, gondong, mata belek, ebola, 
+kanker, cacar air, hepatitis, dan demam berdarah.</p>
+
+<p>Virus influenza berbentuk bulat. Pernahkah kalian terserang virus inluenza?. Tanda-tanda orang yang terkena virus 
+influenza adalah timbulnya ingus, suhu badan meningkat, demam, nyeri otot, dan nafsu makan menurun. Virus ini menyerang 
+bagian atas saluran pernapasan. Ada sekitar 190 macam virus penyebab influenza. Karena macamnya yang banyak, jika 
+seseorang telah sembuh dari serangan virus influenza, ada kemungkinan terserang lagi oleh virus influenza yang berbeda. 
+Virus ini dapat dicegah dengan meningkatkan daya tahan tubuh, mengusahakan tubuh tetap sehat, olahraga yang cukup, dan 
+banyak mengonsumsi buah dan sayur yang mengandung vitamin C.</p>
+
+<p>Virus cacar berbentuk seperti bata yang berlapis dua membran. Virus cacar terdiri atas inti yang berisi DNA pita 
+rangkap yang mengandung protein. Virus cacar tahan terhadap kekeringan sehingga mempunyai daya tular yang tinggi.
+Cacar dapat menyerang tubuh manusia. Virus cacar menginfeksi manusia melalui saluran pernapasan bagian atas dan 
+menyebar melalui darah. Akhirnya, virus diam di dalam kulit dan menimbulkan gelembung-gelembung kecil dan datar. 
+Setelah pecah, akan menimbulkan bopeng pada tubuh dan wajah. Masa inkubasi virus ini adalah 12 sampai 16 hari. Gejala 
+yang ditimbulkan oleh virus ini adalah suhu badan terasa panas dingin, demam, lesu, menggigil, sakit kepala, dan sakit 
+punggung. Penularan penyakit cacar dapat melalui kontak langsung dengan sumber infeksi, sekresi hidung, mulut, dan 
+benda yang telah terkontaminasi oleh virus, seperti handuk, washlap, selimut, baju, dan seprai. Untuk mencegah 
+terjalar atau terjangkit penyakit cacar, dapat dilakukan dengan pemberian vaksin cacar. Vaksinasi aktif ini dapat 
+menginduksi antibodi dalam serum dan memberi imunitas terhadap penyakit cacar yang sebenarnya.</p>
+
+<p>Virus polio sering menyerang anak-anak. Gejala yang ditimbulkan adalah demam tinggi, mengantuk, tenggorokan sakit, 
+mual, muntah, sakit kepala, serta tulang belakang dan tulang leher terasa kaku. Jika virus ini menyerang selaput otak 
+dan merusak sel saraf otak depan, akan menyebabkan kelumpuhan. Sumber virus berada dalam saluran usus penderita polio. 
+Virus dapat ditularkan melalui feses orang yang telah terserang polio. Jika makanan yang telah terkontaminasi kita 
+makan, kita akan tertular. Selain itu, dapat juga ditularkan melalui infeksi saluran pernapasan. Masa inkubasinya 
+antara 3 sampai 35 hari atau 7 sampai 14 hari. Polio dapat dicegah dengan pemberian vaksin polio. Vaksin polio ini 
+terdiri atas vaksin salk dan sabin. Vaksin salk bertugas mengaktifkan produksi antibodi dalam serum, sedangkan vaksin 
+sabin mengandung virus polio yang sudah dilemahkan.</p>
+
+<p>Herpes zoster disebabkan oleh serangan virus Varisela yang menyerang saraf sensoris. Herpes ini biasa disebut dengan 
+cacar air. Pada anak-anak, cacar air merupakan penyakit yang ringan, tetapi pada orang dewasa, serangan virus ini 
+dapat mengakibatkan kematian. Gejala yang ditimbulkan oleh serangan virus ini adalah demam dan timbul gelembung kulit 
+yang datar. Varisela menginfeksi saluran pernapasan bagian atas, kemudian menyebar melalui darah dan berhenti di dalam 
+kulit. Masa inkubasinya adalah 14 sampai 16 hari. Infeksi oleh virus ini hanya terjadi di sepanjang saraf sensoris 
+yang terinfeksi. Jika virus ini menginfeksi sumsum tulang belakang, akan menyebabkan kelumpuhan, tetapi dalam 2 sampai 
+4 minggu dapat disembuhkan. Agar tidak terinfeksi virus ini lagi, kita harus menjaga tubuh agar tetap fit. Virus ini 
+akan aktif kembali jika daya tahan tubuh kita menurun.</p>
+
+<p>Rabies atau penyakit anjing gila disebabkan oleh virus rabies yang menyerang sistem saraf pusat penderita. Virus 
+rabies dapat menginfeksi semua hewan berdarah panas, seperti anjing, serigala, dan kucing. Penularannya dapat melalui 
+gigitan dari hewan yang telah terinfeksi. Masa inkubasinya adalah 10 sampai 14 hari. Virus rabies juga dapat 
+menginfeksi manusia. Gejala yang ditimbulkan adalah hirdopobia (takut air), sakit kepala, tertawa tanpa sebab, lesu, 
+demam, gugup, dan lumpuh. Pengobatan penyakit rabies dapat dilakukan dengan pemberian vaksin rabies.</p>
+
+<p>Penyebab gondong adalah serangan virus RNA yang menginfeksi otak, kelenjar parotid, pankreas, dan jantung. Biasanya, 
+infeksi pada kelenjar parotid menyebabkan bengkak di belakang telinga. Orang yang pernah terserang virus ini akan 
+memiliki kekebalan terhadap gondong. Virus belek menyerang mata. Virus belek mengakibatkan rasa sakit, mata merah, 
+bengkak, mengeluarkan air mata, dan mengeluarkan kotoran mata yang banyak. Virus ebola hanya menyerang manusia dan 
+kera. Awalnya virus ebola menyerang sel darah putih makrofag dan fibroblas. Setelah itu, virus menyebar ke seluruh 
+jaringan tubuh dan jaringan ikat di bawahnya. Setelah 7 hari, penderita akan mengalami pendarahan di dalam tubuh dan 
+menderita kerusakan ginjal dan hati. Keadaan ini menimbulkan demam, sakit kepala, dan lelah sekali. Selanjutnya, 
+penderita ebola akan mengalami penggumpalan darah dan pendarahan, baik di dalam maupun di luar tubuh. Jika sudah 
+terjadi demikian, kemungkinan hidup tidak ada lagi.</p>
+
+<p>Kanker juga dapat disebabkan oleh virus. Virus yang menginfeksi akan mengalami pembelahan sel yang tidak ada hentinya 
+sehingga dapat memicu timbulnya kanker. Penyebab penyakit demam berdarah adalah infeksi virus Dengue. Virus ini 
+ditularkan oleh gigitan nyamuk Aedes aegypti. Infeksi virus Dengue menyebabkan turunnya jumlah trombosit (pembeku 
+darah) dalam tubuh penderita. Penderita yang telah parah akan mengalami pendarahan pada organ-organ tubuh yang 
+berakibat pada kematian. Gejala awal yang sering timbul dari penderita DB adalah demam tinggi, timbul bercak merah, 
+terutama pada lekukan tubuh, mimisan, dan sakit kepala, kadang-kadang disertai mual dan muntah. Berbeda dengan dua 
+penyakit kelamin yang disebabkan oleh bakteri. Herpes genetalis disebabkan oleh virus Herpes simpleks. Rasa gatal dan 
+sakit di daerah kelamin menyebabkan penderita menggaruk bagian yang terasa gatal tersebut. Bekas garukan berupa 
+lepuhan-lepuhan kecil berair dan jika digaruk lagi, akan menimbulkan luka terbuka atau infeksi.</p>
+
+<p>Hepatitis disebabkan oleh serangan virus yang menginfeksi hati. Biasanya, penyakit yang disebabkan oleh virus dapat 
+ditularkan melalui udara, jarum suntik, makanan dan minuman, serta transfusi darah. Pencegahan penyakit ini dapat 
+dilakukan dengan menjaga kesehatan dan kebersihan makanan di lingkungan hidup kita. Hepatitis A penularannya melalui 
+mulut, makanan, dan minuman. Hepatitis A merupakan infeksi kronis yang dapat disembuhkan dengan pemberian antibodi dan 
+vaksin. Hepatitis B penularannya melalui cairan tubuh, transfusi darah, dan bawaan lahir yang diturunkan oleh ibunya. 
+Penyakit ini ada yang dapat disembuhkan dengan pemberian antibodi dan vaksin, tetapi ada juga yang berkembang menjadi 
+sirosis dan kanker hati. Hepatitis C tidak terdapat gejala pada penyakit ini, tetapi setelah beberapa puluh tahun, 
+baru terdeteksi sehingga biasanya kondisi penderita sudah parah. Belum ada vaksin yang dapat menyembuhkannya. 
+Pemberian interferon hanya dapat menghambat perkembangbiakan virus.</p>
+
+<p>Penyakit Acquired Immune Deficiency Syndrome (AIDS) disebabkan oleh adanya infeksi virus Human Immunodeficiency Virus 
+(HIV). Virus HIV dapat merusak sistem kekebalan tubuh. Kerusakan sistem jaringan tubuh ini bersifat permanen sehingga 
+tidak dapat melindungi tubuh dari infeksi atau jenis kanker tertentu lainnya. Serangan virus HIV dapat menimbulkan 
+kematian. Sampai sekarang penyakit ini belum ada obatnya. Penyakit AIDS tidak ditularkan melalui kontak biasa. Penyakit 
+AIDS ditularkan melalui hubungan seksual, kontak dengan darah yang tercemar HIV (transfusi darah), dan melalui jarum 
+suntik atau alat kedokteran lainnya yang tercemar HIV. Seseorang yang dalam tubuhnya terdapat virus AIDS akan terlihat 
+sehat atau merasa sehat, tetapi sebenarnya keadaan ini sangat menular dan berbahaya bagi orang lain. Seorang perempuan 
+yang terinfeksi HIV dapat menularkannya kepada janin yang dikandungnya. Gejala-gejala orang yang terinfeksi HIV AIDS 
+adalah:
+1) mengeluarkan banyak keringat pada malam hari; 
+2) terus-menerus merasa lelah tanpa sebab yang jelas; 
+3) sakit kepala berkepanjangan; 
+4) batuk kering; 
+5) sering merasa sulit bernapas; 
+6) diare kronis; 
+7) selama beberapa minggu suhu badan di atas 38°C; 
+8) pembengkakan kelenjar limfe dalam tiga bulan atau lebih. 
+Sampai saat ini, belum ada obat untuk menyembuhkan penyakit AIDS. Satu-satunya harapan untuk mengontrol AIDS hanyalah 
+melalui pendidikan dan mengubah perilaku manusia. Untuk mencegah meluasnya HIV AIDS, penyuluhan-penyuluhan tentang 
+bahaya HIV AIDS terhadap masyarakat terutama para remaja dan penyaringan atau survei terhadap kelompok risiko tinggi 
+perlu dilakukan berdasarkan ketentuan yang normal. Selain itu, karena HIV AIDS merupakan penyakit kelamin yang lazimnya 
+ditularkan melalui hubungan seksual. Cara untuk mencegah tertularnya penyakit ini adalah tidak melakukan hubungan 
+seksual secara bebas atau berganti-ganti pasangan seks di luar nikah.</p>
+
+<p>Isu flu burung dan ditemukannya virus Avian Influenza (AI) di sebagian wilayah Semarang membuat dokter hewan senior, 
+drh Dwi Yanni L, memberi penjelasan tentang flu burung. Menurutnya, AI merupakan jenis virus yang tidak menimbulkan 
+sakit pada unggas liar dan unggas air. Secara alamiah, unggas liar dan unggas air membawa virus ini. Menurutnya, virus 
+ini diketahui efeknya setelah menular pada unggas yang mengalami domestifikasi (dipelihara). Penularan dapat melalui 
+bersin atau kotoran yang mencemari alat, daun, buah, atau apa pun yang sempat bersentuhan dengannya. Unggas domestik 
+tidak biasa bersinggungan dengan virus AI sehingga unggas ini langsung menunjukkan gejala sakit ketika terserang virus 
+ini. Virus H5N1 merupakan virus yang memiliki komposisi protein H (Heneoglutinin) dan memiliki 16 tipe serta N 
+(Neuraminidate) dengan 9 tipe yang biasa menyerang, seperti flu biasa. Flu yang sering menyerang manusia jenis 
+virusnya adalah H1, H2, atau H3. Virus H5, H7, dan H9 biasanya menyerang unggas air, sedangkan virus H lainnya 
+biasanya menyerang hewan lain, seperti babi dan kuda. Penyerangan virus H5 pada tubuh manusia mengakibatkan mereka 
+tidak tahan dan mengalami gejala sakit yang serius, seperti panas tinggi, tenggorokan sakit, kejang, dan sesak napas. 
+Inilah yang menyebabkan penderita mengalami kematian. Langkah yang diambil dengan pengandangan unggas harus disertai 
+dengan langkah vaksinasi. Dengan pemberian vaksin, unggas yang memang terinfeksi dibiarkan mati dan yang tidak 
+terinfeksi menjadi lebih kuat atau kebal. </p>

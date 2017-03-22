@@ -1,0 +1,65 @@
+<j>Pesawat Sederhana.
+<p>Pesawat adalah alat-alat yang dapat memudahkan pekerjaan manusia. Kamu memerlukan gaya untuk melakukan berbagai 
+pekerjaan. Gaya itu dilakukan oleh otot. Kekuatan otot manusia terbatas. Tentu kamu pernah menemui kesulitan dalam 
+melakukan suatu pekerjaan. Misalnya membuka tutup botol, memanjat pohon, menimba air, dan memindahkan barang yang 
+berat. Oleh karena itu, kamu memerlukan alat untuk mempermudah pekerjaan tersebut. Kamu dapat menggunakan pesawat. 
+Pesawat dapat memperkecil gaya yang kamu keluarkan. Pesawat ada yang rumit dan ada yang sederhana. Pesawat rumit 
+tersusun atas pesawat-pesawat sederhana. Pada prinsipnya, pesawat sederhana terbagi menjadi empat macam, yaitu 
+pengungkit, bidang miring, katrol, dan roda berporos. Bagaimana cara kerja pesawat sederhana?.</p>
+
+<p>Pernahkah kamu kesulitan menggeser bongkahan batu yang besar?. Bagaimana caranya agar batu dapat digeser?. Alat yang 
+dapat membantu untuk menggeser batu yang besar adalah linggis. Linggis merupakan salah satu jenis tuas. Tuas lebih 
+dikenal dengan nama pengungkit. Pada umumnya, tuas atau pengungkit menggunakan batang besi atau kayu yang digunakan 
+untuk mengungkit suatu benda. Terdapat tiga titik yang menggunakan gaya ketika kita mengungkit suatu benda, yaitu 
+beban (B), titik tumpu (TT), dan kuasa (K). Beban merupakan berat benda, sedangkan titik tumpu merupakan tempat 
+bertumpunya suatu gaya. Gaya yang bekerja pada tuas disebut kuasa. Tuas/ linggis dapat digambarkan secara sederhana.
+Berdasarkan posisi atau kedudukan beban, titik tumpu, dan kuasa, tuas digolongkan menjadi tiga, yaitu tuas golongan 
+pertama, tuas golongan kedua, dan tuas golongan ketiga.</p>
+
+<p>Pada tuas golongan pertama, kedudukan titik tumpu terletak di antara beban dan kuasa. Contoh tuas golongan pertama ini 
+di antaranya adalah gunting, linggis, jungkat-jungkit, dan alat pencabut paku. Pada tuas golongan kedua, kedudukan 
+beban terletak di antara titik tumpu dan kuasa. Contoh tuas golongan kedua ini di antaranya adalah gerobak beroda satu, 
+alat pemotong kertas, dan alat pemecah kemiri, pembuka tutup botol. Pada tuas golongan ketiga, kedudukan kuasa 
+terletak di antara titik tumpu dan beban. Contoh tuas golongan ketiga ini adalah sekop yang biasa digunakan untuk 
+memindahkan pasir. Selain itu, stapler, pinset, dan sapu juga menggunakan prinsip kerja pengungkit golongan III.</p>
+
+<p>Tangga merupakan salah satu jenis bidang miring. Jika memanjat pohon secara langsung, beban tubuh kita akan tertumpu 
+pada tangan dan kaki. Namun, bila memakai tangga, beban tubuh akan ditahan oleh anak tangga yang kita injak. Itulah 
+sebabnya seolah-olah pekerjaan kita terasa lebih ringan. Sebenarnya, pekerjaan kita tetap, tetapi diperingan oleh alat. 
+Jadi, dengan menggunakan bidang miring kita dapat menghemat tenaga. Prinsip yang sama juga diterapkan pada tangga 
+bangunan bertingkat. Tahukah kamu, mengapa jalan di daerah pegunungan dibuat berkelok-kelok?. Mobil tidak cukup 
+bertenaga untuk mendaki lereng yang curam. Oleh karena itu, jalan tanjakan di gunung yang curam dibuat berkelok-kelok. 
+Jalan yang demikian akan mengurangi tenaga yang dibutuhkan untuk mencapai ketinggian yang sama. Kemiringan tanjakan 
+akan lebih landai dengan adanya kelokan sehingga lebih mudah didaki.</p>
+
+<p>Bidang miring berguna untuk membantu memindahkan benda-benda yang terlalu berat. Cara paling mudah memindahkan peti ke 
+dalam truk yaitu dengan menggunakan bidang miring. Peti dapat didorong atau ditarik melalui bidang miring. Tenaga yang 
+dikeluarkan lebih kecil daripada mengangkat peti secara langsung. Bidang miring memiliki keuntungan, yaitu kita dapat 
+memindahkan benda ke tempat yang lebih tinggi dengan gaya yang lebih kecil. Namun demikian, bidang miring juga memiliki 
+kelemahan, yaitu jarak yang di tempuh untuk memindahkan benda menjadi lebih jauh. Prinsip kerja bidang miring juga 
+dapat kamu temukan pada beberapa perkakas, contohnya kampak, pisau, pahat, obeng, dan sekrup. Berbeda dengan bidang 
+miring lainnya, pada perkakas yang bergerak adalah alatnya. Selain itu, sekrup juga menggunakan prinsip kerja bidang 
+miring. Sekrup mempunyai ulir yang melingkar dalam bentuk spiral. Jika sekrup diputar, ulirannya akan membentuk bidang 
+miring. Mata bor pada bor listrik juga memanfaatkan uliran seperti pada sekrup. Mata bor digunakan untuk membuat 
+lubang pada kayu atau tembok. Mata bor dibuat berulir seperti sekrup. Apabila mata bor diputar dengan cepat, alat itu 
+dapat membuat lubang dengan cepat.</p>
+
+<p>Katrol merupakan roda yang berputar pada porosnya. Biasanya pada katrol juga terdapat tali atau rantai sebagai 
+penghubungnya. Berdasarkan cara kerjanya, katrol merupakan jenis pengungkit karena memiliki titik tumpu, kuasa, dan 
+beban. Katrol digolongkan menjadi tiga, yaitu katrol tetap, katrol bebas, dan katrol majemuk. Katrol tetap merupakan 
+katrol yang posisinya tidak berpindah pada saat digunakan. Katrol jenis ini biasanya dipasang pada tempat tertentu. 
+Katrol yang digunakan pada tiang bendera dan sumur timba adalah contoh katrol tetap. Berbeda dengan katrol tetap, pada 
+katrol bebas kedudukan atau posisi katrol berubah dan tidak dipasang pada tempat tertentu. Katrol jenis ini biasanya 
+ditempatkan di atas tali yang kedudukannya dapat berubah, seperti tampak pada gambar di samping. Salah satu ujung tali 
+diikat pada tempat tertentu. Jika ujung yang lainnya ditarik maka katrol akan bergerak. Katrol jenis ini bisa kita 
+temukan pada alat-alat pengangkat peti kemas di pelabuhan. Katrol majemuk merupakan perpaduan dari katrol tetap dan 
+katrol bebas. Kedua katrol ini dihubungkan dengan tali. Pada katrol majemuk, beban dikaitkan pada katrol bebas. Salah 
+satu ujung tali dikaitkan pada penampang katrol tetap. Jika ujung tali yang lainnya ditarik maka beban akan terangkat 
+beserta bergeraknya katrol bebas ke atas.</p>
+
+<p>Roda berporos merupakan roda yang di dihubungkan dengan sebuah poros yang dapat berputar bersama-sama. Roda berporos 
+merupakan salah satu jenis pesawat sederhana yang banyak ditemukan pada alat-alat seperti setir mobil, setir kapal, 
+roda sepeda, roda kendaraan bermotor, dan gerinda. Dengan adanya roda memungkinkan manusia untuk bergerak lebih cepat 
+dan mudah. Coba perhatikan, tentu kamu lebih cepat sampai di sekolah dengan mengendarai sepeda daripada berjalan kaki. 
+Bahkan, orang lumpuh kakinya pun dapat bergerak lebih cepat dengan menggunakan kursi roda. Roda berporos juga digunakan 
+dalam mesin-mesin kendaraan maupun industri.</p>

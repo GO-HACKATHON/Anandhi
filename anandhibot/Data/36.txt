@@ -1,0 +1,530 @@
+<j>Struktur dan Fungsi Sel.
+<p>Pada bab berikut, kita akan mempelajari struktur dan fungsi sel sekaligus komponen kimiawi yang 
+menyusunnya. Selain itu, kita juga akan mengidentifikasi pelbagai organel sel penyusun tubuh 
+tumbuhan dan hewan. Sementara itu, mekanisme transpor yang terjadi pada membran sel juga akan kita 
+pelajari di bagian akhir bab ini. Dengan mempelajari bab ini, kalian diharapkan mampu mengetahui 
+struktur dan fungsi sel, baik sel hewan maupun sel tumbuhan. Sekaligus juga kalian diharapkan mampu 
+membedakan struktur sel hewan dan struktur sel tumbuhan tersebut.</p>
+
+<p>Sel Penyusun Makhluk Hidup. Saat terdengar kata "sel", mungkin yang tebersit dalam benak adalah 
+tempat untuk mengurung penjahat atau pelaku tindak kriminal. Pemahaman ini tidak seutuhnya salah, 
+sebab sel diibaratkan sebuah kamar-kamar kecil yang tersebar di seluruh tubuh. Isi kamar tersebut 
+berupa organela sel yang selalu beraktivitas. Karena itu, sel dapat diartikan sebagai unit terkecil 
+penyusun makhluk hidup dan sebagai tempat berlangsungnya aktivitas kehidupan. Aktivitas kehidupan 
+sel meliputi sintesis, pengangkutan zat, pernapasan, pengeluaran zat sisa, pertumbuhan dan 
+perkembangan.</p>
+
+<p>Sejarah Penemuan Sel. Penemuan sel pertama kali diawali dengan ditemukannya mikroskop oleh Antoni 
+von Leeuwenhoek. Adanya penemuan mikroskop ini mengilhami ilmuwan Inggris, Robert Hooke (1635-1703), 
+ahli pembuat mikroskop, melakukan pengamatan terhadap suatu objek biologi. Saat itu ia mengamati 
+irisan penampang melintang gabus batang tumbuhan. Ia melihat bahwa di dalam irisan itu terdapat 
+rongga segi enam yang kosong dan mati. Ia menyebut rongga tersebut dengan nama sel, yang berasal 
+dari kata cellula yang berarti 'kamar'.</p>
+
+<p>Tahun 1838, dua ahli biologi Jerman, yakni Mathias J Schleiden yang ahli botani dan Teodor Schwann 
+yang ahli zoologi, membuktikan bahwa sel itu hidup dan bukanlah kamar kosong. Namun, di dalam sel 
+tersebut terdapat sitoplasma yang berisi cairan. Oleh karena itu, muncullah teori terkait sel. 
+Teori ini dinamakan teori sel yang berbunyi bahwa semua makhluk hidup tersusun atas sel. Sel 
+merupakan bagian terkecil makhluk hidup yang memiliki aktivitas kehidupan. Sehingga hal ini 
+menunjukkan bahwa sel merupakan penyusun dasar tubuh makhluk hidup.</p>
+
+<p>Penelitian tentang sel kemudian dilanjutkan oleh Felix Dujardin. Ia menemukan bahwa sel terdiri 
+atas dinding sel dan isi sel. Isi sel ini meliputi materi yang bersifat hidup dan termasuk bagian 
+terpenting sel hidup. Isi sel tersebut dinamakan protoplasma dengan arti zat pertama yang dibentuk. 
+Sebenarnya, istilah protoplasma sudah diperkenalkan pertama kali tahun 1839 oleh ahli fisiologi 
+J Purkinye. Protoplasma merupakan bagian sel yang berisi cairan menyerupai agar-agar. Pada tahun 
+1858 Rudolf Virchow melengkapi teori tentang sel tersebut. Ia menemukan bahwa setiap sel berasal 
+dari sel yang ada sebelumnya (omnis cellula cellula), sehingga muncul teori sel yang menyatakan 
+bahwa sel merupakan kesatuan pertumbuhan. Tahun 1880 August Weismann memberikan suatu kesimpulan 
+bahwa sel yang ada saat ini dapat ditelusuri asal-usulnya hingga makhluk hidup yang paling awal. 
+Inilah sejarah penemuan sel dari awal hingga abad ke-19. Tentunya, pembahasan sel saat ini semakin 
+berkembang.</p>
+
+<p>Sel hidup memiliki berbagai ukuran dan bentuk, yakni bulat, oval, panjang, pendek, berekor, atau 
+lainnya. Sekelompok sel yang memiliki bentuk dan fungsi sama akan membentuk sebuah jaringan. 
+Sekelompok jaringan yang berbeda akan menyusun suatu organ. Kemudian, organ-organ yang berbeda 
+bekerja bersama membentuk sistem organ. Berbagai sistem organ yang berbeda akan berkumpul sehingga 
+terbentuk individu.</p>
+
+<p>Seiring perkembangan teknologi mikroskop dan teknik pewarnaan, penemuan bagian sel pun mengalami 
+kemajuan. Hal ini dibuktikan dengan adanya penemuan organel sel sebagai penyusun sel hidup. 
+Alhasil, komponen sel yang diketahui semakin bertambah. Sel tidak hanya tersusun atas membran 
+plasma, inti sel dan sitoplasma saja, namun juga organel sel. Bahkan, pada tahun 1944 telah 
+ditemukan komponen sel yaitu DNA atau gen.</p>
+
+<p>Selain sebagai unit terkecil dalam kehidupan, sel juga sebagai unit fungsional. Artinya, sel-sel 
+yang menyusun tubuh makhluk hidup tersebut dapat melakukan fungsi atau kegiatan hidup. Selain itu, 
+sel juga berperan sebagai unit hereditas (pewaris), penurun sifat genetis dari satu generasi ke 
+generasi berikutnya.</p>
+
+<p>Protoplasma adalah sejenis substansi kompleks seperti agar-agar yang tidak habis digunakan saat 
+aktivitas kimiawi dalam menjaga kelangsungan hidup sel. Substansi kompleks sel tersebut merupakan 
+campuran beberapa senyawa yang memiliki perbandingan sama. Sebagian besar komposisi protoplasma 
+adalah air, yakni sekitar 70% sampai 90%. Di dalamnya terdapat garam mineral dan senyawa 
+organik/ senyawa karbon seperti karbohidrat, lemak, dan protein.</p>
+
+<p>Komposisi protoplasma dalam setiap sel makhluk hidup berbeda. Sebab, protoplasma tersusun atas 
+berbagai campuran zat. Oleh karena itu, kemungkinan protoplasma yang menyusun sel penyusun organ 
+tubuh tertentu berbeda dengan sel penyusun organ tubuh yang lain. Sebagai contoh, protoplasma yang 
+menyusun sel otot berbeda dengan protoplasma penyusun sel otak.</p>
+
+<p>Berdasarkan asal bahannya, protoplasma memiliki dua bentuk, yakni bagian cair dan semi cair 
+seperti gel. Kedua bentuk protoplasma ini amat bergantung pada bahan fisiologis sel.</p>
+
+<p>Sekalipun para ilmuwan mengetahui berbagai jenis senyawa dalam protoplasma, namun tidak satupun 
+yang mampu membuat sebuah campuran sehingga bisa disebut protoplasma. Kendalanya adalah sifat 
+pasti dari protoplasma masih belum diketahui. Selain itu, para ilmuwan belum mampu menghasilkan 
+kondisi lingkungan yang hidup dapat mulai. Ini membuktikan kuasa dari Tuhan Yang Maha Esa. 
+Protoplasma sebuah sel tersusun atas tiga bagian, antara lain membran sel, sitoplasma, dan organel 
+sel (termasuk nukleus).</p>
+
+<p>Struktur dan Fungsi Sel. Sebuah sel merupakan unit terkecil dalam kehidupan. Di dalamnya berisi 
+suatu zat hidup yang dinamakan protoplasma. Protoplasma merupakan gabungan dua kata yang berasal 
+dari Yunani, yakni protos artinya pertama dan plasm artinya bentuk. Secara umum, struktur sel 
+makhluk hidup terbagi dalam dua jenis, meliputi sel prokariotik dan sel eukariotik.</p>
+
+<p>Prokariotik (prokaryote) berasal dari bahasa Yunani, yakni pro artinya 'sebelum' dan karyon 
+artinya 'kernel' atau 'nukleus'. Berdasarkan asal kata tersebut, sel prokariotik diartikan sebagai 
+sel makhluk hidup yang tidak bernukleus. Ciri-ciri sel prokariotik adalah materi genetiknya berada 
+di dalam nukleoid; tidak bermembran; dan tidak memiliki beberapa organel khusus, seperti 
+mitokondria, kloroplas, retikulum endoplasma, aparatus Golgi, lisosom, dan peroksisom.</p>
+
+<p>Di samping itu, sel prakoriotik memiliki materi genetik seperti DNA dan RNA, DNA plasmid, dan 
+beberapa organel sel, semisal ribosom, dinding sel, mesosom, dan kromatofor yang berfungsi sama 
+dengan kloroplas dan mitokondria. Makhluk hidup yang berjenis sel prakoriotik, misalnya bakteri 
+dan alga hijau biru.</p>
+
+<p>Sebaliknya, sel eukariotik (Yunani: eu, berarti sebenarnya) merupakan sel makhluk hidup bernukleus 
+yang diselaputi membran. Di dalam membran ini terdapat cairan yang disebut sitoplasma. Contoh sel 
+eukariotik adalah protozoa (seperti amoeba, flagellata, ciliata), sel hewan, dan sel tumbuhan.</p>
+
+<p>Telah disebutkan di depan bahwa protoplasma sel tersusun oleh membran sel, sitoplasma, dan organel
+sel. Kita dapat mengetahui struktur dan fungsinya dengan menyimak dan memahami uraian berikut.</p>
+
+<p>Membran sel disebut juga membran plasma. Membran sel merupakan bagian sel yang terletak pada 
+bagian terluar. Sebagian besar bagian sel ini dimiliki oleh sel organisme eukariotik. Membran sel 
+merupakan pembatas antara bagian dalam sel dengan lingkungan luarnya. Fungsinya antara lain 
+melindungi isi sel, pengatur keluar-masuknya molekul-molekul, dan juga reseptor rangsangan dari 
+luar. Bagian khusus membran sel yang berfungsi sebagai reseptor adalah glikoprotein. Glikoprotein 
+merupakan bagian membran sel yang tersusun atas karbohidrat dan protein. Selain itu, pada membran 
+plasma terdapat glikolipid yang tersusun atas karbohidrat dan lemak.</p>
+
+<p>Membran sel tersusun atas molekul yang disebut lipoprotein. Lipoprotein merupakan senyawa kimia 
+yang terdiri atas lemak fosfolipid dan protein. Letak molekul lemak berada di tengah membran. 
+Karena itu, membran ini dinamakan fosfolipid lapis ganda (bilayer fosfolipid).</p>
+
+<p>Di sebelah luar dan sebelah dalam lapisan lemak pada membran sel terdapat dua lapisan protein, 
+yakni protein integral dan protein periferal. Protein membran yang terbenam di antara lapisan 
+lemak disebut protein integral. Sementara, protein yang menempel pada lapisan lemak disebut 
+protein tepi (protein periferal).</p>
+
+<p>Pada bagian luar membran plasma terdapat karbohidrat yang melekat pada protein. Di samping itu, 
+karbohidrat juga melekat pada fosfolipid. Fosfolipid merupakan bagian membran plasma yang memiliki 
+kepala dan ekor. Bagian kepala fosfolipid bersifat hidrofilik atau suka air, sedangkan bagian 
+ekornya bersifat menolak air atau hidrofobik.</p>
+
+<p>Membran sel berbentuk tak simetris. Walau demikian, berbagai zat yang masuk dan keluar dari sel 
+dapat terseleksi dengan baik. Zat yang masuk melalui fosfolipid lapis ganda meliputi 
+molekul-molekul hidrofobik. Sementara, zat yang tertolak misalnya saja ion Na+, K+, dan Cl-. 
+Kemampuan ini dimiliki karena membran sel bersifat selektif permeabel.</p>
+
+<p>Sitoplasma merupakan cairan yang mengelilingi inti sel dengan membran sel sebagai batas luarnya. 
+Dasar penyusunnya ialah sitosol yang bersifat koloid. Di dalam sitosol terdapat ion sederhana 
+misalnya sodium, fosfat dan klorida, molekul organik seperti asam amino, ATP dan neuklotida, dan 
+tempat penyimpanan bahan. Sitosol dapat berubah dari fase sol (cair) ke fase gel (semi-padat) atau 
+juga sebaliknya. Cairan sitosol yang lebih pekat dan berbatasan dengan membran sel dinamakan 
+ektoplasma.</p>
+
+<p>Keberadaan sitoplasma bagi sel amatlah penting. Ini ditunjukkan dengan beragamnya fungsi yang 
+dimiliki, antara lain: tempat penyimpanan bahan-bahan kimia yang berguna saat proses metabolisme 
+sel (seperti enzim, protein, dan lemak); tempat berlangsungnya reaksi metabolisme; dan tempat 
+organel-organel untuk bergerak dan bekerja sesuai fungsinya.</p>
+
+<p>Organel sel menyusun setiap sel makhluk hidup prokariotik dan eukariotik. Organel sel prokariotik 
+telah kita singgung di depan, sementara sel eukariotik memiliki beberapa organel sel khusus. 
+Organel sel eukariotik meliputi nukleus, retikulum endoplasma, mitokondria, plastida, aparatus 
+Golgi/ badan Golgi, lisosom, badan mikro, sentriol, kloroplas, mikrotubulus, dan mikrofilamen.</p>
+
+<p>Sel tumbuhan mempunyai beberapa organel yang khas seperti adanya dinding sel, vakuola, dan 
+kloroplas. Sedangkan sel hewan tidak memiliki ketiga organel tersebut. Sel hewan bisa mempunyai 
+vakuola dengan ukuran sangat kecil. Sel hewan juga bisa memiliki dua vakuola misalnya hewan bersel 
+satu.</p>
+
+<p>Organel sel makhluk hidup dapat dikelompokkan menjadi dua kelompok, yakni organel sel bermembran 
+dan tidak bermembran. Mari kita perhatikan ulasan berikut.</p>
+
+<p>Organel Sel Bermembran. Organel sel bermembran dari makhluk hidup antara lain; nukleus, retikulum 
+endoplasma, aparatus Golgi, mitokondria, lisosom, badan mikro, vakuola, dan kloroplas.</p>
+
+<p>Nukleus atau inti sel merupakan organel sel terbesar dibanding organel sel lainnya. Diameter 
+nukleus berkisar antara 10 sampai 20 m. Nukleus ini berbentuk bulat oval. Bagian-bagian yang 
+melapisi nukleus meliputi membran inti, nukleoplasma, dan nukleolus (anak inti).</p>
+
+<p>Membran inti atau karioteka merupakan lapisan pembungkus inti sel. Pada permukaannya terdapat 
+pori-pori yang berfungsi sebagai tempat keluar-masuknya molekul dari sitoplasma ke nukleoplasma. 
+Membran inti ini berhubungan dengan membran sel melalui organel yang disebut retikulum endoplasma.</p>
+
+<p>Di dalam nukleus terdapat cairan yang dinamakan nukleoplasma. Cairan nukleoplasma tersusun dari 
+air, asam inti, protein, dan enzim. Sifat cairannya adalah gel. Pada nukleoplasma bisa ditemui 
+benang kromatin. Saat sel mengalami pembelahan, benang kromatin ini akan mengalami penebalan 
+sehingga membentuk kromosom. Kromosom merupakan zat yang berisi materi genetik.</p>
+
+<p>Nukleoplasma menyelubungi bagian penting sel yang disebut nukleolus (anak inti). Setiap nukleolus 
+memiliki peran dalam pembentukan protein, semisal RNA ribosom (disingkat RNAr) dan RNA. RNA 
+ribosom merupakan salah satu bahan pembentuk ribosom. Saat pembelahan sel secara mitosis, tepatnya 
+saat fase profase, nukleolus lenyap atau hilang. Namun, saat fase interfase, nukleolus terbentuk 
+kembali.</p>
+
+<p>Di dalam sel, nukleus memiliki peran penting, antara lain: menjadi pusat kontrol sel; pembawa 
+perintah sintesis protein dalam inti DNA; memperbaiki sel yang rusak dalam nukleolus; memengaruhi 
+produksi ribosom dan RNA; dan berperan dalam pembelahan sel.</p>
+
+<p>Retikulum Endoplasma. Antara organel sel satu dengan organel sel lainnya, seperti nukleus dan 
+membran sel, dihubungkan oleh organel yang disebut retikulum endoplasma (RE). RE merupakan sebuah 
+sistem membran kompleks yang membentuk kantong pipih dan meluas hampir menutupi sitoplasma. RE 
+memiliki jaringan tubula dan gelembung membran yang disebut sisterne.</p>
+
+<p>RE terbagi atas dua macam, yakni RE kasar dan RE halus. Permukaan RE kasar tertutup oleh ribosom, 
+sedangkan permukaan RE halus tidak tertutupi oleh ribosom.</p>
+
+<p>RE kasar berfungsi sebagai penampung protein skretoris yang telah disintesis oleh ribosom. Protein 
+ini akan dimasukkan ke dalam kantong pipih yang disebut lumen RE. RE kasar juga berperan dalam 
+produksi membran yang ditranspor ke organel lainnya. Membran yang demikian dinamakan membran RE.</p>
+
+<p>Berbeda dengan RE kasar, RE halus memiliki beberapa fungsi, antara lain: menyintesis berbagai zat 
+seperti lemak, kolesterol, fosfolipid, dan steroid; metabolisme karbohidrat, misalnya proses 
+penyimpanan karbohidrat dalam bentuk glikogen pada sel hati; dan membantu proses penetralan obat 
+dan racun yang biasa terjadi pada RE sel hati.</p>
+
+<p>Namun demikian, RE kasar dan RE halus mempunyai fungsi yang sama, yakni sebagai alat transpor 
+molekul dari satu sel ke sel lain, memproduksi antibodi, dan berperan dalam proses glikolasi yaitu 
+penambahan gula pada molekul protein.</p>
+
+<p>Aparatus Golgi. Protein yang dihasilkan ribosom akan ditranspor melewati aparatus Golgi. Di dalam 
+aparatus Golgi tersebut, protein diproses dan disimpan, kemudian dikirim ke organel lainnya.</p>
+
+<p>Dinamakan aparatus Golgi karena ditemukan oleh ilmuwan yang bernama Camilio Golgi. Organel ini 
+disebut pula badan Golgi atau diktiosom. Secara struktural, aparatus Golgi tersusun atas kantong 
+pipih bertumpuk-tumpuk yang disebut sisterne.</p>
+
+<p>Pada proses metabolisme sel, aparatus Golgi berfungsi sebagai penerima dan pengirim vesikula 
+transpor yang berisi protein. Selain itu, aparatus Golgi dijadikan tempat terjadinya glikolasi. 
+Glikolasi merupakan suatu proses modifikasi protein seusai protein disintesis dengan mereaksikan 
+bersama glikosilat (gula). Hasil glikolasi yang berupa glikoprotein disimpan dan selanjutnya 
+dikirimkan ke luar sel oleh vesikula transpor.</p>
+
+<p>Di samping fungsi tersebut, aparatus Golgi dapat pula berperan dalam pembentukan lisosom dan 
+berbagai enzim pencernaan yang belum aktif, misalnya enzim zymogen dan koenzim.</p>
+
+<p>Sebagian besar badan Golgi terdapat pada sel-sel sekretori, sehingga produknya banyak disekresikan. 
+Sebagai contoh, sel sekretori pada kelenjar pencernaan yang mengeluarkan enzim-enzim pencernaan, 
+misalnya laktase dan peptidase. Badan Golgi juga ada yang terdapat pada sel-sel pankreas yang 
+mengeluarkan tripsin dan lipase, termasuk juga pada kelenjar air mata yang mengeluarkan antibodi.</p>
+
+<p>Lisosom (lysis = pemisahan, pembelahan, soma = tubuh) adalah badan berbentuk bulat seperti kantong 
+kecil dengan diameter 0,1 sampai 1 m. Di dalam lisosom terdapat 50 enzim dan kebanyakan adalah 
+enzim hidrolitik yang bersifat asam. Enzim hidrolitik digunakan lisosom untuk mencerna makromolekul 
+saat pencernaan intraseluler. Contoh enzim hidrolitik adalah lipase, protase, nuklease, dan 
+fosfatase. Sementara, makromolekul yang dihidrolisis misalnya protein, polisakarida, lemak, dan 
+asam nukleat.</p>
+
+<p>Di dalam sel, lisosom berperan saat terjadi fagositosis. Fagositosis merupakan proses pencernaan 
+yang dilakukan makhluk hidup dalam memakan organisme atau zat makanan yang lebih kecil dari 
+tubuhnya. Pada makhluk hidup uniselluler, proses fagositosis terjadi pada Amoeba. Sementara pada 
+manusia, proses ini terjadi pada sel makrofaga, yakni suatu sel yang berperan dalam pertahanan 
+tubuh dari bakteri perusak dan penyerang lainnya.</p>
+
+<p>Selain proses fagositosis, lisosom juga berperan dalam proses autofagi. Autofagi adalah proses 
+daur ulang materi organik oleh enzim hidrolitik secara individual. Di dalam tubuh manusia, proses 
+autofagi misalnya terjadi pada sel hati.</p>
+
+<p>Di dalam sel, lisosom juga mampu mencerna partikel-partikel yang masuk secara endositosis dan 
+pengeluaran enzim secara eksositosis. Misalnya, saat terjadi pembentukan tulang keras dari tulang 
+rawan.</p>
+
+<p>Lisosom dapat pula melakukan autolisis. Autolisis juga termasuk proses yang terjadi pada lisosom. 
+Autolisis merupakan proses penghancuran bagian tertentu suatu makhluk hidup secara mandiri. 
+Contohnya, perusakan sel ekor katak saat masih berudu.</p>
+
+<p>Mitokondria. Mungkin kalian pernah melihat sosis, makanan yang bahan bakunya dari daging berbentuk 
+bulat lonjong. Bentuk mitokondria hampir menyerupai sosis. Di dalam sel, mitokondria berperan 
+dalam proses respirasi aerob yang menggunakan oksigen. Untuk itu, mitokondria memiliki jumlah 
+lebih dari satu di dalam sel. Variasi jumlahnya bergantung pada tingkat metabolismenya. Andaikan 
+kebutuhan energi sel besar, jumlah mitokondria di dalam sel sangat banyak. Sebaliknya, apabila 
+kebutuhan energi sel kecil, jumlah mitokondria sedikit.</p>
+
+<p>Secara struktural, sebuah mitokondria dibungkus oleh selapis membran rangkap. Membran rangkap ini 
+terdiri atas membran luar yang halus dan membran dalam yang berlekuk-lekuk. Membran dalam 
+mitokondria dinamakan krista. Krista memiliki lekukan yang banyak jumlahnya. Fungsi krista adalah 
+memperluas permukaan saat berlangsung respirasi. Dengan begitu, hasil respirasi seluler yang 
+diperoleh dapat meningkat.</p>
+
+<p>Membran dalam mitokondria terbagi menjadi dua ruangan, yaitu ruang inter membran dan ruang matriks 
+mitokondria. Ruang inter membran adalah ruang sempit yang berada di antara membran dalam dan 
+membran luar. Sedangkan ruang matriks mitokondria diselubungi oleh membran dalam. Pada matriks 
+mitokondria ini terdapat enzim pernapasan yang disebut sitokrom, sehingga oksidasi asam lemak 
+dapat berlangsung. Enzim sitokrom ini berfungsi sebagai pengontrol siklus asam sitrat yang 
+mengandung protein.</p>
+
+<p>Badan Mikro. Sesuai namanya, badan mikro berukuran kecil dengan diameter 0,3 hingga 1,5 mikro 
+meter. Organel ini terbungkus oleh selapis membran yang terdiri atas peroksisom dan glioksisom. 
+Perioksisom mengandung banyak enzim katalase. Enzim katalase berperan untuk menguraikan hidrogen 
+peroksida (H2O2) sehingga menjadi netral dari racun. Selain itu, enzim katalase juga berperan 
+dalam metabolisme lemak dan fotorespirasi.</p>
+
+<p>Perioksisom dapat kita temukan pada sel hewan dan sel tumbuhan. Pada sel hewan, banyak perioksisom 
+terdapat pada sel hati, sel otot, dan sel ginjal. Perioksisom ini sangat terkait dengan 
+retikulum endoplasma. Sebab, peroksisom merupakan membran yang dihasilkan retikulum endoplasma.</p>
+
+<p>Sementara itu, glioksisom terdapat banyak pada sel tumbuhan yang berlemak, misalnya saja pada biji. 
+Di dalamnya terdapat enzim katalase dan oksidase yang berperan dalam metabolisme lemak yakni 
+mengubah lemak menjadi gula. Energi hasil metabolisme ini digunakan saat perkecambahan biji.</p>
+
+<p>Vakuola merupakan organel dalam sel yang berisi cairan. Di dalam vakuola terdapat membran yang 
+disebut tonoplas. Organel ini banyak terdapat pada sel tumbuhan. Kalau pun ada pada sel hewan, 
+bentuk vakuolanya amat kecil.</p>
+
+<p>Sebuah vakuola tumbuhan berisi larutan garam mineral, gula, asam amino, bahan sisa (seperti tanin) 
+dan beberapa pigmen seperti antosianin. Setiap sel tumbuhan memiliki bentuk vakuola yang amat 
+beragam. Vakuola sel tumbuhan dewasa berbentuk besar, sedangkan vakuola tumbuhan muda berbentuk 
+kecil. Semakin tua usia tumbuhan, maka vakuolanya akan bertambah besar, bahkan bisa menjadi bagian 
+yang dominan dalam sel.</p>
+
+<p>Pada sel tumbuhan, vakuola memiliki berbagai fungsi, antara lain: sebagai tempat menyimpan 
+cadangan makanan dan ion anorganik, seperti gula, protein, kalium, dan klorida; sebagai 
+osmoregulator yakni penjaga nilai osmotik sel; dan berperan dalam proses sekresi hasil sisa 
+metabolisme yang membahayakan sel.</p>
+
+<p>Untuk menarik datangnya serangga penyerbuk, sebagian vakuola sel tumbuhan memiliki pigmen. 
+Contohnya, pigmen merah dan biru pada mahkota bunga. Sebaliknya, supaya hewan pemangsa tidak 
+datang mendekat, vakuola sel tumbuhan mengandung senyawa beracun dan bau tak sedap.</p>
+
+<p>Pada sel hewan, vakuola hanya terdapat pada hewan uniselluler saja. Contohnya adalah protozoa. 
+Fungsi vakuola adalah sebagai vakuola pencernaan makanan (vakuola nonkontraktil). Selain itu, 
+protozoa juga memiliki vakuola berdenyut (vakuola kontraktil) yang berperan dalam pengaturan 
+tekanan osmotik sitoplasma.</p>
+
+<p>Kloroplas. Selain vokuola, ciri organel khas yang dimiliki sel tumbuhan adalah kloroplas. 
+Kloroplas termasuk pada sebuah kelompok organel besar yang disebut plastida. Pada sel tumbuhan, 
+kloroplas ini tersebar pada cairan sitoplasma. Kloroplas memiliki diameter sekitar 5 sampai 10 m. 
+Hampir setiap sel tumbuhan mengandung kloroplas dengan jumlah 20 hingga 40 buah.</p>
+
+<p>Secara struktural, kloroplas memiliki membran rangkap yang disebut selubung kloroplas. Selubung 
+kloroplas ini tersusun atas membran luar dan membran dalam. Untuk membran dalamnya, memiliki 
+struktur yang sama dengan membran sel.</p>
+
+<p>Kloroplas juga mempunyai dua bagian, yakni bagian grana dan stroma. Grana merupakan tumpukan 
+sejumlah tilakoid. Tilakoid adalah suatu kantong yang berbentuk pipih. Adapun, stroma merupakan 
+cairan yang berada di luar tilakoid. Di dalam stroma terkandung pelbagai macam zat, misalnya 
+enzim, asam-asam organik, dan karbohidrat hasil fotosintesis dalam bentuk tepung.</p>
+
+<p>Bagi tumbuhan, kloroplas mempunyai peran penting terutama saat terjadi fotosintesis. Sebab, di 
+dalam kloroplas terdapat klorofil berpigmen hijau dan pigmen fotosintetik lainnya. Klorofil dan 
+pigmen fotosintetik ini terdapat pada sistem membran dan stroma.</p>
+
+<p>Pada proses fotosintesis, pigmen fotosintetik, khususnya klorofil dan karatenoid, akan menyerap 
+energi cahaya matahari yang selanjutnya diubah menjadi energi kimia. Klorofil menyerap sinar 
+merah, biru, dan ungu, sementara sinar hijau dipantulkan. Sehingga, warna yang terlihat pada 
+klorofil adalah warna hijau.</p>
+
+<p>Berbeda dengan klorofil, karatenoid memiliki banyak pigmen, seperti ungu, biru, kuning, oranye, 
+merah dan coklat. Di antara warna tersebut, warna yang diserap karatenoid hanyalah warna ungu dan 
+biru. Karatenoid ini banyak terdapat pada bunga dan buah tumbuhan. Selain menyerap warna, 
+karatenoid juga berperan dalam melindungi klorofil dari sinar matahari yang terlalu kuat.</p>
+
+<p>Beberapa jenis plastida selain klorofil adalah sebagai berikut
+(1)	Kromoplas, yakni plastida yang berpigmen merah, jingga atau kuning, dan biasanya terdapat pada 
+buah tomat dan wortel.
+(2)	Leukoplas, merupakan plastida yang tidak memiliki pigmen. Plastida ini terletak pada jaringan 
+yang tidak terkena cahaya. Selain itu, leukoplas terdapat pula pada sel-sel embrional empulur 
+batang. Kemudian, plastida ini terdapat pula pada bagian tanaman yang berwarna putih di dalam 
+tanah.
+(3)	Amiloplas, adalah plastida yang tak berpigmen dan mengandung banyak amilum.</p>
+
+<p>Nah, inilah uraian struktur dan fungsi berbagai organel sel bermembran. Untuk selanjutnya, kita 
+akan membahas struktur dan fungsi organel sel yang tidak bermembran.</p>
+
+<p>Organela Sel Tak Bermembran. Pada sel makhluk hidup, terdapat pula organel yang tidak bermembran, 
+antara lain: ribosom, sitoskeleton, sentriol dan dinding sel. Pahami penjelasannya berikut.</p>
+
+<p>Ribosom merupakan organel sel yang bentuknya kecil berupa butiran nukleoprotein. Pada sel 
+eukariotik, ribosom berbentuk bulat dengan diameter 25 nm, sedangkan pada sel prokariotik lebih 
+kecil lagi.</p>
+
+<p>Ribosom tersusun atas sub unit besar dan sub unit kecil. Di dalamnya, berisi RNA ribosom (RNAr) 
+dan protein. Fungsi utamanya adalah sebagai tempat sintesis protein.</p>
+
+<p>Pada permukaan ribosom, butiran nukleoprotein memiliki dua letak persebaran. Butiran nukleoprotein 
+yang tersebar bebas pada sitoplasma disebut ribosom bebas. Sementara, butiran nukleoprotein yang 
+menempel pada permukaan retikulum endoplasma disebut ribosom terikat. Ribosom bebas berperan dalam 
+proses sintesis enzim. Enzim yang dihasilkan berfungsi menjadi katalisator di dalam cairan sitosol. 
+Adapun ribosom terikat berguna dalam sintesis protein.</p>
+
+<p>Sitoskeleton. Salah satu organel yang cukup penting keberadaannya dalam sel adalah sitoskeleton. 
+Sitoskeleton merupakan struktur rangka sel yang berbentuk jalinan serabut. Strukturnya membentang 
+dalam sitoplasma.</p>
+
+<p>Di dalam sel, sitoskeleton memiliki beberapa fungsi. Fungsi itu antara lain sebagai pendukung 
+pergerakan sel dan penjaga kestabilan bentuk sel, atau menjadi rangka sel dan pemberi bentuk sel; 
+pemberi kekuatan mekanik sel dan pembantu motilitas sel (gerakan substansi dari satu bagian ke 
+bagian lain); menjaga keseluruhan organel sel supaya tetap pada posisinya; dan membantu gerakan 
+kromosom ke arah kutub saat pembelahan sel.</p>
+
+<p>Berdasarkan fungsinya, sitoskeleton memiliki tiga jenis serabut, meliputi mikrotubulus, filamen 
+antara (serabut antara), dan mikrofilamen (filamen aktin). Bentuk mikrotubulus adalah tabung 
+berongga dengan diameter 25 nm. Panjang tubuhnya antara 200 nm sampai 25 µm. Mikrotubulus 
+mempunyai suatu protein yang disebut tubulin. Tubulin terdiri atas dua macam, yakni alpha-tubulin 
+dan beta tubulin. Mikrotubulus ini berfungsi mempertahankan bentuk sel; berperan saat motilitas 
+sel, seperti silia atau flagela; dan membantu pergerakan kromosom saat pembelahan sel.</p>
+
+<p>Filamen antara disebut juga dengan serabut antara atau filamen intermediet. Diameter serabut 
+antara lebih besar dibandingkan diameter mikrofilamen. Namun, bila dibandingkan dengan diameter 
+mikrotubulus, serabut antara memiliki diameter yang lebih kecil, yakni 8 sampai 10 nm.</p>
+
+<p>Sebagian besar bahan penyusun filamen antara dalam sel adalah fimentin. Berbeda dengan lainnya, 
+filamen antara pada sel kulit bernama protein keratin. Fungsi filamen antara misalnya sebagai 
+penguat bentuk kerangka sel saat beraktivitas dan pemerkokoh posisi organel dalam sel.</p>
+
+<p>Mikrofilamen. Serabut sitoskeleton yang terdiri atas bola-bola molekul protein disebut mikrofilamen. 
+Serabut ini dinamakan pula filamen aktin. Sebab, mikrofilamen tersusun dari protein aktin, 
+meskipun sebagian kecil juga terbuat dari miosin. Fungsi utama mikrofilamen adalah sebagai penahan 
+tegangan (gaya tarik) saat sel bergerak dan bermanfaat saat proses pengaliran sitoplasma.</p>
+
+<p>Sentriol memiliki struktur dasar yang sama seperti tubuh dasar sili, yakni berbentuk silinder. 
+Sentriol ini tersusun atas mikrotubulus seperti jala. Hanya sel hewan saja yang memilikinya. Di 
+dalam sel, sentriol memiliki jumlah sepasang yang disebut sentrosom.</p>
+
+<p>Saat terjadi pembelahan sel, sentriol membentuk benang gelondong atau benang spindel. Kedua ujung 
+benang ini mempunyai tempat pelekatan yang berbeda. Ujung yang satu melekat pada sentriol, 
+sedangkan ujung yang lain melekat pada kromosom.</p>
+
+<p>Dinding sel merupakan organel yang berada pada sel tumbuhan, sementara sel hewan tidak memilikinya. 
+Dinding sel bersifat kaku, sehingga bentuk sel tumbuhan tidak mudah berubah. Ketebalannya berkisar 
+0,1 µm. Bagi sel tumbuhan, dinding sel berfungsi sebagai pelindung dan pencegah dari penghisapan 
+air yang berlebihan sehingga sel tetap utuh.</p>
+
+<p>Berdasarkan jenisnya, dinding sel ada dua, yaitu dinding sel primer dan dinding sel sekunder. 
+Dinding sel primer terbentuk saat sel membelah, sedangkan dinding sel sekunder terbentuk setelah 
+sel mengalami penebalan.</p>
+
+<p>Saat masih muda, dinding sel tersusun oleh selulose polisakarida (lignin dan pektin) yang memiliki 
+daya renggang. Akibatnya, dinding sel berbentuk tipis dan lentur. Antara dinding sel satu dengan 
+dinding sel lainnya dipisahkan oleh lamela tengah. Lamela tengah tersusun dari gel yang berisi 
+magnesium dan kalsium pektat. Antara dinding sel yang satu dengan lainnya dihubungkan oleh 
+pori-pori yang memiliki benang plasma atau plasmodermata. Adanya plasmodermata memberikan peluang 
+zat antar sel bergerak.</p>
+
+<p>Sementara itu, dinding sel sekunder berada di antara membran plasma dan dinding primer. Di dalam 
+dinding sekunder terdapat jaringan xilem dan sklerenkim. Sehingga, selulosa dinding sekunder bisa 
+mengalami penebalan oleh zat lignin (zat kayu) melalui proses lignifikasi. Melalui proses ini, 
+dinding sekunder sel menjadi keras, kaku, dan tahan tekanan. Nah, itulah struktur dan fungsi 
+organel sel makhluk hidup yang bermembran dan tidak bermembran.</p>
+
+<p>Perbandingan Sel Hewan dan Sel Tumbuhan. Sel tumbuhan dan sel hewan memiliki bagian-bagian 
+tertentu yang berbeda. Perbedaan ini dapat kita tentukan dari ragam organel penyusun sel kedua 
+makhluk hidup tersebut.</p>
+
+<p>Kelangsungan hidup sel akan terus berlanjut bila di dalamnya terjadi proses metabolisme. Dalam 
+proses ini, sel membutuhkan dan mengeluarkan pelbagai zat kimiawi. Zat akan diangkut, baik ke 
+dalam ataupun ke luar sel dengan mekanisme transpor zat yang melalui membran. Ulasan berikut akan 
+mengetengahkan proses terjadinya transpor zat.</p>
+
+<p>Perbandingan Transpor Zat pada Membran. Transpor zat yang terjadi pada sel, baik antar sel maupun 
+organel sel dapat melalui dua cara, yakni transpor pasif dan transpor aktif.</p>
+
+<p>Transpor pasif merupakan transpor ion, molekul, senyawa dari luar atau dalam sel tanpa memerlukan 
+energi. Zat-zat yang ditranspor bergerak dari daerah berkonsentrasi tinggi hingga daerah 
+berkonsentrasi rendah. Proses transpor pasif ini dapat terjadi secara difusi dan osmosis.</p>
+
+<p>Difusi adalah gerakan acak partikel-partikel, atom, maupun molekul gas atau cairan, dari daerah 
+berkonsentrasi tinggi menuju daerah berkonsentrasi rendah hingga mencapai kesetimbangan. Zat-zat 
+tersebut akan berdifusi menurun sesuai gradien konsentrasi. Transpor difusi terdiri dari dua cara 
+yaitu difusi dipermudah dengan protein dan difusi dipermudah dengan protein pembawa. Kita pahami 
+penjelasannya sebagai berikut.</p>
+
+<p>Difusi dipermudah disebut juga difusi terfasilitasi. Pada proses difusi yang terfasilitasi oleh 
+protein, molekul-molekul seperti asam amino, gula, tidak dapat melalui membran plasma. Akan 
+tetapi, molekul tersebut melewati saluran yang dibentuk oleh suatu protein membran yang disebut 
+protein integral. Sedangkan proses difusi zat dipermudah dengan protein pembawa mirip dengan 
+proses difusi dipermudah dengan protein. Letak perbedaannya, protein membran membentuk saluran dan 
+mengikat molekul yang ditranspor. Protein ini dinamakan protein pembawa. Molekul yang ditranspor 
+seperti glukosa dan asam amino berdifusi dan menurun sesuai gradien konsentrasinya.</p>
+
+<p>Difusi berlangsung dipengaruhi oleh beberapa faktor, antara lain konsentrasi zat, ukuran zat, 
+wujud zat, dan suhu. Gradien konsentrasi yang berbeda di antara dua tempat yakni luar sel dan 
+dalam sel mengakibatkan proses difusi berlangsung dengan cepat. Proses difusi akan berjalan dengan 
+lambat, apabila ukuran zat lebih besar. Termasuk juga wujud zat padat yang akan melambatkan 
+terjadinya proses difusi dibandingkan wujud cair dan gas. Sementara itu, suhu yang tinggi akan 
+membuat proses difusi berjalan lebih cepat. Nah, itulah proses terjadinya difusi zat pada membran, 
+baik di dalam membran sel atau membran organel sel.</p>
+
+<p>Osmosis. Selain berlangsung secara difusi, molekul zat dapat pula bergerak secara osmosis. Osmosis 
+adalah perpindahan zat pelarut melalui membran selektif permeabel dari konsentrasi zat pelarut 
+tinggi menuju konsentrasi zat pelarut rendah. Zat pelarut ini dapat keluar masuk melewati membran 
+secara bebas. Hanya saja zat terkecil merupakan zat yang sudah terseleksi.</p>
+
+<p>Suatu larutan yang memiliki zat pelarut berkonsentrasi tinggi akan memiliki zat terlarut 
+berkonsentrasi rendah. Keadaan ini disebut hipotonik (hipo artinya kurang). Sebaliknya, larutan 
+yang memiliki zat pelarut dengan konsentrasi rendah akan mempunyai zat terlarut berkonsentrasi 
+tinggi. Kondisi yang demikian disebut hipertonik (hiper berarti lebih). Zat pelarut dan zat 
+terlarut dapat pula berkonsentrasi sama. Keadaan demikian dinamakan isotonik (iso berarti sama).</p>
+
+<p>Salah satu penyebab zat dapat bergerak secara osmosis adalah adanya perbedaan konsentrasi zat 
+total. Akibat keadaan ini, molekul air yang berada pada larutan hipotonik dapat berpindah menuju 
+larutan hipertonik. Namun, keadaan ini juga bisa berlangsung sebaliknya. Meskipun zat terlarut 
+banyak terkandung pada larutan hipotonik, proses transpor zat akan tetap terjadi secara osmosis. 
+Sementara itu, andaikan dua larutan bersifat isotonik, molekul air akan berpindah melalui membran 
+dengan kelajuan sama. Akibatnya, selisih osmosis tidak terjadi pada dua larutan.</p>
+
+<p>Proses osmosis pada sel hewan terjadi saat kondisi sel dengan lingkungannya ingin dipertahankan. 
+Cara yang dilakukan adalah dengan mempertahankan konsentrasi zat dalam sel dengan konsentrasi zat 
+luar sel agar selalu sama. Apabila konsentrasi larutan sel lebih rendah dibandingkan konsentrasi 
+lingkungan luarnya, air dalam sel akan keluar secara osmosis. Peristiwa ini dinamakan penyusutan 
+sel atau krenasi, yang dapat menyebabkan sel tidak hidup alias mati. Sebaliknya, bila konsentrasi 
+larutan pada sel lebih tinggi dibandingkan lingkungan luarnya, air di luar sel akan masuk secara 
+osmosis ke dalam sel. Kejadian ini akan mengakibatkan sel pecah atau terjadi hemolisis.</p>
+
+<p>Keadaan hemolisis juga dapat terjadi pada sel tumbuhan. Sel tumbuhan yang berada pada kondisi 
+hipotonik, misalnya air, bisa mengalami pembengkakan. Kondisi yang dialami sel tumbuhan ini 
+disebut kondisi turgid atau tekanan turgor. Sebaliknya, sel tumbuhan dapat pula mengalami kondisi 
+hipertonik. Kondisi yang demikian akan mengakibatkan cairan protoplasma di dalam sel menyusut 
+melewati dinding sel. Peristiwa seperti ini dinamakan plasmolisis.</p>
+
+<p>Beberapa organisme yang hidup di laut, seperti porifera, ubur-ubur, dan protozoa serta ikan laut, 
+juga melakukan proses osmosis. Proses ini akan dilakukan apabila selnya mengalami kondisi 
+isotonis. Jumlah garam dalam sel akan diseimbangkan dengan air laut di sekeliling oleh organisme 
+tersebut. Oleh karena itu, tidak salah bila oleh sebagian besar masyarakat, pengawetan beberapa 
+bahan makanan seperti manisan dan ikan asin dilakukan dengan menerapkan proses difusi dan osmosis.</p>
+
+<p>Transpor Aktif. Pada saat tertentu, sel hidup mampu menyerap beberapa zat meskipun konsentrasi zat 
+di dalam selnya lebih tinggi dibandingkan lingkungan di sekitar sel. Artinya, sel menyerap zat 
+berlawanan dengan gradien konsentrasi. Sehingga, proses tersebut membutuhkan energi. Proses 
+transpornya dinamakan transpor aktif.</p>
+
+<p>Transpor aktif terkait dengan sejumlah proses yang terjadi di dalam makhluk hidup. Zat-zat yang 
+diserap melalui transpor aktif, misalnya garam mineral yang diserap akar, kemudian juga glukosa 
+dan asam amino yang diserap usus kecil pada manusia.</p>
+
+<p>Salah satu contoh proses transpor aktif adalah pompa natrium-kalium. Proses ini terjadi bila 
+konsentrasi ion kalium (K+) di dalam sel lebih tinggi dibandingkan sekelilingnya, sedangkan ion 
+natrium (Na+)-nya jauh lebih rendah. Karena itu, membran plasma akan memompakan ion natrium keluar 
+sel dan kalium ke dalam sel, sehingga diperoleh kesetimbangan.</p>
+
+<p>Selain pompa natrium-kalium, proses transpor aktif dapat pula melibatkan proses transpor makro 
+molekul. Proses ini terjadi bila molekul besar melewati membran plasma secara eksositosis dan 
+endositosis.</p>
+
+<p>Eksositosis merupakan proses pengeluaran zat dari dalam sel atau organel sel. Misalnya saja, 
+pengeluaran zat saat pembentukan dinding sel, sekresi hormon pada sel hewan, dan penge luaran 
+sisa-sisa pencernaan makanan. Proses eksositosis ini dapat dilakukan dengan cara pembentukan 
+vesikel (kantong pelapis zat). Vesikel ini akan bergerak menuju membran plasma dan selanjutnya 
+berdifusi ke luar sel.</p>
+
+<p>Sementara itu, endositosis terjadi saat berbagai zat kecil dan makromolekul masuk ke dalam sel 
+melalui membran. Endositosis pada sel dapat terjadi secara fagositosis dan pinosi tosis. 
+Fagositosis merupakan proses masuknya molekul padat ke dalam sel, sedangkan bahan cair masuk ke 
+dalam sel secara pinositosis. Sebagai contoh peristiwa fagositosis adalah proses memakan bakteri 
+atau benda mikroskopis lainnya oleh Amoeba, kemudian proses memakan kuman oleh sel-sel darah 
+putih. Selain cara tersebut, endositosis terjadi secara endositosis yang dibantu reseptor. 
+Prosesnya sama dengan kedua jenis endositosis di atas. Bedanya, zat yang akan masuk ke dalam sel 
+ditangkap terlebih dahulu oleh reseptor.</p>

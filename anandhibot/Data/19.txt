@@ -1,0 +1,66 @@
+<j>Penghantar Panas.
+<p>Pernahkah kamu membantu ibumu memasak di dapur, seperti memasak telur, ikan, daging, tempe, atau tahu?. Kalau kamu 
+perhatikan dengan teliti, ibumu memasak menggunakan wajan dan sudip (sendok penggorengan). Wajan dan sudip terbuat 
+dari bahan yang berbeda. Wajan terbuat dari logam (besi, stainless, atau aluminium), sedangkan sudip terbuat dari 
+kayu. Pada bagian bawah setrika terdapat logam yang terbuat dari besi. Logam tersebut berfungsi untuk menghantarkan 
+panas, sedangkan pada bagian atas setrika terdapat pegangan yang terbuat dari plastik. Perhatikan dengan teliti 
+setrika yang ada di rumah. Jika setrika dinyalakan dan kamu pegang bagian atasnya, kamu tidak akan merasa panas karena 
+plastik tidak menghantarkan panas. Benda yang dapat menghantarkan panas disebut konduktor panas. Cara perpindahan panas 
+dari satu benda ke benda yang lain disebut konduksi. Benda-benda yang dapat menghantarkan panas terbuat dari logam, 
+seperti besi, aluminium, tembaga. Benda yang termasuk konduktor panas, misalnya sendok, wajan, panci. Bahan yang tidak 
+dapat menghantarkan panas disebut bahan isolator panas. Benda yang termasuk bahan isolator panas terbuat dari kayu dan 
+plastik. Misalnya, pensil, pulpen, penggaris plastik.</p>
+
+<p>Panas suatu benda tergantung pada suhu benda tersebut. Semakin tinggi suhu benda, maka benda semakin panas. Tahukah 
+kalian bahwa panas dapat berpindah (mengalir)?. Panas berpindah dari tempat yang bersuhu tinggi ke tempat bersuhu 
+rendah. Perpindahan panas dapat dilakukan melalui tiga cara, yakni konveksi, radiasi, dan konduksi. Konveksi adalah 
+perpindahan panas disertai perpindahan zat perantaranya. Perpindahan panas secara konveksi terjadi melalui aliran zat. 
+Misalnya, es batu yang mencair dalam air panas. Panas dari air panas berpindah ke es batu. Panas berpindah bersama 
+mengalirnya air panas ke es batu. Panas tersebut menyebabkan es batu meleleh. Konveksi juga terjadi pada asap 
+pembakaran yang membumbung. Saat pembakaran, udara di atas api menjadi panas. Udara panas kemudian naik. Tempat udara 
+panas digantikan udara dari sekitar perapian. Udara panas yang naik membawa uap air. Uap air ini berada dalam bentuk 
+asap. Air adalah zat cair, sedangkan asap adalah gas. Panas dapat mengalir pada keduanya. Jadi, konveksi dapat terjadi 
+pada gas dan zat cair.</p>
+
+<p>Ketika matahari bersinar di siang hari, kalian merasa gerah, bukan?. Padahal, kalian berada jauh dari matahari. Demikian 
+juga saat kalian duduk di dekat api unggun. Kalian akan merasakan hangatnya api unggun. Hal ini menunjukkan bahwa 
+telah terjadi perpindahan panas. Perpindahan panas seperti ini disebut radiasi. Jadi, radiasi adalah perpindahan panas 
+tanpa zat perantara. Konduksi adalah perpindahan panas melalui zat perantara. Namun, zat perantara tersebut tidak ikut 
+berpindah (bergerak). Peristiwa konduksi dapat kalian jumpai dalam kehidupan sehari-hari. Sebuah sendok logam 
+dicelupkan ke dalam segelas air panas. Setelah beberapa saat, ujung sendok yang tidak tercelup menjadi terasa panas. 
+Hal ini karena panas dari air mengalir sepanjang sendok logam.</p>
+
+<p>Ujung solder yang terbuat dari besi dapat menghantarkan panas. Begitu pula dengan setrika. Bagian bawah setrika 
+terbuat dari logam. Saat dialiri arus listrik, bagian bawah setrika menjadi panas. Karenanya, setrika dapat digunakan 
+untuk merapikan pakaian. Sekarang, perhatikanlah peralatan masak di dapur. Ambillah sebuah sendok stainless steel. 
+Jemurlah sendok tersebut di bawah terik matahari selama 15 menit. Setelah itu, sentuhlah sendok. Kalian tentunya 
+merasakan panas, bukan?. Hal ini juga terjadi pada wajan aluminium. Wajan aluminium dapat menghantarkan panas. 
+Karenanya, wajan aluminium biasa digunakan untuk memasak. Stainless steel dan aluminium merupakan bahan logam. Jadi, 
+benda-benda yang terbuat dari logam dapat menghantarkan panas. Alat yang dapat menghantarkan panas disebut konduktor 
+panas. Gagang solder biasanya terbuat dari plastik. Saat dialiri arus listrik, gagang solder tidak terasa panas. 
+Artinya, plastik tidak menghantarkan panas. Nah, selain plastik, adakah benda-benda lain yang tidak menghantarkan 
+panas?. Perhatikan gagang setrika arang. Ternyata, gagang setrika arang juga tidak menghantarkan panas. Gagang tersebut 
+tidak terbuat dari plastik, tetapi dari kayu. Artinya, kayu juga tidak menghantarkan panas. Bahan-bahan seperti 
+plastik dan kayu disebut isolator panas. Sebagai konduktor, setiap bahan mempunyai kecepatan hantaran panas yang 
+berbeda-beda. Konduktor terbaik adalah yang paling cepat menghantarkan panas.</p>
+
+<p>Beberapa peralatan sengaja dibuat berdasarkan sifat-sifat konduktor dan isolator. Apa saja contohnya?. Untuk 
+mengetahuinya, simaklah uraian berikut. Dalam keseharian, kita menggunakan termos untuk menyimpan air panas. Air 
+tersebut akan tetap panas meskipun disimpan selama beberapa waktu. Bagaimana termos dapat menjaga air tetap panas?. 
+Kalian telah mengetahui bahwa panas dapat mengalir. Panas mengalir dari suhu tinggi ke suhu rendah. Nah, termos 
+berfungsi seperti sebuah bendungan. Termos membendung dan menahan aliran panas. Panas dari dalam termos tidak dapat 
+mengalir ke luar. Panas dari luar pun tidak dapat masuk ke dalam termos. Dengan begitu, termos dapat berfungsi sebagai 
+isolator panas. Dinding termos terbuat dari dua lapisan kaca. Di antara kedua lapisan itu terdapat ruang hampa udara. 
+Ruang hampa tersebut dapat mencegah hilangnya panas. Selain itu, bagian dalam dinding termos dilapisi cermin perak. 
+Cermin perak berfungsi memantulkan panas di dalam termos. Cara ini dapat mengurangi adanya perpindahan panas. Nah, 
+itulah sebabnya termos dapat mempertahankan panas.</p>
+
+<p>Apa yang kalian lakukan saat udara terasa dingin?. Salah satunya tentu memakai baju hangat. Contohnya, jaket dan sweter. 
+Baju hangat merupakan isolator panas. Baju hangat dapat mencegah panas dari tubuh mengalir ke luar. Tubuh menjadi 
+hangat dan tidak kedinginan. Pemanfaatan konduktor banyak kita temui pada alat-alat masak. Contohnya, panci, cerek, 
+dan wajan. Ketiganya terbuat dari aluminium. Aluminium termasuk penghantar panas yang baik. Karena itu, panas yang 
+dihantarkannya dapat mematangkan masakan. Sekarang perhatikanlah bagian gagang panci atau wajan. Gagang tersebut 
+biasanya dilapisi plastik atau kayu. Plastik dan kayu merupakan isolator panas. Jadi, kalian tidak perlu takut 
+kepanasan saat mengangkat panci dari kompor. Alas setrika terbuat dari logam agar cepat panas. Panas ini digunakan 
+untuk menghaluskan dan merapikan pakaian. Gagang setrika biasanya terbuat dari plastik. Meskipun alas setrika panas, 
+gagangnya tidak ikut panas. Kita dapat menyetrika dengan nyaman. </p>

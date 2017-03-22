@@ -1,0 +1,605 @@
+<j>Struktur dan Fungsi Jaringan pada Tumbuhan.
+<p>Budidaya tanaman hias cenderung silih berganti. Mulai kamboja, adenium, hingga anthurium. Tak 
+terkecuali, anggrek pun pernah mengalami masa jayanya. Memang, selain dipajang sebagai hiasan, 
+tanaman ini dapat pula dijadikan komoditas bisnis yang sangat menguntungkan. Terlebih lagi tanaman 
+anggrek dapat tumbuh di beragam tempat, misalnya di tanah, menempel pada tanaman inang, ataupun 
+pada bebatuan. Sehingga sifat uniknya pun dapat bertambah. Budidaya tanaman anggrek tidak begitu 
+sulit. Dapat dilakukan secara konvensional maupun metode kultur jaringan. Metode terakhir banyak 
+dilirik karena cukup efektif. Maka, kalian perlu mengerti, bagaimana kultur jaringan dilakukan?.</p>
+
+<p>Nah, untuk menjawab pertanyaan di atas, kalian dapat mempelajari sajian materi bab struktur dan 
+fungsi jaringan tumbuhan berikut. Kalian diharapkan dapat membedakan jenis dan fungsi jaringan 
+sebagai penyusun organ tumbuhan. Kalian juga diharapkan mampu menunjukkan jaringan-jaringan 
+seperti epidermis, korteks, dan silinder pusat. Kemudian, yang cukup menarik, kalian dituntut 
+dapat menjelaskan sifat totipotensi sel sebagai dasar kultur jaringan pada tumbuhan.</p>
+
+<p>Setelah kalian mempelajari bab ini, kalian diharapkan mengetahui berbagai jaringan yang menyusun 
+tubuh tumbuhan. Selain itu, kalian diharapkan juga mampu memahami bahwa kultur jaringan merupakan 
+salah satu teknologi yang penerapannya didasarkan pada sifat totipotensi sel. Baiklah, mari kita 
+ikuti bahasan materinya pada bab berikut.</p>
+
+<p>Jenis-jenis Jaringan Tumbuhan. Sebagai salah satu ciptaan Tuhan, tumbuhan memiliki struktur tubuh 
+yang sangat menakjubkan. Masing-masing bagian tubuh tumbuhan saling bekerja sama untuk tumbuh dan 
+berkembang. Kemampuan ini ada karena tumbuhan memiliki bagian sel hidup yang membentuk jaringan.</p>
+
+<p>Tubuh tumbuhan tersusun atas pelbagai macam jaringan. Menurut kemampuan membelahnya, jaringan 
+tumbuhan ada dua macam, yaitu jaringan meristem dan jaringan permanen. Baiklah, untuk 
+mengetahuinya, mari kita pahami jenis jaringan pada uraian berikut.</p>
+
+<p>Jaringan Meristem. Asal kata meristem adalah meristes, artinya 'terbelah', yang berasal dari 
+bahasa Yunani. Sesuai namanya, sel-sel penyusun jaringan meristem sangat aktif membelah untuk 
+menghasilkan sel baru. Karena itu, tidak salah bila disebut dengan jaringan embrional. Ciri 
+jaringan meristem antara lain selnya kecil-kecil, dinding sel tipis, inti sel besar, dan vakuola 
+kecil.</p>
+
+<p>Kemudian, pada jaringan meristem terdapat sel-sel yang selalu tetap. Sel tetap berfungsi untuk 
+menghasilkan sel-sel baru di dalam meristem. Sel-sel baru dinamakan inisial atau permulaan. 
+Sedangkan sel-sel baru yang mengalami spesialisasi dan perkembangan di dalam jaringan dinamakan 
+derivatif. Sel-sel derivatif merupakan sel pengganti meristem.</p>
+
+<p>Menurut asal pembentuknya, jaringan meristem dikelompokkan menjadi tiga macam, yakni promeristem, 
+meristem primer, dan meristem sekunder. Promeristem merupakan jaringan meristem yang sudah ada 
+sejak tumbuhan berfase embrio. Adapun meristem primer, bisa ditemukan pada tumbuhan dewasa. 
+Meristem primer terletak pada ujung batang dan ujung akar. Karena itu, tubuh tumbuhan bisa 
+bertambah tinggi dan panjang. Melalui sifatnya ini, meristem primer dinamakan juga meristem apikal.  
+Sel meristem primer berkembang menjadi meristem sekunder. Sebagai contoh, kambium. Kambium 
+merupakan jaringan yang dimiliki oleh tumbuhan dikotil dan tumbuhan biji terbuka (Gymnospermae). 
+Kambium terdapat di antara xilem dan floem. Pembelahan sel kambium ke arah dalam akan membentuk 
+kayu. Sedangkan pembelahan sel kambium ke arah luar membentuk kulit kayu.</p>
+
+<p>Dengan demikian, kambium dapat mengalami pertumbuhan ke samping. Misalnya saja, batang dan cabang 
+tumbuhan dikotil yang tumbuh semakin besar. Pertumbuhan kambium membentuk lapisan kayu yang lebih 
+tebal daripada kulit kayu. Sebab, pertumbuhan kambium ke arah luar lebih lambat dibandingkan 
+pertumbuhan kambium ke arah dalam.</p>
+
+<p>Sementara itu, selain asal pembentuknya, jaringan meristem juga dikelompokkan berdasarkan letaknya 
+yaitu meristem apikal, meristem interkalar, dan meristem lateral. Apakah maksud dari ketiga jenis 
+jaringan ini?.</p>
+
+<p>Meristem apikal disebut juga dengan meristem ujung. Meristem apikal terdapat pada ujung akar dan 
+ujung batang. Saat mengalami pemanjangan, meristem apikal akan menghasilkan tunas apikal. Tunas 
+apikal berkembang menjadi pelbagai jaringan baru yang membentuk cabang, daun, dan bunga. Sehingga, 
+pertumbuhan apikal disebut juga pertumbuhan primer. Sedangkan jaringan yang dihasilkan disebut 
+jaringan primer. Selain memiliki meristem apikal, jaringan tumbuhan juga memiliki meristem 
+interkalar. Jaringan meristem interkalar disebut juga meristem antara. Letak jaringan ini berada 
+di antara jaringan permanen (jaringan dewasa). Pertumbuhan meristem interkalar akan menghasilkan 
+bunga. Sehingga tidak salah jika jaringan yang dibentuk oleh meristem ini tergolong dalam jaringan 
+primer. Meristem interkalar banyak terdapat pada pangkal ruas batang rumput-rumputan (Graminae). 
+Selanjutnya, bagian jaringan meristem yang lain adalah meristem lateral. Jaringan meristem ini 
+dinamakan juga meristem samping. Contohnya meristem lateral pada kambium pembuluh dan kambium 
+gabus. Saat mengalami pembelahan sel, kambium pembuluh atau kambium gabus pada akar dan batang 
+akan mengalami proses penebalan (lignifikasi). Akibatnya, akar atau batang akan semakin besar. 
+Pertumbuhan seperti ini dinamakan pertumbuhan sekunder dan jaringan yang dihasilkan dinamakan 
+jaringan sekunder.</p>
+
+<p>Sebenarnya pertumbuhan primer dan sekunder tumbuhan terjadi pada waktu yang bersamaan, hanya saja 
+letak pertumbuhannya berbeda. Oleh karena itu, tumbuhan kayu dapat mengalami pertumbuhan baik 
+secara apikal maupun lateral secara bersamaan.</p>
+
+<p>Jaringan Permanen. Berdasarkan kemampuan membelahnya, tumbuhan memiliki jaringan permanen. nama 
+lain jaringan permanen adalah jaringan dewasa. Sifat jaringan permanen yakni nonmeristematik. 
+Artinya, sel jaringan permanen tidak mampu tumbuh dan berkembang lagi. Hanya membentuk struktur 
+tubuh tumbuhan dengan fungsi tertentu saja.</p>
+
+<p>Menurut asalnya, jaringan permanen dihasilkan dari diferensiasi dan spesialisasi sel-sel pada 
+jaringan meristem. Diferensiasi adalah perubahan bentuk tubuh tumbuhan yang disesuaikan dengan 
+fungsinya. Sementara, spesialisasi adalah pengkhususan sel tumbuhan guna menyokong fungsi sel 
+tertentu.</p>
+
+<p>Seperti halnya jaringan meristem, jaringan permanen tersusun dari pelbagai jenis jaringan. 
+Penyusun jaringan permanen meliputi jaringan epidermis, jaringan parenkim, jaringan penyokong, 
+jaringan pengangkut, dan jaringan gabus. Simak uraiannya sebagai berikut.</p>
+
+<p>Jaringan Epidermis. Asal kata "epidermis" adalah epi artinya di atas dan derma artinya kulit yang 
+berasal dari Yunani. Sesuai namanya, jaringan epidermis dalam tubuh tumbuhan berfungsi sebagai 
+penutup dan pelindung jaringan lainnya, terutama pada jaringan muda yang masih memungkinkan 
+mengalami perkembangan dan pertumbuhan. Karena itu, jaringan epidermis terletak pada lapisan 
+terluar akar, batang, dan daun. Ciri jaringan epidermis antara lain selnya hidup dan tersusun 
+rapat, tidak memiliki klorofil dan berbentuk balok.</p>
+
+<p>Jaringan epidermis juga mampu melakukan diferensiasi epidermis. Karena itu, jaringan epidermis 
+pada tumbuhan tertentu memiliki stomata, sel kipas, sel gabus, sel kersik, trikomata, spina, dan 
+velamen. Derivat-derivat ini dapat ditemukan baik pada akar, batang, maupun daun.</p>
+
+<p>Stomata (tunggal disebut stoma) atau mulut daun merupakan pori kecil yang diapit oleh dua sel 
+penjaga. Di dalam sel penjaga terdapat kloroplas. Kloroplas merupakan bagian epidermis yang berisi 
+klorofil dengan peran sebagai tempat terjadinya proses fotosintesis. Agar kalian mengetahui bentuk 
+stomata dengan tepat. Fungsi stomata adalah sebagai tempat terjadinya respirasi (pertukaran gas) 
+dan juga transpirasi (proses penguapan air).</p>
+
+<p>Salah satu bentuk diferensiasi epidermis yang lain adalah sel kipas. Sel kipas terdapat pada 
+epidermis atas daun rumput-rumputan (Gramineae atau Cyperaceae). Sebagai contoh, sel kipas pada 
+rumput teki dan daun bambu. Sel kipas bentuknya lebih besar dibanding sel epidermis, dinding sel 
+tipis dan bisa mengempis. Daun rumput teki, bambu, dan sejenisnya dapat menggulung untuk 
+mengurangi penguapan.</p>
+
+<p>Sel epidermis daun atas juga mengalami diferensiasi. Lapisan kutikula (senyawa lemak), misalnya, 
+merupakan zat kutin yang mengalami penebalan, Contohnya daun pohon nangka. Sementara lapisan lilin 
+dapat ditemukan pada epidermis bawah daun. Misalnya saja, lapisan lilin pada daun pisang.</p>
+
+<p>Bentuk diferensiasi epidermis lainnya adalah trikoma (jamak disebut trikomata). Trikoma ialah 
+bentuk modifikasi sel epidermis yang berupa rambut-rambut. Trikoma biasanya terletak pada akar, 
+daun, batang, bunga, buah, maupun biji. Pada sel epidermis, trikoma muncul dari epidermis atas. 
+Jumlah selnya bisa tunggal atau banyak. Ada trikoma yang mempunyai kelenjar sekretori dan ada juga 
+yang tidak.</p>
+
+<p>Trikoma memiliki beragam fungsi, antara lain mengurangi penguapan, mengurangi gangguan hewan, dan 
+membantu penyerbukan bunga. Trikoma juga berfungsi menyerap air dan garam mineral dari tanah, 
+misalnya trikoma pada akar. Selain itu, trikoma mampu meneruskan rangsang dari luar dan membantu 
+penyebaran biji.</p>
+
+<p>Kemudian, bentuk diferensiasi epidermis yang lain adalah duri pada batang atau cabang tumbuhan. 
+Duri (spina) merupakan modifikasi sel epidermis yang terdapat pada tumbuhan tertentu. Duri tumbuhan 
+terbagi dalam dua jenis, yakni duri asli dan duri palsu. Duri asli dibentuk oleh jaringan di dalam 
+stele batang. Misalnya, duri pada tanaman bunga kertas (Bougainvillea). Sedangkan duri palsu 
+dibentuk oleh jaringan di bawah epidermis yaitu jaringan korteks batang. Contohnya, duri pada 
+batang tumbuhan mawar.</p>
+
+<p>Bila kalian melihat tanaman anggrek, maka kalian akan menemukan velamen. Velamen merupakan 
+modifikasi sel epidermis yang terdapat pada akar udara tanaman anggrek. Epidermis dan akar anggrek 
+disebut epidermis ganda atau multipel epidermis. Velamen berfungsi sebagai tempat menyimpan air. 
+Berikutnya adalah sel kersik. Sel kersik merupakan hasil modifikasi sel epidermis pada batang 
+Graminae. Sel kersik mengandung zat kersik atau silika (SiO2). Batang tebu adalah tanaman yang 
+banyak mengandung sel ini. Karenanya, permukaan batang tebu menjadi keras.</p>
+
+<p>Jaringan parenkim merupakan bentuk lain dari jaringan dewasa. Jaringan parenkim menyusun tubuh 
+tumbuhan setelah jaringan epidermis. Jaringan parenkim disebut juga jaringan dasar. Alasannya, 
+jaringan dasar bisa ditemukan pada semua organ tumbuhan, seperti akar, batang, dan daun. Pada 
+batang, jaringan dasar ditemukan pada korteks dan empulur batang. Sedangkan pada daun, jaringan 
+dasar berdiferensiasi menjadi jaringan bunga karang. Kemudian juga pada selubung berkas pengangkut.</p>
+
+<p>Adapun ciri-ciri jaringan parenkim antara lain ukuran sel besar dan hidup, dinding sel tipis, 
+banyak terdapat vakuola, sel berbentuk segi enam, dan banyak memiliki ruang antar sel. Selain itu, 
+jaringan parenkim mampu membelah, baik secara embrional maupun meristematik.</p>
+
+<p>Berdasarkan fungsinya, jaringan parenkim terbagi menjadi beberapa jaringan, yaitu parenkim air, 
+parenkim pengangkut, parenkim penyimpan udara, parenkim asimilasi, parenkim penimbun, dan parenkim 
+penutup luka. Parenkim air adalah parenkim yang berperan dalam penyimpan air. Sebagai contoh, 
+parenkim air pada tumbuhan kaktus. Parenkim pengangkut merupakan salah satu jaringan yang menyusun 
+xilem dan floem. Xilem berfungsi mengangkut air dan garam mineral, sedangkan floem berfungsi 
+mengangkut hasil asimilasi yang kemudian diedarkan ke seluruh tubuh. Jenis parenkim lainnya adalah 
+parenkim penyimpan udara (aerenkim). Seperti namanya, fungsi parenkim ini sebagai penyimpan udara 
+pada ruang antarsel. Contohnya, parenkim penyimpan udara pada tumbuhan air yang mempunyai ruang 
+antar sel dengan jumlah banyak dan ukuran yang besar.</p>
+
+<p>Jenis berikutnya adalah parenkim asimilasi. Fungsi parenkim asimilasi adalah tempat pembuatan zat 
+makanan pada proses fotosintesis. Parenkim ini banyak terdapat pada bagian tumbuhan yang berwarna 
+hijau. Selain jenis parenkim tersebut, ada pula parenkim penimbun. Peran parenkim ini yaitu 
+menyimpan cadangan makanan. Cadangan makanan tersebut berada pada vakuola. Contohnya umbi, rimpang, 
+dan biji. Sementara itu, jaringan parenkim penutup luka disebut kambium gabus (felogen). Jaringan 
+ini mampu beregenerasi menjadi jaring embrional (meristematik) adalah fungsinya.</p>
+
+<p>Jaringan Penyokong. Jaringan dewasa juga memiliki jaringan penyokong. Seperti halnya beton pada 
+bangunan, jaringan penyokong berfungsi menunjang dan memperkokoh bentuk tumbuhan. Karena itu, 
+jaringan ini disebut juga jaringan mekanik. Selain itu, jaringan ini juga berfungsi melindungi 
+embrio, melindungi berkas pengangkut, dan memperkuat jaringan parenkim. Jaringan penyokong 
+memiliki tebal dan kuat. Sel jaringan ini dapat pula mengalami spesialisasi. Oleh karena itu, 
+jaringan ini dinamakan pula jaringan penguat. Jaringan penyokong ini terdapat pada daun, batang, 
+dan biji.</p>
+
+<p>Jaringan penyokong ini terbagi atas dua jenis jaringan, yakni jaringan kolenkim dan jaringan 
+sklerenkim. Jaringan kolenkim memiliki sel hidup, dan tak berlignin. Selain itu, selnya mengalami 
+penebalan. Jaringan banyak terdapat pada organ tumbuhan yang sedang tumbuh. Bila berbaur dengan 
+sel parenkim, sel jaringan penyokong tampak lebih tebal. Jaringan kolenkim berfungsi mengokohkan 
+dan menjaga kelenturan tubuh tumbuhan. Sementara itu, jaringan sklerenkim hanya terdapat pada 
+organ tumbuhan dewasa. Sel sklerenkim mati dan dindingnya tebal berlignin. Dibandingkan sel 
+kolenkim, sel-sel sklerenkim ini jauh lebih kaku.</p>
+
+<p>Sel sklerenkim ada dua bentuk, yakni sel serat dan sklereid. Sel serat berbentuk panjang, ramping, 
+tirus, dan bundel-bundel. Misalnya serat rami, digunakan untuk membuat tali dan serat rami halus 
+untuk dipintal menjadi linen. Sedangkan sklereid (sel batu) memiliki bentuk tidak beraturan. 
+Ukuran sklereid lebih pendek daripada sel serat. Dengan adanya sklereid, kulit kacang dan lapisan 
+biji menjadi keras. Sklereid dapat dijumpai pada daging buah jambu biji, buah pir, tempurung 
+kelapa, kulit biji jarak, dan buah kenari.</p>
+
+<p>Jaringan Pengangkut. Di samping ketiga jenis jaringan permanen di atas, jaringan pengangkut juga 
+terdapat pada tumbuhan. Jaringan pengangkut disebut juga berkas vaskuler atau berkas pengangkutan 
+(fasis). Jaringan ini berfungsi mengangkut air dan unsur hara hasil asimilasi dari satu bagian 
+tubuh tumbuhan ke bagian yang lain.</p>
+
+<p>Jaringan pengangkut terbagi menjadi dua macam. Yakni xilem dan floem. Xilem dinamakan pula 
+pembuluh kayu. Fungsinya adalah mengangkut air dan garam mineral dari tanah ke dalam tubuh hingga 
+daun. Pada xilem terdapat dua jenis sel, yaitu trakeid dan unsur pembuluh. Sel trakeid berbentuk 
+gelondong, panjang dan tipis dengan ujung runcing. Pada dinding selnya terdapat ceruk sebagai 
+tempat jalan air dari sel ke sel lain. Oleh karena dinding sekundernya terdapat lignin, maka 
+trakeid berfungsi sebagai penyokong dan pengangkut air.</p>
+
+<p>Sementara itu, unsur pembuluh pada xilem berbentuk lebih lebar, ukuran lebih pendek, dinding sel 
+tipis, dan ujung tidak terlalu runcing. Unsur pembuluh berbentuk pipa kecil panjang dari ujung ke 
+ujung dinamakan pembuluh xilem. Pada dinding ujung unsur pembuluh ini terdapat perforasi (lubang) 
+yang memungkinkan air mengalir bebas.</p>
+
+<p>Jaringan pengangkut selanjutnya adalah floem. Floem dinamakan pula pembuluh tapis. Floem berfungsi 
+menyalurkan hasil fotosintesis dari daun ke seluruh bagian tumbuhan. Jaringan ini tersusun atas 
+anggota pembuluh tapis. Di antara anggota pembuluh tapis terdapat dinding berpori atau lempengan 
+tapis. Dengan adanya dinding berpori, aliran zat yang berasal dari sel-sel pada pembuluh tapis 
+bergerak dengan mudah. Di sepanjang sisi anggota pembuluh tapis terdapat sel pendamping yang 
+memiliki nukleus. Pada daun, sel pendamping ini dapat membuat gula yang selanjutnya disalurkan ke 
+seluruh anggota pembuluh tapis.</p>
+
+<p>Jaringan gabus merupakan jaringan yang tersusun oleh sel-sel parenkim gabus. Jaringan ini memiliki 
+sel gabus yang mati dan kosong. Bentuknya memanjang dan berdinding gabus. Jaringan gabus berguna 
+melindungi jaringan-jaringan di bawahnya dari kehilangan air. Jaringan gabus pada tumbuhan dikotil 
+dibentuk oleh kambium gabus atau felogen yang ada di bawah epidermis.</p>
+
+<p>Jaringan gabus terbagi menjadi dua macam. Jaringan gabus yang dibentuk kambium gabus ke arah luar 
+dan sel-selnya mati disebut felem. Sedangkan jaringan gabus yang dibentuk kambium gabus ke arah 
+dalam dan sel-sel yang hidup menyerupai parenkim disebut feloderm.</p>
+
+<p>Sistem Jaringan pada Tumbuhan. Berbagai jaringan dapat berkumpul dan membentuk suatu sistem yang 
+disebut sistem jaringan. Jaringan-jaringan seperti jaringan parenkim, kolenkim, sklerenkim, xilem, 
+dan floem bila berkumpul bisa membentuk sistem jaringan. Sebagai contoh adalah jaringan yang 
+berperan dalam transpor air, mineral, dan makanan. Pada transpor ini, tumbuhan banyak melibatkan 
+pelbagai macam jaringan, seperti jaringan epidermis, korteks, endodermis, stele, dan berkas 
+pembuluh. Di dalam tubuh tumbuhan terdapat tiga macam sistem jaringan, yakni sistem jaringan 
+dermal, sistem jaringan dasar, dan sistem jaringan pembuluh. Ketiga sistem jaringan ini tersebar 
+pada daun, batang, maupun akar. Masing-masing sistem jaringan tersebut saling berkaitan sehingga 
+menyusun tubuh tumbuhan.</p>
+
+<p>Sistem jaringan dermal merupakan lapisan yang membungkus, menutupi, dan melindungi semua bagian 
+tumbuhan. Jaringan ini meliputi epidermis dan periderm. Pada akar, perluasan dari sel-sel 
+epidermis akan membentuk rambut-rambut akar. Rambut-rambut akar ini berfungsi sebagai penyerap air 
+dan garam mineral. Pada batang dan daun, sistem jaringan dermal menyekresikan lapisan berlilin 
+yang disebut kutikula. Kutikula berfungsi menahan air yang terlalu banyak keluar dari tubuh 
+tumbuhan.</p>
+
+<p>Selanjutnya adalah sistem jaringan pembuluh. Sistem jaringan pembuluh amat terkait dengan 
+pengangkutan (transportasi) air dan garam mineral. Xilem dan floem merupakan jaringan yang 
+berperan dalam proses pengangkutan tersebut. Selain itu, sistem jaringan pembuluh berfungsi pula 
+sebagai jaringan penguat, sebab di dalamnya terdapat serabut xilem dan serabut floem.</p>
+
+<p>Sementara itu, sistem jaringan dasar merupakan jaringan pembentuk bahan dasar atau selimut 
+jaringan pembuluh. Letak sistem jaringan ini berada di antara sistem jaringan dermal dan sistem 
+jaringan pembuluh. Jaringan dasar penyusun tubuh tumbuhan adalah jaringan parenkim, jaringan 
+kolenkim, dan jaringan sklerenkim. Masih ingatkah fungsi masing-masing jaringan tersebut?.</p>
+
+<p>Proses Pengangkutan Zat pada Tumbuhan. Setiap hari tumbuhan membutuhkan berbagai zat penting untuk 
+melakukan proses metabolisme dalam tubuhnya. Zat tersebut misalnya air, garam mineral, oksigen, 
+dan karbon dioksida.</p>
+
+<p>Sebagaimana kita ketahui, tumbuhan dalam kesehariannya pasti membutuhkan zat-zat penting untuk 
+hidup. Zat yang dibutuhkan antara lain air, garam mineral, oksigen, dan karbon dioksida. Pelbagai 
+zat ini dapat diperoleh dari luar tubuh tumbuhan. Melalui daun, tumbuhan dapat memperoleh oksigen 
+dan karbon dioksida. Sedangkan melalui ujung akar dan buluh-buluh akar, air dan garam mineral 
+dapat diangkut tumbuhan ke dalam tubuhnya.</p>
+
+<p>Untuk mengangkut air dan garam mineral, tumbuhan memerlukan suatu proses pengangkutan. 
+Pengangkutan zat ini dilakukan oleh jaringan pengangkut yang melewati berkas pembuluh. Walau 
+begitu, ada juga pengangkutan air dan garam mineral yang tidak diangkut secara langsung melalui 
+berkas pembuluh, alias di luar berkas pembuluh xilem dan floem.</p>
+
+<p>Oleh karena itu, pengangkutan air dan garam mineral pada tumbuhan dapat melalui dua cara, yaitu 
+pengangkutan ekstravaskuler dan intravaskuler. Bagaimanakah proses pengangkutan ekstravaskuler dan 
+intravaskuler pada tumbuhan?. Kalian akan mengetahuinya setelah memahami penjelasan berikut.</p>
+
+<p>Pengangkutan Ekstravaskuler. Dalam proses pengangkutan, tumbuhan dapat menyerap air dari tanah ke 
+dalam tubuh melewati satu sel ke sel lain secara horizontal. Proses demikian dinamakan 
+pengangkutan ekstravaskuler. Maksudnya, pengangkutan air dimulai dengan penyerapan oleh bulu akar, 
+kemudian masuk menuju sel-sel epidermis. Dari sel epidermis, air menuju korteks, dan diteruskan ke 
+sel-sel endodermis. Akhirnya, air masuk ke stele. Dari korteks, air didistribusikan menuju sel-sel 
+untuk proses metabolisme tubuh.</p>
+
+<p>Untuk melakukan pengangkutan ekstravaskuler, tumbuhan dapat menempuhnya melalui dua cara, yakni 
+secara simplas dan aploplas. Pengangkutan simplas merupakan sistem pengangkutan air dan zat 
+terlarut pada tumbuhan melalui bagian hidup dari satu sel ke sel lainnya. Bagian sel yang dilewati 
+air dan zat terlarut tersebut adalah sitoplasma dan vakuola. Air dan zat terlarut ini dapat 
+terangkut ke dalam tubuh tumbuhan dengan transpor aktif dan osmosis melalui plasmodesmata. 
+Plasmodesmata adalah saluran yang menghubungkan protoplasma suatu sel dengan protoplasma sel 
+lainnya.</p>
+
+<p>Air dan zat terlarut diserap bulu akar menuju sel-sel parenkim korteks yang berlapis-lapis. Lalu, 
+air dan zat terlarut tersebut bergerak menuju sel-sel endodermis dan dilanjutkan ke sel-sel 
+periskel. Akhirnya, air dan zat terlarut menuju berkas pembuluh xilem. Secara intravaskuler, air 
+dan zat terlarut tersebut diangkut oleh xilem.</p>
+
+<p>Sebenarnya ada perbedaan antara pengangkutan zat terlarut dengan pengangkutan air. Tumbuhan 
+menyerap zat terlarut melawan gradien konsentrasi. Maksudnya, zat terlarut tersebut dibawa 
+tumbuhan bergerak dari konsentrasi rendah menuju konsentrasi tinggi melalui transpor aktif.</p>
+
+<p>Pengangkutan ekstravaskuler selanjutnya adalah pengangkutan aploplas. Aploplas memiliki mekanisme 
+pengangkutan yang berkebalikan dengan simplas. Pengangkutan aploplas bekerja mengangkut air dan 
+garam mineral bergerak melalui bagian sel yang tidak hidup, misalnya dinding sel dan ruang antar 
+sel, baik secara difusi ataupun transpor pasif.</p>
+
+<p>Namun, proses pengangkutan air dan zat terlarut secara aploplas dapat mengalami hambatan. Hambatan 
+ini terjadi karena adanya pita Kaspari pada sel-sel endodermis. Pita Kaspari adalah suatu pita 
+yang terbuat dari suberin, suatu bahan berlilin yang kedap air dan garam mineral. Pita Kaspari 
+yang membuat air dan zat terlarut tidak dapat bergerak menuju stele. Sehingga, pengangkutan air 
+dan zat terlarut tidak terjadi secara intravaskuler melalui xilem. Dengan demikian, air dan garam 
+mineral masuk ke dalam endodermis serta menuju stele hanya melalui pengangkutan simplas.</p>
+
+<p>Pengangkutan intravaskuler berbeda dengan pengangkutan ekstravaskuler. Istilah intravaskuler 
+berasal dari kata intra yang berarti 'dalam', dan vaskuler yang berarti 'pembuluh'. Pengangkutan 
+intravaskuler adalah pengangkutan air dan zat terlarut yang terjadi dalam berkas pembuluh xilem 
+dan floem secara vertikal. Vertikal maksudnya adalah pengangkutan air dan zat terlarut oleh xilem 
+dari akar menuju daun oleh xilem. Sebaliknya, pengangkutan zat makanan diangkut dari daun ke 
+seluruh tubuh tumbuhan dilakukan oleh floem.</p>
+
+<p>Pengangkutan air dan zat terlarut pada tumbuhan diawali dengan penyerapan zat melalui rambut akar. 
+Kemudian zat tersebut mengalir menuju epidermis. Dari epidermis, air dan zat terlarut mengalir 
+menuju korteks dan diteruskan ke sel-sel endodermis. Berikutnya, air dan zat terlarut masuk ke 
+berkas pembuluh xilem akar. Selanjutnya, air dan zat terlarut diteruskan menuju xilem batang 
+hingga xilem daun. Di dalam xilem daun, zat-zat yang berguna masuk ke parenkim mesofil daun sebagai 
+bahan proses fotosintesis.</p>
+
+<p>Proses fotosintesis menghasilkan glukosa dan oksigen. Glukosa diangkut pembuluh floem menuju 
+seluruh jaringan tubuh. Oksigen dikeluarkan tumbuhan lewat stomata daun. Sementara air sisa 
+metabolisme dikeluarkan lewat proses transpirasi.</p>
+
+<p>Kecepatan pengangkutan zat pada tumbuhan dipengaruhi oleh beberapa faktor, yakni kelembapan, suhu, 
+cahaya, angin, dan kandungan air tanah. Semakin tinggi kelembapan udara di sekitar tumbuhan, maka 
+difusi yang terjadi di dalam tumbuhan berlangsung lambat. Sebaliknya, semakin rendah kelembapan 
+udara lingkungan, difusi di dalam tumbuhan akan semakin cepat.</p>
+
+<p>Semakin tinggi suhu lingkungan di sekitar tumbuhan dan intensitas cahaya yang meningkat serta 
+angin yang semakin kencang, maka laju transpirasi tumbuhan akan semakin tinggi. Begitu pula 
+sebaliknya, suhu lingkungan, intensitas cahaya, dan angin yang semakin besar mengakibatkan proses 
+pengangkutan zat berlangsung lambat.</p>
+
+<p>Semakin banyak kandungan air di dalam tanah, maka potensial air semakin tinggi. Akibatnya, proses 
+transportasi zat pada xilem dan laju transpirasi semakin meningkat.</p>
+
+<p>Tumbuhan multiseluler memiliki akar, batang, dan daun. Masing-masing bagian tumbuhan ini tersusun 
+dari beberapa jaringan. Selain itu, akar, batang, dan daun juga mempunyai fungsi yang beragam. Di 
+bawah ini akan dibahas struktur pelbagai organ dalam tumbuhan.</p>
+
+<p>Organ Tumbuhan. Pelbagai jaringan dengan fungsi tertentu bisa berkumpul membentuk suatu organ. 
+Demikian pula pada tumbuhan, proses diferensiasi yang terjadi dalam jaringan dapat membentuk 
+pelbagai macam bagian pokok tumbuhan. Bagian-bagian itu adalah akar, batang, dan daun. Sementara 
+bagian lain yang ada pada tubuh tumbuhan itu adalah hasil modifikasi dari salah satu atau dua 
+bagian tumbuhan tersebut. Contoh bagian hasil modifikasi adalah kuncup, bunga, rimpang, dan duri.</p>
+
+<p>Tubuh tumbuhan terbagi dalam sistem akar dan sistem tunas. Sesuai namanya, sistem akar terdiri 
+atas organ akar dan bagian-bagiannya. Sedangkan sistem batang meliputi organ batang dan daun. 
+Untuk mengetahui struktur dan fungsi pelbagai organ tumbuhan, simak dan pahami uraian berikut.</p>
+
+<p>Akar. Akar merupakan bagian tubuh tumbuhan yang berada dalam tanah. Bentuk akar sebagian besar 
+meruncing. Terkadang, akar memiliki ujung yang berwarna cerah. Akar berfungsi sebagai penopang dan 
+penguat berdirinya tumbuhan. Untuk memperoleh zat dari luar tubuh, akar tumbuhan berperan dalam 
+proses penyerapan air dan garam mineral dari dalam tanah. Akar berfungsi sebagai tempat 
+penyimpanan cadangan makanan, contohnya adalah ketela pohon dan kentang.</p>
+
+<p>Selain menjulur dari dasar tunas, akar tumbuhan juga dapat keluar dari permukaan tanah. Akar 
+demikian bisa muncul dari batang ataupun daun. Kita dapat menyebut akar yang tumbuh pada bagian 
+yang tidak semestinya ini dengan nama akar liar atau adventitious. Akar liar berfungsi sebagai 
+penyangga dan penyokong batang tumbuhan yang menjulang tinggi. Sebagai contoh ialah akar tanaman 
+jagung yang tumbuh dari batangnya.</p>
+
+<p>Berdasarkan jenisnya, akar tumbuhan terbagi menjadi dua, yaitu sistem akar tunggang dan sistem 
+akar serabut. Sistem akar tunggang dimiliki oleh akar tumbuhan dikotil, sedangkan sistem akar 
+serabut dimiliki oleh akar tumbuhan monokotil. Pada sistem akar tunggang terdapat satu akar 
+tunggang besar, namun akar lateralnya kecil. Sementara pada sistem akar serabut, akarnya mirip 
+benang-benang. Secara morfologis, akar terdiri atas leher akar (pangkal akar), batang akar, cabang 
+akar, serabut akar, rambut akar, ujung akar, dan tudung akar (kaliptra).</p>
+
+<p>Bagian akar yang secara langsung terhubung dengan batang disebut leher akar. Sementara bagian yang 
+berada di antara leher dan ujung akar dinamakan batang akar. Selanjutnya, akar juga memiliki 
+bagian menonjol pada batang yang membentuk cabang akar. Selain itu, ada juga akar halus 
+bercabang-cabang yang disebut serabut akar. Lalu, akar juga memiliki bagian yang mengalami 
+diferensiasi pada jaringan epidermisnya. Bagian ini dinamakan rambut akar. Sementara, bagian ujung 
+akar yang berfungsi sebagai pelindung mesistem saat akar memanjang menembus tanah disebut tudung 
+akar.</p>
+
+<p>Di belakang tudung akar terdapat berbagai zona pertumbuhan primer. Zona yang dimaksud adalah zona 
+pembelahan sel, zona pemanjangan, dan zona pematangan. Pada zona pembelahan sel terdapat meristem 
+apikal atau meristem primer. Meristem apikal menghasilkan sel-sel meristem dan mengganti sel 
+tudung akar yang mengelupas saat menembus tanah. Sel pusat tenang juga terdapat pada lapisan ini. 
+Fungsi sel pusat tenang adalah sebagai cadangan pemulihan meristem saat mengalami kerusakan. Di 
+dalam zona ini terdapat protoderm, prokambium, dan meristem dasar. Masing-masing akan menghasilkan 
+tiga sistem jaringan. Zona pembelahan sel berhubungan dengan zona pemanjangan. Di dalam zona ini 
+sel-sel mengalami perpanjangan sepuluh kali panjang asalnya. Akibatnya, ujung akar terdorong 
+semakin jauh ke dalam tanah. Sementara zona pematangan pada akar mengalami spesialisasi dan 
+diferensiasi sesuai fungsinya.</p>
+
+<p>Selain beberapa zona tersebut, akar juga memiliki struktur tertentu. Kalian dapat mengamati 
+strukturnya melalui preparat awetan sayatan akar yang masih muda dengan menggunakan mikroskop. 
+Struktur akar dari luar ke dalam berturut-turut adalah jaringan epidermis, korteks, dan stele 
+(silinder pusat). Epidermis merupakan selapis sel yang berasal dari protoderm. Di dalamnya 
+terdapat dinding berkutikula dan susunan sel yang rapat. Selain itu, epidermis terdapat rambut 
+akar yang berguna memperluas permukaan sel sehingga penyerapan air dan zat terlarut lebih efisien.</p>
+
+<p>Lapisan berikutnya adalah korteks. Korteks terletak di antara lapisan epidermis dan stele. Pada 
+korteks terdapat sel-sel parenkim yang berdinding sel tipis. Lapisan luar korteks tersebut 
+dinamakan eksodermis. Sementara lapisan dalamnya tersusun rapat tanpa ruang antarsel dan berbentuk 
+kubus, yang disebut endodermis. Sel-sel endodermis ini mengalami penebalan suberin yang membentuk 
+pita Kaspari. Adapun dinding sel endodermis yang tidak menebal dan berfungsi sebagai jalan air 
+mengalir dinamakan sel penerus.</p>
+
+<p>Prokambium pada meristem primer berkembang menjadi stele (silinder pusat). Stele terdapat pada 
+akar bagian dalam, tepatnya di sebelah dalam endodermis. Stele tersusun dari empulur, perisikel 
+dan berkas vaskuler (fasis) atau pembuluh pengangkut. Empulur merupakan sel-sel parenkim yang 
+terdapat pada stele tumbuhan monokotil. Empulur ini dikelilingi oleh xilem dan floem secara 
+bergantian.</p>
+
+<p>Sementara itu, lapisan terluar stele membentuk periskel atau perikambium. Sel-sel stele pada 
+perisikel ini mudah membelah dan membentuk cabang. Karena itu, cabang akar pertumbuhannya bersifat 
+endogen. Sehingga stele ini dapat membentuk kambium jari-jari empulur. Lapisan berikutnya adalah 
+berkas vaskuler atau jaringan pengangkut. Di dalam berkas vaskuler terdapat xilem dan floem. Xilem 
+akar dikotil terletak di pusat dan berbentuk bintang, sedangkan floemnya terletak di luar xilem. 
+Sedangkan tumbuhan monokotil memiliki struktur yang berselang-seling. Selain itu, di antara xilem 
+dan floem akar tumbuhan dikotil terdapat kambium atau kolateral terbuka. Sementara, pada tumbuhan 
+monokotil tidak ada kambium atau kolateral tertutup.</p>
+
+<p>Nah, demikianlah ciri dan struktur sekaligus bagian akar tumbuhan. Pada struktur tubuh tumbuhan, 
+akar akan terkait dengan tubuh tumbuhan yang berada di atas tanah. Bagian ini disebut batang. 
+Bagaimana ciri dan struktur batang tumbuhan itu?. Simak uraian berikut.</p>
+
+<p>Batang merupakan bagian sistem tunas pada tumbuhan. Letaknya berada di atas tanah. Organ ini 
+dikategorikan sebagai penghasil alat-alat lateral, misalnya daun, tunas, dan bunga. Pada bagian 
+batang terdapat buku (node) atau tempat daun melekat dan ruas (internode), yaitu bagian 
+batang yang letaknya di antara buku-buku. Selain buku dan ruas, pada batang terdapat suatu tunas. 
+Tunas yang terdapat pada sudut di antara daun dan batang dinamakan tunas aksiler. Tunas ini 
+berpeluang menjadi cabang. Adapun bagian ujung batang terdapat tunas terminal.</p>
+
+<p>Pada bagian berikut, akan mempelajari ciri dan struktur batang dua jenis tumbuhan, yakni tumbuhan 
+dikotil dan tumbuhan monokotil. Simak dan pahami uraiannya.</p>
+
+<p>Batang Tumbuhan Dikotil. Seperti halnya akar, batang juga tersusun atas berbagai jaringan, yaitu 
+jaringan epidermis, jaringan dasar, dan jaringan pembuluh. Jaringan dasar tersusun oleh korteks, 
+sedangkan jaringan pembuluh terdapat berkas vaskuler yaitu xilem dan floem. Karena itu, batang 
+memiliki beragam fungsi bagi tumbuhan. Namun, berbagai lapisan ini juga mempunyai beragam ciri 
+khas.</p>
+
+<p>Jaringan epidermis pada batang memiliki ciri yang sama seperti jaringan epidermis pada akar. 
+Misalnya, sel yang tipis dan tersusun rapat serta berkutikula pada akar dan batang. Selain itu, 
+batang memiliki kemampuan tumbuh, baik secara sekunder maupun primer. Pertumbuhan sekunder batang 
+terjadi pada jaringan epidermis. Sedangkan pertumbuhan primer terjadi pada tunas terminal (ujung 
+batang) tepatnya pada meristem apikal. Fungsi jaringan epidermis pada batang juga sama dengan 
+jaringan epidermis pada akar yaitu melindungi jaringan yang ada di dalamnya. Epidermis batang ini 
+juga dapat pecah. Pecahnya epidermis batang mengakibatkan jaringan kambium gabus (folagen) terisi 
+dengan gabus. Bagian ini disebut lenti sel. Fungsi lenti sel adalah sebagai tempat pertukaran gas 
+dan penguapan (transpirasi).</p>
+
+<p>Lapisan penyusun batang selanjutnya adalah jaringan dasar. Di dalam jaringan ini terdapat korteks. 
+Korteks pada batang meliputi dua macam jaringan, yakni jaringan korteks luar dan korteks dalam. 
+Sel kolenkim dan sel parenkim adalah penyusun korteks luar. Korteks dalam hanya disusun dari 
+sel-sel parenkim saja. Korteks dalam (endodermis) dimiliki oleh semua tumbuhan. Namun sebaliknya, 
+tidak semua tumbuhan memiliki korteks luar. Ada satu ciri khas yang dimiliki tumbuhan biji terbuka 
+terkait lapisan korteks. Pada korteksnya terdapat seludang pati (sarung tepung) yaitu lapisan yang 
+berisi pati.</p>
+
+<p>Setelah korteks, tubuh tumbuhan tersusun oleh jaringan pembuluh. Di dalam jaringan pembuluh 
+terdapat stele atau silinder pusat. Pada tumbuhan dikotil, stele terletak di sebelah dalam korteks 
+atau sebelah dalam endodermis. Sementara, lapisan terluarnya disebut perisikel atau perikambium. 
+Di sebelah dalam korteks terdapat empulur dan berkas pengangkut. Pada berkas pengangkutan ini 
+terdapat xilem dan floem. Sementara, di tengah stele terdapat empulur. Empulur juga ada di antara 
+xilem dan floem. Bentuknya seperti jari-jari, disebut jari empulur. Selain itu, di antara xilem 
+dan floem juga terdapat kambium. Oleh karena itu, berkas pengangkutannya disebut berkas kolateral 
+terbuka.</p>
+
+<p>Kambium memiliki dua bagian, yakni kambium vaskuler dan kambium intravaskuler. Bagian kambium 
+yang berada di antara xilem dan floem berasal dari prokambium disebut kambium vaskuler. Sedangkan 
+kambium di luar xilem dan floem yang berasal dari sel-sel parenkim disebut kambium intravaskuler.</p>
+
+<p>Batang Tumbuhan Monokotil. Seperti halnya tumbuhan dikotil, struktur batang tumbuhan monokotil 
+tersusun atas jaringan epidermis, jaringan dasar, dan jaringan pengangkut atau berkas pembuluh. 
+Bedanya, tumbuhan dikotil memiliki bentuk meristem apikal yang kecil. Meristem inilah yang akan 
+membentuk tunas ketiak daun, bakal daun, dan epidermis.</p>
+
+<p>Pada tumbuhan monokotil juga terdapat meristem perifer. Meristem perifer merupakan bagian 
+meristem yang berkembang menjadi batang berisi xilem dan floem. Lapisan epidermis batang tumbuhan 
+dikotil memiliki dinding sel yang lebih tebal dibandingkan tumbuhan dikotil. Pada lapisan 
+epidermisnya terdapat stomata dan buku-buku.</p>
+
+<p>Di bawah epidermis terdapat korteks. Korteks tersusun dari sel-sel sklerenkim. Korteks tumbuhan 
+monokotil, korteks merupakan kulit batang. Kulit batang berfungsi mengeraskan bagian luar batang. 
+Setelah korteks, lapisan berikutnya ialah stele. Tumbuhan monokotil memiliki batas korteks dan 
+stele yang tidak jelas. Di dalam stelenya terdapat berkas pengangkutan. Berkas pengangkutan 
+tersebut tersebar pada empulur dan letaknya berdekatan dengan kulit batang. Sarung sklerenkim 
+mengelilingi seluruh berkas pengangkut. Tipe berkas pengangkutannya dinamakan kolateral tertutup, 
+sebab di antara xilem dan floemnya tidak ditemui kambium. Akibatnya, tumbuhan monokotil tidak 
+bisa tumbuh secara sekunder. Alias tubuhnya tidak membesar dan hanya memanjang.</p>
+
+<p>Namun, bila tumbuhan monokotil membesar tubuhnya menjadi berongga. Hal ini dilakukan dengan cara 
+menghilangkan empulur pada bagian tubuhnya, kecuali empulur pada ruang batas. Dengan begitu, 
+antara struktur batang tumbuhan monokotil muda dan tua tidak terdapat perbedaan.</p>
+
+<p>Daun (leaf). Daun tumbuhan kebanyakan berwarna hijau. Namun tidak jarang juga daun memiliki warna 
+selain hijau. Warna hijau ada karena daun memiliki pigmen klorofil. Daun merupakan organ tumbuhan 
+yang berperan sebagai tempat terjadinya fotosintesis.</p>
+
+<p>Daun memiliki bentuk yang beragam. Umumnya daun terdiri atas helai daun pipih dan tangkai daun 
+(petiola). Tangkai daun bersambung dengan buku batang. Tumbuhan monokotil tidak memiliki tangkai 
+daun. Sebaliknya, tumbuhan dikotil memiliki tangkai daun berbentuk pelepah yang membungkus batang. 
+Pada tumbuhan dikotil, tulang daun utama memiliki susunan bercabang. Sementara, tumbuhan monokotil 
+memiliki tulang daun utama yang tersusun kelelawar atau sejajar.</p>
+
+<p>Sama seperti pada akar dan batang, daun juga tersusun dari tiga sistem jaringan. Sistem jaringan 
+tersebut meliputi epidermis, jaringan dasar, dan berkas pembuluh. Lapisan paling atas pada daun 
+adalah epidermis. Epidermis terbagi menjadi dua lapisan, meliputi epidermis atas dan epidermis 
+bawah. Namun, ada juga daun yang memiliki selapis epidermis saja. Sel-sel epidermis daun tersusun 
+sangat rapat, sehingga ruang antarselnya tidak ada. Adapun pada lapisan luarnya terdapat kutikula 
+berlilin, yang berfungsi mengurangi banyaknya air dari tubuh tumbuhan.</p>
+
+<p>Selain kutikula, lapisan epidermis juga terdapat stomata. Stomata diapit oleh sel-sel penjaga, 
+yang berbentuk serupa ginjal atau biji kacang. Fungsi stomata adalah sebagai tempat pertukaran 
+gas karbon dioksida dan oksigen. Selain itu, juga berfungsi dalam proses transpirasi. Stomata 
+pada tumbuhan darat banyak terdapat pada lapisan epidermis bawah. Sedangkan pada tumbuhan air, 
+stomata banyak terdapat pada permukaan epidermis atas.</p>
+
+<p>Setelah epidermis, lapisan daun berikutnya adalah jaringan dasar. Jaringan dasar daun dinamakan 
+mesofil. Mesofil tersusun dari sel-sel parenkim. Pada tumbuhan dikotil, jaringan mesofilnya 
+memiliki dua bentuk jaringan, yakni parenkim palisade dan parenkim spons.</p>
+
+<p>Jaringan mesofil yang tepat di bawah epidermis membentuk jaringan parenkim palisade. Kloroplas 
+banyak ditemukan pada jaringan ini. Karena itu, proses fotosintesis dapat berlangsung. Susunan 
+sel pada jaringan parenkim palisade ini berbentuk kolumnar dan rapat. Adapun parenkim spons 
+terletak tepat di bawah jaringan parenkim palisade. Disebut parenkim spons, karena di dalamnya 
+terkandung labirin ruangan udara yang dilewati gas karbon dioksida dan oksigen saat proses 
+fotosintesis. Berbeda dengan parenkim palisade, sel-sel parenkim spons tidak rapat dan terdapat 
+jaringan pengangkut. Walau jumlahnya tidak banyak, parenkim spons juga memiliki kloroplas.</p>
+
+<p>Berbeda dengan tumbuhan dikotil, tumbuhan monokotil tidak memiliki parenkim palisade. Oleh 
+karenanya, proses fotosintesis hanya terjadi pada jaringan palisade spons. Sel-sel parenkim spons 
+ini tidak tersusun rapat dan terdapat berkas pengangkut. Lapisan daun berikutnya adalah berkas 
+vaskuler. Letak berkas vaskuler berada di bawah jaringan dasar. Seperti pada akar dan batang, 
+berkas vaskuler daun ini terdapat floem dan xilem. Selain itu, pada berkas vaskuler terdapat ibu 
+tulang daun, cabang tulang daun, dan urat daun yang menonjol. Berkas vaskuler ini sangat berperan 
+terutama dalam proses transpor zat.</p>
+
+<p>Jaringan merupakan unsur kehidupan yang amat penting bagi makhluk hidup, tidak terkecuali bagi 
+tumbuhan. Dengan perkembangan teknologi yang semakin pesat, para ahli botani telah merancang 
+teknik budidaya tumbuhan melalui jaringan. Teknik budidaya ini diilhami oleh sifat sel tumbuhan. 
+Apakah sifat sel yang dimaksud?. Simak uraiannya pada subbab berikut.</p>
+
+<p>Sifat Totipotensi Sel Tumbuhan dan Kultur Jaringan. Ada satu sifat sel tumbuhan yang mampu 
+membentuk individu secara utuh. Sifat itu adalah sifat totipotensi. Dengan sifat totipotensi, 
+tumbuhan baru dapat dibudidayakan melalui teknik tertentu, yakni kultur jaringan. Apakah yang 
+dimaksud sifat totipotensi?. Apa pula peranan sifat totipotensi dalam kultur jaringan?.</p>
+
+<p>Sifat Totipotensi Sel Tumbuhan. Kemajuan ilmu tentang sel membuat penemuan informasi baru terkait 
+sel semakin berkembang. Misalnya penemuan makhluk hidup bersel satu atau uniselluler. Dengan 
+demikian, tidak berlebihan bila muncul hipotesis atau teori sel lainnya yang terkait dengan 
+makhluk hidup multiseluler. Hipotesis atau teori itu mengatakan bahwa seharusnya setiap sel hidup 
+yang menyusun makhluk multiseluler juga mampu melakukan kegiatan hidup dan mampu tumbuh 
+(berkembang biak) serta berkembang seperti halnya makhluk uniseluler. Akhirnya, pada tahun 1838 
+muncul teori atau hipotesis yang terkait dengan hipotesis tersebut. Teori yang dimaksud adalah 
+teori totipotensi sel (total genetic potencial cell). Ilmuwan yang mengemukakannya adalah 
+Schleiden dan Schwann. Teori ini menyatakan bahwa setiap sel tumbuhan yang hidup mempunyai 
+informasi genetik dan perangkat fisiologis yang lengkap untuk tumbuh dan berkembang menjadi 
+tanaman yang utuh bila kondisinya sesuai.</p>
+
+<p>Pada mulanya, teori totipotensi sel ini belum bisa dibuktikan. Penyebabnya, saat itu pengetahuan 
+mengenai nutrisi dan hormon tanaman masih minim. Namun demikian, mulai tahun 1930, setelah 
+penemuan auksin, indol acetic acid (IAA) dan napthalene acetic acid (NAA), teori totipotensi sel 
+dapat dibuktikan. Pada perkembangan selanjutnya, penelitian-penelitian tentang teori totipotensi 
+sel terus dilakukan. Para ahli memfokuskan penelitiannya pada nutrisi dan hormon tanaman, 
+penyusunan medium tanam, dan pemilihan sumber/ bahan yang akan diperbanyak/ ditanam pada 
+medium/ kultur. Kemudian, tata cara perbanyakan tanaman secara kultur serta pengetahuan teknis 
+pembudidayaannya juga mereka teliti.</p>
+
+<p>Sifat Totipotensi Sebagai Dasar Kultur Jaringan. Kalian mungkin pernah melihat atau mendengar 
+mengenai tanaman jati emas. Bibit tanaman jati emas banyak digemari oleh masyarakat. Dengan 
+bibitnya yang unggul dan harga jual batang dewasanya yang cukup tinggi, masyarakat kita banyak 
+yang menanamnya. Tahukah kalian, bahwa bibit tanaman jati emas sebagian besar dikembangkan 
+melalui teknik kultur jaringan?. Seperti yang kita ketahui sebelumnya, sel tumbuhan tidak mungkin 
+dapat tumbuh dan berkembang menjadi tumbuhan utuh secara alamiah. Penyebabnya adalah kondisi alam 
+yang tidak memungkinkan terjadinya pertumbuhan dan perkembangan. Oleh sebab itu, kondisi yang 
+demikian tidak dapat dipenuhi kecuali disediakan media secara buatan.</p>
+
+<p>Berdasarkan sifat totipotensi sel, tumbuhan baru dapat tumbuh dan dikembangbiakkan. Sifat 
+totipotensi diartikan sebagai kemampuan sel, jaringan, atau organ tumbuhan untuk tumbuh dan 
+berkembang menjadi suatu organisme utuh. Oleh para ahli, sifat ini dimanfaatkan sebagai dasar 
+perkembangbiakan tumbuhan dengan suatu teknik tertentu. Salah satu teknik yang digunakan adalah 
+kultur jaringan.</p>
+
+<p>Kultur jaringan tumbuhan ialah teknik menumbuh kembangkan bagian tumbuhan, baik berupa sel, 
+jaringan, atau organ dalam kondisi apseptik (bebas dari mikro organisme), secara invitro (dalam 
+tabung atau botol) menjadi tumbuhan yang lengkap bagian-bagiannya. Teknik ini, dicirikan oleh 
+kondisi kultur yang aseptik, juga penggunaan media kultur/media tanam dengan nutrisi yang 
+dilengkapi Zat Pengatur Tumbuh (ZPT). Selain itu, perkembangbiakannya dilakukan pada kondisi 
+ruang kultur yang suhu dan pencahayaannya terkontrol.</p>
+
+<p>Guna melakukan perkembangbiakan, ada bagian-bagian tertentu pada tumbuhan yang biasanya 
+dikembangkan melalui teknik kultur jaringan. Bagian tumbuhan itu antara lain pucuk tunas, embrio, 
+serbuk sari, kuncup bunga, kalus, dan suspensi sel. Kita dapat menyebut bagian tumbuhan ini 
+dengan nama eksplan. Saat dikulturkan, eksplan yang dipilih sebaiknya memiliki jaringan muda yang 
+sedang tumbuh aktif. Sebab jaringan tanaman yang masih muda memiliki daya regenerasi tinggi atau 
+sel-selnya aktif membelah lagi lebih bersih. Kemudian tumbuhan yang dipilih sebagai sumber 
+eksplan juga harus sehat dan bebas hama penyakit.</p>
+
+<p>Ternyata, dengan sifat totipotensi, sel tumbuhan dapat dikembangkan menjadi tumbuhan baru melalui 
+teknik kultur jaringan. Ini tidak terlepas dari kuasa ciptaan Tuhan Yang Maha Esa. Sehingga, 
+manusia diberi kemudahan untuk membudidayakan tumbuhan yang keberadaannya semakin langka. Melalui 
+sifat ini pula tanaman baru hasil kultur jaringan memiliki sifat genetik yang sama dengan 
+induknya.</p>

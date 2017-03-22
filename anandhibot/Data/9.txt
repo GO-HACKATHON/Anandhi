@@ -1,0 +1,72 @@
+<j>Cahaya.
+<p>Berdasarkan dapat tidaknya memancarkan cahaya, benda dikelompokkan menjadi benda sumber cahaya dan benda gelap. 
+Benda sumber cahaya dapat memancarkan cahaya. Contoh benda sumber cahaya yaitu Matahari, lampu, dan nyala api. 
+Sementara itu, benda gelap tidak dapat memancarkan cahaya. Contoh benda gelap yaitu batu, kayu, dan kertas. 
+Berdasarkan dapat tidaknya meneruskan cahaya, benda dibedakan menjadi benda tidak tembus cahaya dan benda tembus 
+cahaya. Benda tidak tembus cahaya tidak dapat meneruskan cahaya yang mengenainya. Apabila dikenai cahaya, benda ini 
+akan membentuk bayangan. Contoh benda tidak tembus cahaya yaitu kertas, karton, tripleks, kayu, dan tembok. Sementara 
+itu, benda tembus cahaya dapat meneruskan cahaya yang mengenainya. Contoh benda tembus cahaya yaitu kaca.</p>
+
+<p>Benda-benda yang ada di sekitar kita dapat kita lihat apabila ada cahaya yang mengenai benda tersebut. Cahaya yang 
+mengenai benda akan dipantulkan oleh benda ke mata sehingga benda tersebut dapat terlihat. Cahaya berasal dari sumber 
+cahaya. Semua benda yang dapat memancarkan cahaya disebut sumber cahaya. Contoh sumber cahaya adalah matahari, lampu, 
+senter, dan bintang. Cahaya memiliki sifat merambat lurus, menembus benda bening, dan dapat dipantulkan. Pernahkah kamu 
+melihat cahaya matahari yang masuk melalui celah-celah atau jendela yang ada di rumahmu?. Bagaimana arah rambatan 
+cahaya tersebut?. Cahaya yang masuk melalui celah-celah jendela merambat lurus. Mengapa kaca jendela rumahmu merupakan 
+kaca yang bening?. Bagaimana jika kaca tersebut ditutup dengan tripleks atau kertas karton?. Apakah cahaya matahari dapat 
+masuk?. Cahaya dapat masuk ke dalam rumahmu selain melalui celah-celah juga melalui kaca jendela yang ada di rumahmu. 
+Kaca yang bening dapat ditembus oleh cahaya matahari. Apabila kamu menutup kaca jendela rumahmu dengan menggunakan 
+karton maka cahaya tidak dapat masuk ke dalam rumahmu. Hal ini menunjukkan bahwa cahaya hanya dapat menembus benda 
+yang bening.</p>
+
+<p>Coba ambil sentermu!. Nyalakan lampu senter itu dan arahkan ke cermin!. Apa yang kamu lihat?. Setelah mengenai permukaan 
+cermin, cahaya lampu senter itu dipantulkan. Coba carilah letak cahaya pantulan lampu senter itu!. Pemantulan cahaya 
+ada dua jenis yaitu pemantulan baur (pemantulan difusi) dan pemantulan teratur. Pemantulan baur terjadi apabila cahaya 
+mengenai permukaan yang kasar atau tidak rata. Pada pemantulan ini, sinar pantul arahnya tidak beraturan. Sementara 
+itu, pemantulan teratur terjadi jika cahaya mengenai permukaan yang rata, licin, dan mengilap. Permukaan yang mempunyai 
+sifat seperti ini misalnya cermin. Pada pemantulan ini sinar pantul memiliki arah yang teratur. Bayangan anak di awal 
+bab ini terjadi karena pemantulan teratur. Cermin merupakan salah satu benda yang memantulkan cahaya. Berdasarkan 
+bentuk permukaannya ada cermin datar dan cermin lengkung. Cermin lengkung ada dua macam, yaitu cermin cembung dan 
+cermin cekung.</p>
+
+<p>Cermin datar yaitu cermin yang permukaan bidang pantulnya datar dan tidak melengkung. Cermin datar biasa kamu gunakan 
+untuk bercermin. Pada saat bercermin, kamu akan melihat bayanganmu di dalam cermin. Sifat-sifat bayangan yang dibentuk 
+oleh cermin datar adalah sebagai berikut :
+1) Bayangan benda tegak dan semu. Bayangan semu adalah bayangan yang dapat kita lihat dalam cermin, tetapi di tempat 
+bayangan tersebut tidak terdapat cahaya pantul.
+2) Besar dan tinggi bayangan sama dengan besar dan tinggi benda sebenarnya.
+3) Jarak benda dengan cermin sama dengan jarak bayangannya.
+4) Bagian kiri pada bayangan merupakan bagian kanan pada benda dan sebaliknya.</p>
+
+<p>Cermin cembung yaitu cermin yang permukaan bidang pantulnya melengkung ke arah luar. Cermin cembung biasa digunakan 
+untuk spion pada kendaraan bermotor. Bayangan pada cermin cembung bersifat maya, tegak, dan lebih kecil (diperkecil) 
+daripada benda yang sesungguhnya. Cermin cekung yaitu cermin yang bidang pantulnya melengkung ke arah dalam. Cermin 
+cekung biasanya digunakan sebagai reflektor pada lampu mobil dan lampu senter. Sifat bayangan benda yang dibentuk oleh 
+cermin cekung sangat bergantung pada letak benda terhadap cermin. Jika benda dekat dengan cermin cekung, bayangan 
+benda bersifat tegak, lebih besar, dan semu (maya). Jika benda jauh dari cermin cekung, bayangan benda bersifat nyata 
+(sejati) dan terbalik.</p>
+
+<p>Apabila cahaya merambat melalui dua zat yang kerapatannya berbeda, cahaya tersebut akan dibelokkan. Peristiwa 
+pembelokan arah rambatan cahaya setelah melewati medium rambatan yang berbeda disebut pembiasan. Apabila cahaya 
+merambat dari zat yang kurang rapat ke zat yang lebih rapat, cahaya akan dibiaskan mendekati garis normal. Misalnya 
+cahaya merambat dari udara ke air. Sebaliknya, apabila cahaya merambat dari zat yang lebih rapat ke zat yang kurang 
+rapat, cahaya akan dibiaskan menjauhi garis normal. Misalnya cahaya merambat dari air ke udara. Pembiasan cahaya 
+sering kamu jumpai dalam kehidupan sehari-hari. Misalnya dasar kolam terlihat lebih dangkal daripada kedalaman 
+sebenarnya. Gejala pembiasan juga dapat dilihat pada pensil yang dimasukkan ke dalam gelas yang berisi air. Pensil 
+tersebut akan tampak patah.</p>
+
+<p>Pelangi terjadi karena peristiwa penguraian cahaya (dispersi). Dispersi merupakan penguraian cahaya putih menjadi 
+berbagai cahaya berwarna. Cahaya matahari yang kita lihat berwarna putih. Namun, sebenarnya cahaya matahari tersusun 
+atas banyak cahaya berwarna. Cahaya matahari diuraikan oleh titik-titik air di awan sehingga terbentuk warna-warna 
+pelangi. Warna-warna yang membentuk cahaya tersebut disebut spektrum cahaya. Kamu juga dapat mengamati peristiwa 
+dispersi cahaya pada balon air. Kamu dapat menggunakan air sabun untuk membuat balon air. Jika air sabun ditiup di 
+bawah sinar matahari, kamu akan melihat berbagai macam warna berkilauan pada permukaan balon air tersebut.</p>
+
+<p>Sifat-sifat cahaya dapat dimanfaatkan dalam pembuatan berbagai macam alat, di antaranya periskop, kaleidoskop, dan lup.
+Awak kapal selam yang berada di kedalaman laut dapat mengamati permukaan laut menggunakan periskop. Periskop menerapkan 
+sifat cahaya yang berupa pemantulan. Cahaya dari atas permukaan laut ditangkap oleh suatu cermin, kemudian dipantulkan 
+menuju mata pengamat di dalam kapal selam. Kaleidoskop adalah mainan yang dibuat menggunakan cermin. Dengan alat ini, 
+kamu dapat membuat aneka macam pola yang mengagumkan. Pola-pola ini diperoleh karena bayangan benda-benda dalam 
+kaleidoskop mengalami pemantulan berkali-kali. Dengan demikian, jumlah benda terlihat lebih banyak daripada benda 
+aslinya. Lup merupakan alat optik yang sangat sederhana. Alat ini berupa lensa cembung. Lup berfungsi membantu mata 
+untuk melihat benda-benda kecil agar tampak besar dan jelas.</p>

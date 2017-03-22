@@ -1,0 +1,659 @@
+<j>Metabolisme.
+<p>Aktivitas kehidupan seperti berolah raga, berpikir, berjalan, berlari, tertawa, tidur, atau 
+bekerja memerlukan energi. Energi tersebut diperoleh dari hasil penguraian makanan yang dicerna. 
+Proses penguraian zat makanan ini disebut katabolisme. Baik tumbuhan, hewan, maupun manusia 
+memerlukan proses tersebut untuk melangsungkan kehidupannya. Proses fotosintesis pada tumbuhan 
+hijau menghasilkan suatu senyawa organik sebagai sumber energi kimia. Proses penyusunan energi ini 
+disebut anabolisme. Katabolisme dan anabolisme itulah yang disebut metabolisme. Nah, kalian perlu 
+mengetahui proses-proses yang terjadi selama metabolisme tersebut. Mari pelajari bersama.</p>
+
+<p>Pada bab berikut, kalian akan mempelajari enzim pada proses metabolisme (katabolisme dan 
+anabolisme). Kalian juga akan mempelajari katabolisme karbohidrat, lemak, dan protein, serta 
+hubungan katabolisme ketiga molekul tersebut. Selanjutnya, kalian diharapkan dapat menjelaskan 
+pengertian metabolisme, menemukan faktor-faktor yang memengaruhi kerja enzim, dan proses 
+respirasi sel. Selain itu kalian diharapkan dapat menjelaskan tahapan masuknya senyawa sederhana 
+terhadap siklus glikolisis.</p>
+
+<p>Enzim pada Proses Metabolisme. Kalian telah mengetahui sekelumit tentang metabolisme, bukan?. 
+Metabolisme (dari bahasa Yunani, metabole = 'berubah'), merupakan suatu rangkaian atau proses yang 
+terarah dan teratur di dalam sel tubuh melalui reaksi-reaksi kimiawi, sehingga diperlukan atau 
+dihasilkan bahan-bahan tertentu seperti unsur, molekul, senyawa, atau energi.</p>
+
+<p>Berdasarkan proses dan hasilnya, metabolisme dibedakan menjadi dua yaitu katabolisme dan 
+anabolisme. Sebagaimana telah kalian ketahui bahwa katabolisme adalah proses perombakan 
+senyawa-senyawa yang kompleks menjadi senyawa yang lebih sederhana melalui reaksi-reaksi kimiawi, 
+sehingga dihasilkan energi. Sementara itu, anabolisme adalah proses pembentukan senyawa-senyawa 
+kompleks dari senyawa-senyawa yang lebih sederhana melalui reaksi-reaksi kimiawi sehingga
+diperlukan adanya energi.</p>
+
+<p>Selanjutnya, tahukah kalian apakah enzim itu?. Enzim merupakan senyawa organik yang tersusun oleh 
+protein (spesialisasi protein) untuk menjalankan proses-proses biokimiawi dalam sistem hayati. 
+Dengan demikian, reaksi kimia yang terjadi di dalam tubuh, baik anabolisme maupun katabolisme 
+selalu melibatkan enzim. Komponen-komponen, fungsi, cara kerja, sifat-sifat, faktor-faktor yang 
+memengaruhi kerja enzim, penamaan dan pengelompokkan enzim, serta bagaimana pembentukan enzim 
+akan kalian pelajari pada materi berikut.</p>
+
+<p>Komponen-komponen Enzim. Sebagian besar enzim tersusun oleh dua bagian, yaitu bagian yang berupa 
+protein, disebut apoenzim dan bagian nonprotein yang disebut kofaktor. Ada juga beberapa enzim 
+yang hanya terdiri dari komponen protein saja. Kofaktor dapat berupa molekul anorganik maupun 
+molekul organik. Molekul anorganik berupa mineral seperti ion Fe, ion Zn, dan ion Mn. Molekul 
+organik misalnya NAD+, vitamin B1, B2, B6, niasin, dan biotin. Kofaktor yang berupa molekul 
+organik disebut koenzim, sedangkan kofaktor yang berupa molekul anorganik disebut gugus prostetik. 
+Apoenzim dan koenzim yang bersatu membentuk enzim yang lengkap, disebut holoenzim.</p>
+
+<p>Fungsi dan Cara Kerja Enzim. Di dalam reaksi kimia, antara suatu bahan (zat, unsur, molekul atau 
+senyawa) yang satu dapat mengadakan reaksi dengan bahan (zat, unsur, molekul atau senyawa) yang 
+lain sehingga dihasilkan suatu senyawa yang baru. Hal tersebut terjadi di dalam proses metabolisme, 
+sehingga dihasilkan bahan yang diperlukan untuk tubuh. Nah, dalam proses metabolisme tersebut, 
+tentunya diperlukan waktu tertentu untuk dapat mengubah bahan baku menjadi bahan yang baru 
+(produk).</p>
+
+<p>Selama terjadi reaksi kimia tersebut, diperlukan adanya suatu bahan yang berperan dalam mengatur 
+waktu untuk terjadinya reaksi yaitu enzim. Enzim tersebut diperlukan untuk mempercepat terjadinya 
+reaksi kimia (katalis), sehingga enzim disebut sebagai katalisator. Enzim yang berperan untuk 
+mempercepat reaksi kimia dalam metabolisme suatu sistem hayati atau organisme disebut sebagai 
+biokatalisator. Molekul-molekul yang dikatalis oleh enzim dinamakan substrat. Reaktan memerlukan 
+energi (panas) untuk memutuskan ikatan-ikatan antar atomnya, sehingga atom-atom tersebut dapat 
+membentuk ikatan baru (produk). Energi bebas yang diperlukan untuk memutuskan ikatan ini disebut 
+energi aktivasi (EA), sedangkan perbedaan antara energi bebas produk dengan energi bebas reaktan 
+disimbolkan dalam segitiga G.</p>
+
+<p>Reaksi kimia yang dikatalis oleh enzim, menunjukkan bahwa reaksi tersebut membutuhkan energi untuk 
+reaksi lebih sedikit dibanding reaksi yang tidak dikatalis oleh enzim. Oleh karena itu, enzim 
+berperan penting dalam menurunkan energi aktivasi untuk memulai suatu reaksi, sehingga reaksi 
+dapat berjalan sangat cepat, efisien, dan tidak menimbulkan suhu yang tinggi. Setelah mengetahui 
+fungsi enzim dalam metabolisme, tahukah kalian di mana enzim dihasilkan atau ditemukan?.</p>
+
+<p>Enzim dihasilkan di dalam sel dan dapat bekerja di dalam sel maupun di luar sel. Enzim yang 
+bekerja di dalam sel disebut enzim intraseluler. Misalnya, enzim yang berfungsi menawarkan racun 
+sel H2O2 (hidrogen peroksida) menjadi H2 dan O2 yang bersifat netral. Enzim pernapasan selalu 
+terdapat dalam sel. Sementara itu, enzim yang bekerja di luar sel disebut enzim ekstraseluler, 
+yaitu enzim- enzim pencernaan. Sebagian besar enzim terdapat pada protoplasma sel. Namun, pada sel 
+tertentu enzim ditemukan di dalam vakuola dan dinding sel. Selanjutnya, bagaimanakah enzim 
+bekerja?. Ada dua teori yang menjelaskan kerja enzim tersebut, yaitu teori model gembok-kunci dan 
+teori ketepatan induksi.</p>
+
+<p>Model Gembok–Kunci (Lock and Key). Dari nama teorinya, kalian tentu dapat membayangkan bentuk 
+antara kunci dan gembok pintu rumah kalian. Teori ini dikemukakan oleh seorang ahli yang bernama 
+Fisher. Menurutnya, enzim bagaikan sebuah gembok, memiliki bagian yang berhubungan dengan kunci 
+yang disebut lubang kunci. Bagian lubang kunci ini diibaratkan sebagai sisi aktif enzim, yaitu 
+suatu tempat yang spesifik untuk mengikat substratnya. Substrat digambarkan sebagai sebuah kunci. 
+Mata kunci memiliki struktur yang khas dan cocok dengan struktur lubang kunci pada gembok. Kunci 
+tertentu hanya cocok dengan gembok tertentu, artinya enzim tertentu hanya bekerja pada substrat 
+tertentu. Apabila sisi aktif bergabung dengan substrat maka enzim tidak aktif lagi. Bergabungnya 
+enzim dengan substrat membentuk kompleks enzim substrat. Kompleks enzim substrat digambarkan 
+sebagai gembok dimana pada lubang kuncinya terdapat kunci. Setelah reaksi berlangsung, kompleks 
+enzim substrat lepas dan terbentuklah produk.</p>
+
+<p>Pada sistem kerja enzim, enzim tidak pernah ikut bereaksi karena setelah terbentuk produk, enzim 
+akan terlepas dan dapat menjalankan fungsi enzim untuk berikatan dengan substrat lain yang sesuai. 
+Artinya, enzim tidak akan diubah menjadi produk atau enzim hanya berperan sebagai perantara dalam 
+membentuk produk. Produk tersebut berasal dari substrat yang telah bereaksi.</p>
+
+<p>Teori Ketepatan Induksi (Induced Fit Theory). Teori ini menyatakan bahwa enzim memiliki sisi aktif 
+yang mudah menyesuaikan dengan bentuk substratnya. Dengan kata lain, bentuk sisi aktif enzim 
+bersifat fleksibel. Pada saat substrat bertemu dengan enzim, maka sisi aktif enzim berubah 
+sedemikian rupa sehingga cocok dengan substrat dan terbentuklah kompleks enzim substrat. Setelah 
+terjadi reaksi dan produk telah terbentuk, enzim akan lepas. Pada saat ini tidak menutup 
+kemungkinan, substrat lain bergabung dengan enzim. Pada saat ini pula enzim tidak aktif lagi.</p>
+
+<p>Setelah kalian mengetahui komponen penyusun enzim serta fungsi dan peran enzim, kalian akan 
+mempelajari tentang sifat-sifat enzim berikut ini.</p>
+
+<p>Sifat-sifat Enzim. Setiap struktur (senyawa maupun molekul tertentu) yang berbeda, selalu 
+mempunyai sifat-sifat khas masing-masing. Sebelumnya, kalian telah mengetahui bahwa enzim sebagai 
+biokatalisator. Selama menjalankan fungsinya tersebut, enzim memiliki sifat-sifat sebagai berikut:
+a) Enzim sebagai biokatalisator suatu reaksi. Biokatalisator merupakan salah satu sifat spesifik 
+dari enzim. Artinya, enzim dapat mempercepat suatu reaksi namun tidak ikut bereaksi. Contoh: saat 
+amilase mempercepat reaksi perombakan amilum, amilase tidak bereaksi dengan substrat menjadi 
+bentuk lain (bentuknya tetap), sehingga amilase dapat berfungsi kembali.
+b) Enzim bekerja secara khusus. Reaksi kimia yang ada di dalam sel banyak sekali, bukan?. Kemudian, 
+bagaimana dengan enzim?. Enzim bersifat sangat spesifik, artinya enzim hanya bekerja pada substrat 
+tertentu saja, tidak dapat untuk sembarang substrat. Enzim tertentu hanya mengkatalis reaksi kimia 
+tertentu pula. Contoh: enzim ptialin mengkatalis reaksi pengubahan zat tepung menjadi maltosa. 
+Dengan demikian, enzim ptialin hanya bekerja pada substrat zat tepung (amilum). Enzim katalase 
+bekerja pada substrat H2O2 (hidrogen peroksida). H2O2 diuraikan oleh katalase menjadi H2 dan O2 
+(produk).
+c) Enzim dapat bekerja secara bolak balik (reversibel). Sebagian besar reaksi kimia dalam tubuh 
+organisme (biokimiawi) bersifat reversibel. Demikian juga kerja enzim sebagai biokatalisator. 
+Artinya, enzim dapat mengkatalisis reaksi maju maupun reaksi kebalikannya. Dengan demikian, enzim 
+tidak memengaruhi arah suatu reaksi. Enzim dapat membentuk senyawa baru maupun menguraikan suatu 
+senyawa baru tersebut menjadi senyawa lain. Contoh: enzim lipase mengubah gliserol dan asam lemak 
+menjadi lemak. Enzim lipase juga dapat mengubah lemak menjadi gliserol dan asam lemak. 
+d) Wujud enzim adalah koloid. Kalian telah mengetahui komponen enzim, bukan?. Secara keseluruhan, 
+enzim merupakan protein. Oleh karena itu, enzim dapat membentuk koloid.
+e) Enzim rusak jika kena panas. Komponen protein penyusun enzim akan sangat menentukan sifat enzim. 
+Salah satu sifat dari protein adalah tidak tahan terhadap panas (termolabil). Apoenzim bersifat 
+termolabil. Oleh karena itu, enzim akan rusak jika terkena panas atau suhu yang tinggi. Kerusakan 
+enzim akibat suhu tersebut dinamakan denaturasi. Pada suhu di atas 50 derajat celcius, enzim akan 
+mengalami denaturasi. Enzim yang telah rusak menyebabkan aktivitas atau fungsi enzim hilang. 
+Denaturasi bersifat irreversibel. Walaupun suhunya diturunkan atau dinormalkan, enzim yang rusak 
+tidak akan dapat berfungsi kembali.
+f) Enzim dapat diekstraksi dari sel tanpa kehilangan aktivitas katalitiknya. Struktur dan 
+mekanisme kerja enzim yang terdapat di dalam sel dapat dipelajari secara mendalam melalui suatu 
+teknik khusus. Enzim yang akan dipelajari tersebut dapat diekstraksi dari sel yang memproduksinya 
+tanpa kehilangan aktivitas katalitiknya.</p>
+
+<p>Apakah setiap enzim selalu melakukan fungsinya secara lancar tanpa ada yang menghalanginya?. Nah, 
+untuk mengetahui jawaban tersebut secara lengkap, simaklah uraian berikut.</p>
+
+<p>Penghambat Kerja Enzim. Kerja suatu enzim selama metabolisme tidak selalu berjalan lancar tanpa 
+ada yang menghalanginya. Suatu zat tertentu yang dapat menghalangi kerja enzim ini disebut 
+inhibitor. Zat-zat penghambat (inhibitor) berupa zat-zat kimia yang dapat menghambat kerja enzim. 
+Contoh: garam-garam logam berat seperti air raksa, iodium-asetat, fluorida, sianida, azida, dan 
+karbon monoksida.</p>
+
+<p>Inhibitor dibedakan menjadi inhibitor reversibel dan inhibitor irreversibel. Inhibitor reversibel 
+meliputi inhibitor kompetitif dan inhibitor nonkompetitif.</p>
+
+<p>Inhibitor kompetitif. Zat penghambat ini mempunyai struktur yang mirip dengan substrat. Oleh 
+karena itu, zat penghambat dan substrat bersaing untuk dapat bergabung dengan enzim membentuk 
+kompleks enzim-substrat. Selain menghambat ikatan antara enzim dengan substrat, inhibitor dapat 
+menghambat penguraian dan pembentukan senyawa baru. Inhibitor berikatan lemah (ikatan ion) dengan 
+enzim pada sisi aktifnya sehingga inhibitor ini bersifat reversibel. Dengan menambah kepekatan 
+substrat, inhibitor tidak mampu lagi bergabung dengan enzim. Contoh inhibitor kompetitif yaitu 
+asam malonat, yang menghambat ikatan antara enzim dengan asam suksinat.</p>
+
+<p>Inhibitor nonkompetitif. Pada umumnya, inhibitor ini tidak memiliki struktur yang mirip dengan 
+substrat dan bergabung dengan enzim pada bagian selain sisi aktif enzim. Jika inhibitor ini 
+bergabung dengan enzim maka akan mengubah bentuk sisi aktif enzim. Dengan demikian, bentuk sisi 
+aktif tidak sesuai lagi dengan bentuk substrat (ingat model kerja enzim teori gembok kunci). 
+Contoh inhibitor nonkompetitif, antara lain: pestisida (DDT) dan paration yang menghambat kerja 
+enzim dalam sistem saraf, serta antibiotik dan penisilin pada sel bakteri. Berbeda dengan dua 
+macam inhibitor yang lain, inhibitor irreversibel melekat pada sisi aktif enzim dengan sangat kuat 
+(ikatan kovalen) sehingga tidak dapat lepas dari enzim (irreversibel). Akibatnya, enzim menjadi 
+tidak aktif. Selanjutnya, apakah hanya inhibitor saja yang dapat memengaruhi kerja enzim?. 
+Berikut kalian akan mempelajari faktor-faktor yang memengaruhi kerja enzim tersebut.</p>
+
+<p>Faktor yang Memengaruhi Kerja Enzim. Selain adanya zat penghambat (inhibitor), kerja enzim dapat 
+dipengaruhi oleh beberapa faktor antara lain: adanya zat pengaktif (aktivator), suhu, hasil akhir, 
+pH, konsentrasi enzim atau substrat, dan air.</p>
+
+<p>Zat-zat pengaktif (aktivator). Zat-zat kimia tertentu dapat memacu atau mengaktifkan kegiatan 
+enzim. Contoh: garam-garam dari logam alkali dan logam alkali tanah dengan konsentrasi encer, ion 
+kobalt (Co), mangan (Mn), nikel (Ni), magnesium (Mg), dan klor (Cl).</p>
+
+<p>Suhu. Setiap enzim dapat bekerja dengan efektif pada suhu tertentu dan aktivitasnya akan berkurang 
+jika berada pada kondisi di bawah atau di atas titik tersebut. Kondisi yang menyebabkan kerja 
+enzim menjadi efektif ini disebut kondisi optimal. Sebagian besar enzim pada manusia mempunyai 
+suhu optimal yang mendekati suhu tubuh (35 derajat celcius - 40 derajat celcius). Pada suhu tinggi 
+(>50 derajat celcius), enzim dapat rusak dan pada suhu rendah (0 derajat celcius), enzim menjadi 
+tidak aktif. Suhu yang tidak sesuai tersebut akan menyebabkan terjadinya perubahan bentuk sisi 
+aktif enzim. Sifat enzim yang tidak tahan panas atau dapat berubah karena pengaruh suhu ini 
+disebut termolabil.</p>
+
+<p>pH. Selain suhu, faktor lingkungan yang memengaruhi kerja enzim adalah derajat keasaman (pH). 
+Sebagaimana faktor suhu, enzim juga mempunyai pH tertentu agar dapat bekerja secara efektif. Enzim 
+dapat bekerja optimal pada pH netral (pH = 7), pH basa (>7) atau pH asam (<7) tergantung pada 
+jenis enzim masing-masing. Enzim pencerna protein misalnya, mempunyai pH paling optimal 1-2, 
+sedangkan enzim pencernaan yang lain mempunyai pH optimal 8. Pada pH tertentu, enzim dapat 
+mengubah substrat menjadi hasil akhir. Kemudian, apabila pH tersebut diubah, enzim dapat mengubah 
+kembali hasil akhir menjadi substrat.</p>
+
+<p>Hasil akhir. Kalian telah mengetahui bahwa dalam suatu reaksi kimia diperlukan adanya reaktan yang 
+akan diubah menjadi produk atau hasil akhir. Hasil akhir merupakan senyawa baru sebagai hasil 
+pembentukan maupun penguraian reaktan. Apabila hasil akhir ini banyak, enzim akan sulit bergabung 
+dengan substrat sehingga reaksi kimianya berlangsung lambat.</p>
+
+<p>Konsentrasi enzim. Konsentrasi enzim yang tinggi akan memengaruhi kecepatan reaksi secara linear 
+(kecepatan bertambah secara konstan). Dapat dikatakan bahwa hubungan antara konsentrasi enzim 
+dengan kecepatan reaksi enzimatis berbanding lurus. Kecepatan reaksi suatu enzim satu dengan yang 
+lain berbeda-beda meskipun mempunyai konsentrasi enzim yang sama. Konsentrasi enzim yang sangat 
+tinggi dalam suatu sistem yang kompleks akan berpengaruh terhadap kecepatan reaksi.</p>
+
+<p>Konsentrasi substrat. Pada konsentrasi substrat yang rendah, kenaikan substrat akan meningkatkan 
+kecepatan reaksi enzimatis hampir secara linear. Jika konsentrasi substrat tinggi, maka 
+peningkatan kecepatan reaksi enzimatis akan semakin menurun sejalan dengan peningkatan jumlah 
+substratnya.</p>
+
+<p>Air. Menurut penelitian, di dalam biji terdapat bermacam-macam enzim. Masih ingatkah kalian dengan 
+perkecambahan biji?. Ya, pada proses perkecambahan, imbibisi air pada biji yang sehat dan telah 
+tua akan mengaktifkan enzim-enzim dalam biji sehingga biji berkecambah.</p>
+
+<p>Penamaan dan Pengelompokan Enzim. Nama suatu enzim biasanya dengan menggunakan akhiran ase. 
+Akhiran ase ditambahkan pada nama substrat yang diubah oleh enzim tersebut. Contoh: enzim yang 
+merubah substrat maltosa disebut maltase, yang merubah protein disebut protease, yang merubah 
+lipida (lemak) disebut lipase. Enzim digolongkan berdasarkan apa yang terjadi di dalam reaksi.</p>
+
+<p>Enzim golongan oksidoreduktase berfungsi untuk mengkatalisis reaksi dimana salah satu substrat 
+mengalami oksidasi (donor hidrogen) dan substrat lain mengalami reduksi (penerima hidrogen). Contoh 
+enzim golongan ini adalah dehidrogenase berfungsi untuk mengubah ikatan tunggal menjadi ikatan 
+rangkap, oksidase berfungsi untuk melakukan oksidasi (menerima oksigen atau melepas elektron), enzim 
+hidroksilase berfungsi untuk menggabungkan gugus hidroksil.</p>
+
+<p>Enzim golongan transferase berfungsi untuk mengkatalisis perpindahan 1 gugus karbon (misalnya 
+metil), gugus aldehid, keton, gugus fosforil, atau gugus amino dari satu substrat ke substrat yang 
+lain. Enzim golongan hidrolase berfungsi untuk mengkatalisis hidrolisis (penambahan air) untuk 
+memecah ikatan kovalen C-O, C-N, C-C, P-O, dan ikatan tunggal lainnya. Contoh enzim golongan ini 
+adalah peptidase berfungsi untuk memecah ikatan peptida pada protein, esterase berfungsi untuk 
+memecah ikatan ester, glikosidase berfungsi untuk memecah ikatan glikosida pada polisakarida, dan 
+fosfatase berfungsi untuk memecah ikatan fosfat.</p>
+
+<p>Enzim golongan liase berfungsi untuk mengkatalisis penambahan gugus pada ikatan rangkap atau 
+pembentukan ikatan rangkap dengan menghilangkan gugus C=C, C=O, atau C=N. Misalnya: dekarboksilase, 
+aldolase, dan dehidratase. Enzim golongan ligase berfungsi untuk mengkatalisis reaksi penggabungan 
+antara satu molekul dengan molekul lain melibatkan hidrolisis dari ATP. Misalnya: RNA ligase dan 
+DNA ligase. Enzim golongan isomerase berfungsi mengkatalisis perpindahan suatu gugus ke tempat 
+lain dalam satu molekul. Misalnya: racemase, fosfoglukoisomerase, mutase, dan oksidoreduktase.</p>
+
+<p>Pembentukan Enzim. Menurut hasil penelitian Beadle dan Tatum, pembentukan enzim berdasarkan pada 
+teori "one gene one enzyme". Artinya, pembentukan satu enzim dikendalikan oleh satu gen. Oleh 
+karena itu, gen atau kelompok gen dalam kromosom akan mengendalikan pembentukan enzim.</p>
+
+<p>Katabolisme Karbohidrat, Lemak, dan Protein. Pada sub bab sebelumnya, kalian telah mengetahui 
+bahwa pada makanan yang kalian konsumsi tersimpan energi atau tenaga yang diperlukan untuk 
+aktivitas kehidupan. Selanjutnya, bagaimana energi tersebut terbentuk dari makanan atau senyawa 
+organik yang masuk ke dalam tubuh kita?. Pada umumnya, sebelum senyawa organik diubah menjadi 
+energi, senyawa-senyawa tersebut (mempunyai banyak atom karbon) dipecah atau diuraikan menjadi 
+senyawa-senyawa berukuran kecil atau sederhana (mempunyai 2-4 atom karbon) melalui proses 
+katabolisme.</p>
+
+<p>Senyawa atau zat yang kompleks terurai menjadi senyawa atau zat yang sederhana dengan melepaskan 
+ikatan-ikatan kimia yang menyusun suatu senyawa. Bersamaan dengan lepasnya ikatan kimia, 
+dibebaskanlah energi. Energi yang dibebaskan ini kemudian diubah menjadi senyawa yang siap 
+digunakan sebagai sumber energi bagi sel yaitu adenosin trifosfat (ATP). Senyawa ATP memiliki 
+gugus fosfat sebanyak 3 buah. Setiap melepaskan fosfatnya, akan dibebaskan energi yang langsung 
+dapat digunakan oleh sel. Oleh karena itu, katabolisme disebut juga disimilasi atau bioenergi atau 
+reaksi eksergonik. Di dalam katabolisme sel organisme, terjadi proses oksidasi atau reduksi 
+senyawa (biooksidasi).</p>
+
+<p>Kalian telah mengetahui bahwa bahan makanan yang kalian konsumsi dapat mengandung karbohidrat, 
+lemak, maupun protein (protein). Bagaimanakah katabolisme dari karbohidrat, lemak, dan protein 
+tersebut? Untuk penjelasan lebih lanjut cermatilah uraian berikut ini.</p>
+
+<p>Katabolisme Karbohidrat. Salah satu proses yang merupakan katabolisme adalah respirasi, merupakan 
+reaksi kimia sel untuk merombak senyawa kompleks menjadi senyawa sederhana dengan menghasilkan 
+energi. Kegiatan respirasi dilakukan setiap saat oleh setiap sel hidup, baik sel tumbuhan maupun 
+sel hewan. Berdasarkan kebutuhan akan oksigen atau penerima elektronnya, respirasi dibedakan 
+menjadi dua macam yaitu respirasi aerobik dan respirasi anaerobik.</p>
+
+<p>Respirasi Aerobik. Respirasi aerob adalah respirasi yang memerlukan oksigen bebas dari udara 
+sebagai penerima elektron terakhir. Oksigen bebas ini digunakan untuk pembakaran bahan baku. 
+Proses respirasi secara umum : Senyawa organik + Oksigen = Karbon dioksida + Air + Energi. Apabila 
+bahan baku respirasi aerob berupa glukosa (heksosa) maka reaksi keseluruhan respirasi adalah:
+C6H12O6 + 6O2 = 6H2O + 6CO2 + 686 kal. Dari reaksi tersebut, terlihat bahwa respirasi aerob dengan 
+bahan baku glukosa menghasilkan energi. Pada tumbuhan, energi yang dihasilkan sebagian berupa 
+panas, sebagian lagi digunakan untuk aktivitas hidup tumbuhan itu sendiri seperti untuk proses 
+pembentukan zat organik, untuk proses osmosis, untuk pengaliran protoplasma, atau untuk pembelahan 
+sel. Penguraian heksosa juga menghasilkan CO2 dan air (H2O). Bagaimana hal ini dapat terjadi?. 
+Respirasi glukosa (termasuk karbohidrat) disebut juga katabolisme karbohidrat. Secara umum, reaksi 
+respirasi aerobik dibedakan menjadi tiga tahapan yaitu glikolisis, dekarboksilasi oksidatif dan 
+daur Krebs, serta rantai transportasi elektron respirasi dengan fosforilasi oksidatif.</p>
+
+<p>Setelah kalian memahami peta konsep di atas, uraian berikut ini akan menjelaskan secara rinci 
+untuk setiap tahapan respirasi.</p>
+
+<p>Glikolisis. Glikolisis adalah rangkaian reaksi kimia penguraian glukosa (yang memiliki 6 atom C) 
+menjadi asam piruvat (senyawa yang memiliki 3 atom C), NADH, dan ATP. NADH (Nikotinamida Adenina 
+Dinukleotida Hidrogen) adalah koenzim yang mengikat elektron (H), sehingga disebut sumber elektron 
+berenergi tinggi. ATP (adenosin trifosfat) merupakan senyawa berenergi tinggi. Setiap pelepasan 
+gugus fosfatnya menghasilkan energi.</p>
+
+<p>Pada proses glikolisis, setiap 1 molekul glukosa diubah menjadi 2 molekul asam piruvat, 2 NADH, 
+dan 2 ATP. Glikolisis memiliki sifat-sifat, antara lain: glikolisis dapat berlangsung secara aerob 
+maupun anaerob, glikolisis melibatkan enzim ATP dan ADP, serta peranan ATP dan ADP pada glikolisis 
+adalah memindahkan (mentransfer) fosfat dari molekul yang satu ke molekul yang lain.</p>
+
+<p>Pada sel eukariotik, glikolisis terjadi di sitoplasma (sitosol). Glikolisis terjadi melalui 10 
+tahapan yang terdiri dari 5 tahapan penggunaan energi dan 5 tahapan pelepasan energi. Berikut ini 
+reaksi glikolisis secara lengkap: energi yang dibutuhkan pada tahap penggunaan energi adalah 2 ATP. 
+Sementara itu, energi yang dihasilkan pada tahap pelepasan energi adalah 4 ATP dan 2 NADH. Dengan 
+demikian, selisih energi atau hasil akhir glikolisis adalah 2 ATP + 2 NADH.</p>
+
+<p>Jika kalian amati lebih cermat lagi, kalian akan mengetahui pada tahapan mana sajakah energi (ATP) 
+dibentuk. Nah, proses pembentukan ATP inilah yang disebut fosforilasi. Pada tahapan glikolisis 
+tersebut, enzim mentransfer gugus fosfat dari substrat (molekul organik dalam glikolisis) ke ADP 
+sehingga prosesnya disebut fosforilasi tingkat substrat.</p>
+
+<p>Keseluruhan reaksi glikolisis, dapat dibuat persamaan reaksi sebagai berikut: Selain glukosa, 
+bahan makanan yang kalian konsumsi tidak selalu mengandung gula sederhana seperti glukosa saja. 
+Kadang-kadang kalian mengonsumsi bahan-bahan yang mengandung gula kompleks (karbohidrat kompleks) 
+seperti maltosa, laktosa, dan sukrosa. Kemudian, dapatkah gula-gula atau karbohidrat yang kompleks 
+tersebut langsung dimetabolisme oleh sel?. Tentu saja tidak, bahan-bahan yang belum sederhana 
+tersebut harus dirombak dahulu sehingga menjadi bahan yang dapat dimetabolisme langsung oleh 
+sel.</p>
+
+<p>Bukankah kalian sudah mengetahui macam-macam gula?. Maltosa, sukrosa, dan laktosa terlebih dahulu 
+diubah menjadi monomer penyusunnya yaitu glukosa dan gula sederhana yang lain yaitu fruktosa atau 
+galaktosa. Selanjutnya, glukosa atau gula-gula sederhana akan masuk siklus glikolisis seperti 
+biasa. Glukosa akan diubah menjadi glukosa 6P dan seterusnya sehingga dapat dihasilkan 2 asam 
+piruvat. Lalu, bagaimana dengan fruktosa dan manosa?. Fruktosa dan manosa dapat langsung diubah 
+menjadi fruktosa 6P.</p>
+
+<p>Dekarboksilasi Oksidatif dan Siklus Krebs. Dekarboksilasi Oksidatif. Kalian tentunya mengetahui 
+bahwa dalam suatu metabolisme, terjadi reaksi yang begitu kompleks. Satu tahap reaksi selesai, 
+maka akan masuk pada tahapan selanjutnya. Demikian juga pada tahap respirasi aerobik ini. Senyawa 
+hasil dari tahapan glikolisis akan masuk ke tahapan dekarboksilasi oksidatif, yaitu tahapan 
+pembentukan CO2 melalui reaksi oksidasi reduksi (redoks) dengan O2 sebagai penerima elektronnya. 
+Dekarboksilasi oksidatif ini terjadi di dalam mitokondria sebelum masuk ke tahapan siklus Krebs. 
+Oleh karena itu, tahapan ini disebut sebagai tahapan sambungan (junction) antara glikolisis dengan 
+siklus Krebs.</p>
+
+<p>Pada tahapan ini, asam piruvat (3 atom C) hasil glikolisis dari sitosol diubah menjadi asetil 
+koenzim A (2 atom C) di dalam mitokondria. Pada tahap 1, molekul piruvat (3 atom C) melepaskan 
+elektron (oksidasi) membentuk CO2 (piruvat dipecah menjadi CO2 dan molekul berkarbon 2). Pada 
+tahap 2, NAD+ direduksi (menerima elektron) menjadi NADH + H+. Pada tahap 3, molekul berkarbon 2 
+dioksidasi dan mengikat Ko-A (koenzim A) sehingga terbentuk asetil Ko-A. Hasil akhir tahapan ini 
+adalah asetil koenzim A, CO2, dan 2NADH.</p>
+
+<p>Siklus Krebs. Asetil-KoA yang telah terbentuk akan menjadi bahan baku pada siklus selanjutnya, 
+yaitu siklus Krebs. Oleh karena itu, Asetil Ko-A disebut senyawa intermediate atau senyawa antara. 
+Siklus Krebs terjadi di matriks mitokondria dan disebut juga siklus asam trikarboksilat. Hal ini 
+disebabkan siklus Krebs tersebut menghasilkan senyawa yang mempunyai 3 gugus karboksil, seperti 
+asam sitrat dan asam isositrat. Asetil koenzim A hasil dekarboksilasi oksidatif memasuki matriks 
+mitokondria untuk bergabung dengan asam oksaloasetat dalam siklus Krebs, membentuk asam sitrat. 
+Demikian seterusnya, asam sitrat membentuk bermacam-macam zat dan akhirnya membentuk asam
+oksaloasetat lagi.</p>
+
+<p>Berikut ini tahapan-tahapan dari 1 kali siklus Krebs:
+(1) Asetil Ko-A (2 atom C) menambahkan atom C pada oksaloasetat (4 atom C) sehingga dihasilkan 
+asam sitrat (6 atom C).
+(2) Sitrat menjadi isositrat (6 atom C) dengan melepas H2O dan menerima H2O kembali.
+(3) Isositrat melepaskan CO2 sehingga terbentuk alpha- ketoglutarat (5 atom C).
+(4) alpha- ketoglutarat melepaskan CO2. NAD+ sebagai akseptor atau penerima elektron) untuk 
+membentuk NADH dan menghasilkan suksinil Ko-A (4 atom C).
+(5) Terjadi fosforilasi tingkat substrat pada pembentukan GTP (guanosin trifosfat) dan terbentuk 
+suksinat (4 atom C).
+(6) Pembentukan fumarat (4 atom C) melalui pelepasan FADH2.
+(7) Fumarat terhidrolisis (mengikat 1 molekul H2O) sehingga membentuk malat (4 atom C).
+(8) Pembentukan oksaloasetat (4 atom C) melalui pelepasan NADH.</p>
+
+<p>Nah, bagaimana?. Apakah kalian sudah dapat mengerti tentang siklus Krebs? Kemudian, apa sajakah 
+hasil akhir dari siklus krebs tersebut?. Dengan mempelajari tahapan 1 siklus Krebs, kalian dapat 
+menghitung hasil akhir dari siklus Krebs tersebut. Kalian sudah mengetahui bahwa satu siklus Krebs 
+tersebut hanya untuk satu molekul piruvat saja. Sementara itu, hasil glikolisis menghasilkan 2 
+molekul piruvat (untuk 1 molekul glukosa). Oleh karena itu, hasil akhir total dari siklus Krebs 
+tersebut adalah 2 kalinya. Dengan demikian, diperoleh hasil sebanyak 6 NADH, 2FADH2 dan 2ATP 
+(ingat: jumlah ini untuk katabolisme setiap 1 molekul glukosa).</p>
+
+<p>Selanjutnya, apakah tahapan respirasi aerobik berakhir sampai siklus Krebs?. Tidak, ada satu 
+tahapan lagi dalam sistem respirasi sel yaitu sistem transportasi elektron.</p>
+
+<p>Sistem Transportasi Elektron (STE) dan Fosforilasi Oksidatif. Sistem transportasi elektron terjadi 
+di membran dalam mitokondria. Pada tahap ini, elektron-elektron yang dibawa oleh produk glikolisis 
+dan siklus Krebs (NADH dan FADH2) dipindahkan melewati beberapa molekul yang sebagian besar berupa 
+protein. Transportasi elektron menghasilkan 90% ATP dari keseluruhan ATP hasil respirasi aerobik 
+sel. Pembentukan ATP pada tahap ini terjadi melalui transfer elektron dengan penerima elektron 
+terakhir yaitu oksigen, sehingga disebut fosforilasi oksidatif. Bagaimanakah tahapan transfer 
+elektron tersebut?. Simaklah uraian berikut.</p>
+
+<p>Molekul pertama yang menerima elektron berupa flavoprotein, dinamakan flavin mononukleotida (FMN). 
+Selanjutnya, elektron dipindahkan berturut-turut melewati molekul protein besi-sulfur (Fe-S), 
+ubiquinon (Q atau CoQ), dan sitokrom (Cyst). Elektron melewati sitokrom b, Fe-S, sitokrom c1, 
+sitokrom c, sitokrom a, sitokrom a3, dan oksigen sebagai penerima elektron terakhir. Akhirnya 
+terbentuklah molekul H2O (air).</p>
+
+<p>Pada sistem transportasi elektron, NADH dan FADH2 masing-masing menghasilkan rata-rata 3 ATP dan 
+2 ATP. Sebanyak 2 NADH hasil glikolisis dan 2 NADH hasil dekarboksilasi oksidatif masing-masing 
+menghasilkan 6 ATP. Sementara itu, 6 NADH dan 2 FADH2 hasil siklus Krebs masing-masing menghasilkan 
+18 ATP dan 4 ATP. Jadi, sistem transportasi elektron menghasilkan 34 ATP.</p>
+
+<p>Pada materi yang telah kalian pelajari, kalian telah mengetahui tentang respirasi aerobik. 
+Selanjutnya, kalian akan mempelajari tentang respirasi anaerobik. Simaklah uraian berikut.</p>
+
+<p>Respirasi Anaerobik. Dalam reaksi oksidasi, tidak hanya terjadi penerimaan oksigen saja. Proses 
+pelepasan elektron juga merupakan reaksi oksidasi. Oleh karena itu, oksidasi tanpa oksigen masih 
+dapat memungkinkan terjadinya metabolisme. Berdasarkan kemampuan menggunakan oksigen dalam 
+respirasi, organisme dibedakan menjadi 2 yaitu organisme aerobik (menggunakan oksigen untuk 
+respirasi) dan organisme anaerobik (mampu melakukan respirasi tanpa oksigen). Respirasi yang dapat 
+dilakukan dalam keadaan tanpa oksigen ini disebut respirasi anaerobik (bahasa Yunani, an = tanpa, 
+aer = udara, dan bios = kehidupan). Sementara respirasi aerobik menggunakan oksigen sebagai 
+penerima elektron terakhir, respirasi anaerobik menggunakan senyawa organik selain oksigen sebagai 
+penerima elektron terakhir. Nah, proses perombakan senyawa-senyawa kompleks menjadi 
+senyawa-senyawa yang lebih sederhana, dengan penerima maupun pemberi elektron atau hidrogen berupa 
+senyawa organik disebut fermentasi.</p>
+
+<p>Pada bab sebelumnya, kalian telah mengetahui bahwa salah satu sifat dari glikolisis adalah dapat 
+terjadi secara aerob maupun anaerob. Pada keadaan aerob, piruvat hasil glikolisis dapat melanjutkan 
+tahapan ke siklus Krebs. Pada keadaan anaerob, piruvat diubah menjadi produk lain seperti etanol 
+atau asam laktat melalui fermentasi. Oleh karena itu, fermentasi dikatakan sebagai kelanjutan dari 
+glikolisis. Proses respirasi dan fermentasi tersebut dapat dilakukan pada suatu sel, tergantung 
+pada ada tidaknya oksigen.</p>
+
+<p>Fermentasi dibedakan berdasarkan produknya, misalnya fermentasi alkohol (produknya alkohol) dan 
+fermentasi asam laktat (produknya asam laktat). Penerima elektron pada proses fermentasi dapat 
+berupa asam piruvat, yaitu pada fermentasi asam laktat. Sementara itu, penerima elektron pada 
+fermentasi alkohol adalah asetaldehid. Energi yang dihasilkan pada fermentasi lebih kecil 
+dibandingkan energi hasil respirasi aerobik, yaitu 2 ATP : 38 ATP. Selanjutnya, bagaimana proses 
+yang terjadi selama fermentasi alkohol dan fermentasi asam laktat tersebut?. Simaklah uraian 
+berikut ini.</p>
+
+<p>Fermentasi Alkohol. Setiap reaksi dalam metabolisme memerlukan bahan baku sebagai substrat awal. 
+Nah, seperti telah disebutkan sebelumnya bahwa glikolisis dapat menggunakan bahan seperti 
+karbohidrat, baik kompleks (maltosa) maupun sederhana (glukosa). Demikian juga pada fermentasi 
+alkohol maupun asam laktat. Pada fermentasi alkohol, piruvat hasil glikolisis akan mengalami 
+dekarboksilasi (melepas CO2) sehingga membentuk asetaldehid. Kalian tentu masih mengingat bahwa 
+glikolisis memerlukan NAD untuk diubah menjadi NADH, bukan?. Nah, pada fermentasi alkohol ini,
+NADH yang dihasilkan tersebut digunakan untuk mereduksi asetaldehid menjadi etanol. Oleh karena 
+itu, asetaldehid merupakan senyawa organik sebagai penerima hidrogen terakhir pada fermentasi 
+alkohol.</p>
+
+<p>Kalian tentunya pernah, bahkan sering mengamati terjadinya fermentasi alkohol. Dapatkah kalian 
+menyebutkannya?. Beberapa contoh fermentasi alkohol, antara lain: pada pembuatan tape singkong atau 
+tape ketan, bir, dan minuman anggur. Beberapa organisme bersel satu yang berperan dalam fermentasi 
+alkohol adalah ragi (khamir) dan bakteri. Saccharomyces cereviceae merupakan khamir yang berperan 
+dalam pembuatan tape. Alkohol merupakan hasil fermentasi larutan gula oleh khamir. Untuk mengetahui 
+ada tidaknya aktivitas fermentasi alkohol pada bahan, dapat dilihat berdasarkan gas CO2 yang 
+dihasilkan (dilihat dari ada tidaknya gelembung udara) dan ada tidaknya alkohol yang dihasilkan 
+(dapat dicium bau alkoholnya).</p>
+
+<p>Fermentasi Asam Laktat. Lain halnya dengan fermentasi alkohol, pada fermentasi ini, piruvat tidak 
+dikarboksilasi terlebih dahulu menjadi asetaldehid melainkan langsung direduksi oleh NADH menjadi 
+asam laktat. Dengan demikian, piruvat merupakan senyawa organik sebagai penerima hidrogen terakhir 
+pada fermentasi asam laktat. Asam laktat tersebut mengalami ionisasi membentuk laktat.</p>
+
+<p>Beberapa mikroorganisme seperti fungi (jamur mikroskopis) dan bakteri tertentu (Lactobacillus sp) 
+berperan dalam fermentasi asam laktat ini, antara lain: dalam pembuatan susu, keju, dan minuman 
+yoghurt.</p>
+
+<p>Hubungan antara Katabolisme Lemak, Protein, dan Katabolisme Karbohidrat. Lemak merupakan molekul 
+besar yang tersusun oleh 2 molekul kecil, yaitu asam lemak dan gliserol. Lemak dapat tersusun oleh 
+2-20 atom karbon. Lemak berfungsi sebagai cadangan energi yang tinggi. Satu gram lemak mempunyai 
+kandungan energi yang lebih besar (kira-kira 2 kali lipat) dibandingkan dengan 1 gram karbohidrat. 
+Bagaimana hal ini dapat terjadi?. Salah satu contoh dari asam lemak yang mempunyai jumlah atom 
+karbon sama dengan glukosa (6 atom C) adalah asam heksanoat (heksa = enam).</p>
+
+<p>Lemak akan diuraikan menjadi asam lemak dan gliserol. Gliserol dapat diubah menjadi gliseraldehid 
+fosfat dalam siklus glikolisis. Selanjutnya, akan masuk ke tahapan dekarboksilasi oksidatif, 
+siklus Krebs, dan sistem transportasi elektron. Oleh karena itu, dihasilkan energi yang setara 
+dengan katabolisme karbohidrat (glukosa) yaitu 38 ATP. Selanjutnya, bagaimana dengan asam lemak 
+hasil penguraian lemak?. Asam lemak akan dioksidasi menjadi asetil Ko-A. Oksidasi asam heksanoat 
+(6 atom C) akan menghasilkan 3 molekul asetil Ko-A (3 molekul masing-masing dengan 2 atom C) yang 
+akan masuk ke siklus Krebs. Cobalah kalian ingat kembali hasil akhir dari siklus Krebs. Pada 
+siklus Krebs tersebut dihasilkan 6 NADH, 3 FADH2, dan 2 ATP (dari 2 molekul asetil Ko-A yang 
+berasal dari 1 molekul glukosa). Dengan demikian, ATP yang dihasilkan oleh 3 molekul glukosa 
+tentunya akan menghasilkan jumlah ATP lebih besar dibandingkan katabolisme glukosa. Oleh karena 
+itu, semakin panjang rantai karbon penyusun asam lemak semakin banyak jumlah energi yang 
+dihasilkan. Selanjutnya, bagaimana dengan katabolisme protein?.</p>
+
+<p>Pemecahan atau katabolisme protein dilakukan oleh organisme, jika cadangan makanan berupa 
+karbohidrat dan lemak telah habis. Seperti halnya karbohidrat dan lemak, protein juga merupakan 
+molekul besar yang tersusun oleh molekul-molekul yang lebih kecil, yaitu asam amino. Oleh karena 
+itu, protein akan dipecah menjadi asam-asam amino penyusunnya. Asam-asam amino seperti tirosin dan 
+fenilalanin akan diubah menjadi fumarat. Metionin dan valin akan menjadi suksinat, serta asam 
+amino arginin, prolin, histidin, dan glutamin akan diubah menjadi alpha-ketoglutarat. Selanjutnya, 
+asam-asam amino tersebut masuk ke dalam siklus Krebs. Beberapa asam amino dapat mengalami 
+deaminasi atau pelepasan gugus aminonya (-NH2). Kerangka-kerangka karbon hasil pemecahan asam amino 
+tersebut akan masuk ke siklus glikolisis, siklus Krebs dan dihasilkan jumlah energi yang setara 
+dengan katabolisme karbohidrat.</p>
+
+<p>Anabolisme. Selain menghasilkan energi, metabolisme juga memerlukan energi untuk menyusun 
+senyawa-senyawa sederhana menjadi senyawa-senyawa yang dibutuhkan oleh tubuh melalui anabolisme. 
+Misalnya, anabolisme lemak dapat menggunakan asetil Ko-A yang merupakan produk dari katabolisme. 
+Glukosa dapat dibuat dari piruvat. Selain itu, asam-asam amino penyusun protein dapat dibuat 
+dengan memodifikasi senyawa-senyawa hasil siklus Krebs. Selanjutnya, lemak, protein, maupun 
+glikogen hasil anabolisme dapat digunakan sebagai bahan baku cadangan dalam katabolisme. Dengan 
+demikian, katabolisme dan anabolisme merupakan peristiwa yang saling berkaitan satu sama lain. 
+Setiap organisme mempunyai kemampuan berbeda-beda dalam memperoleh energi untuk melangsungkan 
+aktivitas kehidupannya. Oleh karena itu, organisme dibedakan menjadi beberapa kelompok berdasarkan 
+sumber karbon, sumber donor elektron, dan sumber energinya. Berdasarkan sumber energinya, 
+organisme dapat memperoleh energi dari cahaya atau sinar matahari maupun dari bahan-bahan kimia 
+di sekitar lingkungan hidupnya.</p>
+
+<p>Fotosintesis. Tumbuhan dan alga hijau mempunyai kemampuan untuk menggunakan senyawa anorganik 
+seperti CO2, dan H2O, serta bantuan cahaya matahari untuk menyintesis karbohidrat. Proses tersebut 
+terjadi melalui peristiwa yang disebut fotosintesis. Oleh karena itu, organismenya bersifat 
+fotoautotrof. Beberapa organisme fotoautotrof meliputi tumbuhan seperti lumut, pakis, tumbuhan 
+paku, tumbuhan berbunga, alga hijau (rumput laut), dan Euglena. Bakteri sulfur merupakan contoh 
+organisme khemotrof (akan dibahas pada kemosintesis). Fotosintesis merupakan satu-satunya 
+penghasil makanan yang diperlukan bagi seluruh kehidupan organisme, termasuk manusia 
+(heterotrof).</p>
+
+<p>Penelitian pertama tentang fotosintesis dilakukan oleh van Helmont (1648). Dari hasil 
+penelitiannya, dia menyatakan bahwa bertambahnya berat tumbuhan (yang telah ditanam selama lebih 
+dari 5 tahun) disebabkan oleh pasokan air. Selanjutnya, berdasarkan penelitian Joseph priestly, 
+tikus dan lilin yang menyala akan mati jika berada pada ruangan yang tertutup. Tanaman juga akan 
+mati jika berada pada ruangan yang kekurangan oksigen. Sementara itu, menurut seorang dokter dari 
+Belanda yaitu Ingen Housz, bila tanaman yang berada pada ruangan tersebut disinari, maka tikus dan 
+lilin dapat hidup dengan menghabiskan oksigen yang dihasilkan dari tanaman. Selanjutnya, dari 
+hasil penelitian Senebier, diketahui bahwa pertumbuhan tanaman ditandai dengan meningkatnya 
+kandungan karbon. Menurutnya, karbon dioksida akan diuraikan dan karbon tersebut akan bergabung 
+dengan senyawa organik pada tanamannya dengan melepaskan oksigen.</p>
+
+<p>Pada sel tumbuhan terdapat bagian yang berukuran kecil dan tersusun oleh zat putih telur dengan 
+struktur (memipih) dan fungsi tertentu, disebut plastida. Plastida dibedakan menjadi plastida 
+berpigmen dan tidak berpigmen. Kloroplas merupakan salah satu plastida yang berpigmen 
+tersebut.</p>
+
+<p>Sebagaimana telah dijelaskan sebelumnya bahwa fotosintesis terjadi pada tumbuhan yang berwarna 
+hijau. Bahan-bahan yang dapat menyerap cahaya tampak disebut pigmen. Warna hijau pada bagian 
+tumbuhan disebabkan oleh pigmen hijau (pigmen yang memantulkan atau meneruskan cahaya hijau) yang 
+terkandung di dalam kloroplas, yaitu klorofil.</p>
+
+<p>Pada setiap millimeter persegi permukaan daun terdapat sekitar ½ juta kloroplas. Oleh karena itu, 
+daun merupakan bagian yang dominan berwarna hijau dan merupakan tempat utama untuk fotosintesis 
+pada sebagian besar tumbuhan. Selain itu, fotosintesis juga dapat terjadi pada bagian batang yang 
+hijau dan buah yang belum masak. Kloroplas terdapat pada bagian dalam daun yang tersusun oleh 
+sel-sel hidup dan dapat melakukan proses-proses fisiologi, disebut mesofil. Di dalam kloroplas 
+terdapat cairan atau fluida kental disebut stroma dan membran-membran halus berbentuk pipih 
+seperti koin, sebagai tempat klorofil, disebut membran tilakoid. Di dalam membran tersebut 
+terdapat ruangan yang disebut ruang tilakoid (lumen). Tumpukan dari beberapa membran tilakoid 
+membentuk struktur yang disebut grana (tunggal = granum). Kloroplas diselubungi oleh 2 membran, 
+yaitu membran dalam dan membran luar. Pada fotosintesis, masuknya karbon dioksida ke daun dan 
+keluarnya oksigen yang dihasilkan, melewati struktur yang disebut stomata (tunggal = stoma, dalam 
+bahasa Yunani berarti mulut).</p>
+
+<p>Sebagaimana rangkaian reaksi kimia pada respirasi, rangkaian reaksi kimia pada fotosintesis 
+merupakan reaksi penyederhanaan dari 2 tahapan reaksi dalam fotosintesis. Kedua reaksi tersebut 
+adalah reaksi terang (disebut bagian foto) dan reaksi gelap atau siklus Calvin (disebut bagian 
+sintesis).</p>
+
+<p>Reaksi Terang. Pada reaksi terang, energi yang berasal dari matahari (energi cahaya) akan diserap 
+oleh klorofil dan diubah menjadi energi kimia (untuk menyintesis NADPH dan ATP) di dalam 
+kloroplas. Reaksi terang terjadi di dalam grana. Salah satu pigmen yang berperan secara langsung 
+dalam reaksi terang adalah klorofil a. Di dalam membran tilakoid, klorofil bersama-sama dengan 
+protein dan molekul organik berukuran kecil lainnya membentuk susunan yang disebut fotosistem. 
+Beberapa ratus klorofil a, klorofil b, dan karatenoid membentuk suatu kumpulan sebagai "pengumpul 
+cahaya" yang disebut kompleks antena. Sebelum sampai ke pusat reaksi, energi dari 
+partikel-partikel cahaya (foton) akan dipindahkan dari satu molekul pigmen ke molekul pigmen yang 
+lain. Pusat reaksi merupakan molekul klorofil pada fotosistem, yang berfungsi sebagai tempat 
+terjadinya reaksi kimiawi (reaksi cahaya) fotosintesis pertama kalinya.</p>
+
+<p>Di dalam membran tilakoid terdapat 2 macam fotosistem berdasarkan urutan penemuannya, yaitu 
+fotosistem I dan fotosistem II. Setiap fotosistem tersebut mempunyai klorofil pusat reaksi yang 
+berbeda, tergantung dari kemampuan menyerap panjang gelombang cahaya. Klorofil pusat reaksi pada 
+fotosistem I disebut P700, karena mampu menyerap panjang gelombang cahaya 700 nm (spektrumnya 
+sangat merah), sedangkan pada fotosistem II disebut P680 (spektrum merah).</p>
+
+<p>Kalian tentu masih ingat bahwa di dalam fotosistem terdapat ratusan antena atau klorofil. Oleh 
+karena itu, aliran elektron pada reaksi terang akan mengikuti suatu rute tertentu. Selanjutnya, 
+bagaimanakah proses aliran elektron pada reaksi terang?. Ada 2 kemungkinan aliran elektron pada 
+reaksi terang.</p>
+
+<p>Aliran Elektron nonsiklis. Langkah awal dari reaksi terang adalah transfer elektron tereksitasi
+dari klorofil pusat reaksi menuju molekul khusus yang disebut akseptor elektron primer. Air (H2O) 
+diuraikan menjadi 2 ion hidrogen dan 1 atom oksigen kemudian melepaskan O2. Elektron yang berasal 
+dari air (H2O) menggantikan elektron yang hilang pada P680. Sebagaimana sistem transportasi 
+elektron pada respirasi aerobik, transport elektron pada reaksi terang ini melalui rantai 
+transport elektron menuju fotosistem I (P700). Secara berturut-turut, rantai elektron tersebut 
+yaitu: plastokuinon (Pq), merupakan pembawa elektron; kompleks sitokrom; dan plastosianin (Pc), 
+merupakan protein yang mengandung tembaga. Adanya aliran elektron ini akan menghasilkan 
+energi-energi yang kemudian tersimpan sebagai ATP. Pembentukan ATP yang menggunakan energi cahaya 
+melalui aliran elektron nonsiklis pada reaksi terang ini disebut fotofosforilasi nonsiklis.</p>
+
+<p>Setelah elektron mencapai fotosistem I (P700), elektron ditangkap oleh akseptor primer 
+fotosistem I. Elektron melalui rantai transport elektron ke-dua, yaitu melalui protein yang 
+mengandung besi atau feredoksin (Fd). Selanjutnya, enzim NADP+ reduktase mentransfer elektron ke 
+NADP+ sehingga membentuk NADPH yang menyimpan elektron berenergi tinggi dan berfungsi dalam 
+sintesis gula dalam siklus berikutnya yaitu siklus Calvin. Dengan demikian, reaksi terang 
+menghasilkan ATP dan NADPH.</p>
+
+<p>Aliran elektron siklis. Pada aliran elektron siklis ini, elektron dari akseptor primer fotosistem 
+I dikembalikan ke fotosistem I (P700) melalui feredoksin, kompleks sitokrom, dan plastosianin. 
+Oleh karena itu, pada aliran siklis ini menyebabkan produksi ATP bertambah tetapi tidak terbentuk
+NADPH serta tidak terjadi pelepasan molekul O2. Proses pembentukan ATP melalui aliran siklis ini 
+disebut fotofosforilasi siklis.</p>
+
+<p>Reaksi Gelap (Siklus Calvin). Bahan-bahan yang dihasilkan dari reaksi terang akan digunakan dalam 
+siklus Calvin. ATP digunakan sebagai sumber energi dan NADPH sebagai tenaga pereduksi untuk 
+penambahan elektron berenergi tinggi. Siklus Calvin terjadi pada bagian kloroplas yaitu stroma. 
+Pada reaksi gelap ini, bahan untuk fotosintesis (CO2) nantinya akan dibentuk menjadi molekul gula 
+setelah melalui 3 tahapan, antara lain fiksasi karbon, reduksi, dan pembentukan kembali 
+(regenerasi) RuBP.</p>
+
+<p>Fiksasi Karbon. Pada tahap ini, gula berkarbon 5 yang disebut ribulosa 1,5 bifosfat (RuBP) 
+mengikat CO2 membentuk senyawa intermediate yang tidak stabil, sehingga terbentuk 3-fosfogliserat. 
+Pembentukan tersebut dikatalisis oleh enzim RuBP karboksilase atau rubisko. Sebagian besar 
+tumbuhan dapat melakukan fiksasi karbon dan menghasilkan senyawa (produk) pertama berkarbon 3, 
+yaitu 3-fosfogliserat. Oleh karena itu, tumbuhan yang dapat memfiksasi CO2 ini disebut tumbuhan 
+C3. Contohnya adalah tanaman padi, gandum, dan kedelai. Pada beberapa tumbuhan, fiksasi karbon 
+mendahului siklus Calvin dengan cara membentuk senyawa berkarbon 4 sebagai produk pertamanya. 
+Tumbuhan seperti ini disebut tumbuhan C4. Contohnya adalah tebu, jagung, dan anggota 
+rumput-rumputan.</p>
+
+<p>Tidak seperti pada tumbuhan C3 dan C4, tumbuhan kaktus dan nanas membuka stomatanya pada malam 
+hari dan menutupnya pada siang hari. Pada saat stomata terbuka, tumbuhan mengikatkan CO2 pada 
+berbagai asam organik. Cara fiksasi karbon ini pertama kali ditemukan pada tumbuhan famili 
+Crassulaceae (tumbuhan penyimpan air) dan disebut metabolisme asam krasulase (Crassulacean Acid 
+Metabolism) sehingga tumbuhannya disebut tumbuhan CAM. Asam organik (senyawa intermediate) yang 
+dibuat pada malam hari disimpan dalam vakuola sel mesofil sampai pagi hari. Pada siang hari 
+(stomata tertutup), reaksi terang dapat memasok ATP dan NADPH untuk siklus Calvin. Pada saat itu, 
+asam organik melepaskan CO2 dan memasuki molekul gula (RuBP) dalam kloroplas. Dengan demikian, 
+baik tumbuhan C3, C4, maupun CAM akan menggunakan siklus Calvin setelah fiksasi CO2, untuk 
+membentuk molekul gula dari karbon dioksida.</p>
+
+<p>Reduksi. Setiap molekul 3-PGA menerima gugus fosfat dari ATP sehingga terbentuk 1,3 
+bisfosfogliserat. Elektron dari NADPH mereduksi 1,3 bisfosfogliserat dan terbentuk 6 molekul 
+gliseraldehid 3-fosfat (G3P), yang dikatalisis oleh G3P dehidrogenase. Satu molekul G3P akan 
+keluar sebagai molekul gula atau glukosa dan senyawa organik lain yang diperlukan tumbuhan, 
+sedangkan 5 molekul G3P yang lain akan masuk ke tahapan regenerasi.</p>
+
+<p>Pembentukan kembali (regenerasi) RuBP. Pada tahapan terakhir siklus Calvin ini, RuBP sebagai 
+pengikat CO2 dibentuk kembali oleh 5 molekul G3P. RuBP siap untuk mengikat CO2 kembali dan siklus 
+Calvin dapat berlanjut kembali. Dengan demikian, molekul gula tidak akan terbentuk hanya dengan 
+reaksi terang atau siklus Calvin saja. Oleh karena itu, kedua proses tersebut merupakan gabungan 
+proses untuk terjadinya fotosintesis.</p>
+
+<p>Pada materi sebelumnya, kalian telah mempelajari bahwa fotosintesis menghasilkan molekul gula. 
+Gula yang dibuat dalam kloroplas tersebut akan digunakan untuk proses respirasi tumbuhan atau 
+menyusun senyawa organik lainnya dalam sel tumbuhan. Gula tersebut akan diedarkan ke seluruh 
+bagian tumbuhan, dalam bentuk gula sederhana seperti glukosa. Molekul-molekul gula berlebih yang 
+terbentuk selama fotosintesis dan tidak diedarkan, akan menumpuk atau disimpan di dalam plastida 
+sebagai sumber cadangan energi dalam bentuk amilum atau pati (polisakarida).</p>
+
+<p>Sebagaimana telah kalian ketahui bahwa proses fotosintesis memerlukan cahaya dan CO2. Oleh karena 
+itu, faktor lingkungan seperti cahaya dan pasokan CO2 di dalam sel dapat memengaruhi kecepatan 
+fotosintesis. Faktor-faktor tersebut dapat saling berinteraksi dalam memengaruhi fotosintesis. 
+Jika intensitas cahaya rendah maka kecepatan fotosintesis akan rendah pula. Pada keadaan ini, 
+cahaya dikatakan sebagai faktor pembatas. Salah satu cara untuk menentukan kecepatan fotosintesis 
+adalah dengan mengamati pembentukan oksigen. Pada saat intensitas cahaya mencapai titik tertentu 
+(jenuh cahaya pada kondisi percobaan) maka tidak akan memengaruhi produksi oksigen. Keadaan 
+tersebut kemungkinan disebabkan CO2 menjadi faktor pembatas. Nah, jika konsentrasi CO2 tersebut 
+ditingkatkan maka kecepatan fotosintesis akan meningkat dengan meningkatnya intensitas cahaya. 
+Selain cahaya dan CO2, suhu juga dapat memengaruhi kecepatan fotosintesis jika cahaya bukan 
+sebagai faktor pembatas.</p>
+
+<p>Menurut F F Blackman (tahun 1905), fotosintesis dapat berlangsung jika ada cahaya dan akan 
+berhenti jika tidak ada cahaya. Fotosintesis terdiri dari reaksi fotokimia dan reaksi enzimatis. 
+Kondisi tanpa cahaya (gelap) dapat menghambat pembentukan O2 melalui reaksi fotokimia. Selain 
+faktor lingkungan, faktor dalam juga dapat memengaruhi kecepatan fotosintesis, antara lain: 
+konsentrasi enzim, kekurangan air, dan konsentrasi klorofil.</p>
+
+<p>Kemosintesis. Tumbuhan hijau menggunakan energi cahaya untuk membentuk bahan makanan berupa 
+karbohidrat atau glukosa. Hal ini tidak terjadi pada beberapa bakteri, seperti bakteri sulfur dan 
+bakteri besi. Bakteri sulfur menggunakan energi dari senyawa kimia yaitu hidrogen sulfida (H2S) 
+dan juga CO2 untuk membentuk karbohidrat. Proses pembentukan bahan makanan dengan menggunakan 
+energi dari bahan-bahan kimia disebut kemosintesis. Bakteri tersebut menguraikan H2S menjadi atom 
+hidrogen dan sulfur. Kemudian pada reaksi gelap, atom-atom hidrogen digunakan untuk mereduksi CO2 
+dalam membentuk gula atau karbohidrat. Proses tersebut tidak melepaskan oksigen, tetapi 
+menghasilkan sulfur.</p>

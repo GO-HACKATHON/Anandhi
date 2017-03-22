@@ -1,0 +1,439 @@
+<j>Organisme Prokariotik dan Peranannya dalam Kehidupan.
+<p>Dalam mempelajari berbagai jenis makhluk hidup, para biolog menciptakan sistem klasifikasi makhluk hidup, yaitu 
+usaha mengelompokkan berbagai jenis makhluk hidup ke dalam berbagai kelompok. Ketika muncul sistem klasifikasi 4 
+kingdom, bakteri dan sianobakteri (ganggang hijau biru) digolongkan sebagai anggota Kingdom Monera. Monera merupakan 
+kelompok organisme bersel tunggal (uniseluler) dan tidak memiliki membran inti sel atau disebut prokariotik (dalam 
+bahasa Yunani moneres berarti 'tunggal'). Organisme prokariotik merupakan organisme yang paling banyak di bumi. 
+Bahkan, jumlah organisme prokariotik yang berada di mulut, kulit, atau segumpal tanah jauh melebihi jumlah manusia di 
+bumi. Selain jumlahnya paling banyak, organisme prokariotik merupakan organisme yang paling mudah berkembang biak dan 
+memperbanyak diri. Organisme ini telah bertahan selama miliaran tahun. Prokariotik adalah sel pertama yang merupakan 
+awal dari seluruh kehidupan di bumi.</p>
+
+<p>Anggota terbesar kelompok organisme prokariotik adalah bakteri. Penelitian tentang bakteri dimulai ketika Antoonie 
+van Leeuwenhoek menemukan mikroskop pertama kali pada akhir abad ke-17. Leeuwenhoek (1632-1723) adalah ilmuwan 
+Belanda pertama yang merancang dan menciptakan mikroskop berlensa tunggal. Dengan mikroskop buatannya, pada tahun 
+1683, ia menjadi orang pertama yang melihat bakteri. Ia membuat sketsa bakteri yang ditemukan dari giginya sendiri. 
+Sejak saat itu, studi tentang makhluk-makhluk kecil mulai giat dilaksanakan. Beberapa ahli yang mempelajari jasad 
+renik antara lain Pasteur, Davaine, Koch, dan Winogradsky. Ilmu tentang jasad renik ini disebut mikrobiologi. Pada 
+abad ke-20, mikrobiologi terpecah menjadi mikrobiologi tanah dan mikrobiologi industri. Selain itu, bakteri 
+dipelajari secara khusus dalam bakteriologi.</p>
+
+<p>Ciri utama organisme prokariotik adalah organisme tersebut tidak memiliki organel yang diselubungi oleh membran. 
+Nukleus atau inti sel organisme ini hanya berupa satu molekul ADN tanpa membran, disebut nukleoid. Sebagian besar 
+prokariotik merupakan organisme uniseluler (bersel tunggal). Namun, beberapa jenis hidup dalam agregat atau kumpulan 
+sementara, yang terdiri dari dua kelompok sel atau lebih. Ada pula yang memiliki bentuk koloni sejati yang merupakan 
+kumpulan tetap sel-sel yang identik. Bahkan beberapa spesies prokariotik menunjukkan suatu organisasi multiseluler 
+sederhana yang memiliki pembagian tugas antara dua jenis sel atau lebih yang telah terspesialisasi. Prokariotik 
+umumnya tidak berklorofil, hidup bebas atau sebagai parasit. Contohnya adalah bakteri. Bakteri adalah organisme 
+heterotrof, artinya tidak mampu menyusun makanan sendiri. Ini disebabkan karena bakteri tidak memiliki klorofil. 
+Bakteri hidup sebagai saprofit atau parasit. Bakteri yang hidup sebagai saprofit memanfaatkan sisa-sisa tumbuhan atau 
+hewan sebagai substrat atau sumber kebutuhan hidupnya. Dalam hal ini, bakteri berfungsi sebagai pengurai yang 
+membersihkan sisa-sisa makhluk hidup. Sementara sebagai parasit, bakteri dapat menimbulkan penyakit bagi inangnya, 
+baik berupa tumbuhan, hewan, maupun manusia.</p>
+
+<p>Beberapa kelompok prokariotik mampu hidup di lingkungan yang ekstrim, seperti mata air panas, kawah gunung berapi, 
+atau di lahan gambut. Sedangkan kelompok prokariotik yang lain bersifat kosmopolit, artinya mampu hidup di berbagai 
+kondisi lingkungan. Sebagian besar prokariotik memiliki diameter dalam kisaran 1-5 µm, lebih kecil dibandingkan 
+sel-sel eukariotik yang sebagian besar berukuran 10-100 µm. Secara umum, prokariotik berkembang biak secara vegetatif 
+atau aseksual dengan cara membelah diri.</p>
+
+<p>Sebagian besar prokariotik memiliki dinding sel untuk mempertahankan bentuk sel, memberi perlindungan fisik, dan 
+mencegah supaya sel tidak pecah dalam lingkungan hipotonik (larutan dengan konsentrasi zat terlarut yang lebih rendah 
+dari zat pelarut). Walaupun begitu, dinding sel akan mati jika berada di lingkungan hipertonik. Dinding tersebut 
+mengandung peptidoglikan yang terdiri dari polimer modifikasi gula-gula yang diikat silangkan dengan polipeptida 
+pendek. Pada permukaan dinding sel terdapat lapisan lendir yang menyebar dan mudah lepas.</p>
+
+<p>Di dalam dinding sel terdapat membran plasma yang bersifat selektif permeabel. Di dalam membran plasma terdapat 
+sitoplasma, yaitu cairan yang tersusun atas koloid yang mengandung molekul organik (lipid, karbohidrat, protein), ADN, 
+enzim, ribosom, ion-ion anorganik, dan pigmen warna (kromatofora). Di antara koloid tersebut, terdapat pelipatan 
+membran plasma yang disebut mesosom. Mesosom berfungsi membantu pembentukan dinding penyekat ketika bakteri siap 
+membelah. Peran lainnya adalah membantu pemisahan kromosom bakteri yang diduplikasi. Mesosom juga merupakan tempat 
+dikeluarkannya hasil ekskresi.</p>
+
+<p>Bakteri memiliki materi genetik berupa ADN (asam deoksiribo nukleat). Molekul-molekul ADN tersebut membentuk 
+kromosom, yaitu ADN berantai ganda yang menyerupai serat kusut dalam region nukleoid (daerah nukleoid) yang warnanya 
+kurang padat dibandingkan dengan sitoplasma. Kromosom terdiri dari gen yang membawa kode genetik. Di dalam sitoplasma 
+juga terdapat organel yang disebut ribosom. Ribosom berfungsi dalam sintesis protein. Bentuk ribosom adalah 
+butir-butir kecil dan tidak diselubungi membran. Ribosom tersusun atas protein dan ARN (asam ribo nukleat).</p>
+
+<p>Selain struktur yang telah kita bahas tersebut, banyak spesies prokariotik yang mensekresikan bahan kental dan 
+lengket yang kemudian menebal membentuk kapsul. Kapsul merupakan lapisan pelindung di luar dinding sel. Adanya kapsul 
+memungkinkan organisme prokariotik menempel pada substratnya dan memberikan perlindungan tambahan berupa peningkatan 
+resistensi atau kekebalan prokariotik patogen pada sistem pertahanan inangnya. Selain itu, kapsul yang bergelatin 
+menyatukan banyak organisme prokariotik sebagai satu koloni. Beberapa jenis juga memiliki struktur yang disebut 
+pili, yaitu alat tambahan pada permukaan sel yang berguna agar membantu menempel pada sesama anggota koloni.</p>
+
+<p>Karena merupakan organisme yang motil (dapat bergerak atau berpindah), beberapa jenis organisme prokariotik memiliki 
+flagela. Flagela adalah struktur tambahan pada tubuh berupa bulu cambuk yang berfungsi sebagai alat gerak. Namun, 
+bukan berarti bahwa organisme prokariotik yang tidak mempunyai flagela tidak bisa bergerak. Beberapa jenis organisme 
+prokariotik bergerak aktif dengan meluncur dan ada yang bergerak pasif mengikuti aliran air. Dalam suatu lingkungan 
+yang heterogen, banyak bakteri yang mampu melakukan taksis, yaitu pergerakan menuju atau menjauhi suatu rangsangan. 
+Misalnya, dengan gerak kemotaksis, bakteri akan memberikan respons terhadap rangsangan kimia. Pada kelompok tertentu, 
+yaitu organisme prokariotik yang dapat berfotosintesis terdapat struktur khusus yang disebut lembar fotosintetis 
+(tilakoid) yang di dalamnya mengandung klorofil.</p>
+
+<p>Organisme prokariotik hanya berkembang biak (bereproduksi) secara aseksual melalui pembelahan sel, yang disebut 
+pembelahan biner (binary fission). Dalam pembelahan ini, ADN disintesis secara terus-menerus. Sebuah sel prokariotik 
+tunggal dalam lingkungan yang sesuai akan menjadi suatu koloni akibat pembelahan berulang-ulang.</p>
+
+<p>Waktu generasi yang pendek memungkinkan populasi prokariotik dapat menyesuaikan diri dengan keadaan lingkungan secara 
+cepat. Dalam suatu lingkungan dengan sumber daya yang memadai, satu sel akan membelah menjadi 2 sel. Kedua sel akan 
+membelah menghasilkan 4 sel, kemudian 8 sel, 16 sel, dan seterusnya. Beberapa spesies dapat membelah dalam waktu 20 
+menit, ada juga yang mampu membelah pada kisaran waktu 1 sampai 3 jam. Jika pembelahan ini berlanjut terus, dalam 24 
+jam akan terbentuk koloni prokariotik dengan massa 1 juta kilogram. Namun, pertumbuhan organisme prokariotik di alam 
+umumnya melambat pada titik tertentu, yaitu ketika koloni kehabisan nutrien atau ketika koloni tersebut meracuni diri 
+sendiri dengan penumpukan buangan hasil metabolisme.</p>
+
+<p>Dalam pembelahan biner ini, materi genetik hasil pembelahan sama dengan materi genetik induknya. Walaupun organisme 
+prokariotik bereproduksi secara aseksual, namun beberapa bakteri dapat melakukan beberapa cara untuk merekombinasi 
+materi genetiknya. Cara rekombinasi materi genetik tersebut adalah transformasi, konjugasi, dan transduksi. 
+Transformasi berarti pengambilan gen dari lingkungan sekitar, yang memungkinkan terjadinya perpindahan materi genetik 
+antar prokariotik. Konjugasi artinya pemindahan gen-gen secara langsung dari prokariotik satu ke prokariotik lainnya. 
+Sedangkan transduksi adalah pemindahan gen antar prokariotik dengan bantuan virus.</p>
+
+<p>Beberapa organisme prokariotik membentuk sel-sel endospora yang tahan terhadap kondisi yang tidak menguntungkan. 
+Sel awal akan mereplikasi kromosomnya dan satu salinannya diselubungi dinding yang kuat. Walaupun sel bagian luar 
+hancur akibat keadaan lingkungan, endospora yang dikandungnya akan bertahan hidup. Air mendidih tidak cukup panas 
+untuk membunuh sebagian besar endospora dalam jangka waktu yang relatif singkat. Orang yang mengalengkan makanan 
+harus melakukan tindakan yang tepat untuk mengatasi endospora yang berbahaya ini. Di laboratorium, para ahli 
+mikrobiologi menggunakan autoklaf untuk mensterilkan media, gelas, dan peralatan lain di laboratorium. Autoklaf 
+merupakan wadah pemanas dengan tekanan tinggi yang dapat membunuh bakteri bahkan endospora dengan cara memanaskannya 
+sampai suhu 120 derajat celcius. Dalam lingkungan yang normal, endospora dapat bertahan hingga berabad-abad. Jika 
+ditempatkan pada lingkungan yang sesuai, endospora akan mengalami hidrasi dan hidup kembali untuk menghasilkan 
+koloni.</p>
+
+<p>Organisme prokariotik memiliki jenis yang sangat banyak sehingga untuk mempermudah mempelajarinya, diperlukan 
+pengelompokan (klasifikasi). Karena perkembangan teknologi dan penemuan fakta-fakta terbaru, klasifikasi organisme 
+prokariotik beberapa kali mengalami perubahan. Namun demikian, kelompok-kelompok organisme tersebut pada hakekatnya 
+tetap, yaitu secara struktural merupakan organisme prokariotik.</p>
+
+<p>Dalam sistem klasifikasi tradisional lima kingdom, organisme prokariotik menyusun Kingdom Monera, sedangkan organisme 
+eukariotik menyusun empat kingdom lainnya, yaitu Protista, Plantae, Fungi, dan Animalia. Berdasarkan analisis 
+molekuler, Monera dibagi ke dalam dua filum, yaitu Archaebacteria dan Eubacteria. Pada klasifikasi yang sekarang, ke 
+dua filum tersebut telah diangkat menjadi dua domain tersendiri, yaitu Domain Archaea dan Domain Bacteria. Terlepas 
+dari perubahan kedudukan dalam kategori taksonominya, kedua kelompok tersebut tetap merupakan kelompok prokariotik 
+seperti pembagiannya dalam Dunia Monera.</p>
+
+<p>Archaebacteria terdiri dari bakteri-bakteri yang hidup di tempat-tempat kritis atau ekstrim, misalnya bakteri yang 
+hidup di air panas, bakteri yang hidup di tempat berkadar garam tinggi, dan bakteri yang hidup di tempat yang panas 
+atau asam, di kawah gunung berapi, dan di lahan gambut. Menurut para ahli, Archaebacteria dikelompokkan menjadi tiga 
+kelompok utama, yaitu metanogen, halofil ekstrim, dan termofil ekstrim (termoasidofil). Secara struktural, kelompok 
+prokariotik ini memiliki beberapa karakteristik, yaitu dinding selnya tidak mengandung peptidoglikan, ribosomnya 
+mengandung beberapa jenis RNA-polimerase sehingga lebih mirip eukariotik, dan plasmanya mengandung lipid dengan 
+ikatan ester.</p>
+
+<p>Metanogen merupakan kelompok prokariotik yang mereduksi karbon dioksida (CO2) menjadi metana (CH4) menggunakan 
+hidrogen (H2). Metanogen merupakan mikroorganisme anaerob, tidak membutuhkan oksigen karena baginya oksigen merupakan 
+racun. Metanogen memiliki tempat hidup di lumpur dan rawa, tempat mikroorganisme lain menghabiskan semua oksigen. 
+Contohnya adalah Methanococcus janascii. Akibatnya rawa akan mengeluarkan gas metana atau gas rawa. Beberapa spesies 
+lain yang termasuk kelompok metanogen hidup di lingkungan anaerob di dalam perut hewan seperti sapi, rayap, dan 
+herbivora lain yang mengandalkan makanan berselulosa. Metanogen berperan penting dalam nutrisi. Contohnya adalah 
+Succinomonas amylolytica yang hidup di dalam pencernaan sapi dan merupakan pemecah amilum. Peran lain metanogen 
+adalah sebagai pengurai, sehingga bisa dimanfaatkan dalam pengolahan kotoran hewan untuk memproduksi gas metana, yang 
+merupakan bahan bakar alternatif.</p>
+
+<p>Halofil ekstrim merupakan kelompok prokariotik yang hidup di tempat yang asin, seperti di Great Salt Lake (danau 
+garam di Amerika) dan Laut Mati. Kata halofil berasal dari bahasa Yunani, halo yang berarti 'garam', dan phylos yang 
+berarti 'pencinta'. Beberapa spesies sekadar memiliki toleransi terhadap kadar garam, tetapi ada pula spesies lain 
+yang memerlukan lingkungan yang sepuluh kali lebih asin dari air laut untuk dapat tumbuh. Beberapa koloni halofil 
+ekstrim membentuk suatu buih berwarna ungu. Warna tersebut adalah bakteriorhodopsin. Bakteriorhodopsin merupakan suatu 
+pigmen yang menangkap energi cahaya.</p>
+
+<p>Sedangkan Termofil ekstrim adalah kelompok organisme prokariotik yang hidup di lingkungan yang panas, optimum pada 
+suhu 60 sampai 80 derajat celcius. Contohnya adalah Sulfolobus sp yang hidup di mata air panas bersulfur di 
+Yellowstone National Park (Amerika Serikat). Sulfolobus sp hidup dengan mengoksidasi sulfur untuk memperoleh 
+energi. Karena suka dengan panas dan asam, kelompok ini disebut juga termoasidofil. Jenis lain yang memetabolisme 
+sulfur adalah organisme prokariotik yang hidup pada air bersuhu 105 derajat celcius di dekat lubang hidrotermal di 
+laut dalam (kawah gunung api bawah laut). Termofil ekstrim merupakan kelompok prokariotik yang paling dekat dengan 
+organisme eukariotik.</p>
+
+<p>Eubacteria memiliki struktur yang berbeda dengan Archaebacteria dalam hal dinding selnya terdiri dari peptidoglikan, 
+ribosomnya hanya mengandung satu jenis RNA-polimerase, dan membran plasmanya mengandung lipid dengan ikatan ester. 
+Eubacteria merupakan kelompok bakteri sejati, merupakan mikroorganisme prokariotik yang hidup kosmopolit.</p>
+
+<p>Sampai saat ini, lebih dari 5000 spesies bakteri telah dikenali, terdapat dalam jumlah yang sangat banyak di hampir 
+semua habitat yang memungkinkan bagi mereka. Setiap gram tanah di kebun kita, misalnya, diperkirakan mengandung 
+sebanyak 2 milyar bakteri. Bakteri juga ditemukan pada tumbuhan, hewan, pada semua jenis tanah, perairan (air tawar 
+dan air asin), di dalam es di kutub, dalam batu bara dan minyak bumi, lapisan atmosfer, di dalam botol-botol tinta, 
+dan hampir di semua tempat yang mungkin bisa kita kunjungi. Bakteri dapat dikelompokkan berdasarkan bentuk tubuhnya, 
+berdasarkan cara geraknya, berdasarkan kebutuhannya akan oksigen, berdasarkan cara memperoleh energi dan karbon, 
+serta berdasarkan sifatnya terhadap pengecatan gram.</p>
+
+<p>Walaupun bakteri bersel tunggal, tetapi bakteri mempunyai beberapa bentuk yaitu bulat (coccus), batang (basilus), dan 
+berbentuk spiral (spirila). Ketiga bentuk dasar bakteri tersebut masih memiliki beberapa modifikasi. Berdasarkan 
+modifikasi bentuknya, bakteri coccus dapat berupa monococcus, diplococcus, streptococcus, dan sarcina. Monococcus 
+adalah bakteri yang berbentuk bulat tunggal. Contoh monococcus adalah Neiserria gonorrhoea (penyebab penyakit 
+gonorhoe). Diplococcus yaitu bakteri berbentuk bulat yang berpasangan. Contohnya Diplococus pneumaticus (penyebab 
+penyakit pneumonia atau radang paru-paru). Sedangkan Streptococcus adalah bakteri berbentuk bulat yang bersusun 
+seperti rantai. Contohnya Streptococus pyrogenes (penyebab penyakit kuning). Modifikasi bentuk yang lain adalah 
+staphylococcus (bulat yang berupa gerombolan seperti buah anggur) dan sarcina (yaitu bakteri berbentuk bulat yang 
+berkelompok empat-empat sehingga berbentuk seperti kubus dengan 8 sel). Contohnya adalah Staphylococcus aureus yang 
+merupakan penyebab penyakit pneunomia (radang paru-paru) dan keracunan dalam makanan.</p>
+
+<p>Bakteri basilus juga mempunyai beberapa modifikasi bentuk, yaitu monobasil, diplobasil, atau streptobasil. Monobasil 
+yaitu bakteri berbentuk basil tunggal. Contohnya adalah Escherichia coli (membantu pembusukan di dalam colon atau 
+usus besar) dan Salmonella thyposa (penyebab penyakit tipus). Diplobasil adalah bakteri bentuk batang yang 
+berpasangan. Sedangkan streptobasil adalah bakteri dengan bentuk batang yang bergandengan memanjang seperti bentuk 
+rantai. Contohnya, Acetobacter xylinum yang digunakan dalam pembuatan nata de coco.</p>
+
+<p>Sedangkan kelompok bakteri dengan bentuk dasar spiral memiliki 3 macam modifikasi, yaitu spirilum, vibrio, dan 
+spirochaeta. Spirilum yaitu bakteri yang berbentuk spiral sempurna. Contohnya adalah Triponema pallidum (penyebab 
+penyakit sifilis). Vibrio merupakan modifikasi dari bentuk spiral yaitu berbentuk koma. Contohnya adalah Vibrio 
+cholerae (penyebabkan penyakit kholera). Sedangkan spirochaeta merupakan kelompok bakteri berbentuk spiral yang 
+lentur, sehingga ketika bergerak tubuhnya dapat memanjang atau memendek.</p>
+
+<p>Salah satu cara bakteri bergerak adalah dengan bantuan flagela. Flagela adalah struktur tambahan alat pada beberapa 
+bakteri berupa bulu cambuk yang berfungsi sebagai alat gerak. Berdasarkan letak dan jumlahnya, bakteri dikelompokkan 
+ke dalam 4 tipe, yaitu monotrik, lofotrik, amfitrik, dan peritrik. Bakteri monotrik adalah bakteri dengan satu 
+flagela pada salah satu ujung tubuhnya. Apabila jumlah flagelanya lebih dari satu disebut lofotrik. Sedangkan bakteri 
+amfitrik adalah bakteri yang memiliki lebih dari satu flagela dan flagela-flagela tersebut terletak pada kedua ujung 
+tubuhnya. Apabila flagela-fagela tersebut terdapat pada seluruh permukaan tubuhnya disebut peritrik.</p>
+
+<p>Berdasarkan kebutuhannya akan oksigen, bakteri dibedakan menjadi dua macam, yaitu bakteri aerob dan bakteri anaerob. 
+Bakteri aerob (aerob obligat) merupakan bakteri yang membutuhkan oksigen bebas untuk hidupnya. Sedangkan bakteri 
+anaerob merupakan bakteri yang tidak membutuhkan oksigen bebas dalam hidupnya. Bakteri yang hanya dapat hidup di 
+lingkungan tanpa oksigen, dan akan teracuni jika ada oksigen disebut bakteri anaerob obligat. Walaupun begitu, ada 
+beberapa bakteri yang dapat hidup pada lingkungan yang mengandung oksigen maupun lingkungan yang tidak mengandung 
+oksigen. Bakteri ini disebut bakteri anaerob fakultatif. Contoh bakteri aerob obligat adalah Nitrobacter sp dan 
+Hydrogenomonas sp dan contoh bakteri anaerob obligat adalah Clostridium tetani. Sedangkan anaerob fakulatif 
+misalnya Escherichia coli, Salmonella thypose dan Shigella sp.</p>
+
+<p>Beberapa jenis bakteri ini yang hidup di dalam tanah dapat merugikan, karena menimbulkan proses-proses reduksi. 
+Akibatnya, senyawa-senyawa yang mestinya dapat digunakan tanaman justru diubah menjadi senyawa yang tidak digunakan. 
+Contoh bakteri jenis ini adalah Micrococcus denitrifican yang mengubah senyawa nitrat menjadi amonia sampai menjadi 
+nitrogen bebas, yang disebut proses denitrifikasi. Bakteri anaerob lain yang merugikan adalah Spirillum desulfuricans 
+yang mengubah senyawa sulfat menjadi asam sulfida atau sampai menjadi belerang. Proses ini disebut desulfurikasi.</p>
+
+<p>Berdasarkan cara memperoleh energi dan karbon, bakteri dibedakan menjadi empat kategori, yaitu fotoautotrof, 
+kemoautotrof, fotoheterotrof, dan kemoheterotrof. Fotoautotrof adalah bakteri fotosintetik yang memanfaatkan energi 
+cahaya untuk menyintesis senyawa organik dari karbon dioksida. Contoh bakteri fotoautotrof adalah kelompok 
+sianobakteri. Sedangkan kemoautotrof merupakan bakteri yang hanya memerlukan CO2 (karbon dioksida) sebagai sumber 
+karbon bukan sebagai sumber energi. Bakteri ini memperoleh energi dengan mengoksidasi bahan-bahan anorganik. Energi 
+kimia diekstraksi dari hidrogen sulfida (H2S), amonia (NH3), ion fero (Fe2+), atau bahan kimia lainnya. Contohnya 
+adalah bakteri Sulfolobus sp yang mengoksidasi sulfur. Kedua kelompok tersebut adalah kelompok bakteri yang 
+mampu menyintesis energinya sendiri (autotrof).</p>
+
+<p>Sedangkan bakteri yang tidak mampu menyintesis energi secara mandiri disebut kelompok heterotrof, terdiri dari 
+fotoheterotrof dan kemoheterotrof. Bakteri fotoheterotrof yaitu bakteri yang menggunakan cahaya untuk menghasilkan 
+ATP, tetapi harus menggunakan karbon dalam bentuk organik. Sedangkan kemoheterotrof yaitu bakteri yang harus 
+mengonsumsi molekul organik untuk sumber energi dan karbon. Contoh bakteri kemoautotrof adalah Beggiota sp, 
+yaitu bakteri kemoautotrof yang mengoksidasi H2S. Sebagian besar bakteri adalah kemoheterotrof, terdiri dari kelompok 
+saproba (pengurai) yang menyerap nutrien dari bahan organik dan kelompok parasit yang menyerap cairan dari tubuh 
+inang yang masih hidup.</p>
+
+<p>Pengecatan gram (gram stain) memisahkan bakteri ke dalam dua kelompok, yaitu bakteri gram-positif dan bakteri 
+gram-negatif. Bakteri gram-positif memiliki dinding sel yang sederhana, dengan jumlah peptidoglikan yang banyak 
+sehingga bereaksi positif terhadap pengecatan gram. Sedangkan pada bakteri gram-negatif peptidoglikannya lebih 
+sedikit dan struktur dinding selnya lebih kompleks, membran luarnya mengandung lipopolisakarida. Sehingga tidak 
+terwarnai oleh pengecatan gram.</p>
+
+<p>Beberapa pengelompokan di atas merupakan pengelompokan berdasarkan bentuk dan fungsi atau beberapa sifat saja, 
+sedangkan pembagian tingkatan taksonomi bagi bakteri sampai saat belum jelas. Para ahli sistematika telah mengusulkan 
+berbagai pengelompokan bakteri. Mereka mengenal lusinan kelompok bakteri, tetapi kita hanya akan membahas lima 
+kelompok yang umum. Kelima kelompok ini adalah Proteobakteria, bakteri gram-positif, Sianobakteri, Spirokaeta, dan 
+Klamidia. Mari kita bahas satu persatu kelima kelompok bakteri tersebut.</p>
+
+<p>Proteobakteria merupakan kelompok bakteri pengikat Nitrogen (N-Fixing Bacteria). Kelompok ini merupakan kelompok 
+bakteri yang paling beragam, dibedakan menjadi tiga subkelompok utama, yaitu bakteri ungu, proteobakteri kemoautotrof, 
+dan proteobakteri kemoheterotrof. Bakteri ungu adalah kelompok bakteri yang bersifat fotoautotrof atau fotoheterotrof. 
+Bakteri ini mempunyai klorofil yang terbentuk di kantung membran plasma. Bakteri ungu mengekstrasi elektron dari 
+molekul selain H2O, misalnya H2S, sehingga bakteri ini tidak membebaskan oksigen. Sebagian besar spesiesnya adalah 
+bakteri anaerob obligat, ditemukan dalam endapan kolam, danau, dan lapisan lumpur. Banyak spesies yang mempunyai 
+flagela. Contoh bakteri ungu adalah bakteri Chromatium sp.</p>
+
+<p>Proteobakteri kemoautotrof merupakan kelompok bakteri yang hidup bebas dan ada juga yang bersimbiosis dengan 
+organisme lain. Bakteri ini memegang peranan penting dalam siklus kimiawi ekosistem, misalnya berperan dalam fiksasi 
+nitrogen (perubahan gas nitogen N2 di atmosfer menjadi mineral bernitrogen yang dapat digunakan oleh tumbuhan). 
+Contohnya adalah Rhizobium sp yang hidup bersimbiosis dengan membentuk bintil akar pada tanaman kacang-kacangan. 
+Dengan simbiosis ini, tanaman tersebut mendapatkan nutrisi dari Rhizobium sp.</p>
+
+<p>Adapun Proteobakteri kemoheterotrof adalah kelompok bakteri enterik yang hidup di usus hewan. Bakteri ini berbentuk 
+batang dan bersifat anaerob fakultatif. Contoh yang tidak berbahaya adalah Escherichia coli. Sedangkan jenis lainnya 
+ada yang bersifat patogen, misalnya Salmonella sp yang menyebabkan keracunan makanan.</p>
+
+<p>Sebagian besar bakteri gram positif bersifat kemoheterotrof, walaupun beberapa di antaranya bersifat fotosintetik. 
+Ketika berada pada kondisi yang sulit, bakteri ini akan membentuk endospora. Contoh bakteri gram positif adalah 
+Clostridium sp dan Bacillus sp Sedangkan yang yang tidak membentuk endospora, contohnya adalah Mycoplasma 
+spe Ukurannya sangat kecil, bahkan dari semua sel yang diketahui saat ini, diameternya 0,10 – 0,25 µm. Bakteri 
+ini ditemukan dalam tanah, dan beberapa di antaranya bersifat patogen pada hewan. Contohnya adalah Mycoplasma 
+pneumonia yang menyebabkan walking pneumonia pada manusia. Selain itu, yang termasuk bakteri gram-positif adalah 
+Actinomycetes, yaitu bakteri tanah yung membentuk koloni menyerupai jamur. Contohnya adalah Streptomyces sp yang 
+merupakan sumber antibiotik yang penting.</p>
+
+<p>Sianobakteri merupkan kelompok bakteri autotrof, memiliki klorofil dan mampu berfotosintesis seperti tumbuhan. 
+Bakteri ini menggunakan dua fotosistem untuk memecah air dan menghasilkan oksigen sebagai produk sampingan. Sebagian 
+besar hidup di air tawar, tetapi ada sebagian yang hidup di laut. Ada juga yang bersimbiosis dengan jamur membentuk 
+lichens (lumut kerak). Beberapa spesies sianobakteri akuatik memfiksasi nitrogen. Bakteri jenis ini mempunyai dinding 
+sel yang tebal dan bergelatin, tidak mempunyai flagela, dan bergerak dengan meluncur. Di antara spesies sianobakteri 
+ada yang berupa sel tunggal, ada yang membentuk koloni, dan ada yang merupakan organisme multiseluler yang memiliki 
+pembagian kerja yang khusus. Contohnya adalah Anabaena sp yang berperan dalam fiksasi nitogen. Terdapat sel-sel 
+yang telah terspesialisasi untuk fiksasi nitrogen.</p>
+
+<p>Spirokaeta merupakan bakteri kemoheterotrof yang berbentuk heliks. Panjangnya mencapai 0,25 mm, tetapi karena terlalu 
+tipis ia tidak dapat dilihat tanpa bantuan mikroskop. Perputaran filamen internal mirip flagela, menghasilkan 
+gerakan seperti pembuka sumbat botol. Anggota Spirokaeta ada yang hidup bebas dan ada yang bersifat patogen. 
+Contohnya adalah Treponema paiidum (penyebab penyakit sifilis), dan Borrelia burgdorferi (penyebabkan penyakit Lyme).</p>
+
+<p>Klamidia merupakan parasit obligat intraseluler. Ia mendapatkan semua energi dari sel inangnya. Dinding selnya 
+gram-negatif, tetapi sifat tersebut tidak umum di antara bakteri karena tidak memiliki peptidoglikan. Contoh klamidia 
+adalah Chlamydia trachomatis. Bakteri ini merupakan penyebab kebutaan paling umum di dunia dan juga penyebab penyakit 
+yang ditularkan secara seksual (nongonococcal urethritis) di Amerika Serikat.</p>
+
+<p>Di dalam benak kalian mungkin selalu terbayang bahwa organisme prokariotik merupakan suatu makhluk hidup amat kecil 
+yang menyebabkan bermacam-macam penyakit. Perkiraan kalian tersebut tidaklah salah, tetapi tidak 100% benar. Memang 
+organisme prokariotik, terutama bakteri merupakan mikroorganisme yang dapat menyebabkan penyakit. Akan tetapi, tidak 
+semua jenis bakteri menyebabkan penyakit. Bahkan lebih dari 90% jenis bakteri tidak berbahaya dan justru bermanfaat 
+bagi manusia. Bakteri digunakan dalam industri dengan berbagai tujuan yang bervariasi. Selain dalam bidang industri, 
+bakteri juga berperan dalam pembusukan sampah. Coba kalian bayangkan yang akan terjadi jika di bumi ini tidak ada 
+bakteri. Tentu bumi ini akan penuh dengan sampah, yang terserak di mana-mana. Ini menunjukkan bahwa bakteri memiliki 
+peran ekologis yang sangat penting.</p>
+
+<p>Pada uraian tentang klasifikasi organisme prokariotik telah disinggung beberapa contoh spesies prokariotik dan 
+peranannya. Tentu kalian masih ingat, bukan?. Mari kita bahas kembali dengan lebih mendalam. Organisme prokariotik 
+merupakan penghubung yang harus ada dalam pendaur-ulangan unsur kimia dalam ekosistem, misalnya dalam siklus 
+biogeokimia. Organisme prokariotik merupakan pengurai (dekomposer). Tanpa dekomposer, maka karbon, nitrogen, dan 
+unsur-unsur lainnya yang penting bagi kehidupan akan terjebak selamanya dalam molekul organik bangkai dan produk 
+buangan. Prokariotik juga memperantai pengembalian unsur dari komponen tak hidup dalam lingkungan (udara, tanah 
+organik, dan air) ke kumpulan senyawa organik. Prokariotik autrotrofik memfiksasi CO2, mendukung rantai makanan 
+yang mengalirkan nutrien organik dari prokariotik ke pemakan prokariotik, kemudian ke konsumen sekunder. Karena 
+banyaknya kemampuan metabolik yang unik, prokariotik merupakan satu-satunya organisme yang mampu memetabolisme 
+molekul anorganik yang mengandung unsur seperti besi, sulfur, nitrogen, dan hidrogen. Sianobakteri tidak hanya 
+menyintesis makanan dan mengembalikan oksigen ke atmosfer, tetapi juga memfi ksasi nitrogen, memberi senyawa yang 
+dapat digunakan oleh organisme lain untuk membentuk protein ke dalam tanah dan air. Saat tumbuhan dan hewan memakan 
+senyawa-senyawa nitrogen itu, prokariotik tanah akan mengembalikan nitrogen ke atmosfer. Semua kehidupan di atas bumi 
+ini bergantung pada organisme prokariotik dan keanekaragaman metabolismenya tiada bandingnya.</p>
+
+<p>Organisme prokariotik sangat jarang berfungsi sendirian di lingkungan, tetapi lebih sering berinteraksi dalam 
+kelompok dan membentuk simbiosis. Rhizobium sp merupakan organisme prokariotik yang bersimbiosis mutualisme 
+dengan bintil akar tanaman kacang-kacangan, hidup pada bagian yang disebut nodul. Bakteri yang menempati permukaan 
+dalam dan luar tubuh manusia sebagian besar terdiri dari spesies komensalisme, tetapi beberapa merupakan simbion 
+mutual. Sebagai contoh, bakteri fermentasi yang hidup di dalam vagina menghasilkan asam yang mempertahankan pH antara 
+4,0-4,5, sehingga menekan pertumbuhan kapang dan mikroorganisme lain yang memiliki potensi membahayakan. Di alam, 
+beberapa sianobakteri juga bersimbiosis dengan jamur membentuk lichens atau lumut kerak, yang berperan penting 
+sebagai indikator polusi udara dan berpotensi sebagai obat.</p>
+
+<p>Beberapa anggota Archaebacteria, yaitu kelompok Metanogen berperan penting dalam nutrisi hewan dan juga sebagai 
+pengurai, sehingga bisa dimanfaatkan dalam pengolahan kotoran hewan untuk memproduksi gas metana, yang merupakan 
+bahan bakar alternatif. Jenis yang lain adalah halofil ekstrim yang memiliki bakteriorhodopsin yang banyak terdapat 
+pada tambak garam. Contohnya adalah di Teluk San Fransisco. Warna dari kolam yang menguapkan air laut tersebut 
+disebabkan oleh pertumbuhan padat halofil ekstrim yang bertahan hidup dalam kolam tersebut ketika air mencapai 
+salinitas 15-20%. Sebelum penguapan, salinitas air tersebut adalah sekitar 3%. Kolam ini digunakan untuk produksi 
+garam komersial dan Arkea halofilik tersebut tidak berbahaya.</p>
+
+<p>Organisme prokariotik anggota eubacteria juga memiliki banyak peran, apalagi bakteri merupakan penyusun utama 
+organisme prokariotik. Proteobakteria merupakan kelompok bakteri pengikat Nitrogen (N-Fixing Bacteria) contohnya 
+adalah Rhizobium sp yang hidup bersimbiosis dengan membentuk bintil akar pada tanaman kacang-kacangan.</p>
+
+<p>Beberapa contoh bakteri nitrogen yang bermanfaat bagi manusia adalah Clostridium pasteurianum bermanfaat dalam menyuburkan 
+tanah sehingga kaya akan senyawa organik (N2), Azotobacter sp bermanfaat dalam menyuburkan tanah sehingga kaya
+akan senyawa N2, dan Rhizobium leguminosarum bermanfaat dalam menyuburkan tanah karena dapat memfiksasi nitrogen 
+dari atmosfer, sehingga tanah kaya akan unsur N2. Bakteri ini bersimbiosis dengan membentuk bintil akar pada tanaman 
+anggota Famili Leguminoceae (suku kacang-kacangan).</p>
+
+<p>Beberapa contoh bakteri nitrifikasi adalah Nitrosomonas sp dan Nitrosococus sp bermanfaat dalam menyuburkan
+tanah mengubah amoniak menjadi Nitrit. Sedangkan bakteri Nitrobacter sp bermanfaat dalam mengubah Nitrit menjadi 
+Nitrat.</p>
+
+<p>Beberapa contoh bakteri yang bermanfaat dalam dunia industri, yaitu Streptococus lactis dan Streptococus cremoris 
+digunakan dalam pembuatan keju dan mentega. Acetobacter xylinum digunakan dalam pembuatan nata de coco. Lactobacillus 
+citrovorum berfungsi dalam memberikan aroma pada mentega dan keju. Sedangkan Lactobacillus caucasicus digunakan dalam 
+pembuatan yoghurt.</p>
+
+<p>Salah satu contoh bakteri penghasil asam, yaitu Acetobacter aceti berfungsi untuk mengubah etanol (alkohol) menjadi asam 
+cuka. Contoh bakteri penghasil asam, yaitu Propionibacterium acetobutylicum merupakan bakteri penghasil asam propionat 
+yang digunakan dalam pembuatan keju. Sedangkan Clostridium sp dan Butyrinobacterium sp merupakan bakteri 
+penghasil asam butirat yang digunakan untuk menghasilkan butil alkohol dan Aceton.</p>
+
+<p>Beberapa contoh bakteri penghasil antibiotik adalah Stryptomyces venezualea merupakan bakteri penghasil kloroamfenikol 
+yang dipakai untuk batuk rejan, typus, dan gonorhoe. Stryptomyces griceus merupakan bakteri penghasil streptomycin 
+yang digunakan untuk melawan bakteri dan jamur, dan untuk mengatasi penyakit TBC. Bacillus brevis merupakan bakteri 
+penghasil gramisidin yang digunakan untuk melawan bakteri gram-positif. Sedangkan Bacillus polymixa merupakan bakteri 
+penghasil polimiksin.</p>
+
+<p>Secara alami keberadaan organisme prokariotik, terutama bakteri, juga sangat potensial dalam mengembangkan 
+bioremediasi, yaitu studi mengenai kegunaan organisme untuk membersihkan sampah-sampah beracun (toksik) dan polusi. 
+Sejenis bakteri mampu memproduksi enzim yang merombak nitrogliserin dan trinitrotoulena yang merupakan kontaminan 
+tanah di sekitar industri mesiu dan tempat-tempat ledakannya. Bakteri mampu menguraikan sampah dan material kontaminan 
+menjadi residu yang tidak berbahaya dalam waktu 6 bulan. Jenis bakteri lain, Pseudomonas cepacia, juga mempunyai 
+kemampuan serupa dalam mendegradasi trikloroetilen (TCE) dan senyawa-senyawa kimia lainnya. Bahkan beberapa jenis 
+bakteri diduga mampu mendegradasi sampah-sampah nuklir (radioaktif).</p>
+
+<p>Bakteri juga banyak digunakan sebagai model penelitian. Dalam bidang rekayasa genetika, penelitian bakteri juga 
+berkembang pesat. Bakteri mudah mengalami mutasi bahkan berevolusi dalam waktu relatif singkat karena pertumbuhan dan 
+daya reproduksinya yang tinggi. Beberapa bakteri juga dimanfaatkan dalam mengendalikan hama, yaitu sebagai biokontrol. 
+Contohnya adalah Bacillus thuringensis dan Bacillus popilliae yang digunakan untuk mengendalikan pertumbuhan hama 
+seperti ulat dan menghambat perkembangan kepompong. Dalam bidang rekayasa genetika, B thuringensis diintegrasikan 
+pada tanaman kapas (kapas BT) sehingga tanaman tersebut terbebas dari hama.</p>
+
+<p>Selain menguntungkan, organisme prokariotik juga memiliki spesies yang bersifat patogen (menimbulkan penyakit). 
+Selain menyerang manusia, beberapa bakteri juga menyerang hewan-hewan ternak dan tumbuhan. Beberapa jenis penyakit 
+pada hewan, yang disebabkan oleh bakteri adalah antraks, yaitu penyakit yang disebabkan oleh bakteri Bacillus 
+antracis. Bakteri ini menyerang hewan ternak (sapi, kerbau, dan domba). Bila menular ke manusia bisa mematikan. 
+Antrak merupakan salah satu senjata biologis dalam peperangan.</p>
+
+<p>Penyakit dipteri disebabkan oleh bakteri Coryuebacterium diptherie yang menyerang bagian atas saluran respirasi, 
+terutama tenggorokan. Penyakit desentri disebabkan oleh bakteri Shygella desentri Shygella ciyake yang menyerang 
+saluran pencernaan, terutama ileum (usus penyerapan) dan colon (usus besar). Penyakit demam tifora disebabkan oleh 
+bakteri Salmonela thyposa yang menyerang saluran pencernaan, kemudian menyebar ke limfe, darah, paru-paru sumsum 
+tulang belakang dan limpa. Penyakit batuk rejan (pertusis) disebabkan oleh bakteri Bordetella pertusis yang 
+menyerang bagian atas saluran respirasi sehingga menyebabkan batuk yang sangat keras. Penyakit gonorhoe (kencing 
+nanah) disebabkan oleh bakteri Nesseireia gonorrhoeae yang menyerang organ reproduksi, terutama membran mukosa 
+saluran urogenital. Penyakit kolera	yang disebabkan oleh bakteri Vibrio cholerae yang menyerang saluran pencernaan, 
+terutama usus halus. Penyakit sifilis (kencing darah) disebabkan oleh bakteri Tryponema pallidum yang menyerang organ 
+reproduksi, kemudian mata tulang, persendian, sistem saraf pusat, jantung, dan kulit. Penyakit tifus disebabkan oleh 
+bakteri Salmonella thyposa yang menyerang organ pencernaan makanan, terutama usus halus. Penyakit TBC disebabkan oleh 
+bakteri Mycobacterium tuberculosis yang menyerang saluran respirasi, terutama pada paru-paru dan alveoli. Penyakit 
+radang otak/ meningitis	disebabkan oleh bakteri Neiterrial meningitis yang menyerang otak.</p>
+
+<p>Contoh lain penyakit hewan akibat bakteri adalah bruselosis, disebabkan oleh bakteri Brucella. Brucella abortus 
+menyebabkan keguguran kandungan pada sapi, dan sewaktu-waktu dapat menular kepada manusia jika meminum susu yang 
+tidak di-pasteurisasi. Penyakit lainnya adalah bengkak rahang atau penyakit mulut yang disebabkan oleh Actinomycetes 
+bovis, biasanya menyerang sapi.</p>
+
+<p>Sedangkan penyakit pada tumbuhan yang disebabkan oleh bakteri adalah kanker pada batang jeruk (disebabkan oleh 
+Xanthormonas citri), kanker pada batang kopi (disebabkan oleh Agrobacterium tumefasiens), penyakit busuk pada daun 
+labu (disebabkan oleh Erwinia tracheinas solanacearum), dan penyakit pada kapas (disebabkan oleh Pseudomonas 
+malvacearum).</p>
+
+<p>Selain hidup parasit pada hewan dan tumbuhan, beberapa jenis bakteri saprofit hidup pada bahan makanan. Akibatnya 
+dapat merusak serta meracuni bahan makanan tersebut. Racun yang ditimbulkannya sangat membahayakan kesehatan manusia. 
+Pseudomonas cocovenenan adalah bakteri yang menghasilkan racun asam bongkrek. Bakteri ini biasa hidup pada tempe 
+bongkrek, yang berasal dari ampas tahu dan ampas kelapa, yang pembuatannya kurang higienis. Contoh lain adalah 
+Clostridium botulinum, menghasilkan racun botulinin yang ditemukan pada makanan kaleng yang mulai rusak. Racun 
+botulinin dapat mematikan manusia yang mengonsumsinya, bahkan 1 gram racun tersebut dapat membunuh sejuta manusia. 
+Leuconostoc mesentroides merupakan penghasil lendir pada makanan yang telah lama dan basi. Salmonella sp 
+merupakan bakteri yang umum ditemukan dalam produk daging unggas. Bakteri ini menghasilkan endotoksin yang merupakan 
+racun dalam makanan.</p>
+
+<p>Sampai di sini, kalian telah mengetahui bahwa sebagian organisme prokariotik, terutama, bakteri sangat membahayakan 
+kesehatan manusia. Untuk itu, diperlukan cara menanggulangi bahaya akibat bakteri. Untuk mengatasi berbagai aktivitas 
+bakteri yang dapat merugikan, perlu dilakukan tindakan yang tepat. Tindakan tersebut dapat berupa tindakan pencegahan 
+(preventif) maupun tindakan pengobatan. Tindakan pencegahan dapat dilakukan dengan vaksinasi, sterilisasi, dan 
+pasteurisasi, dan pengawetan bahan makanan.</p>
+
+<p>Vaksinasi adalah pencegahan penyakit dengan pemberian vaksin, bakteri yang sudah dilemahkan, sehingga tubuh menerima 
+dapat terhadap bakteri penyebab penyakit tertentu. Beberapa contoh vaksin untuk pencegahan penyakit yang disebabkan 
+oleh bakteri adalah vaksin kolera untuk mencegah penyakit kolera, vaksin tifus untuk mencegah penyakit tifus, vaksin 
+BCG (Bacile Calmette Guerin) untuk mencegah penyakit TBC, vaksin DTP (Dipteria Tetanus Pertusis vaccines) untuk 
+mencegah penyakit difterie, pertusis (batuk rejan), dan tetanus), dan vaksin TCD (Typus Chorela Disentry) untuk 
+mencegah penyakit typus, kholera, dan desentri.</p>
+
+<p>Sterilisasi adalah pemusnahan bakteri misalnya dalam pengawetan makanan. Tujuannya adalah untuk mendapatkan kondisi 
+steril (suci hama), metodenya disebut aseptis. Sterilisasi dapat dilakukan melalui pemanasan dengan menggunakan udara 
+panas atau uap air panas bertekanan tinggi. Sterilisasi dengan udara panas menggunakan oven dengan temperatur 170 
+derajat celcius sampai 180 derajat celcius. Cara ini digunakan untuk mensterilisasikan peralatan di laboratorium. 
+Sterilisasi dengan uap air panas bertekanan tinggi dilakukan dengan menggunakan alat yang disebut autoklaf, pada 
+temperatur 115 derajat celcius sampai 134 derajat celcius. Autoklaf digunakan untuk sterilisasi bahan dan peralatan. 
+Sterilisasi pada umumnya digunakan pada industri makanan atau minuman kaleng, penelitian bidang mikrobiologi, dan 
+untuk memperoleh biakan murni suatu jenis bakteri. Sedangkan Pasteurisasi adalah pemanasan dengan suhu 63 derajat 
+celcius sampai 72 derajat celcius selama 15 sampai 30 menit. Pasteurisasi dilakukan pada bahan makanan yang tidak 
+tahan pemanasan dalam suhu tinggi, misalnya susu. Sehingga untuk mematikan bakteri patogen (Salmonella dan 
+Mycobacterium) dari susu dilakukan pasteurisasi. Dengan pasteurisasi, rasa dan aroma khas susu dapat dipertahankan. 
+Teknik sterilisasi dengan suhu rendah ini ditemukan oleh Louis Pasteur (1822-1895), seorang ilmuwan Perancis.</p>
+
+<p>Selain dengan sterilisasi dan pasteurisasi, pengawetan makanan juga bisa dilakukan secara tradisional. Kalian mungkin 
+pernah melihat proses pengasinan ikan, pemanisan buah-buahan, pengasapan daging, atau pengeringan makanan. Apakah 
+tujuannya?. Semua kegiatan tersebut bertujuan agar makanan yang diasinkan, dimaniskan, diasap, dan diasamkan menjadi 
+lebih awet dan tidak mudah busuk. Prinsipnya adalah membuat makanan dalam kondisi yang tidak ideal untuk ditumbuhi 
+bakteri pembusuk, misalnya pada lingkungan yang terlalu panas, terlalu asam, atau terlalu asin. Jadi, pemanisan, 
+pengasapan, pengasinan, dan pengasaman dilakukan untuk menghambat pertumbuhan bakteri. </p>

@@ -1,0 +1,548 @@
+<j>Pembelahan Sel.
+<p>Kalian mungkin sering melihat orang yang secara fisik mirip dengan orang lainnya dalam satu 
+keluarga. Coba kalian perhatikan gambar di atas. Adakah persamaan yang kalian temukan antara 
+orang tua dengan anaknya?. Pepatah mengatakan "Buah jatuh tidak jauh dari pohonnya". Pepatah ini 
+dapat diartikan, sifat seorang anak tidak akan jauh dari sifat kedua orang tuanya. Dalam hal ini, 
+kita hanya membicarakan sifat fisik, bukan sifat secara total. Kemiripan antara orang tua dengan 
+anaknya merupakan salah satu bentuk pewarisan sifat. Tahapan awal yang menyebabkan terjadinya 
+pewarisan sifat adalah proses pembelahan sel. Kalian tentunya ingin mengetahui mekanisme 
+pembelahan sel ini bukan?. Nah, untuk itu, kalian perlu mempelajari materi pada bab ini.</p>
+
+<p>Pada materi berikut ini, kalian akan diajak bersama-sama untuk mempelajari proses pembelahan sel 
+yang meliputi pembelahan mitosis dan pembelahan meiosis. Selanjutnya, kalian juga akan 
+mempelajari kaitan antara gametogenesis dengan pewarisan sifat, baik pada hewan maupun tumbuhan. 
+Simaklah uraiannya pada materi di bawah ini. Setelah mempelajarinya, kalian diharapkan dapat 
+mengidentifikasi dan membedakan ciri-ciri, tahapan, tempat terjadinya, serta fungsi dari 
+pembelahan mitosis dan meiosis. Selain itu, kalian diharapkan dapat membedakan gametogenesis pada 
+hewan dan tumbuhan.</p>
+
+<p>Reproduksi Sel. Pernahkah kalian memikirkan proses tumbuhnya badan bayi hingga dewasa?. Dari bayi, 
+kita dapat tumbuh menjadi bentuk sekarang ini disebabkan sel-sel di dalam tubuh kita 
+terus-menerus memperbanyak diri melalui pembelahan sel. Oleh karena itu, pembelahan sel merupakan 
+faktor penting dalam hidup kita.</p>
+
+<p>Sel merupakan bagian terkecil yang menyusun tubuh kita. Setiap sel dapat memperbanyak diri dengan 
+membentuk sel-sel baru melalui proses yang disebut pembelahan sel atau reproduksi sel. Pada 
+organisme bersel satu (uniseluler), seperti bakteri dan protozoa, proses pembelahan sel merupakan 
+salah satu cara untuk berkembang biak. Protozoa melakukan pembelahan sel dari satu sel menjadi 
+dua, dari dua sel menjadi empat, dan dari empat sel menjadi delapan, dan seterusnya.</p>
+
+<p>Pada makhluk hidup bersel banyak (multiseluler), pembelahan sel mengakibatkan bertambahnya 
+sel-sel tubuh. Oleh karena itu, terjadilah proses pertumbuhan pada makhluk hidup. Pembelahan sel 
+juga berlangsung pada sel kelamin atau sel gamet yang bertanggung jawab dalam proses perkawinan 
+antar individu. Setelah dewasa, sel kelenjar kelamin pada tubuh manusia membelah membentuk 
+sel-sel kelamin. Seorang laki-laki menghasilkan sperma di dalam testis, sedangkan wanita 
+menghasilkan sel telur atau ovum di dalam ovarium. Pada dasarnya, pembelahan sel dibedakan 
+menjadi dua, yaitu pembelahan secara langsung (amitosis) dan pembelahan secara tidak langsung 
+(mitosis dan meiosis). Apa yang dimaksud dengan pembelahan sel secara langsung maupun tidak 
+langsung tersebut?. Kalian akan mengetahuinya dengan menyimak penjelasan berikut.</p>
+
+<p>Pembelahan Sel secara Langsung. Proses pembelahan secara langsung disebut juga pembelahan 
+amitosis atau pembelahan biner. Pembelahan biner merupakan proses pembelahan dari 1 sel menjadi 
+2 sel tanpa melalui fase-fase atau tahap-tahap pembelahan sel. Pembelahan biner banyak dilakukan 
+organisme uniseluler (bersel satu), seperti bakteri, protozoa, dan mikroalga (alga bersel satu 
+yang bersifat mikroskopis). Setiap terjadi pembelahan biner, satu sel akan membelah menjadi dua 
+sel yang identik (sama satu sama lain). Dua sel ini akan membelah lagi menjadi empat, begitu 
+seterusnya.</p>
+
+<p>Pembelahan biner dimulai dengan pembelahan inti sel menjadi dua, kemudian diikuti pembelahan 
+sitoplasma. Akhirnya, sel terbelah menjadi dua sel anakan. Pembelahan biner dapat terjadi pada 
+organisme prokariotik atau eukariotik tertentu. Perbedaan antara organisme prokariotik dan 
+eukariotik, terutama berdasarkan pada ada tidaknya membran inti selnya. Membran inti sel tersebut 
+membatasi cairan pada inti sel (nukleoplasma) dengan cairan di luar inti sel, tempat terdapatnya 
+organel sel (sitoplasma). Organisme prokariotik tidak mempunyai membran inti sel, sedangkan 
+organisme eukariotik mempunyai membran inti sel. Oleh karena itu, eukariotik dikatakan mempunyai 
+inti sel (nukleus) sejati.</p>
+
+<p>Pembelahan biner pada organisme prokariotik terjadi pada bakteri. DNA bakteri terdapat pada 
+daerah yang disebut nukleoid. DNA pada bakteri relatif lebih kecil dibandingkan dengan DNA pada 
+sel eukariotik. DNA pada bakteri berbentuk tunggal, panjang dan sirkuler sehingga tidak perlu dikemas menjadi kromosom sebelum
+pembelahan. Contoh organisme eukariotik yang mengalami pembelahan biner adalah Amoeba.</p>
+
+<p>Pembelahan Sel secara Tidak Langsung (Mitosis dan Meiosis). Pembelahan sel secara tidak langsung 
+adalah pembelahan yang melalui tahapan-tahapan tertentu. Setiap tahapan pembelahan ditandai 
+dengan penampakan kromosom yang berbeda-beda. Kalian telah mengetahui bahwa di dalam inti sel 
+terdapat benang-benang kromatin. Ketika sel akan membelah, benang-benang kromatin ini menebal dan 
+memendek, yang kemudian disebut kromosom. Kromosom dapat berikatan dengan warna tertentu, 
+sehingga mudah diamati dengan mikroskop. Hasil penelitian menunjukkan bahwa kromosom merupakan 
+benang pembawa sifat. Di dalam kromosom terdapat gen sebagai faktor pembawa sifat keturunan.</p>
+
+<p>Pada waktu sel sedang membelah, terjadi proses pembagian kromosom di dalamnya. Tingkah laku 
+kromosom selama sel membelah dibedakan menjadi fase-fase atau tahap-tahap pembelahan sel. 
+Pembelahan sel yang terjadi melalui fase-fase itulah yang disebut pembelahan secara tidak 
+langsung. Mengenai fase-fase pembelahan mitosis akan dibahas pada subbab tersendiri. Pembelahan 
+sel secara tidak langsung dibedakan menjadi dua, yaitu pembelahan mitosis dan meiosis.</p>
+
+<p>Proses pertumbuhan dan perkembangan jaringan atau organ tubuh organisme terjadi melalui proses 
+pembelahan sel secara mitosis. Pembelahan mitosis adalah pembelahan sel yang menghasilkan sel 
+anakan dengan jumlah kromosom sama dengan jumlah kromosom induknya. Proses pembelahan mitosis 
+terjadi pada semua sel tubuh makhluk hidup, kecuali pada jaringan yang menghasilkan gamet (sel
+kelamin).</p>
+
+<p>Pada pembelahan mitosis, satu sel induk membelah diri menjadi dua sel anakan. Sel anakan ini 
+mewarisi sifat sel induknya dan memiliki jumlah kromosom yang sama dengan induknya. Jika sel 
+induk memiliki 2n kromosom, maka setiap sel anakan juga memiliki 2n kromosom. Jumlah 2n ini 
+disebut juga kromosom diploid. Pembelahan mitosis terjadi selama pertumbuhan dan reproduksi 
+secara aseksual. Pada manusia dan hewan, pembelahan mitosis terjadi pada sel meristem somatik 
+(sel tubuh) muda yang mengalami pertumbuhan dan perkembangan. Sebagai contoh, sel telur yang 
+telah dibuahi sperma akan membelah beberapa kali secara mitosis untuk membentuk embrio. Sel-sel 
+pada embrio ini terus-menerus membelah secara mitosis dan akhirnya terbentuk bayi. Pertumbuhan 
+manusia dari bayi hingga dewasa juga melalui mekanisme pembelahan sel secara mitosis. Inilah 
+salah satu bentuk kekuasaan tuhan yang harus kita syukuri.</p>
+
+<p>Pembelahan meiosis yang disebut juga sebagai pembelahan reduksi merupakan pembelahan sel induk 
+dengan jumlah kromosom diploid (2n) menghasilkan empat sel anakan. Setiap sel anakan mengandung 
+separuh kromosom sel induk atau disebut haploid (n). Pembelahan meiosis terjadi pada proses 
+pembentukan sel gamet (sel kelamin) pada organ reproduksi (testis atau ovarium). Pada manusia 
+atau hewan, sperma yang haploid dihasilkan di dalam testis dan sel telur yang juga haploid 
+dihasilkan di dalam ovarium. Pada tumbuhan berbunga, sel gamet dihasilkan di dalam putik dan 
+benang sari. Pembentukan gamet jantan dan gamet betina terjadi melalui tahapan gametogenesis 
+(dibahas pada subbab tersendiri). Penyatuan kedua gamet akan menghasilkan zigot dengan variasi 
+genetik. Ini disebabkan karena sel anakan merupakan hasil penyatuan dua sel yang berbeda materi 
+genetiknya. Perpaduan ini menyebabkan adanya variasi genetik.</p>
+
+<p>Kalian telah mengetahui pengertian pembelahan mitosis dan meiosis. Tahapan apa sajakah yang 
+dilalui pada setiap pembelahan tersebut?. Untuk mengetahui jawabannya, simaklah dengan saksama 
+uraian berikut.</p>
+
+<p>Tahapan Pembelahan Mitosis. Pembelahan sel secara mitosis meliputi sejumlah tahapan tertentu. 
+Sebenarnya, pembelahan mitosis hanyalah sebagian kecil dari siklus sel. Siklus sel terdiri dari 
+fase pembelahan mitosis (M) dan periode pertumbuhan yang disebut interfase. Interfase merupakan 
+bagian terbesar dari siklus sel. Interfase terdiri dari tiga sub fase, yaitu fase G1 (pertumbuhan 
+primer), fase S (sintesis), dan fase G2 (pertumbuhan sekunder).</p>
+
+<p>Pembelahan mitosis merupakan pembelahan yang menghasilkan sel-sel tubuh (sel somatik). Secara 
+garis besar, pembelahan sel secara mitosis terdiri dari fase istirahat (interfase), fase 
+pembelahan inti sel (kariokinesis), dan fase pembelahan sitoplasma (sitokinesis). Bagaimanakah 
+ciri-ciri setiap fase pembelahan tersebut?. Untuk mengetahuinya, simaklah penjelasan berikut.</p>
+
+<p>Interfase (Fase Istirahat). Pada tahap ini, sel dianggap sedang istirahat dan tidak melakukan 
+pembelahan. Namun, interfase merupakan tahap yang penting untuk mempersiapkan pembelahan atau 
+melakukan metabolisme sel. Pada interfase, tingkah laku kromosom tidak tampak karena berbentuk 
+benang-benang kromatin yang halus. Walaupun begitu, sel anak yang baru terbentuk sudah melakukan 
+metabolisme. Sel perlu tumbuh dan melakukan berbagai sintesis sebelum memasuki proses pembelahan 
+berikutnya. Apa saja kegiatan sel pada saat interfase? Pada saat interfase, sel mengalami subfase 
+berikut.</p>
+
+<p>Fase Pertumbuhan Primer (Growth 1 disingkat G1). Sel yang baru terbentuk mengalami pertumbuhan 
+tahap pertama. Pada subfase ini, sel-sel belum mengadakan replikasi DNA yang masih bersifat 2n 
+(diploid). Sementara organel-organel yang ada di dalam sel, seperti mitokondria, retikulum 
+endoplasma, kompleks golgi, dan organel lainnya memperbanyak diri guna menunjang kehidupan sel.</p>
+
+<p>Fase Sintesis (S). Pada subfase ini, sel melakukan sintesis materi genetik. Materi genetik adalah 
+bahan-bahan yang akan diwariskan kepada keturunannya, yaitu DNA. DNA dalam inti sel mengalami 
+replikasi (penggandaan jumlah salinan). Jadi, subfase sintesis (penyusunan) menghasilkan 
+2 salinan DNA.</p>
+
+<p>Fase Pertumbuhan Sekunder (Growth 2 disingkat G2). Setelah DNA mengalami replikasi, subfase 
+berikutnya adalah pertumbuhan sekunder (G2). Pada subfase ini, sel memperbanyak organel-organel 
+yang dimilikinya. Ini bertujuan agar organel-organel tersebut dapat diwariskan kepada setiap sel 
+turunannya. Pada subfase ini, replikasi DNA telah selesai dan sel bersiap-siap mengadakan 
+pembelahan secara mitosis. Selain itu, inti sel (nukleus) telah terbentuk dengan jelas dan 
+terbungkus membran inti.</p>
+
+<p>Pada subfase ini, inti sel mempunyai satu atau lebih nukleolus (membran inti sel). Di luar inti 
+terdapat dua sentrosom yang terbentuk oleh replikasi sentrosom pada tahap sebelumnya. Sentrosom 
+mengalami perpanjangan menyebar secara radial yang disebut aster (bintang). Pada sentrosom 
+terdapat sepasang sentriol yang berfungsi menentukan orientasi pembelahan sel. Walaupun kromosom 
+telah diduplikasi pada fase S, namun pada fase G2, kromosom belum dapat dibedakan secara 
+individual karena masih berupa benang-benang kromatin.</p>
+
+<p>Setelah ketiga tahapan interfase dilalui, sel telah siap menjalani pembelahan secara mitosis. 
+Seperti fase interfase, pembelahan mitosis juga terdiri dari beberapa fase. Untuk mengetahui 
+lebih jauh tentang fase-fase pada pembelahan mitosis, simaklah penjelasan berikut.</p>
+
+<p>Pembelahan Mitosis. Kalian telah mengetahui bahwa pembelahan mitosis menghasilkan sel anakan yang 
+identik dengan induknya. Secara garis besar, fase pembelahan mitosis terbagi menjadi dua fase, 
+yaitu fase pembelahan inti (kariokinesis) dan fase pembelahan sitoplasma (sitokinesis).</p>
+
+<p>Kariokinesis adalah fase pembelahan inti sel. Secara rinci, fase kariokinesis dibagi menjadi 
+empat subfase, yaitu profase, metafase, anafase, dan telofase. Sekarang, marilah kita bahas 
+keempat subfase tersebut.</p>
+
+<p>Profase. Pada permulaan profase, di dalam nukleus mulai terbentuk kromosom, yaitu benang-benang 
+rapat dan padat yang terbentuk akibat menggulungnya kromatin. Pada fase ini, kromosom dapat 
+dilihat menggunakan mikroskop. Selanjutnya, nukleolus menghilang dan terjadi duplikasi kromosom 
+(kromosom membelah dan memanjang) menghasilkan 2 kromosom anakan yang disebut kromatid. Kedua 
+kromatid tersebut bersifat identik sehingga disebut kromatid kembar (sister chromatid), yang 
+bersatu atau dihubungkan oleh sentromer pada lekukan kromosom. Sentromer merupakan bagian 
+kromosom yang menyempit, tampak lebih terang dan membagi kromosom menjadi 2 lengan.</p>
+
+<p>Pada akhir profase, di dalam sitoplasma mulai terbentuk gelendong pembelahan (spindel) yang 
+berasal dari mikrotubulus. Mikrotubulus tersebut memanjang, seolah-olah mendorong dua sentrosom 
+di sepanjang permukaan inti sel (nukleus). Akibatnya, sentrosom saling menjauh. Proses ini 
+kemudian berlanjut ke fase berikutnya, yaitu metafase.</p>
+
+<p>Metafase. Tahap awal metafase (prometafase) ditandai dengan semakin memadatnya kromosom (kromosom 
+ini terdiri dari 2 kromatid) dan terpecahnya membran inti (membran nukleus). Hal ini menyebabkan 
+mikrotubulus dapat menembus inti sel dan melekat pada struktur khusus di daerah sentromer setiap 
+kromatid, disebut kinetokor. Oleh karena itu, kinetokor ini berfungsi sebagai tempat bergantung 
+bagi kromosom.</p>
+
+<p>Sebagian mikrotubulus yang melekat pada kinetokor disebut mikrotubulus kinetokor, sedangkan 
+mikrotubulus yang tidak memperoleh kinetokor disebut mikrotubulus nonkinetokor. Sementara itu, 
+mikrotubulus nonkinetokor berinteraksi dengan mikrotubulus lain dari kutub sel yang berlawanan. 
+Pada metafase, kromosom tampak jelas.</p>
+
+<p>Pada tahap metafase sesungguhnya, sentrosom telah berada pada kutub sel. Dinding inti sel 
+menghilang. Sementara itu, kromosom menempatkan diri pada bidang pembelahan yang disebut bidang 
+metafase. Bidang ini merupakan bidang khayal yang terletak tepat di tengah sel, seperti garis 
+khatulistiwa bumi sehingga disebut juga bidang ekuator. Pada bidang ini, sentromer dari seluruh 
+kromosom terletak pada satu baris yang tegak lurus dengan gelendong pembelahan. Kinetokor pada 
+setiap kromatid menghadap pada kutub yang berlainan. Dengan letak kromosom berada di bidang 
+pembelahan, maka pembagian jumlah informasi DNA yang akan diberikan kepada sel anakan yang baru, 
+benar-benar rata dan sama jumlahnya. Tahapan ini merupakan akhir dari metafase.</p>
+
+<p>Anafase. Setelah berakhirnya tahap metafase, pembelahan sel berlanjut pada tahap anafase. Tahap 
+anafase ditandai dengan berpisahnya kromatid saudara pada bagian sentromer kromosom. Gerak 
+kromatid ini disebabkan tarikan benang mikrotubulus yang berasal dari sentriol pada kutub sel. 
+Kalian telah mengetahui bahwa mikrotubulus melekat pada sentromer. Hal ini menyebabkan sentromer 
+tertarik terlebih dahulu. Akibatnya, sentromer berada di depan dan bagian lengan kromatid berada 
+di belakang. Struktur ini seperti huruf V. Gerakan ini menempuh jarak sekitar 1µm (10-6 meter) 
+tiap menit. Pada saat bersamaan, mikrotubulus nonkinetokor semakin memanjang sehingga jarak 
+kedua kutub sel semakin jauh. Selanjutnya, masing-masing kromatid bergerak ke arah kutub yang 
+berlawanan dan berfungsi sebagai kromosom lengkap, dengan sifat keturunan yang sama (identik). 
+Untuk menjalankan tugasnya ini, mikrotubulus telah mengalami peruraian pada bagian kinetokornya. 
+Lalu bagaimanakah bidang pembelahan sel pada hewan dan tumbuhan?.</p>
+
+<p>Salah satu perbedaan sel tumbuhan dan sel hewan adalah ada tidaknya sentriol. Pada sel tumbuhan, 
+peran sentriol digantikan oleh kromosom sehingga arah pembelahan tetap menuju ke kutub sel. Pada 
+sel hewan, sentriol pada kutub sel merupakan arah yang dituju oleh gerakan kromatid saat 
+pembelahan.</p>
+
+<p>Telofase. Pada tahap telofase ini, inti sel anakan terbentuk kembali dari fragmen-fragmen 
+nukleus. Bentuk selnya memanjang akibat peran mikrotubulus nonkinetokor. Benang-benang kromatin 
+mulai longgar. Dengan demikian, fase kariokinesis yang menghasilkan dua inti sel anak yang 
+identik secara genetik telah berakhir, namun dua inti sel masih berada dalam satu sel.</p>
+
+<p>Agar kedua inti terpisah menjadi sel baru, perlu adanya pembelahan sitoplasma yang disebut 
+sitokinesis. Sitokinesis terjadi, segera setelah telofase selesai. Pada fase sitokinesis terjadi 
+pembelahan sitoplasma diikuti pembentukan sekat sel baru, sehingga terbentuk dua sel anakan.</p>
+
+<p>Pada sel hewan, sitokinesis ditandai dengan pembentukan alur pembelahan melalui pelekukkan 
+permukaan sel di sekitar bekas bidang ekuator. Di sepanjang alur melingkar, terdapat mikrofilamen 
+yang terdiri dari protein aktin dan miosin. Protein tersebut berperan dalam kontraksi otot atau 
+pergerakan sel yang lain. Kontraksi ini semakin ke dalam sehingga menjepit sel dan membagi isi 
+sel menjadi 2 bagian yang sama.</p>
+
+<p>Berbeda dengan sel hewan, sel tumbuhan mempunyai dinding sel yang keras. Oleh karena itu, pada 
+sitokinensis tidak terbentuk alur pembelahan. Sitokinesis terjadi dengan pembentukan pelat sel 
+(cell plate) yang terbentuk oleh vesikula di sekitar bidang ekuator. Vesikula-vesikula yang 
+dibentuk oleh badan golgi tersebut saling bergabung. Penggabungan juga terjadi dengan membran 
+plasma diikuti terbentuknya dinding sel yang baru oleh materi dinding sel yang dibawa oleh 
+vesikula.</p>
+
+<p>Pembelahan mitosis pada ujung akar bawang bombay dapat dijelaskan sebagai berikut:
+1) Tahap profase dimulai dengan memadatnya benang kromatin. Meskipun tampak jelas, nukleolus akan 
+segera menghilang. Selain itu, gelendong pembelahan mulai terbentuk walaupun belum terlihat pada 
+mikroskop.
+2) Tahap metafase awal (prometafase) dimulai dengan pemisahan kromosom. Setiap kromosom terdiri 
+dari dua kromatid berpasangan. Pada fase ini, membran nukleus terfragmentasi dan mikrotubulus 
+kinetokor melekat pada sentromer. Pada tahap metafase, gelendong terbentuk lengkap. Kromosom 
+ditarik dengan kuat oleh mikrotubulus kinetokor yang datang dari kutub sel berlawanan. Akhirnya, 
+kromosom berbaris pada bidang metafase.
+3) Tahap anafase ditandai dengan pemisahan kromosom. Kromosom anak berpindah ke kutub-kutub sel 
+seiring memendeknya mikrotubulus kinetokor.
+4) Tahap telofase ditandai dengan terbentuknya inti sel (nukleus) anak. Pada tahap ini, 
+sitokinesis mulai terjadi. Pelat sel yang membagi sitoplasma menjadi dua, mulai tumbuh di 
+sekeliling sel induknya. Kemudian dua sel anak terpisah.</p>
+
+<p>Dari keterangan tersebut tampak bahwa pada sel tumbuhan tidak terdapat sentriol. Orientasi 
+pembelahan dilakukan secara langsung oleh kromosom.</p>
+
+<p>Kalian telah mempelajari proses-proses yang terjadi pada pembelahan mitosis. Sekarang, marilah 
+mempelajari proses-proses yang terjadi pada pembelahan sel secara meiosis. Untuk lebih lengkapnya, 
+simaklah penjelasan berikut.</p>
+
+<p>Pembelahan Meiosis. Pernahkah kalian berpikir mengapa seekor kambing hanya melahirkan kambing, 
+manusia melahirkan manusia, atau sapi melahirkan sapi?. Secara kodrati, makhluk hidup tertentu 
+hanya melahirkan makhluk yang sejenis. Ini dikarenakan adanya mekanisme tertentu pada saat awal 
+perkembangbiakan. Bahkan, sebelum terbentuk calon anak di dalam rahim, mekanisme ini sudah 
+dimulai. Mekanisme ini dimulai pada sel-sel kelamin (sel reproduksi) calon bapak dan calon ibu. 
+Mekanisme tersebut adalah pembelahan sel secara meiosis.</p>
+
+<p>Makhluk hidup yang sejenis mempunyai jumlah kromosom yang sama pada setiap sel. Misalnya, manusia 
+mempunyai 46 kromosom, kecuali pada sel reproduksi atau sel kelaminnya. Sel kelamin pada manusia 
+hanya mempunyai setengah jumlah kromosom sel tubuh lainnya, yaitu 23 kromosom. Jumlah setengah 
+kromosom (haploid) ini diperlukan untuk menjaga agar jumlah kromosom anak tetap 46. Kalian telah 
+mengetahui bahwa anak terbentuk dari perpaduan antara sel kelamin betina (sel telur) dan sel 
+kelamin jantan (sperma). Perpaduan kedua sel kelamin yang masing-masing memiliki 23 kromosom ini 
+akan menghasilkan sel anak (calon janin) yang mempunyai 46 kromosom. Oleh sebab itu, pembelahan 
+meiosis sangat berpengaruh dalam perkembangan makhluk hidup.</p>
+
+<p>Pembelahan meiosis disebut juga pembelahan reduksi, yaitu pengurangan jumlah kromosom pada 
+sel-sel kelamin (sel gamet jantan dan sel gamet betina). Sel gamet jantan pada hewan (mamalia) 
+dibentuk di dalam testis dan gamet betinanya dibentuk di dalam ovarium. Gamet jantan pada 
+tumbuhan dibentuk di dalam organ reproduktif berupa benang sari, sedangkan gamet betinanya 
+dibentuk di dalam putik. Sel kelamin betina pada hewan berupa sel telur, sedangkan pada tumbuhan 
+berupa putik. Pada dasarnya, tahap pembelahan meiosis serupa dengan pembelahan mitosis. Hanya 
+saja, pada meiosis terjadi dua kali pembelahan, yaitu meiosis I dan meiosis II. Masing-masing 
+pembelahan meiosis terdiri dari tahap-tahap yang sama, yaitu profase, metafase, anafase, dan 
+telofase. Bagaimanakah ciri-ciri setiap tahap pembelahan meiosis tersebut?. Kalian akan 
+mengetahuinya setelah mempelajari uraian berikut.</p>
+
+<p>Tahap Meiosis I. Seperti halnya pembelahan mitosis, sebelum mengalami pembelahan meiosis, sel 
+kelamin perlu mempersiapkan diri. Fase persiapan ini disebut tahap interfase. Pada tahap ini, sel 
+melakukan persiapan berupa penggandaan DNA dari satu salinan menjadi dua salinan (seperti 
+interfase pada mitosis). Tingkah laku kromosom masih belum jelas terlihat karena masih berbentuk 
+benang-benang halus (kromatin) sebagaimana interfase pada mitosis. Selain itu, sentrosom juga 
+bereplikasi menjadi dua (masing-masing dengan 2 sentriol), seperti tampak pada gambar di samping. 
+Sentriol berperan dalam menentukan arah pembelahan sel.</p>
+
+<p>Setelah terbentuk salinan DNA, barulah sel mengalami tahap pembelahan meiosis I yang diikuti 
+tahap meiosis II. Tahap meiosis I terdiri atas profase I, metafase I, anafase I, dan telofase I, 
+serta sitokinesis I. Bagaimanakah ciri-ciri setiap fase pembelahan tersebut?. Berikut akan 
+dibahas fase-fase meiosis I pada sel hewan dengan 4 kromosom diploid (2n = 2). Untuk lebih 
+jelasnya, simaklah penjelasan di bawah ini.</p>
+
+<p>Profase I. Pada tahap meiosis I, profase I merupakan fase terpanjang atau terlama dibandingkan 
+fase lainnya bahkan lebih lama daripada tahap profase pada pembelahan mitosis. Profase I dapat 
+berlangsung dalam beberapa hari. Biasanya, profase I membutuhkan waktu sekitar 90% dari 
+keseluruhan waktu yang dibutuhkan dalam pembelahan meiosis. Tahapan ini terdiri dari lima 
+subfase, yaitu leptoten, zigoten, pakiten, diploten, dan diakinesis.</p>
+
+<p>Leptoten. Subfase leptoten ditandai adanya benang-benang kromatin yang memendek dan menebal. Pada 
+subfase ini mulai terbentuk sebagai kromosom homolog. Kalian perlu membedakan kromosom homolog dengan kromatid saudara. Gambar 4.13 memperlihatkan
+perbedaan pasangan kromosom homolog dengan kromatid saudara.</p>
+
+<p>Zigoten. Kromosom homolog saling berdekatan atau berpasangan menurut panjangnya. Peristiwa ini 
+disebut sinapsis. Kromosom homolog yang berpasangan ini disebut bivalen (terdiri dari 2 kromosom 
+homolog).</p>
+
+<p>Pakiten. Kromatid antara kromosom homolog satu dengan kromosom homolog yang lain disebut sebagai 
+kromatid bukan saudara (nonsister chromatids). Dengan demikian, pada setiap kelompok sinapsis 
+terdapat 4 kromatid (1 pasang kromatid saudara dan 1 pasang kromatid bukan saudara). Empat 
+kromatid yang membentuk pasangan sinapsis ini disebut tetrad.</p>
+
+<p>Diploten. Setiap bivalen mengandung empat kromatid yang tetap berkaitan atau berpasangan di suatu 
+titik yang disebut kiasma (tunggal). Apabila titik-titik perlekatan tersebut lebih dari satu 
+disebut kiasmata. Proses perlekatan atau persilangan kromatid-kromatid disebut pindah silang 
+(crossing over). Pada proses pindah silang, dimungkinkan terjadinya pertukaran materi genetik 
+(DNA) dari homolog satu ke homolog lainnya. Pindah silang inilah yang memengaruhi variasi 
+genetik sel anakan.</p>
+
+<p>Diakinesis. Pada subfase ini terbentuk benang-benang spindel pembelahan (gelendong mikrotubulus). 
+Sementara itu, membran inti sel atau karioteka dan nukleolus mulai lenyap.</p>
+
+<p>Profase I diakhiri dengan terbentuknya tetrad yang membentuk dua pasang kromosom homolog. 
+Setelah profase I berakhir, kromosom mulai bergerak ke bidang metafase.</p>
+
+<p>Metafase I. Pada metafase I, kromatid hasil duplikasi kromosom homolog berjajar berhadap-hadapan 
+di sepanjang daerah ekuatorial inti (bidang metafase I). Membran inti mulai menghilang. 
+Mikrotubulus kinetokor dari salah satu kutub melekat pada satu kromosom di setiap pasangan. 
+Sementara mikrotubulus dari kutub berlawanan melekat pada pasangan homolognya. Dalam hal ini, 
+kromosom masih bersifat diploid.</p>
+
+<p>Anafase I. Setelah tahap metafase I selesai, gelendong mikrotubulus mulai menarik kromosom 
+homolog sehingga pasangan kromosom homolog terpisah dan masing-masing menuju ke kutub yang 
+berlawanan. Peristiwa ini mengawali tahap anafase I. Namun, kromatid saudara masih terikat pada 
+sentromernya dan bergerak sebagai satu unit tunggal. Inilah perbedaan antara anafase pada mitosis 
+dan meiosis. Pada mitosis, mikrotubulus memisahkan kromatid yang bergerak ke arah berlawanan. 
+Coba pelajari lagi tahap anafase pada mitosis.</p>
+
+<p>Telofase I. Pada telofase, setiap kromosom homolog telah mencapai kutub-kutub yang berlawanan. 
+Ini berarti setiap kutub mempunyai satu set kromosom haploid. Akan tetapi, setiap kromosom tetap 
+mempunyai dua kromatid kembar. Pada fase ini, membran inti muncul kembali. Peristiwa ini kemudian 
+diikuti tahap selanjutnya, yaitu sitokinesis.</p>
+
+<p>Sitokinesis. Kalian masih ingat pengertian sitokinesis pada sel hewan maupun tumbuhan bukan?. Ya, 
+sitokinesis merupakan proses pembelahan sitoplasma. Tahap sitokinesis terjadi secara simultan 
+dengan telofase. Artinya, terjadi secara bersama-sama. Tahap ini merupakan tahap di antara dua 
+pembelahan meiosis. Alur pembelahan atau pelat sel mulai terbentuk. Pada tahap ini tidak terjadi 
+perbanyakan (replikasi) DNA.</p>
+
+<p>Hasil pembelahan meiosis I menghasilkan dua sel haploid yang mengandung setengah jumlah kromosom 
+homolog. Meskipun demikian, kromosom tersebut masih berupa kromatid saudara (kandungan DNA-nya 
+masih rangkap). Untuk menghasilkan sel anakan yang mempunyai kromosom haploid diperlukan proses 
+pembelahan selanjutnya, yaitu meiosis II. Jarak waktu antara meiosis I dengan meiosis II disebut 
+dengan interkinesis.</p>
+
+<p>Jadi, tujuan meiosis II adalah membagi kedua salinan DNA pada sel anakan yang baru hasil dari 
+meiosis I. Meiosis II terjadi pada tahap-tahap yang serupa seperti meiosis I. Nah, untuk 
+mengetahui lebih lanjut tentang tahap meiosis II, perhatikan uraian selanjutnya.</p>
+
+<p>Tahap Meiosis II. Tahap meiosis II juga terdiri dari profase, metafase, anafase, dan telofase. 
+Tahap ini merupakan kelanjutan dari tahap meiosis I. Masing-masing sel anakan hasil pembelahan 
+meiosis I akan membelah lagi menjadi dua. Sehingga, ketika pembelahan meiosis telah sempurna, 
+dihasilkan empat sel anakan. Hal yang perlu diingat adalah bahwa jumlah kromosom keempat sel 
+anakan ini tidak lagi diploid (2n) tetapi sudah haploid (n). Proses pengurangan jumlah kromosom 
+ini terjadi pada tahap meiosis II. Bagaimanakah proses pengurangan jumlah kromosom ini terjadi?. 
+Kalian akan mengetahuinya setelah mempelajari uraian di bawah ini.</p>
+
+<p>Profase II. Fase pertama pada tahap pembelahan meiosis II adalah profase II. Pada fase ini, 
+kromatid saudara pada setiap sel anakan masih melekat pada sentromer kromosom. Sementara itu, 
+benang mikrotubulus mulai terbentuk dan kromosom mulai bergerak ke arah bidang metafase. Tahap 
+ini terjadi dalam waktu yang singkat karena diikuti tahap berikutnya.</p>
+
+<p>Metafase II. Pada metafase II, setiap kromosom yang berisi dua kromatid, merentang atau berjajar 
+pada bidang metafase II. Pada tahap ini, benang-benang spindel (benang mikrotubulus) melekat pada 
+kinetokor masing-masing kromatid.</p>
+
+<p>Anafase II. Fase ini mudah dikenali karena benang spindel mulai menarik kromatid menuju ke kutub 
+pembelahan yang berlawanan. Akibatnya, kromosom memisahkan kedua kromatidnya untuk bergerak 
+menuju kutub yang berbeda. Kromatid yang terpisah ini selanjutnya berfungsi sebagai kromosom 
+individual.</p>
+
+<p>Telofase II. Pada telofase II, kromatid yang telah menjadi kromosom mencapai kutub pembelahan. 
+Hasil akhir telofase II adalah terbentuknya 4 sel haploid, lengkap dengan satu salinan DNA pada 
+inti selnya (nukleus).</p>
+
+<p>Sitokinesis II. Selama telofase II, terjadi pula sitokinesis II, ditandai adanya sekat sel yang 
+memisahkan tiap inti sel. Akhirnya terbentuk 4 sel kembar yang haploid.</p>
+
+<p>Berdasarkan uraian di depan, sel-sel anakan sebagai hasil pembelahan meiosis mempunyai sifat 
+genetis yang bervariasi satu sama lain. Variasi genetis yang dibawa sel kelamin orang tua 
+menyebabkan munculnya keturunan yang bervariasi juga. Dapatkah kalian menunjukkan bagaimana 
+mekanisme variasi genetik sel anakan ini?. Untuk mengetahuinya, simaklah penjelasan berikut.</p>
+
+<p>Kalian telah mempelajari pembelahan sel secara mitosis dan meiosis. Pembelahan mitosis dan 
+meiosis merupakan pembelahan yang berbeda satu sama lain.</p>
+
+<p>Kalian telah mempelajari pembelahan sel secara meiosis yang terjadi pada sel-sel reproduksi. 
+Berdasarkan penjelasan di atas, kalian tahu bahwa pada hewan, sperma dan sel telur terbentuk dari 
+pembelahan meiosis. Bukan hanya hewan saja, tetapi sel-sel reproduksi pada tumbuhan juga 
+terbentuk dari pembelahan meiosis ini. Nah, setelah mempelajari uraian selanjutnya, kalian akan 
+mengetahui proses-proses yang terjadi dalam pembentukan sel reproduksi pada hewan dan tumbuhan, 
+yang disebut gametogenesis.</p>
+
+<p>Gametogenesis dan Pewarisan Sifat. Sebelum menjadi individu baru, baik pada tumbuhan maupun 
+hewan, tentunya diperlukan bahan baku atau cikal bakal pembentuk individu baru tersebut. Pada 
+proses perkembangbiakan generatif (seksual) hewan maupun tumbuhan, bahan baku tersebut berupa sel 
+kelamin yang disebut gamet. Gamet jantan dan betina diperlukan untuk membentuk zigot, embrio, 
+kemudian individu baru. Nah, pada materi berikut ini akan dibahas tentang proses pembentukan 
+gamet, baik jantan maupun betina yang disebut gametogenesis (genesis = pembentukan).</p>
+
+<p>Gametogenesis melibatkan pembelahan meiosis dan terjadi pada organ reproduktif. Pada hewan dan 
+manusia, gametogenesis terjadi pada testis dan ovarium, sedangkan pada tumbuhan terjadi pada 
+putik dan benang sari. Hasil gametogenesis adalah sel-sel kelamin, yaitu gamet jantan (sperma) 
+dan gamet betina (ovum atau sel telur). Sekarang, marilah kita mempelajari proses terjadinya 
+gametogenesis pada hewan dan tumbuhan.</p>
+
+<p>Gametogenesis pada Hewan. Gametogenesis memegang peranan yang sangat penting dalam 
+perkembangbiakan hewan. Gametogenesis pada hewan yang akan kita pelajari dibagi menjadi dua, 
+yaitu spermatogenesis dan oogenesis. Spermatogenesis merupakan proses pembentukan gamet jantan 
+(sperma). Sementara oogenesis adalah proses pembentukan gamet betina (ovum atau sel telur).</p>
+
+<p>Spermatogenesis. Sperma berbentuk kecil, lonjong, berflagela, dan secara keseluruhan bentuknya 
+menyerupai kecebong (berudu). Flagela pada sperma digunakan sebagai alat gerak di dalam medium 
+cair. Sperma dihasilkan pada testis. Pada mamalia, testis terdapat pada hewan jantan sebagai buah 
+pelir atau buah zakar. Buah pelir pada manusia berjumlah sepasang.</p>
+
+<p>Di dalam testis terdapat saluran-saluran kecil yang disebut tubulus seminiferus. Pada dinding 
+sebelah dalam saluran inilah, terjadi proses spermatogenesis. Di bagian tersebut terdapat sel-sel 
+induk sperma yang bersifat diploid (2n) yang disebut spermatogonium.</p>
+
+<p>Pembentukan sperma terjadi ketika spermatogonium mengalami pembelahan mitosis menjadi spermatosit 
+primer (sel sperma primer). Selanjutnya, sel spermatosit primer mengalami meiosis I menjadi dua 
+spermatosit sekunder yang sama besar dan bersifat haploid. Setiap sel spermatosit sekunder 
+mengalami meiosis II, sehingga terbentuk 4 sel spermatid yang sama besar dan bersifat haploid.</p>
+
+<p>Mula-mula, spermatid berbentuk bulat, lalu sitoplasmanya semakin banyak berkurang dan tumbuh 
+menjadi sel spermatozoa yang berflagela dan dapat bergerak aktif. Berarti, satu spermatosit 
+primer menghasilkan dua spermatosit sekunder dan akhirnya terbentuk 4 sel spermatozoa (jamak = 
+spermatozoon) yang masing-masing bersifat haploid dan fungsional (dapat hidup).</p>
+
+<p>Oogenesis. Oogenesis merupakan proses pembentukan sel kelamin betina atau gamet betina yang 
+disebut sel telur atau ovum. Oogenesis terjadi di dalam ovarium. Di dalam ovarium, sel induk 
+telur yang disebut oogonium tumbuh besar sebagai oosit primer sebelum membelah secara meiosis. 
+Berbeda dengan meiosis I pada spermatogenesis yang menghasilkan 2 spermatosit sekunder yang sama 
+besar. Meiosis I pada oosit primer menghasilkan 2 sel dengan komponen sitoplasmik yang berbeda, 
+yaitu 1 sel besar dan 1 sel kecil. Sel yang besar disebut oosit sekunder, sedangkan sel yang 
+kecil disebut badan kutub primer (polar body).</p>
+
+<p>Oosit sekunder dan badan kutub primer mengalami pembelahan meiosis tahap II. Oosit sekunder 
+menghasilkan dua sel yang berbeda. Satu sel yang besar disebut ootid yang akan berkembang menjadi 
+ovum. Sedangkan sel yang kecil disebut badan kutub. Sementara itu, badan kutub hasil meiosis I 
+juga membelah menjadi dua badan kutub sekunder. Jadi, hasil akhir oogenesis adalah satu ovum (sel 
+telur) yang fungsional dan tiga badan kutub yang mengalami degenerasi (mati).</p>
+
+<p>Selain pada hewan, gametogenesis juga terjadi pada tumbuhan. Berikut ini akan diuraikan tentang 
+gametogenesis pada tumbuhan tingkat tinggi.</p>
+
+<p>Gametogenesis pada Tumbuhan Tingkat Tinggi. Sebelum menjadi gamet, hasil akhir meiosis pada 
+gametogenesis mengalami perkembangan terlebih dahulu melalui proses yang disebut maturasi. 
+Berikut ini kalian akan membahas proses gametogenesis pada tumbuhan berbunga (Angiospermae) 
+saja.</p>
+
+<p>Pada tumbuhan berbunga, gametogenesis diperlukan dalam pembentukan gamet jantan dan pembentukan 
+gamet betina. Pembentukan gamet jantan disebut mikrosporogenesis, sedangkan pembentukan gamet 
+betina disebut megasporogenesis. Mari kita pelajari pengertian kedua macam gametogenesis 
+tersebut.</p>
+
+<p>Mikrosporogenesis. Mikrosporogenesis berlangsung di dalam benang sari, yaitu pada bagian kepala 
+sari atau anthera. Kepala sari ini menghasilkan serbuk sari, yang mengandung sel sperma. 
+Pembentukan sel sperma dimulai dari sebuah sel induk mikrospora diploid yang disebut 
+mikrosporosit di dalam anthera. Mikrosporosit ini mengalami meiosis I menghasilkan sepasang sel 
+haploid. Selanjutnya, sel ini mengalami meiosis II dan menghasilkan 4 mikrospora yang haploid. 
+Keempat mikrospora ini berkelompok menjadi satu sehingga disebut sebagai tetrad.</p>
+
+<p>Setiap mikrospora mengalami pembelahan mitosis. Pembelahan ini menghasilkan dua sel, yaitu sel 
+generatif dan sel vegetatif. Sel vegetatif ini mempunyai ukuran yang lebih besar daripada sel 
+generatif. Struktur bersel dua ini terbungkus dalam dinding sel yang tebal. Kedua sel dan dinding 
+sel ini bersama-sama membentuk sebuah butiran serbuk sari yang belum dewasa.</p>
+
+<p>Setelah terbentuk serbuk sari, inti generatif membelah secara mitosis tanpa disertai sitokinesis, 
+sehingga terbentuklah dua inti sel sperma. Sementara itu, inti vegetatifnya tidak membelah. 
+Pembentukan sel sperma ini dapat terjadi sebelum serbuk sari keluar dari anthera atau pada saat 
+serbuk sari sampai di kepala putik (stigma). Pada saat inilah, tangkai serbuk sari mulai tumbuh. 
+Pada umumnya, pembelahan mitosis sel generatif terjadi setelah buluh serbuk sari menembus stigma 
+atau mencapai kantung embrio di dalam bakal biji (ovulum).</p>
+
+<p>Megasporogenesis merupakan proses pembentukan gamet betina. Proses ini terjadi di dalam bagian 
+betina bunga, yaitu bakal biji (ovulum) yang dibungkus oleh bakal buah (ovarium) pada pangkal 
+putik. Di dalam bakal biji terdapat sporangium yang mengandung megasporofit yang bersifat 
+diploid. Selanjutnya, megasporofit mengalami meiosis menghasilkan 4 megaspora haploid yang 
+letaknya berderet. Tiga buah megaspora mengalami degenerasi dan mati, tinggal sebuah megaspora 
+yang masih hidup.</p>
+
+<p>Megaspora yang hidup ini mengalami pembelahan kromosom secara mitosis 3 kali berturut-turut, 
+tanpa diikuti pembelahan sitoplasma. Hasilnya berupa sebuah sel besar yang disebut kandung 
+lembaga muda yang mengandung delapan inti haploid. Kandung lembaga ini dikelilingi kulit 
+(integumen). Di ujungnya terdapat sebuah lubang (mikropil) sebagai tempat masuknya saluran serbuk 
+sari ke dalam kandung lembaga.</p>
+
+<p>Selanjutnya, tiga dari delapan inti tadi menempatkan diri di dekat mikropil. Dua di antara tiga 
+inti yang merupakan sel sinergid mengalami degenerasi. Sementara itu, inti yang ketiga berkembang 
+menjadi sel telur. Tiga buah inti lainnya bergerak ke arah kutub kalaza, tetapi kemudian 
+mengalami degenerasi pula. Ketiga inti ini dinamakan inti antipoda. Sisanya, dua inti yang 
+disebut inti kutub, bersatu di tengah kandung lembaga dan terjadilah sebuah inti diploid (2n). 
+Inti ini disebut inti kandung lembaga sekunder. Ini berarti kandung lembaga telah masak, yang 
+disebut megagametofit dan siap untuk dibuahi.</p>
+
+<p>Pewarisan Sifat dan Variasi Genetis. Secara garis besar, ada tiga mekanisme yang menyebabkan 
+terjadinya variasi genetik pada suatu populasi. Ketiga mekanisme ini dapat dijelaskan sebagai 
+berikut.</p>
+
+<p>Pindah silang. Telah dijelaskan di depan bahwa sel kelamin membelah secara meiosis. Pada profase I, 
+kromosom homolog muncul pertama kali sebagai pasangan. Kromosom-kromosom homolog ini saling 
+bersilangan pada kiasmata. Pada kiasmata inilah terjadi pindah silang (crossing over) materi 
+genetik dari kromosom satu ke kromosom lainnya. Pindah silang ini terjadi ketika dua kromatid 
+dari kromosom yang berbeda bertukar tempat. Kromatid yang sudah tidak identik lagi dengan 
+kromatid saudaranya karena terjadi pindah silang disebut dyad. Pada manusia, dua atau tiga kasus 
+kejadian pindah silang dapat terjadi untuk setiap pasangan kromosom.</p>
+
+<p>Pemilahan kromosom secara bebas. Kalian telah mengetahui bahwa pembelahan sel selalu diikuti 
+pembagian kromosom pada sel anakan yang dihasilkan. Begitu pula dengan pembelahan meiosis. Pada 
+metafase I, pasangan kromosom homolog terletak pada bidang metafase. Orientasi pasangan homolog 
+yang menghadap kutub-kutub sel bersifat acak. Setiap pasangan mempunyai dua kemungkinan dalam 
+penyusunan ini. Kita ambil contoh organisme yang mempunyai empat kromosom diploid (2n = 4). 
+Organisme ini mempunyai 2 kromosom dalam sel gametnya. Dua kromosom ini dapat menghasilkan empat 
+kemungkinan sel anakan dengan kombinasi kromosom berbeda satu sama lain.</p>
+
+<p>Bagaimanakah dengan manusia?. Manusia mempunyai 46 kromosom diploid. Ini berarti pada sperma atau 
+sel telur terdapat 23 kromosom haploid. Dari 23 kromosom ini mempunyai sekitar 8 juta kemungkinan 
+penyusunan homolog pada metafase. Kandungan kromosom pada sel sperma atau sel telur ini akan 
+diwariskan pada anak keturunannya. Jadi, setiap manusia sebenarnya merupakan 1 dari 8 juta 
+kemungkinan pemilahan kromosom yang diwariskan oleh bapak atau ibu kandungnya.</p>
+
+<p>Fertilisasi random. Di dalam sebuah keluarga, seorang anak mempunyai sifat yang berbeda dengan 
+saudara-saudaranya. Seorang anak tidak ada yang memiliki sifat yang sama persis dengan ibu atau 
+bapaknya. Akan tetapi, sifatnya kemungkinan besar merupakan perpaduan sifat kedua orang tuanya. 
+Ini jelas sangat masuk akal, sebab seorang anak dihasilkan dari pembuahan 1 sel telur ibu oleh 
+1 sel sperma bapak. Sel telur yang dibuahi sperma akan menjadi zigot sebagai cikal bakal manusia. 
+Jadi, genetik seorang anak sangat dipengaruhi kromosom yang terkandung dalam sel telur atau 
+sperma tersebut. Kalian mengetahui bahwa setiap sel kelamin (sperma dan sel telur) yang 
+menentukan kromosom anak merupakan 1 dari 8 juta kemungkinan. Hal ini berarti, seorang manusia 
+merupakan salah satu dari 64 trilyun (8 juta × 8 juta) kombinasi kromosom diploid. Dengan kata 
+lain, kita telah memenangkan pertandingan melawan 64 trilyun calon anak yang mungkin dilahirkan. 
+Inilah tanda kebesaran Tuhan Yang Maha Esa.</p>

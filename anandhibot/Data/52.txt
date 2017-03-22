@@ -1,0 +1,343 @@
+<j>Mutasi.
+<p>Bagi kalian penggemar berat komik Amerika, tentu tak asing lagi dengan sosok pada gambar di 
+atas. Ya, tak salah lagi: Wolverine, sang manusia bercakar, pahlawan tangguh di komik X-Men. 
+Komik tersebut diilhami oleh fenomena mutasi, yakni perubahan-perubahan susunan atau jumlah 
+materi genetik yang bersifat menurun antar generasi. Akibat proses mutasi, para tokohnya memiliki 
+kemampuan-kemampuan luar biasa. Namun jangan lupa, X-Men hanyalah fiksi. Dalam dunia nyata, tentu 
+ketidaknormalan biologis yang terjadi akibat mutasi tak akan sebombastis itu. Nah, ingin mendapat 
+penjelasan lebih lengkap tentang mutasi yang sesungguhnya?. Simaklah bab ini.</p>
+
+<p>Pada bab berikut ini, kalian akan mempelajari macam-macam mutasi dan penyebabnya, serta dampak 
+mutasi pada sains, lingkungan, teknologi, dan masyarakat (salingtemas). Tujuan mempelajari materi 
+tersebut adalah agar kalian dapat menjelaskan macam dan penyebab mutasi, mengidentifikasi ragam 
+mutasi kromosom dan gen, dan menjelaskan berbagai mutasi hasil teknologi yang dilakukan manusia. 
+Kalian diharapkan pula dapat menjelaskan dampak mutasi. Baiklah, simak materi berikut dengan 
+saksama.</p>
+
+<p>Macam-macam Mutasi dan Penyebabnya. Pewarisan sifat dari induk kepada keturunannya merupakan 
+proses yang terjadi secara kontinu (terus menerus). Meskipun demikian, "kesalahan" dalam 
+pewarisan sifat tersebut dapat saja terjadi sehingga DNA sel anak akan berbeda dengan DNA sel 
+induk.</p>
+
+<p>Sejak awal tahun 1900, mutasi diartikan sebagai perubahan hereditas. Pada tahun 1901, Hugo de 
+Vries mengemukakan istilah mutasi pertama kali dalam bukunya The Theory of Mutation. Vries 
+menemukan adanya perubahan pada tanaman Oenthora lamarckina yang diyakini karena adanya 
+penyimpangan genotip secara tiba-tiba dan diturunkan pada keturunan berikutnya. Selanjutnya, pada 
+tahun 1927, Herman J Muller (ahli genetika) menemukan mutasi pada lalat buah (Drosophila 
+melanogaster) oleh pengaruh radiasi sinar X.</p>
+
+<p>Mutasi mengandung dua makna penting, yaitu perubahan materi genetik yang akan diwariskan pada 
+keturunannya, dan bagaimana proses perubahan tersebut terjadi pada suatu organisme. Organisme 
+yang mengalami mutasi dan memperlihatkan fenotip baru hasil mutasi disebut mutan.</p>
+
+<p>Mutasi mempunyai beberapa sifat, yaitu muncul secara bebas, bersifat menurun terhadap 
+keturunannya, dan jarang terjadi. Adanya mutasi gen pada individu dapat diketahui. Mutasi dapat 
+terjadi melalui berbagai cara dan sebab. Berdasarkan materi hereditas yang mengalami perubahan, 
+mutasi dibedakan menjadi mutasi gen dan mutasi kromosom.</p>
+
+<p>Mutasi Gen. Mutasi gen adalah perubahan susunan basa nitrogen pada nukleotida, disebut juga 
+mutasi titik (point mutation). Perubahan susunan basa nitrogen pada triplet, menyebabkan berubah 
+pula asam amino yang akan dikode. Demikian pula, jenis atau fungsi protein yang akan dihasilkan.</p>
+
+<p>Gen yang normal maupun gen mutan dapat bersifat dominan maupun resesif. Pada organisme diploid 
+yang heterozigot, fenotip yang akan muncul adalah fenotip dari alel yang dominan, karena alel 
+yang dominan dapat ditranskripsi dan ditranslasi menjadi protein yang berfungsi. Selanjutnya, 
+aktivitas protein tersebut akan terlihat pada fenotipnya. Sementara itu, alel yang resesif tidak 
+dapat ditranskripsikan dan ditranslasikan sebagaimana alel dominan, sehingga fenotipnya tidak 
+tampak.</p>
+
+<p>Mutasi gen dapat terjadi melalui berbagai cara, yaitu: transisi, transversi, dan mutasi frame 
+shift (pergeseran rangka).</p>
+
+<p>Transisi. Transisi terjadi apabila basa pirimidin pada rantai nukleotida DNA diganti oleh basa 
+pirimidin yang lain, atau basa purin yang satu diganti oleh basa purin yang lain. Basa pirimidin 
+timin (T) dapat diganti oleh basa sitosin (C atau S), atau sebaliknya. Basa purin adenin (A) 
+dapat diganti oleh basa guanin (G), atau sebaliknya.</p>
+
+<p>Transversi. Transversi terjadi apabila basa pirimidin digantikan oleh basa purin, atau 
+sebaliknya. Akibatnya, asam amino yang dihasilkan tidak sesuai dengan pesanan. Misalnya, asam 
+amino valin digantikan menjadi asam glutamat akan menyebabkan berubahnya asam amino penyusun 
+protein hemoglobin. Hal ini menyebabkan bentuk eritrosit tidak normal, seperti bulan sabit. 
+Kelainan ini disebut siklemia (sickle cell).</p>
+
+<p>Mutasi Frame Shift (Pergeseran Rangka). Mutasi ini disebabkan oleh penambahan atau pengurangan 
+satu atau lebih nukleotida dalam DNA, biasanya diikuti dengan pergeseran pembacaan kodon yang 
+berakibat berubahnya rangkaian asam amino dalam protein yang dikode oleh gen tersebut. Frame 
+shift dibedakan menjadi dua, yaitu delesi basa tunggal dan insersi basa tunggal. Delesi basa 
+tunggal terjadi bila satu nukleotida keluar atau hilang dari rantai DNA. Insersi basa tunggal 
+terjadi bila suatu pasangan nukleotida menyisip ke dalam rantai DNA.</p>
+
+<p>Mutasi Kromosom. Mutasi kromosom disebut juga aberasi kromosom atau mutasi besar (gross mutation), 
+yaitu perubahan struktur atau jumlah kromosom. Mutasi kromosom banyak terjadi pada tanaman.</p>
+
+<p>Perubahan struktur kromosom. Beberapa penyebab terjadinya perubahan struktur kromosom, antara 
+lain: delesi (defisiensi), duplikasi, inversi, dan translokasi.</p>
+
+<p>Delesi atau Defisiensi. Delesi atau defisiensi merupakan peristiwa hilangnya sebagian kromosom 
+normal karena patahnya kromosom. Potongan kromosom yang tidak memiliki sentromer (kromosom 
+asentris), gen-gennya tidak berfungsi selama tahap anafase dan tertinggal pada bidang ekuatorial 
+sel. Semakin lama, potongan kromosom tersebut akan hilang dan larut dalam plasma. Berdasarkan 
+letak terjadinya patahan kromosom, delesi dibedakan menjadi:
+a) Delesi interkalar, jika terdapat dua patahan di bagian ujung kromosom.
+b) Delesi terminal, jika terdapat satu patahan di bagian ujung kromosom. Delesi ini lebih sering 
+dijumpai dibanding delesi interkalar. Pada manusia, delesi terminal pada pasangan kromosom ke-5 
+menyebabkan sindrom yang disebut Cri du Chat di mana suara tangisannya mirip dengan suara 
+kucing.</p>
+
+<p>Duplikasi. Duplikasi adalah penambahan bagian kromosom pada kromosom normal, sehingga dalam satu 
+kromosom sel terdapat dua atau lebih bagian yang sama. Kromosom normal telah mengadakan replikasi 
+(pembelahan) terlebih dahulu, kemudian mengalami patah di dua tempat. Salah satu patahan kromosom 
+pindah dan menyambung kromosom pasangan replikasinya. Akibatnya, proses duplikasi tersebut 
+disertai dengan terbentuknya kromosom yang mengalami delesi.</p>
+
+<p>Inversi. Inversi adalah patahnya kromosom di dua tempat yang diikuti oleh penyisipan kembali 
+gen-gen tetapi dengan urutan yang terbalik. Oleh karena itu, inversi dapat menyebabkan gangguan 
+pada sintesis protein. Berdasarkan letak dua bagian yang patah pada kromosom, ada dua tipe 
+inversi, yaitu: inversi parasentris dan inversi perisentris.</p>
+
+<p>Inversi parasentris, terjadi karena dua bagian yang patah terletak pada satu lengan dari sebuah 
+kromosom (tidak dipisahkan oleh sentromer). Inversi perisentris, terjadi karena dua bagian yang 
+patah masing-masing terletak pada lengan kromosom yang berlainan (melewati sentromer, karena 
+sentromer terletak diantara bagian patahan).</p>
+
+<p>Translokasi merupakan pindahnya potongan dari sebuah kromosom ke potongan kromosom lain yang 
+bukan homolognya. Ada 4 tipe translokasi, yaitu: translokasi tunggal, translokasi perpindahan,  
+translokasi resiprok, dan translokasi robertson.</p>
+
+<p>Translokasi tunggal, terjadi pematahan tunggal pada satu kromosom, kemudian bagian yang patah 
+(satu tempat) pindah dan bersambungan dengan ujung potongan kromosom lain. Translokasi 
+perpindahan, yaitu potongan bagian tengah (patah di 2 tempat) dari kromosom disisipkan ke tempat 
+patahnya kromosom lain. Translokasi resiprok, terjadi satu pematahan pada dua kromosom nonhomolog, 
+kemudian bagian yang patah saling bertukar. Translokasi Robertson, yaitu peristiwa 
+mereduksi dan bertambahnya kromosom yang pertama kali diajukan oleh William R Robertson. 
+Translokasi Robertson meliputi fusi kromosom dan fisi atau disosiasi kromosom. Fusi kromosom 
+terjadi apabila 2 kromosom nonhomolog bergabung menjadi satu. Fisi atau disosiasi kromosom 
+terjadi apabila suatu kromosom membelah menjadi dua.</p>
+
+<p>Perubahan jumlah kromosom. Dalam keadaan normal, jumlah kromosom yang dimiliki individu adalah 
+stabil. Akan tetapi, adanya penyimpangan seperti peristiwa nondisjunction atau induksi yang 
+sengaja diperlakukan menyebabkan jumlah kromosom dapat berubah. Perubahan jumlah kromosom 
+meliputi: euploidi dan aneuploidi.</p>
+
+<p>Euploidi merupakan perubahan yang meliputi seperangkat genom, dimana jumlah set kromosom individu 
+merupakan kelipatan dari jumlah set kromosom dasar (kromosom haploid). Artinya, perubahan 
+kromosom menyebabkan berubahnya jumlah set kromosom keseluruhan. Macam-macam euploidi, antara 
+lain: monoploid dan poliploid.</p>
+
+<p>Monoploid merupakan kromosom sel somatis dalam keadaan tunggal atau terdiri dari satu perangkat 
+kromosom saja. Kebanyakan organisme eukariotik bersifat diploid, yaitu memiliki dua perangkat 
+kromosom (2n) dalam sel somatisnya. Namun, ada beberapa yang bersifat monoploid. Misalnya, lebah 
+madu jantan yang tumbuh dari sel telur yang tidak dibuahi (partenogenesis).</p>
+
+<p>Poliploid merupakan keadaan organisme yang memiliki perangkat kromosom lebih dari tiga, misalnya: 
+tetraploid, heksaploid, oktaploid, dan sebagainya. Triploid merupakan keadaan kromosom organisme 
+yang memiliki 3 perangkat kromosom (3n) dalam sel somatisnya. Individu triploid bersifat steril. 
+Tetraploid, yaitu bila organisme memiliki 4 perangkat kromosom (4n) dalam sel somatiknya. 
+Individu tetraploid biasanya bersifat fertil (subur atau mampu menghasilkan keturunan).</p>
+
+<p>Poliploid banyak ditemukan pada tumbuhan dan jarang ditemukan pada hewan (letal). Biasanya 
+dimanfaatkan dalam bidang pertanian untuk menghasilkan tanaman dengan varietas unggul. Contoh 
+tanaman poliploid adalah 2/3 dari jenis rumput-rumputan dan tanaman mawar (Rosa sp).</p>
+
+<p>Aneuploidi adalah perubahan yang terjadi karena suatu individu mempunyai kekurangan atau 
+kelebihan kromosom dibandingkan dengan individu diploid normal. Aneuploidi biasanya diakibatkan 
+karena nondisjunction (gagal berpisah) dari satu pasang kromosom homolog. Penghambatan 
+berpisahnya kromosom pada saat pembelahan sel dapat dilakukan dengan sengaja, yaitu melalui: 
+induksi kolkisin, dapat menghambat pembentukan spindel pembelahan; menggunakan suhu tinggi, 
+misalnya pada tanaman jagung; dan dapat pula dengan cara pemotongan tunas, sehingga pada potongan 
+tunas terjadi poliploid. Beberapa contoh aneuploidi antara lain: monosomi, trisomi, nullisomi, 
+dan tetrasomi.</p>
+
+<p>Monosomi terjadi pada individu yang kehilangan satu kromosom dalam satu perangkat (2n-1). Pada 
+wanita, kehilangan satu kromosom X pada gonosomnya akan menyebabkan sindrom Turner. Oleh karena 
+itu, kromosom kelaminnya hanya terdiri dari satu kromosom X saja (XO).</p>
+
+<p>Salah satu kemungkinan penyebab terjadinya sindrom Turner adalah adanya nondisjunction pada 
+saat pembentukan sel telur (ovum). Akibatnya, dihasilkan satu ovum tanpa kromosom X dan satu 
+ovum yang terdiri dari dua kromosom X (XX). Pertemuan antara sperma (haploid) yang mengandung 
+satu kromosom X dengan ovum tanpa kromosom X, membentuk zigot yang hanya mengandung satu kromosom 
+X saja.</p>
+
+<p>Trisomi terjadi pada individu yang mempunyai kelebihan satu kromosom dalam sel-selnya (2n +1). 
+Penyebabnya adalah nondisjunction pada saat induk mengalami gametogenesis. Trisomi dapat terjadi 
+pada autosom maupun pada gonosom. Beberapa contoh trisomi gonosom pada manusia adalah sindrom 
+Klinefelter (trisomi pada kromosom X), sindrom tripel X, dan sindrom XYY (pria XYY). Sementara 
+itu, beberapa contoh dari trisomi autosom adalah sindrom Down (trisomi pada autosom 21), sindrom 
+Ewards (trisomi pada autosom 18), sindrom Patau (trisomi pada autosom 13).</p>
+
+<p>Sindrom Klinefelter. Individu keturunan penderita sindrom ini dapat terjadi melalui fertilisasi 
+dari sel telur XX oleh spermatozoa Y atau dari sel telur X oleh spermatozoa XY.</p>
+
+<p>Sindrom Tripel X. Menurut penelitian Jacobs, pada jaringan ovarium banyak sel-sel ovum yang 
+mengandung kromosom XX. Oleh karena itu, sindrom tripel X terjadi karena adanya gagal berpisah 
+pada pembentukan gamet.</p>
+
+<p>Sindrom XYY (Pria XYY). Individu penderita ini terjadi akibat fertilisasi antara ovum X dengan 
+spermatozoa hasil gagal berpisah (YY). Zigot yang dihasilkan adalah XYY sehingga formulasi 
+kromosomnya adalah 47, XYY.</p>
+
+<p>Nullisomi adalah individu yang kehilangan sepasang kromosom homolog (2 kromosom) dalam sel-selnya 
+(2n-2). Biasanya individu dengan sifat nullisomi mempunyai peluang hidup yang sangat kecil.</p>
+
+<p>Tetrasomi terjadi pada individu yang mempunyai kelebihan 2 kromosom homolog dalam satu genom 
+(2n +2).</p>
+
+<p>Mutasi Somatis dan Mutasi Germinal. Mutasi gen dan mutasi kromosom tentunya terjadi di dalam sel. 
+Oleh karena itu, berdasarkan jenis sel yang mengalami mutasi dibedakan menjadi mutasi somatis dan 
+mutasi germinal.</p>
+
+<p>Mutasi somatis adalah mutasi yang terjadi di dalam sel-sel somatis (sel tubuh). Dengan demikian, 
+perubahan pada mutan hasil mutasi somatis hanya akan diturunkan dalam sel somatis saja. Contoh: 
+buah apel delicious dan jeruk Washington navel.</p>
+
+<p>Mutasi germinal adalah mutasi yang terjadi di dalam sel-sel kelamin. Bila mutasi menghasilkan 
+sifat dominan, maka akan langsung diekspresikan pada keturunannya. Apabila menghasilkan sifat 
+resesif, maka ekspresinya akan tersembunyi pada individu yang diploid. Contoh: domba Ancon yang 
+berkaki pendek.</p>
+
+<p>Mutasi Alami dan Mutasi Buatan. Berdasarkan mekanisme terjadinya, ada dua macam mutasi, yaitu
+mutasi alami dan mutasi buatan. Untuk lebih jelasnya simak uraian berikut.</p>
+
+<p>Secara umum, mutasi merupakan perubahan pada suatu individu yang berlangsung secara spontan. 
+Namun, dalam kenyataannya, beberapa individu mengalami mutasi karena pengaruh kondisi atau 
+agen-agen tertentu yang terdapat dalam lingkungan. Suatu kondisi atau agen-agen tertentu yang 
+menyebabkan terjadinya mutasi disebut mutagen.</p>
+
+<p>Mutasi alami disebut juga mutasi spontan (spontaneous mutation), terjadi dengan sendirinya tanpa 
+diketahui penyebabnya secara pasti. Para ahli genetika meyakini adanya beberapa penyebab mutasi 
+alami pada suatu organisme, antara lain: 
+1) Radiasi sinar ultraviolet
+2) Radiasi sinar kosmik dari angkasa
+3) Zat-zat radioaktif yang masuk ke dalam tubuh
+4) Kesalahan pada proses replikasi DNA.</p>
+
+<p>Mutasi buatan disebut juga mutasi terinduksi (induced mutation), yaitu terjadinya mutasi karena 
+disengaja oleh manusia. Mutagen yang digunakan pada mutasi buatan ini, yaitu: senyawa kimia yang 
+dapat bereaksi dengan molekul DNA, radiasi sinar ultraviolet, radiasi mengion oleh sinar x, sinar 
+alpha, sinar beta, dan sinar gamma yang dipancarkan oleh isotop radioaktif dari elemen tertentu, 
+serta penyisipan molekul DNA (rekayasa genetika). Nah, untuk mengetahui bagaimana mutagen-mutagen 
+tersebut dapat menyebabkan mutasi pada suatu organisme, simak uraian berikut.</p>
+
+<p>Senyawa kimia. Beberapa senyawa kimia yang telah diketahui mempunyai pengaruh cukup besar sebagai 
+mutagen, antara lain:
+a) Berbagai macam basa dan turunannya. Berbagai macam basa dan turunannya dapat bergabung dengan 
+molekul DNA pada saat proses replikasi berlangsung. Beberapa jenis di antaranya dapat 
+meningkatkan frekuensi kesalahan penyusunan substansi DNA yang menyebabkan terjadinya mutasi, 
+seperti: 5-bromo urasil yang dapat menyebabkan terjadinya transisi.
+b) Asam nitrat (HNO2). Asam nitrat merupakan mutagen yang berpengaruh, baik secara langsung 
+maupun tidak langsung pada proses replikasi maupun nonreplikasi DNA. Pengaruhnya terjadi melalui 
+proses deaminasi oksidatif, yaitu lepasnya gugus amin (NH2) dari basa nitrogen penyusun asam 
+amino (adenin, sitosin, timin, dan guanin). Selain itu, HNO2 mudah bereaksi dengan adenin 
+sehingga akan menghasilkan senyawa yang disebut hypoxantin.
+c) Senyawa alkil dan hidroksi. Beberapa contoh senyawa alkil dan hidroksil seperti nitrogen, 
+mustard belerang, metal, nitrosoguanidin, dan etil metanosulfonat (MMS dan EMS) dapat menyebabkan 
+terjadinya mutasi frame shift.</p>
+
+<p>Radiasi sinar ultraviolet. Semua telah mengakui bahwa matahari merupakan sumber energi bagi 
+seluruh kehidupan. Tetapi, tahukah kalian dibalik kegunaannya itu?. Sinar matahari ternyata 
+menyimpan bahaya yang sangat menakutkan. Selain mengakibatkan mutasi alami, radiasi sinar UV 
+dapat menyebabkan mutasi buatan.</p>
+
+<p>Radiasi sinar UV yang berasal dari pancaran sinar matahari merupakan mutagen yang kurang reaktif 
+dan hanya dapat diabsorpsi oleh substansi DNA tertentu, seperti pirin dan pirimidin (terutama 
+timin). Karena energinya yang relatif lemah, maka radiasi sinar UV hanya dapat menembus jaringan 
+tertentu saja, terutama jaringan-jaringan yang berada di bagian permukaan seperti jaringan kulit 
+(integumen). Meskipun energinya relatif rendah, tetapi radiasi sinar UV merupakan mutagen yang 
+potensial. Radiasi sinar UV secara terus menerus dalam jangka waktu tertentu dapat menyebabkan 
+kanker kulit (Xeroderma).</p>
+
+<p>Radiasi mengion. Beberapa mutagen yang sangat reaktif, berasal dari spektrum elektromagnetik. 
+Spektrum tersebut terdiri dari sinar-sinar dengan panjang gelombang yang sangat pendek (di bawah 
+0,1 µm). Contohnya: sinar x, sinar alpha, sinar beta, dan sinar gamma. Sinar-sinar tersebut juga 
+berenergi cukup tinggi dibandingkan energi sinar UV. Oleh karena itu, sinar-sinar tersebut mampu 
+menembus jaringan tubuh lebih dalam dibanding sinar UV. Radiasi mengion oleh sinar-sinar dengan 
+gelombang pendek, terbukti dapat menyebabkan mutasi. Berdasarkan hasil penelitian H J Muller 
+terhadap Drosophila melanogaster, beberapa perlakuan menggunakan radiasi sinar X dapat 
+menyebabkan kematian (letal) pada Drosophila melanogaster.</p>
+
+<p>Penyisipan molekul DNA (Rekayasa genetika). Beberapa mekanisme untuk menyusun atau merombak 
+molekul DNA (termasuk mutasi buatan), biasanya diterapkan pada organisme uniseluler, seperti 
+Escherichia coli. Rekayasa genetika banyak diterapkan di bidang bioteknologi untuk menghasilkan 
+berbagai produk, seperti macam-macam hormon, enzim, dan vaksin.</p>
+
+<p>Mutasi Missense, nonsense, Netral, dan Diam. Selain berdasarkan materi hereditas, jenis sel, dan 
+mekanisme terjadinya, mutasi dibedakan pula berdasarkan efek atau pengaruh yang ditimbulkan.</p>
+
+<p>Mutasi Diam (Silent Mutation). Mutasi diam merupakan perubahan urutan nukleotida yang tidak 
+mengubah asam amino yang dihasilkan. Misalnya, kodon penentu asam amino glisin (GGC) berubah 
+menjadi kodon GGU, yang tetap akan mengkode asam amino glisin.</p>
+
+<p>Mutasi netral merupakan perubahan urutan nukleotida yang menghasilkan asam amino berbeda, namun 
+tetap mempunyai fungsi tidak jauh berbeda (ekuivalen). Misalnya, kodon penentu asam amino lisin 
+(AAG) berubah menjadi kodon penentu asam amino arginin (CGG). Kedua asam amino tersebut mempunyai 
+sifat yang hampir sama, yaitu bersifat basa dan umumnya tidak mengubah fungsi protein.</p>
+
+<p>Mutasi Missense (mutasi salah arti). Mutasi missense merupakan perubahan urutan nukleotida yang 
+menyebabkan perubahan pada asam amino yang dihasilkan. Misalnya, kodon yang akan mengkode asam 
+amino glisin (GGC) berubah menjadi kodon pengkode serin (AGC).</p>
+
+<p>Mutasi nonsense (mutasi tanpa arti). Mutasi nonsense merupakan perubahan urutan nukleotida yang 
+membentuk salah satu dari 3 macam stop codon (UAA, UAG, dan UGA), sehingga proses sintesis 
+protein berhenti. Mutasi ini dapat menghasilkan protein yang lebih pendek dan biasanya kurang 
+fungsional.</p>
+
+<p>Dampak Mutasi pada Salingtemas (Sains, Lingkungan, Teknologi, dan Masyarakat). Mutasi merupakan 
+penyebab adanya variasi genetik. Mutasi mempunyai dampak terhadap sains, lingkungan, teknologi, 
+dan masyarakat atau manusia (salingtemas). Tidak selamanya, mutasi membawa dampak yang 
+menguntungkan dalam kehidupan. Mutasi dapat pula mempunyai dampak yang merugikan.</p>
+
+<p>Dampak Positif Mutasi Buatan dan Mutasi Alami. Sebagian besar peristiwa mutasi yang terjadi di 
+alam ini adalah mutasi buatan, karena mutasi alami merupakan peristiwa yang sangat jarang terjadi. 
+Dewasa ini, mutasi buatan telah banyak diterapkan dalam berbagai bidang kehidupan, terutama yang 
+berkaitan dengan rekayasa genetika dan penggunaan beberapa sinar bergelombang pendek. Mutasi 
+buatan dinilai lebih memberikan keuntungan dibanding mutasi alami. Hal ini disebabkan, mutasi 
+buatan merupakan kejadian yang dapat direncanakan dan diprogram sebelumnya. Oleh karena itu, 
+hasil yang diperoleh sesuai dengan yang diinginkan dan berbagai kemungkinan yang tidak diharapkan 
+dapat diminimalkan.</p>
+
+<p>Adanya peristiwa mutasi menyebabkan dilakukannya penelitian lebih lanjut. Akibatnya, ilmu 
+pengetahuan dan teknologi semakin berkembang. Beberapa keuntungan dan hasil teknologi mutasi, 
+yaitu: tanaman poliploid, keragaman fenotip tanaman, varian baru, dan pengembangan bioteknologi.</p>
+
+<p>Tanaman Poliploid. Selain buah tanpa biji, hasil mutasi buatan pada tumbuhan adalah tanaman 
+poliploid. Pada umumnya, tanaman poliploid berukuran lebih besar (buah atau bunganya) dan lebih 
+sehat. Misalnya, pada tanaman padi, gandum, bunga lili, bunga "snapdragon", dan kentang.</p>
+
+<p>Keragaman Fenotip Tanaman. Pada umumnya, mutasi buatan sangat penting bagi kehidupan di bumi. 
+Salah satunya adalah semakin beranekaragamnya fenotip tanaman, melalui budidaya tanaman. Misalnya 
+semangka tanpa biji.</p>
+
+<p>Varian Baru. Mutasi alami dapat menghasilkan individu yang mempunyai sifat atau fenotip berbeda 
+dengan anggota spesies yang sama, namun tetap mempunyai kondisi yang sehat. Misalnya, pada jenis 
+ikan tertentu dan landak yang tidak berpigmen (albino) sehingga warna tubuhnya berbeda dengan 
+warna tubuh anggota spesies yang normal.</p>
+
+<p>Pengembangan Bioteknologi. Salah satu upaya pengembangan bioteknologi adalah rekayasa genetika, 
+yaitu melalui penyisipan molekul DNA ke dalam sel. Mekanisme rekayasa genetika dan produk yang 
+dihasilkan akan dibahas lebih lanjut pada bab bioteknologi.</p>
+
+<p>Dampak Negatif Mutasi. Kalian tentunya masih ingat, bahwa mutasi yang terjadi pada suatu 
+organisme dapat mengubah bahkan merusak susunan DNA. Mutasi yang terjadi secara alami seringkali 
+merugikan, baik bagi organisme yang menjadi mutan maupun lingkungan sekitar yang ikut terpengaruh 
+karena munculnya organisme baru.</p>
+
+<p>Kematian Mutan (Letal). Mutasi alami lebih berbahaya karena organisme mutan dapat mengalami 
+kematian. Hal ini tidak dapat dicegah, karena mutasi alami terjadi secara tiba-tiba dan acak. 
+Artinya, apabila mutasi terjadi pada suatu spesies maka tidak semua organisme dalam satu spesies 
+tersebut ikut mengalami perubahan, melainkan hanya salah satu atau beberapa organisme saja. 
+Peristiwa mutasi pada tingkat spesies seringkali memunculkan varian baru dalam suatu spesies. 
+Oleh karena itu, beberapa ahli beranggapan bahwa mutasi merupakan sumber adanya evolusi (evolusi 
+akan dibahas pada bab berikutnya).</p>
+
+<p>Kelainan, Cacat, atau Sindrom. Mutasi buatan melalui radiasi dapat pula memunculkan sifat-sifat 
+yang tidak menguntungkan, misalnya menyebabkan mutan cacat sejak lahir (terratogen). Kalian telah 
+mengetahui sebelumnya, bahwa domba berkaki pendek dapat dihasilkan melalui mutasi germinal. 
+Demikian juga pada manusia, mutasi alami menyebabkan adanya kelainan atau sindrom yang 
+merugikan.</p>
+
+<p>Membahayakan lingkungan. Meskipun mempunyai sifat-sifat yang unggul, tanaman hasil pengembangan 
+mutasi buatan tidak selamanya menguntungkan bagi lingkungan. Misalnya, tanaman padi hasil mutasi 
+buatan melalui penyisipan DNA atau gen dapat tumbuh dengan baik, resisten (tahan) terhadap gulma, 
+herbisida, atau serangga pengganggu. Akan tetapi, beberapa ahli mengatakan, bahwa gen-gen 
+pembentuk sifat unggul tanaman tersebut dapat berpindah pada tanaman gulma. Akibatnya, gulma 
+menjadi bersifat unggul atau tumbuh subur dan akan memenuhi lahan, serta sulit untuk dibasmi.</p>

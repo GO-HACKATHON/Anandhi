@@ -1,0 +1,152 @@
+<j>Energi Listrik.
+<p>Listrik sangat dibutuhkan manusia dalam kehidupannya. Secara garis besar, energi listrik dibedakan menjadi dua, 
+yaitu listrik statis dan listrik dinamis. Kedua jenis listrik tersebut menghasilkan energi listrik. Energi listrik 
+dihasilkan oleh sumber energi listrik. Contohnya, air, angin, sinar matahari, dan bahan kimia. Dalam pemakaiannya, 
+energi listrik mengalami perpindahan dan perubahan bentuk. Perpindahan dan perubahan bentuk energi listrik terjadi 
+pada alat listrik yang terhubung dengan sumber listrik. Penjelasannya dapat kalian temukan pada uraian berikut.</p>
+
+<p>Dekatkan tangan kalian ke layar televisi yang baru dimatikan. Amatilah rambut pada tangan kalian tersebut. Apa yang 
+terjadi?. Rambut di tangan kalian tampak berdiri, bukan?. Peristiwa itu terjadi karena adanya gejala listrik statis. 
+Gejala listrik statis juga terjadi pada penggaris mika dengan menggosok-gosokkan penggaris mika ke rambut selama dua 
+menit.</p>
+
+<p>Setiap benda mempunyai ribuan muatan listrik. Muatan listrik ada dua macam, yaitu muatan positif (proton) dan muatan 
+negatif (elektron). Benda dengan jumlah proton dan elektron sama disebut benda netral. Ada pula benda bermuatan 
+positif maupun bermuatan negatif. Benda bermuatan positif jika jumlah proton lebih banyak daripada elektron. Benda 
+bermuatan negatif jika jumlah elektron lebih banyak daripada proton. Ingatlah ketika kalian menggosokkan penggaris ke 
+rambut. Sejumlah elektron dari rambut berpindah ke penggaris. Akibatnya, jumlah elektron pada penggaris bertambah. 
+Penggaris menjadi bermuatan negatif. Perbedaan jumlah muatan pada penggaris ini menimbulkan gejala kelistrikan. Muatan 
+pada penggaris bersifat diam (statis). Karenanya, gejala kelistrikan yang terjadi disebut listrik statis. Gejala 
+listrik statis inilah yang menyebabkan rambut tertarik ke penggaris. Begitu pula dengan serpihan kertas.</p>
+
+<p>Sekarang kalian sudah mengetahui tentang benda bermuatan. Bagaimana jika dua benda bermuatan saling didekatkan?. Ada dua 
+kemungkinan yang terjadi, yaitu tarik-menarik atau tolak-menolak. Jika muatan kedua benda senama, kedua benda akan
+tolak-menolak. Sedangkan jika muatan kedua benda tidak senama, kedua benda tersebut akan tarik-menarik.</p>
+
+<p>Coba kalian perhatikan mobil-mobilan baterai. Baterai pada mobil-mobilan digunakan untuk memutar sebuah motor listrik. 
+Motor listrik berfungsi memutar roda sehingga mobil-mobilan dapat berjalan. Berputarnya roda tidak terlepas dari 
+gerakan muatan dari baterai. Tekanlah saklar mobil-mobilan pada posisi on (hidup). Kedua ujung baterai akan terhubung
+motor listrik. Pada posisi ini, motor listrik akan hidup. Motor listrik pun dapat memutar roda sehingga mobil-mobilan 
+dapat bergerak. Saat saklar off (mati), hubungan baterai dengan motor terputus. Pada posisi ini, motor listrik tidak 
+dapat hidup. Akibatnya, mobil-mobilan tetap diam. Prinsip kerja serupa juga terjadi pada senter. Baterai mempunyai 
+kutub positif dan kutub negatif. Kutub positif (+) adalah ujung baterai dengan tonjolan kecil. Sementara, kutub 
+negatif (–) adalah ujung baterai yang rata (biasanya mengilap). Apabila kedua ujung batere dihubungkan dengan kabel,
+maka elektron akan mengalir dari kutub positif menuju kutub negatif. Aliran elektron ini disebut arus listrik. Saat 
+melewati lampu, arus listrik menyebabkan bohlam menyala. Rangkaian seperti ini disebut rangkaian listrik tertutup.</p>
+
+<p>Selanjutnya, salah satu ujung kabel dilepas dari kutub baterai. Akibatnya, elektron tidak dapat mengalir. Ini berarti 
+tidak ada arus listrik. Keadaan ini menyebabkan bohlam tidak dapat menyala. Rangkaian seperti ini disebut rangkaian 
+listrik terbuka. Jadi, arus listrik hanya mengalir pada rangkaian listrik tertutup. Lampu bohlam dapat menyala karena 
+adanya aliran elektron. Elektron mengalir, artinya elektron tersebut terus bergerak (dinamis). Karenanya, gejala 
+listrik yang timbul disebut listrik dinamis. Dalam rangkaian listrik, kita mengenal adanya rangkaian seri dan paralel.</p>
+
+<p>Pada rangkaian seri, arus listrik hanya mempunyai satu jalan. Arus listrik mengalir dari kutub positif baterai menuju 
+lampu pertama. Dari lampu pertama, arus listrik mengalir menuju lampu kedua. Selanjutnya, arus listrik kembali ke 
+baterai melalui kutub negatif. Begitu seterusnya. Lampu pada rangkaian tersebut menghambat aliran arus listrik. Semakin 
+banyak lampu, hambatan totalnya semakin besar. Oleh karena itu, arus yang mengalir semakin berkurang. Dengan demikian, 
+nyala lampu terlihat redup. Sedangkan pada rangkaian paralel, hambatan total pada rangkaian ini jauh lebih kecil 
+daripada rangkaian seri. Karenanya, arus yang mengalir dari baterai pun jauh lebih besar. Rangkaian paralel merupakan 
+rangkaian bercabang. Arus dari baterai terbagi ke setiap cabang. Arus yang diterima setiap cabang masih lebih besar 
+dibandingkan arus pada rangkaian seri. Oleh karena itu, nyala lampu terlihat lebih terang.</p>
+
+<p>Pada rangkaian paralel, terdapat dua aliran arus listrik. Setiap lampu mendapat arus tanpa dipengaruhi lampu satunya. 
+Oleh karena itu, lampu tetap menyala meskipun salah satunya diambil atau mati. Bagaimana dengan rangkaian seri?. Pada 
+rangkaian seri, hanya terdapat satu aliran arus listrik. Jika salah satu lampu diambil atau mati maka lampu satunya 
+menjadi padam. Hal ini karena jalan aliran arus terputus.</p>
+
+<p>Kalian telah mengetahui perbedaan antara listrik statis dan dinamis. Nah, yang kita manfaatkan sehari-hari adalah 
+listrik dinamis. Malam hari menjadi terang karena adanya listrik. Kita pun dapat menyalakan televisi, radio, dan 
+setrika listrik. Namun, tahukah kalian dari mana energi listrik itu berasal?. Energi listrik berasal dari sumber energi 
+listrik. Apa sajakah yang menjadi sumber energi listrik?. Cermati uraian berikut agar kalian memahaminya.</p>
+
+<p>Baterai dan aki merupakan contoh sumber energi listrik. Energi yang dihasilkan oleh baterai dan aki berasal dari energi 
+kimia. Di dalam baterai terdapat batang karbon yang dikelilingi serbuk berwarna hitam. Serbuk tersebut sebenarnya 
+merupakan bahan kimia penghantar listrik. Bahan kimia penghantar listrik disebut elektrolit. Batang karbon dan serbuk 
+dibungkus dengan seng. Pembungkus seng berfungsi sebagai kutub negatif baterai. Sementara itu, batang karbon berfungsi 
+sebagai kutub positif. Baterai disebut juga elemen kering.</p>
+
+<p>Sementara itu, aki disebut sebagai elemen basah. Di dalam aki terdapat larutan asam sulfat yang berfungsi sebagai 
+elektrolit. Seperti pada baterai, aki juga mempunyai kutub positif dan negatif. Kutub positif aki berupa pelat timbal 
+peroksida, sedangkan kutub negatifnya adalah pelat timbal. Kedua pelat tersebut bereaksi kimia dengan larutan asam 
+sulfat. Reaksi kimia tersebut menghasilkan energi listrik. Energi listrik yang dihasilkan aki lebih besar daripada 
+baterai. Aki biasa digunakan pada sepeda motor dan mobil.</p>
+
+<p>Energi gerak dapat diubah menjadi energi listrik. Alat yang dapat mengubahnya antara lain dinamo dan generator. Sebuah 
+dinamo terpasang pada sepeda. Dinamo tersebut dapat mengubah energi gerak menjadi energi listrik. Listrik yang 
+dihasilkan berguna untuk menyalakan lampu sepeda. Dinamo terdiri atas magnet dan kumparan. Magnet terletak di antara 
+kumparan dan terhubung ke kepala dinamo. Ketika roda sepeda berputar, kepala dinamo ikut berputar. Dengan demikian, 
+magnet di antara kumparan juga berputar. Syaratnya, kepala dinamo harus menempel pada roda sepeda. Putaran magnet di 
+antara kumparan inilah yang menimbulkan arus listrik. Kecepatan putaran roda memengaruhi besar arus listrik yang 
+dihasilkan. Semakin cepat roda berputar, semakin besar arusnya. Berarti, energinya juga semakin besar. Ini terbukti 
+ketika sepeda bergerak cepat. Jadi, semakin cepat sepeda bergerak, lampu menyala semakin terang. Pada generator, cara 
+kerjanya hampir sama dengan dinamo. Hanya saja, energi listrik yang dihasilkan generator lebih besar. Agar 
+menghasilkan arus listrik, magnet di dalam generator harus berputar. Pada pembangkit listrik, generator digerakkan 
+oleh air atau angin. Ada juga yang digerakkan oleh uap air.</p>
+
+<p>Matahari merupakan sumber energi yang sangat besar. Energi matahari berupa energi panas dan cahaya. Seiring 
+perkembangan teknologi, energi matahari dapat diubah menjadi energi listrik. Alat yang mampu mengubahnya disebut sel 
+surya. Sel surya dapat dipasang di atap rumah. Sel surya akan menangkap energi matahari dan menyimpannya dalam elemen 
+listrik. Selanjutnya, energi tersebut dapat digunakan untuk menyalakan peralatan listrik. Selain itu, sel surya juga 
+digunakan pada kalkulator dan mobil tenaga surya. Stasiun-stasiun luar angkasa juga memanfaatkan energi matahari.</p>
+
+<p>Nuklir merupakan sumber energi yang sangat besar. Energi nuklir dihasilkan dari reaksi atom di dalam sebuah reaktor. 
+Nuklir dapat digunakan sebagai bahan pembuat bom atom. Selain itu, nuklir dapat digunakan sebagai pembangkit listrik. 
+Penggunaan nuklir sebagai sumber energi listrik tidak menimbulkan polusi. Hanya saja, kebocoran nuklir perlu 
+diwaspadai. Kebocoran dapat menyebabkan cacat tubuh, bahkan kematian.</p>
+
+<p>Energi listrik sangat bermanfaat bagi kehidupan manusia. Energi listrik dapat diubah menjadi bentuk energi lain 
+menggunakan alat-alat listrik. Kalian akan memahaminya setelah mencermati uraian berikut. Energi listrik dapat diubah 
+menjadi panas. Ada banyak alat yang dapat mengubahnya. Contohnya, setrika listrik, kompor listrik, dispenser, dan 
+solder. Di dalam alat-alat tersebut terdapat elemen pemanas. Ketika dialiri arus listrik, elemen pemanas menjadi panas. 
+Dahulu, malam hari terasa gelap gulita. Orang hanya menggunakan lampu minyak sebagai penerangan. Cahaya lampu minyak 
+redup sehingga keadaan di sekitar tidak jelas terlihat. Sekarang, orang sudah mengenal lampu listrik. Lampu listrik 
+mengubah energi listrik menjadi energi cahaya. Dengan lampu listrik, malam hari menjadi terang benderang. Kalian pun 
+dapat belajar dengan nyaman.</p>
+
+<p>Kalian masih ingat dengan mobil-mobilan baterai, bukan?. Mobil-mobilan baterai bergerak dengan memanfaatkan baterai. 
+Roda mobil dapat berputar karena terhubung dengan motor listrik. Motor listrik inilah yang mengubah energi listrik 
+menjadi energi gerak. Ada banyak peralatan rumah yang memiliki motor listrik. Adanya motor listrik membuat peralatan 
+tersebut dapat menghasilkan energi gerak. Contohnya, kipas angin, blender, mesin cuci, dan pengering rambut. Adakah 
+televisi atau radio di rumah kalian?. Radio, televisi, handphone (hp), dan bel listrik merupakan penghasil bunyi. Namun, 
+alat itu tidak berfungsi jika tidak ada listrik. Dengan demikian, alat-alat tersebut mengubah energi listrik menjadi 
+energi bunyi.</p>
+
+<p>Listrik telah menjadi kebutuhan pokok manusia di zaman ini. Hampir setiap rumah menggunakan listrik. Listrik digunakan 
+untuk memudahkan kegiatan manusia sehari-hari. Mencuci, memasak, dan menyetrika menjadi lebih mudah. Di malam hari, 
+rumah kalian menjadi terang. Kalian dapat menonton televisi ataupun membaca buku dengan nyaman. Semua itu karena 
+adanya listrik. Listrik banyak digunakan di kantor. Ruangan kantor menjadi terang karena lampu listrik. Komputer, 
+mesin faks, dan AC juga dinyalakan dengan listrik. Kegiatan industri juga membutuhkan listrik. Mesin-mesin dijalankan 
+dengan listrik. Kegiatan produksi berjalan lancar karena listrik. Selain itu, listrik juga diperlukan dalam sistem 
+transportasi. Perhatikan lampu pengatur lalu lintas di jalan raya. Lampu tersebut juga menggunakan listrik. Lampu 
+pengatur lalu lintas berfungsi mengatur arus lalu lintas. Bagaimana cara kerja lampu pengatur lalu lintas tersebut?.</p>
+
+<p>Lampu lalu lintas menyala secara bergantian antara merah, kuning, dan hijau. Sesuai dengan fungsinya, lampu lalu 
+lintas sangat dibutuhkan oleh pengguna jalan raya. Sistem transportasi di jalan raya menjadi teratur. Lampu lalu 
+lintas biasanya dipasang di persimpangan jalan. Lampu lalu lintas dijalankan dengan sistem komputer. Karenanya, lampu 
+dapat menyala bergantian secara otomatis. Sebagai pengguna jalan raya, kalian harus memperhatikan lampu lalu lintas. 
+Saat menyeberang, tunggulah sampai lampu penyeberangan berwarna hijau. Begitu pula saat kalian bersepeda di jalan raya. 
+Hentikanlah sepeda kalian saat lampu merah menyala. Dengan menaati lampu lalu lintas, kecelakaan di jalan raya dapat 
+dihindari.</p>
+
+<p>Kalian telah mengetahui penggunaan energi listrik dalam kehidupan. Kebutuhan energi listrik semakin hari semakin 
+bertambah. Manusia merasakan keuntungan dari penggunaan listrik. Meskipun begitu, energi listrik perlu dihemat. Energi 
+listrik masih mengandalkan minyak bumi dan batu bara. Padahal, minyak bumi dan batu bara tidak dapat diperbarui. 
+Artinya, akan habis jika diambil terus-menerus. Dengan hemat listrik, minyak bumi dan batu bara dapat dihemat. Hemat 
+listrik juga berarti hemat biaya. Nah, bagaimanakah cara menghemat listrik?. Apa saja yang dapat kalian lakukan?. 
+Berikut ini beberapa cara penghematan listrik sehari-hari.</p>
+
+<p>Matikan peralatan listrik yang tidak digunakan. Contohnya antara lain matikan lampu yang tidak digunakan, menyalakan 
+satu televisi dalam satu rumah, mematikan radio yang tidak didengarkan, mematikan kipas angin yang tidak digunakan.
+Menggunakan penerangan secukupnya. Jika cukup terang dengan satu lampu, gunakan satu lampu. Selain itu, tidurlah 
+menggunakan lampu yang redup. Gunakan lampu hemat energi. Misalnya, mengganti lampu pijar dengan lampu neon. Lampu 
+neon lebih hemat energi. Jika di rumah menggunakan pompa air, gunakan seperlunya. Jangan terlalu sering menghidupkan 
+pompa air. Isilah tandon air sampai penuh. Menggunakan peralatan listrik secara bergantian. Tutup rapat pintu kulkas 
+jika tidak diperlukan. Pintu kulkas yang sering dibuka akan boros energi. Jika di rumah terdapat AC, gunakan 
+seperlunya. Matikan AC jika diruangan tidak ada orang. Tutup rapat ventilasi udara selama AC menyala. Setrikalah 
+pakaian dalam jumlah banyak sekaligus. Cara ini lebih hemat energi daripada menyetrika pakaian berulang-ulang. Saat 
+ini, pasokan listrik untuk masyarakat masih jauh di bawah kebutuhan. Buktinya, PLN sering melakukan pemadaman listrik 
+secara bergilir. Karena itulah, pemerintah mengajak masyarakat untuk hemat listrik. Salah satunya melalui iklan 
+layanan masyarakat. Iklan tersebut disebarkan melalui media iklan. Contohnya, spanduk, surat kabar, radio, dan 
+televisi. Kita sebagai masyarakat hendaknya mendukung program pemerintah tersebut. Apalagi persediaan batu bara dan 
+minyak bumi semakin menipis. Tanpa penghematan, kita dapat mengalami krisis energi di masa depan. Karenanya, lakukan 
+penghematan listrik mulai sekarang juga. </p>
