@@ -11,6 +11,8 @@ from linebot import LineBotApi
 from linebot.models import (TextSendMessage, ImageSendMessage, CarouselTemplate, CarouselColumn, TemplateSendMessage, MessageTemplateAction)
 from linebot.exceptions import LineBotApiError
 
+from anandhibot.questionanalyzer import QuestionAnalyzer
+
 from app_properties import channel_secret, channel_access_token
 from django.views.generic import TemplateView
 from anandhibot.forms import InputForm
@@ -79,13 +81,15 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
-    # if 'bot leave' in mText:
-    #     botLeave(mTargetId, mSource)
-    #     return Response("User want to exit")
-
-    getRecommendation(mText, mReplyToken, mTargetId)
-
-    return Response ("anandhibot")
+    if 'Minta Rekomendasi' in mText:
+        getRecommendation(mText, mReplyToken, mTargetId)
+        return Response ("anandhibot")
+    elif 'Tanya dong,' in mText:
+        getInfo(mText, mReplyToken, mTargetId)
+        return Response ("anandhibot")
+    else:
+        getRecommendation(mText, mReplyToken, mTargetId)
+        return Response ("anandhibot")
 
 
 def replyToUser(reply_token, text_message):
@@ -94,6 +98,33 @@ def replyToUser(reply_token, text_message):
         line_bot_api.reply_message(reply_token, TextSendMessage(text=text_message))
     except LineBotApiError as e:
         print('Exception is raised')
+
+
+def getInfo(pertanyaan, reply_token, target_id):
+    msgToUser = ' '
+    hasilQuestionAnalyzer = []
+
+    questionAnalyzer = QuestionAnalyzer(pertanyaan)
+    hasilQuestionAnalyzer = []
+    hasilQuestionAnalyzer.append("Pertanyaan: %s" % questionAnalyzer.query)
+    print("Query: ")
+    print(questionAnalyzer.query)
+    hasilQuestionAnalyzer.append("Tipe: %s" % questionAnalyzer.questionEAT)
+    print("EAT: ")
+    print(questionAnalyzer.questionEAT)
+    hasilQuestionAnalyzer.append("Kata Kunci: %s" % ", ".join(questionAnalyzer.keywords))
+    print("Keywords: ")
+    print(questionAnalyzer.keywords)
+
+    msgToUser = ', '.join(hasilQuestionAnalyzer)
+
+    print("Message to user: " + ', '.join(hasilQuestionAnalyzer))
+
+    if len(msgToUser) <= 11 :
+        replyToUser(reply_token, "Request Timeout")
+    else:
+        replyToUser(reply_token, msgToUser)
+
 
 
 def input(request):
