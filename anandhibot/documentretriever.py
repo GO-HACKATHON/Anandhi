@@ -29,9 +29,8 @@ class DocumentRetriever:
 
 						judul = filehandler.split(".\n")[0]
 						document = Document(j, judul,  "anandhibot/Data/%s.txt" % (str(i)), filehandler)
-						url = "carolapp/Data/%s.txt" % (str(i))
 						self.documents.append(document)
-						self.urldocuments.append(url)
+						self.urldocuments.append(document.url)
 
 						j = j + 1
 
