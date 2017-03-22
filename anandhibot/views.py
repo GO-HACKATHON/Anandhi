@@ -121,9 +121,9 @@ def getInfo(pertanyaan, reply_token, target_id):
 
     hasilDocumentRetriever = documentRetriever.retrieve(questionAnalyzer.keywords)
 
-    msgToUser = ', '.join(hasilQuestionAnalyzer) + '\n\n' + "Dokumen ditemukan: \n"+'\n '.join(hasilDocumentRetriever)
+    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "Dokumen ditemukan: \n"+'\n'.join(hasilDocumentRetriever)
 
-    print("Message to user: " + '\n '.join(hasilQuestionAnalyzer) + '\n' + '\n '.join(hasilDocumentRetriever))
+    print("Message to user: " + '\n '.join(hasilQuestionAnalyzer) + '\n' + '\n'.join(hasilDocumentRetriever))
 
     if len(msgToUser) <= 11 :
         replyToUser(reply_token, "Request Timeout")
