@@ -13,6 +13,7 @@ from linebot.exceptions import LineBotApiError
 
 from anandhibot.questionanalyzer import QuestionAnalyzer
 from anandhibot.documentretriever import DocumentRetriever
+from anandhibot.answerfinder import AnswerFinder
 
 from app_properties import channel_secret, channel_access_token
 from django.views.generic import TemplateView
@@ -30,9 +31,12 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 # class HomePageView(TemplateView):
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
+def __init__(self):
+    self.number = 0
+
 
 @api_view(['POST'])
-def callback(request):
+def callback(self, request):
     # Get request header and request body
     aXLineSignature = request.META.get('HTTP_X_LINE_SIGNATURE')
     print('Signature: ' + str(aXLineSignature))
@@ -82,28 +86,64 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
-    if 'minta rekomendasi' in mText:
-        getRecommendation(mText, mReplyToken, mTargetId)
-    elif 'tanya dong,' in mText:
-        getInfo(mText, mReplyToken, mTargetId)
-    else:
-        getRecommendation(mText, mReplyToken, mTargetId)
+    # if 'minta rekomendasi' in mText:
+    #     replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
+    #     getRecommendation(mText, mReplyToken, mTargetId)
+    # elif 'tanya dong,' in mText:
+    #     getInfo(mText, mReplyToken, mTargetId)
+    # else:
+    #     getRecommendation(mText, mReplyToken, mTargetId)
+    sendMessage(aPayload)
     
     return Response ("anandhibot")
 
 
-def replyToUser(reply_token, text_message):
+def replyToUser(self, reply_token, text_message):
     line_bot_api = LineBotApi(channel_access_token)
     try:
         line_bot_api.reply_message(reply_token, TextSendMessage(text=text_message))
     except LineBotApiError as e:
         print('Exception is raised')
 
+def pushToUser(self, target_id, text_message):
+    line_bot_api = LineBotApi(channel_access_token)
+    try:
+        line_bot_api.push_message(target_id TextSendMessage(text=text_message))
+    except LineBotApiError as e:
+        print('Exception is raised')    
 
-def getInfo(pertanyaan, reply_token, target_id):
+
+def sendMessage(self, event):
+    mText = event['events'][0]['message']['text'].lower()
+    mReplyToken = event['events'][0]['replyToken']
+    mTargetId = event['events'][0]['source']['userId']
+
+    # user baru mau bertanya
+    if self.number == 0:
+        if 'rekomendasi' in mText:
+            replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
+            self.number == 1
+        elif 'tanya' in mText:
+            replyToUser(mReplyToken, "Kamu mau tau tentang jurusan apa?")
+            self.number == 2
+        else:
+            replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
+    elif self.number == 1:
+        # user sudah meminta rekomendasi
+        getRecommendation(mText, mTargetId)
+        self.number = 0
+    elif self.number = 2:
+        getInfo(mText, mTargetId)
+        self.number = 0
+
+
+
+
+def getInfo(self, pertanyaan, target_id):
     msgToUser = ' '
     hasilQuestionAnalyzer = []
     hasilDocumentRetriever = []
+    hasilAnswerFinder = []
 
     questionAnalyzer = QuestionAnalyzer(pertanyaan)
     hasilQuestionAnalyzer = []
@@ -121,18 +161,24 @@ def getInfo(pertanyaan, reply_token, target_id):
 
     hasilDocumentRetriever = documentRetriever.retrieve(questionAnalyzer.keywords)
 
-    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "Dokumen ditemukan: \n"+'\n'.join(hasilDocumentRetriever)
+    # answer finder
+    answerFinder = AnswerFinder(questionAnalyzer.questionEAT, questionAnalyzer.query, questionAnalyzer.keywords, hasilDocumentRetriever)
 
-    print("Message to user: " + '\n '.join(hasilQuestionAnalyzer) + '\n' + '\n'.join(hasilDocumentRetriever))
+    # simpan answer finder
+    hasilAnswerFinder = answerFinder.getAnswers()
+
+    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "Dokumen ditemukan: \n"+'\n'.join(hasilDocumentRetriever) + "Jawaban ditemukan: \n"+'\n'.join(hasilAnswerFinder)
+
+    print("Message to user: " + '\n '.join(hasilQuestionAnalyzer) + '\n' + '\n'.join(hasilDocumentRetriever)) + "Jawaban ditemukan: \n"+'\n'.join(hasilAnswerFinder)
 
     if len(msgToUser) <= 11 :
-        replyToUser(reply_token, "Request Timeout")
+        pushToUser(target_id, "Request Timeout")
     else:
-        replyToUser(reply_token, msgToUser)
+        pushToUser(target_id, msgToUser)
 
 
 
-def input(request):
+def input(self, request):
 	subject = " "
 	recom_list = []
 	if request.method == "POST":
@@ -154,7 +200,7 @@ def input(request):
         })
 
 
-def generate_training_data(fname):
+def generate_training_data(self, fname):
     """
     Read in text file and generate training data.
     Each line looks like the following:
@@ -183,7 +229,7 @@ def generate_training_data(fname):
     raise StopIteration
 
 
-def generateRecommendation(subject):
+def generateRecommendation(self, subject):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
@@ -211,7 +257,7 @@ def generateRecommendation(subject):
     return max(collection.predict(subject).items(), key=sort_key)[0]
 
 
-def getRecommendation(subject, reply_token, target_id):
+def getRecommendation(self, subject, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
@@ -246,8 +292,8 @@ def getRecommendation(subject, reply_token, target_id):
     print("Message to user: " + ', '.join(recom_list))
 
     if len(msgToUser) <= 11 :
-        replyToUser(reply_token, "Request Timeout")
+        pushToUser(target_id, "Request Timeout")
     else:
-        replyToUser(reply_token, msgToUser)
+        pushToUser(target_id, msgToUser)
     
     # return max(collection.predict(subject).items(), key=sort_key)[0]
