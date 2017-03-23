@@ -36,7 +36,7 @@ def __init__(self):
 
 
 @api_view(['POST'])
-def callback(self, request):
+def callback(request):
     # Get request header and request body
     aXLineSignature = request.META.get('HTTP_X_LINE_SIGNATURE')
     print('Signature: ' + str(aXLineSignature))
