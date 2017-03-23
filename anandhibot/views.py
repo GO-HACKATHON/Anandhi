@@ -98,14 +98,14 @@ def callback(request):
     return Response ("anandhibot")
 
 
-def replyToUser(self, reply_token, text_message):
+def replyToUser(reply_token, text_message):
     line_bot_api = LineBotApi(channel_access_token)
     try:
         line_bot_api.reply_message(reply_token, TextSendMessage(text=text_message))
     except LineBotApiError as e:
         print('Exception is raised')
 
-def pushToUser(self, target_id, text_message):
+def pushToUser(target_id, text_message):
     line_bot_api = LineBotApi(channel_access_token)
     try:
         line_bot_api.push_message(target_id, TextSendMessage(text=text_message))
@@ -113,7 +113,7 @@ def pushToUser(self, target_id, text_message):
         print('Exception is raised')    
 
 
-def sendMessage(self, event):
+def sendMessage(event):
     mText = event['events'][0]['message']['text'].lower()
     mReplyToken = event['events'][0]['replyToken']
     mTargetId = event['events'][0]['source']['userId']
@@ -139,7 +139,7 @@ def sendMessage(self, event):
 
 
 
-def getInfo(self, pertanyaan, target_id):
+def getInfo(pertanyaan, target_id):
     msgToUser = ' '
     hasilQuestionAnalyzer = []
     hasilDocumentRetriever = []
@@ -178,7 +178,7 @@ def getInfo(self, pertanyaan, target_id):
 
 
 
-def input(self, request):
+def input(request):
 	subject = " "
 	recom_list = []
 	if request.method == "POST":
@@ -200,7 +200,7 @@ def input(self, request):
         })
 
 
-def generate_training_data(self, fname):
+def generate_training_data(fname):
     """
     Read in text file and generate training data.
     Each line looks like the following:
@@ -229,7 +229,7 @@ def generate_training_data(self, fname):
     raise StopIteration
 
 
-def generateRecommendation(self, subject):
+def generateRecommendation(subject):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
@@ -257,7 +257,7 @@ def generateRecommendation(self, subject):
     return max(collection.predict(subject).items(), key=sort_key)[0]
 
 
-def getRecommendation(self, subject, target_id):
+def getRecommendation(subject, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
