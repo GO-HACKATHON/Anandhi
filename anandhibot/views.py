@@ -108,7 +108,7 @@ def replyToUser(self, reply_token, text_message):
 def pushToUser(self, target_id, text_message):
     line_bot_api = LineBotApi(channel_access_token)
     try:
-        line_bot_api.push_message(target_id TextSendMessage(text=text_message))
+        line_bot_api.push_message(target_id, TextSendMessage(text=text_message))
     except LineBotApiError as e:
         print('Exception is raised')    
 
