@@ -132,7 +132,7 @@ def sendMessage(self, event):
         # user sudah meminta rekomendasi
         getRecommendation(mText, mTargetId)
         self.number = 0
-    elif self.number = 2:
+    elif self.number == 2:
         getInfo(mText, mTargetId)
         self.number = 0
 
