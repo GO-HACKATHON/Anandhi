@@ -32,7 +32,7 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
 def __init__(self):
-    self.number = 0
+    global number = 0
 
 
 @api_view(['POST'])
@@ -119,22 +119,22 @@ def sendMessage(event):
     mTargetId = event['events'][0]['source']['userId']
 
     # user baru mau bertanya
-    if self.number == 0:
+    if number == 0:
         if 'rekomendasi' in mText:
             replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
-            self.number == 1
+            number == 1
         elif 'tanya' in mText:
             replyToUser(mReplyToken, "Kamu mau tau tentang jurusan apa?")
-            self.number == 2
+            number == 2
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-    elif self.number == 1:
+    elif number == 1:
         # user sudah meminta rekomendasi
         getRecommendation(mText, mTargetId)
-        self.number = 0
-    elif self.number == 2:
+        number = 0
+    elif number == 2:
         getInfo(mText, mTargetId)
-        self.number = 0
+        number = 0
 
 
 
