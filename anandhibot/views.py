@@ -32,7 +32,8 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
 def __init__(self):
-    global number = 0
+    global number
+    number = 0
 
 
 @api_view(['POST'])
