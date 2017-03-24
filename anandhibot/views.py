@@ -84,8 +84,8 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
-   obj, created = User.object.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
-   obj.save()
+    obj, created = User.object.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
+    obj.save()
 
     # if 'minta rekomendasi' in mText:
     #     replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
