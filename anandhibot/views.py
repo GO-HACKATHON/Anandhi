@@ -84,8 +84,31 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
-    obj, created = User.objects.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
-    obj.save()
+    # d = User.objects.get(uid=mTargetId)
+    # d.delete()
+
+    # for pub in User.objects.all():
+    #     pub.delete()
+    list_of_id = []
+
+    for user in User.objects.all():
+        list_of_id.append(user.uid)
+
+    print("Before:")
+    print(list_of_id)
+
+    if mTargetId not in list_of_id:
+        newuser = User(uid=mTargetId, name="", city="", uclass="", prompt="0")
+        newuser.save()
+        list_of_id.append(newuser.uid)
+
+    print("After:")
+    print(list_of_id)
+
+    # obj, created = User.objects.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt="0")
+    # print(created)
+    # if created == False:
+    #     obj.save()
 
     # if 'minta rekomendasi' in mText:
     #     replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
@@ -120,26 +143,36 @@ def sendMessage(event):
     mTargetId = event['events'][0]['source']['userId']
 
     user = User.objects.get(uid=mTargetId)
+    print(user.prompt)
+    print(mText)
+    print(mReplyToken)
 
     # user baru mau bertanya
-    if user.prompt == 0:
+    if user.prompt == "0":
+        print("masuk")
         if 'rekomendasi' in mText:
-            replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
-            user.prompt = 1
+            print("Iya?")
+            pushToUser(mTargetId, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
+            user.prompt = "1"
+            user.save()
         elif 'tanya' in mText:
-            replyToUser(mReplyToken, "Kamu mau tau tentang jurusan apa?")
-            user.prompt = 2
+            print("apa?")
+            pushToUser(mTargetId, "Kamu mau tau tentang jurusan apa?")
+            user.prompt = "2"
+            user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-    elif user.prompt == 1:
+    elif user.prompt == "1":
         # user sudah meminta rekomendasi
+        print("oke")
         getRecommendation(mText, mTargetId)
-        user.prompt = 0
-    elif user.prompt == 2:
+        user.prompt = "0"
+        user.save()
+    elif user.prompt == "2":
+        print("siap")
         getInfo(mText, mTargetId)
-        user.prompt = 0
-
-    user.save()
+        user.prompt = "0"
+        user.save()
 
 
 def getInfo(pertanyaan, target_id):
