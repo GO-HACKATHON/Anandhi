@@ -14,6 +14,7 @@ from linebot.exceptions import LineBotApiError
 from anandhibot.questionanalyzer import QuestionAnalyzer
 from anandhibot.documentretriever import DocumentRetriever
 from anandhibot.answerfinder import AnswerFinder
+from anandhibot.models import User
 
 from app_properties import channel_secret, channel_access_token
 from django.views.generic import TemplateView
@@ -31,10 +32,6 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 # class HomePageView(TemplateView):
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
-def __init__(self):
-    global number
-    number = 0
-
 
 @api_view(['POST'])
 def callback(request):
@@ -87,6 +84,9 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
+   obj, created = User.object.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
+   obj.save()
+
     # if 'minta rekomendasi' in mText:
     #     replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
     #     getRecommendation(mText, mReplyToken, mTargetId)
@@ -119,25 +119,27 @@ def sendMessage(event):
     mReplyToken = event['events'][0]['replyToken']
     mTargetId = event['events'][0]['source']['userId']
 
+    user = User.object.get(uid=mTargetId)
+
     # user baru mau bertanya
-    if number == 0:
+    if user.prompt == 0:
         if 'rekomendasi' in mText:
             replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
-            number == 1
+            user.prompt = 1
         elif 'tanya' in mText:
             replyToUser(mReplyToken, "Kamu mau tau tentang jurusan apa?")
-            number == 2
+            user.prompt = 2
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-    elif number == 1:
+    elif user.prompt == 1:
         # user sudah meminta rekomendasi
         getRecommendation(mText, mTargetId)
-        number = 0
-    elif number == 2:
+        user.prompt = 0
+    elif user.prompt == 2:
         getInfo(mText, mTargetId)
-        number = 0
+        user.prompt = 0
 
-
+    user.save()
 
 
 def getInfo(pertanyaan, target_id):
