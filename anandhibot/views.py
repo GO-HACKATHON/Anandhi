@@ -84,7 +84,7 @@ def callback(request):
 
     mText = aPayload['events'][0]['message']['text'].lower()
 
-    obj, created = User.object.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
+    obj, created = User.objects.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt=0)
     obj.save()
 
     # if 'minta rekomendasi' in mText:
@@ -119,7 +119,7 @@ def sendMessage(event):
     mReplyToken = event['events'][0]['replyToken']
     mTargetId = event['events'][0]['source']['userId']
 
-    user = User.object.get(uid=mTargetId)
+    user = User.objects.get(uid=mTargetId)
 
     # user baru mau bertanya
     if user.prompt == 0:
