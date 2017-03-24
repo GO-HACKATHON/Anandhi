@@ -53,7 +53,7 @@ class AnswerFinder:
 		jawaban = []
 		dict = {}
 
-		for answer in a:
+		for answer in c:
 			if answer.key not in dict:
 				dict[answer.key] = 1
 				jawaban.append(answer.key)
@@ -66,12 +66,16 @@ class AnswerFinder:
 
 		if self.EAT == "definisi":
 			clueWords = ClueWords("definisi")
+			print(clueWords.afterKeywords)
 		elif self.EAT == "lokasi":
 			clueWords = ClueWords("lokasi")
+			print(clueWords.afterKeywords)
 		elif self.EAT == "prospek":
 			clueWords = ClueWords("prospek")
+			print(clueWords.afterKeywords)
 		else:
 			clueWords = ClueWords("definisi")
+			print(clueWords.afterKeywords)
 
 		print("Clueword:\n" + clueWords.clue)
 
@@ -121,6 +125,7 @@ class AnswerFinder:
 
 								while indexWord < lenWords:
 									if words[indexWord] in clueWords.afterKeywords:
+										print("true")
 										wordsBeforeClueword = stopwordsRemover.stopwordRemoval(" ".join(words[0:indexWord]))
 										wordsAfterClueword = stopwordsRemover.stopwordRemoval(" ".join(words[indexWord+1:]))
 										cluewordPosition = indexWord

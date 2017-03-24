@@ -203,9 +203,9 @@ def getInfo(pertanyaan, target_id):
     # simpan answer finder
     hasilAnswerFinder = answerFinder.getAnswers()
 
-    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "Dokumen ditemukan: \n"+'\n'.join(hasilDocumentRetriever) + "Jawaban ditemukan: \n"+'\n'.join(hasilAnswerFinder)
+    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0]
 
-    print("Message to user: " + '\n '.join(hasilQuestionAnalyzer) + '\n' + '\n'.join(hasilDocumentRetriever)) + "Jawaban ditemukan: \n"+'\n'.join(hasilAnswerFinder)
+    print("Message to user: " + '\n'.join(hasilQuestionAnalyzer) + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0])
 
     if len(msgToUser) <= 11 :
         pushToUser(target_id, "Request Timeout")

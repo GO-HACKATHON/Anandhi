@@ -34,7 +34,7 @@ class QuestionAnalyzer:
 
 		for word in words:
 			if word in questionWords:
-				if word=="apa" or word=="apakah" or word=="dimana" or word=="dimanakah" or word=="kemana" or word=="kemanakah":
+				if word=="dimana" or word=="dimanakah" or word=="kemana" or word=="kemanakah":
 					for word2 in words:
 						if word2 in keywordOfLocation:
 							self.questionEAT = "lokasi"
@@ -65,7 +65,16 @@ class QuestionAnalyzer:
 
 	def setKeywords(self, pertanyaan):
 		#question word
-		questionWords = ["dimana","dimanakah","kemana","kemanakah","darimana","darimanakah","apa","apakah"]
+		questionWords = ["dimana","dimanakah","kemana","kemanakah","darimana","darimanakah","apa","apakah","mana"]
+		#keyword for factoid question
+		keywordOfLocation = ["di","ke","dari","tempat","kampus","kuliah","universitas","politeknik","sekolah","letak","terletak","lokasi"]
+		keywordOfProspect = ["kerja","prospek","tamat","lulus"]
+
+		#keyword for non factoid question
+		keywordOfDefinition = ["\"\"","''","merupakan","definisi","dimaksud","pengertian","arti",
+								"disebut","dikenal","dinamakan","mendefinisikan","adalah",
+								"yaitu","ialah","merujuk","diartikan"]
+		k = ""
 		keys = []
 		stemmer = Stemmer()
 		stopWordRemover = StopWordRemover()
@@ -83,7 +92,9 @@ class QuestionAnalyzer:
 			st = stemmer.stem(tk)
 			print("Stem: ")
 			print(st)
-			if st not in questionWords:
-				keys.append(st)
+			if st not in questionWords and st not in keywordOfDefinition and st not in keywordOfProspect and st not in keywordOfLocation:
+				k = k + " " + st
+				
+		keys.append(k[1:])
 
 		self.keywords = keys

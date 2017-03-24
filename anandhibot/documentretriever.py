@@ -23,7 +23,9 @@ class DocumentRetriever:
 			with open("anandhibot/Data/%s.txt" % (str(i)), "rb") as d:
 				for baris in d:
 					filehandler = baris.decode('ascii','ignore')
-					content = content + filehandler
+					content = content + filehandler + "\n"
+
+			print("content:\n" + content)
 
 			for word in keywords:
 				if word in filehandler.lower():

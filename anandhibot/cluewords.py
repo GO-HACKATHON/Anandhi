@@ -15,6 +15,6 @@ class ClueWords:
 		if clueword == "definisi":
 			self.afterKeywords = ["adalah", "yaitu", "ialah", "merupakan", "diartikan"]
 		elif clueword == "lokasi":
-			self.afterKeywords = ["berada","bertempat","adanya","ada","tempat","tempatnya","berlokasi","terletak","adalah"]
+			self.afterKeywords = ["berada","bertempat","adanya","ada","tempat","tempatnya","berlokasi","terletak"]
 		elif clueword == "prospek":
 			self.afterKeywords = ["adalah", "yaitu", "ialah", "merupakan", "bekerja di","bekerja sebagai"]
