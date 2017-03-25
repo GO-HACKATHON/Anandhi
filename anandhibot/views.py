@@ -48,8 +48,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    if aXLineSignature != signature:
-        return Response("X-Line-Signature is not valid")
+    # if aXLineSignature != signature:
+    #     return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -168,7 +168,7 @@ def sendMessage(event):
             if user.major == "":
                 pushToUser(mTargetId, "Kamu kan belum kasih tau aku -__-")
             else:
-                pushToUser(mTargetId, "Aku tau, " + user.major + "kan? :3")
+                pushToUser(mTargetId, "Aku tau, " + user.major + " kan? :3")
                 print(user.major)
         elif 'pilih' in mText:
             pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu!")
@@ -348,3 +348,15 @@ def getRecommendation(subject, target_id):
         pushToUser(target_id, msgToUser)
     
     # return max(collection.predict(subject).items(), key=sort_key)[0]
+
+def spam():
+    teknikInformatika = User.objects.filter(major="teknik informatika")
+    for ti in teknikInformatika:
+        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
+        print("Text sent")
+
+schedule.every(10).seconds.do(spam)
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
