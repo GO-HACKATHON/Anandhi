@@ -7,7 +7,7 @@ class StopWordRemover:
 		# 	for line in f:
 		# 		stopwords = line.split(" ")
 		# stopwords = set(open("%s/carolapp/stopwords.txt" % STATIC_ROOT).read().split(" "))
-		stopwords = ["yang", "dengan", "itu", "ya", "di", "maksud", "ini", "dimaksud", "untuk", "pengertian", "bekerja", "ada", "berada", "belajar", "mempelajari", "saja", "pelajaran"]
+		stopwords = ["yang", "dengan", "itu", "ya", "di", "maksud", "ini", "dimaksud", "untuk", "pengertian", "bekerja", "ada", "berada", "belajar", "mempelajari", "saja", "pelajaran","sih"]
 
 		checks = string.split(" ")
 		output = ""
