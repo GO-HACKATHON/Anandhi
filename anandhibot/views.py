@@ -177,7 +177,7 @@ def sendMessage(event):
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-            schedule.every(10).seconds.do(spam)
+            schedule.every(10).seconds.do(spam(mTargetId))
 
             while True:
                 schedule.run_pending()
@@ -354,8 +354,7 @@ def getRecommendation(subject, target_id):
     
     # return max(collection.predict(subject).items(), key=sort_key)[0]
 
-def spam():
-    teknikInformatika = User.objects.filter(major="teknik informatika")
-    for ti in teknikInformatika:
-        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-        print("Text sent")
+def spam(target_id):
+    calonti = User.objects.get(uid=target_id)
+    if calonti.major == "teknik informatika":
+        pushToUser(target_id, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
