@@ -66,8 +66,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    if aXLineSignature != signature:
-        return Response("X-Line-Signature is not valid")
+    # if aXLineSignature != signature:
+    #     return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -221,37 +221,40 @@ def getInfo(pertanyaan, target_id):
     hasilDocumentRetriever = []
     hasilAnswerFinder = []
 
-    questionAnalyzer = QuestionAnalyzer(pertanyaan)
-    hasilQuestionAnalyzer = []
-    hasilQuestionAnalyzer.append("Pertanyaan: %s" % questionAnalyzer.query)
-    print("Query: ")
-    print(questionAnalyzer.query)
-    hasilQuestionAnalyzer.append("Tipe: %s" % questionAnalyzer.questionEAT)
-    print("EAT: ")
-    print(questionAnalyzer.questionEAT)
-    hasilQuestionAnalyzer.append("Kata Kunci: %s" % ", ".join(questionAnalyzer.keywords))
-    print("Keywords: ")
-    print(questionAnalyzer.keywords)
+    try:
+        questionAnalyzer = QuestionAnalyzer(pertanyaan)
+        hasilQuestionAnalyzer = []
+        hasilQuestionAnalyzer.append("Pertanyaan: %s" % questionAnalyzer.query)
+        print("Query: ")
+        print(questionAnalyzer.query)
+        hasilQuestionAnalyzer.append("Tipe: %s" % questionAnalyzer.questionEAT)
+        print("EAT: ")
+        print(questionAnalyzer.questionEAT)
+        hasilQuestionAnalyzer.append("Kata Kunci: %s" % ", ".join(questionAnalyzer.keywords))
+        print("Keywords: ")
+        print(questionAnalyzer.keywords)
 
-    documentRetriever = DocumentRetriever()
+        documentRetriever = DocumentRetriever()
 
-    hasilDocumentRetriever = documentRetriever.retrieve(questionAnalyzer.keywords)
+        hasilDocumentRetriever = documentRetriever.retrieve(questionAnalyzer.keywords)
 
-    # answer finder
-    answerFinder = AnswerFinder(questionAnalyzer.questionEAT, questionAnalyzer.query, questionAnalyzer.keywords, hasilDocumentRetriever)
+        # answer finder
+        answerFinder = AnswerFinder(questionAnalyzer.questionEAT, questionAnalyzer.query, questionAnalyzer.keywords, hasilDocumentRetriever)
 
-    # simpan answer finder
-    hasilAnswerFinder = answerFinder.getAnswers()
+        # simpan answer finder
+        hasilAnswerFinder = answerFinder.getAnswers()
 
-    msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0]
+        msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0]
 
-    print("Message to user: " + '\n'.join(hasilQuestionAnalyzer) + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0])
+        print("Message to user: " + '\n'.join(hasilQuestionAnalyzer) + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0])
 
-    if len(msgToUser) <= 11 :
-        pushToUser(target_id, "Request Timeout")
-    else:
-        pushToUser(target_id, msgToUser)
-
+        if len(msgToUser) <= 11 :
+            pushToUser(target_id, "Request Timeout")
+        else:
+            pushToUser(target_id, msgToUser)
+    except (IndexError, ValueError):
+        pushToUser(target_id, "Maaf, sayangnya aku belum bisa bantu jawab soal itu :(")
+        print("Maaf")
 
 
 def input(request):
