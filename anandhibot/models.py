@@ -11,3 +11,4 @@ class User(models.Model):
     city = models.CharField(max_length=60)
     uclass = models.CharField(max_length=30)
     prompt = models.CharField(max_length=50)
+    major = models.CharField(max_length=100, blank=True)

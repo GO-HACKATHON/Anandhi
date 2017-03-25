@@ -22,6 +22,8 @@ from anandhibot.forms import InputForm
 import os
 import indicoio
 from operator import itemgetter
+import schedule
+import time
 
 from indicoio.custom import Collection
 
@@ -46,8 +48,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    if aXLineSignature != signature:
-        return Response("X-Line-Signature is not valid")
+    # if aXLineSignature != signature:
+    #     return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -92,13 +94,15 @@ def callback(request):
     list_of_id = []
 
     for user in User.objects.all():
+        print(user.uid)
+        print(user.major)
         list_of_id.append(user.uid)
 
     print("Before:")
     print(list_of_id)
 
     if mTargetId not in list_of_id:
-        newuser = User(uid=mTargetId, name="", city="", uclass="", prompt="0")
+        newuser = User(uid=mTargetId, name="", city="", uclass="", prompt="0", major="")
         newuser.save()
         list_of_id.append(newuser.uid)
 
@@ -159,6 +163,11 @@ def sendMessage(event):
             print("apa?")
             pushToUser(mTargetId, "Kamu mau tau tentang jurusan apa?")
             user.prompt = "2"
+            user.save()
+        elif 'pilih' in mText:
+            pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu!")
+            user.major = mText.split('pilih ', 1)[1]
+            print(mText.split('pilih ', 1)[1])
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
