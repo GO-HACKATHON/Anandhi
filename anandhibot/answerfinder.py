@@ -42,7 +42,7 @@ class AnswerFinder:
 		answers = self.getAnswersFromDocs(self.docs)
 
 		# sort the answers
-		a = sorted(answers, key=lambda x: x.priority, reverse=True) #sort by keywordOccurence
+		a = sorted(answers, key=lambda x: x.keywordOccurence, reverse=True) #sort by keywordOccurence
 		print (a)
 		b = sorted(a, key=lambda x: x.priority) #sort by priority
 		print(b)

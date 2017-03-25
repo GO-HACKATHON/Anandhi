@@ -15,20 +15,18 @@ class DocumentRetriever:
 		# 	for line in f:
 		# 		stopwords = line.split(" ")
 
-		i = 76
-		j = 76
+		i = 1
+		j = 1
 
-		while i < 151:
+		while i < 150:
 			content = ""
 			with open("anandhibot/Data/%s.txt" % (str(i)), "rb") as d:
 				for baris in d:
 					filehandler = baris.decode('ascii','ignore')
 					content = content + filehandler + "\n"
 
-			print("content:\n" + content)
-
 			for word in keywords:
-				if word in filehandler.lower():
+				if word in content.lower():
 					if i not in tempDoc:
 						tempDoc.append(i)
 

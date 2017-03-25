@@ -241,12 +241,16 @@ def getInfo(pertanyaan, target_id):
         # answer finder
         answerFinder = AnswerFinder(questionAnalyzer.questionEAT, questionAnalyzer.query, questionAnalyzer.keywords, hasilDocumentRetriever)
 
+        for doc in hasilDocumentRetriever:
+            print("ketemu:")
+            print(doc.url)
+
         # simpan answer finder
         hasilAnswerFinder = answerFinder.getAnswers()
 
-        msgToUser = '\n'.join(hasilQuestionAnalyzer) + '\n\n' + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0]
+        msgToUser = hasilAnswerFinder[0]
 
-        print("Message to user: " + '\n'.join(hasilQuestionAnalyzer) + "\nJawaban ditemukan: \n"+ hasilAnswerFinder[0])
+        print("Message to user: " + hasilAnswerFinder[0])
 
         if len(msgToUser) <= 11 :
             pushToUser(target_id, "Request Timeout")

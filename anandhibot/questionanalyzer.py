@@ -67,13 +67,13 @@ class QuestionAnalyzer:
 		#question word
 		questionWords = ["dimana","dimanakah","kemana","kemanakah","darimana","darimanakah","apa","apakah","mana"]
 		#keyword for factoid question
-		keywordOfLocation = ["di","ke","dari","tempat","kampus","kuliah","universitas","politeknik","sekolah","letak","terletak","lokasi"]
-		keywordOfProspect = ["kerja","prospek","tamat","lulus"]
+		keywordOfLocation = ["di","ke","dari","tempat","kampus","kuliah","universitas","politeknik","sekolah","letak","terletak","lokasi","jurusan"]
+		keywordOfProspect = ["kerja","prospek","tamat","lulus","jurusan"]
 
 		#keyword for non factoid question
 		keywordOfDefinition = ["\"\"","''","merupakan","definisi","dimaksud","pengertian","arti",
 								"disebut","dikenal","dinamakan","mendefinisikan","adalah",
-								"yaitu","ialah","merujuk","diartikan"]
+								"yaitu","ialah","merujuk","diartikan","jurusan"]
 		k = ""
 		keys = []
 		stemmer = Stemmer()
@@ -89,11 +89,11 @@ class QuestionAnalyzer:
 		print(token)
 
 		for tk in token:
-			st = stemmer.stem(tk)
-			print("Stem: ")
-			print(st)
-			if st not in questionWords and st not in keywordOfDefinition and st not in keywordOfProspect and st not in keywordOfLocation:
-				k = k + " " + st
+			# st = stemmer.stem(tk)
+			# print("Stem: ")
+			# print(st)
+			if tk not in questionWords and tk not in keywordOfDefinition and tk not in keywordOfProspect and tk not in keywordOfLocation:
+				k = k + " " + tk
 				
 		keys.append(k[1:])
 
