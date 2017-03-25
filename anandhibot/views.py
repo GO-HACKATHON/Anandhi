@@ -24,7 +24,7 @@ import indicoio
 from operator import itemgetter
 import schedule
 import time
-
+from apscheduler.schedulers.blocking import BlockingScheduler
 from indicoio.custom import Collection
 
 indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
@@ -34,6 +34,24 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 # class HomePageView(TemplateView):
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
+
+
+sched = BlockingScheduler()
+
+@sched.scheduled_job('interval', seconds=10)
+def timed_job():
+    print('This job is run every three minutes.')
+    teknikInformatika = User.objects.filter(major="teknik informatika")
+    for ti in teknikInformatika:
+        print(ti.uid)
+        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
+        print("Text sent")
+
+# @sched.scheduled_job('cron', day_of_week='mon-fri', hour=17)
+# def scheduled_job():
+#     print('This job is run every weekday at 5pm.')
+
+sched.start()
 
 @api_view(['POST'])
 def callback(request):
@@ -177,11 +195,11 @@ def sendMessage(event):
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-            schedule.every(10).seconds.do(spam)
+            # schedule.every(10).seconds.do(spam)
 
-            while True:
-                schedule.run_pending()
-                time.sleep(1)
+            # while True:
+            #     schedule.run_pending()
+            #     time.sleep(1)
     elif user.prompt == "1":
         # user sudah meminta rekomendasi
         print("oke")
@@ -354,9 +372,9 @@ def getRecommendation(subject, target_id):
     
     # return max(collection.predict(subject).items(), key=sort_key)[0]
 
-def spam():
-    teknikInformatika = User.objects.filter(major="teknik informatika")
-    for ti in teknikInformatika:
-        print(ti.uid)
-        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-        print("Text sent")
+# def spam():
+#     teknikInformatika = User.objects.filter(major="teknik informatika")
+#     for ti in teknikInformatika:
+#         print(ti.uid)
+#         pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
+#         print("Text sent")
