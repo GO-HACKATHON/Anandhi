@@ -1,5 +1,5 @@
 import unicodedata
-
+import re 
 class StopWordRemover:
 	def stopwordRemoval(self, string):
 		#stop words list
@@ -14,7 +14,8 @@ class StopWordRemover:
 
 		for c in checks:
 			if c not in stopwords:
-				c = unicodedata.normalize('NFKD', c).encode('ascii','ignore')
+				# c = unicodedata.normalize('NFKD', c).encode('ascii','ignore')
+				c = re.sub('[!,?]', '', c)
 				output = output + " " + c
 
 		return output[1:]

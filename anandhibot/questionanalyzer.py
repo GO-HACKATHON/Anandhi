@@ -2,6 +2,7 @@ from anandhibot.preprocessing.casefolder import Casefolder
 from anandhibot.preprocessing.tokenizer import Tokenizer
 from anandhibot.preprocessing.stopwordremover import StopWordRemover
 from anandhibot.preprocessing.stemmer import Stemmer
+import unicodedata
 
 class QuestionAnalyzer:
 	"""docstring for QuestionAnalyzer"""
@@ -92,8 +93,9 @@ class QuestionAnalyzer:
 			# st = stemmer.stem(tk)
 			# print("Stem: ")
 			# print(st)
-			if tk not in questionWords and tk not in keywordOfDefinition and tk not in keywordOfProspect and tk not in keywordOfLocation:
-				k = k + " " + tk
+			st = unicodedata.normalize('NFKD', tk).encode('ascii','ignore')
+			if st not in questionWords and st not in keywordOfDefinition and st not in keywordOfProspect and st not in keywordOfLocation:
+				k = k + " " + st
 				
 		keys.append(k[1:])
 
