@@ -35,12 +35,6 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 #      def get(self, request, **kwargs):
 #           return render(request, 'index.html', context=None)
 
-def spam(target_id):
-    calonti = User.objects.get(uid=target_id)
-    if calonti.major == "teknik informatika":
-        pushToUser(target_id, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-
-
 @api_view(['POST'])
 def callback(request):
     # Get request header and request body
@@ -54,8 +48,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    # if aXLineSignature != signature:
-    #     return Response("X-Line-Signature is not valid")
+    if aXLineSignature != signature:
+        return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -183,7 +177,7 @@ def sendMessage(event):
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
-            schedule.every(10).seconds.do(spam(mTargetId))
+            schedule.every(10).seconds.do(spam)
 
             while True:
                 schedule.run_pending()
@@ -359,3 +353,10 @@ def getRecommendation(subject, target_id):
         pushToUser(target_id, msgToUser)
     
     # return max(collection.predict(subject).items(), key=sort_key)[0]
+
+def spam():
+    teknikInformatika = User.objects.filter(major="teknik informatika")
+    for ti in teknikInformatika:
+        print(ti.uid)
+        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
+        print("Text sent")
