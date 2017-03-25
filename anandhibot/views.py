@@ -66,8 +66,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    # if aXLineSignature != signature:
-    #     return Response("X-Line-Signature is not valid")
+    if aXLineSignature != signature:
+        return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -193,6 +193,8 @@ def sendMessage(event):
             user.major = mText.split('pilih ', 1)[1]
             print(user.major)
             user.save()
+            time.sleep(5)
+            pushToUser(mTargetId, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
             # schedule.every(10).seconds.do(spam)
