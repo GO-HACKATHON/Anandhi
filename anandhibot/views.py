@@ -36,22 +36,22 @@ indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 #           return render(request, 'index.html', context=None)
 
 
-sched = BlockingScheduler()
+# sched = BlockingScheduler()
 
-@sched.scheduled_job('interval', seconds=10)
-def timed_job():
-    print('This job is run every three minutes.')
-    teknikInformatika = User.objects.filter(major="teknik informatika")
-    for ti in teknikInformatika:
-        print(ti.uid)
-        pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-        print("Text sent")
+# @sched.scheduled_job('interval', seconds=10)
+# def timed_job():
+#     print('This job is run every three minutes.')
+#     teknikInformatika = User.objects.filter(major="teknik informatika")
+#     for ti in teknikInformatika:
+#         print(ti.uid)
+#         pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
+#         print("Text sent")
 
-# @sched.scheduled_job('cron', day_of_week='mon-fri', hour=17)
-# def scheduled_job():
-#     print('This job is run every weekday at 5pm.')
+# # @sched.scheduled_job('cron', day_of_week='mon-fri', hour=17)
+# # def scheduled_job():
+# #     print('This job is run every weekday at 5pm.')
 
-sched.start()
+# sched.start()
 
 @api_view(['POST'])
 def callback(request):
@@ -66,8 +66,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    if aXLineSignature != signature:
-        return Response("X-Line-Signature is not valid")
+    # if aXLineSignature != signature:
+    #     return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -335,8 +335,9 @@ def getRecommendation(subject, target_id):
     collection = Collection("subject_collection_1")
 
     msgToUser = ' '
-    pelajaran = subject.split(" ")
+    pelajaran = subject.split(",")
     recom_list = []
+    sentrec = []
     # # Clear any previous changes
     # try:
     #     collection.clear()
@@ -347,23 +348,30 @@ def getRecommendation(subject, target_id):
 
     # total = 0
     # for samples in train:
-    #     replyToUser(reply_token, "training......")
+    #     pushToUser(target_id, "training......")
+    #     print("training.....")
     #     collection.add_data(samples)
     #     total += len(samples)
-    #     replyToUser(reply_token, "still training....")
+    #     pushToUser(target_id, "still training....")
+    #     print("still training.....")
 
     # collection.train()
-    # replyToUser(reply_token, "selesai training")
+    # pushToUser(target_id, "selesai training")
+    # print("selesai training")
     # collection.wait()
 
     sort_key = itemgetter(1)
     for sub in pelajaran:
-        recommendation = max(collection.predict(sub).items(), key=sort_key)[0]
-        recom_list.append(recommendation)
+        recommendation = sorted(collection.predict(sub).items(), key=sort_key)
+        recom_list = recom_list + recommendation[-2:]
+    
+    for rec in recom_list:
+        if rec[0] not in sentrec:
+            sentrec.append(rec[0])
 
-    msgToUser = "Rekomendasi dariku: " + ', '.join(recom_list)
+    msgToUser = "Rekomendasi dariku: " + ', '.join(sentrec)
 
-    print("Message to user: " + ', '.join(recom_list))
+    print("Message to user: " + ', '.join(sentrec))
 
     if len(msgToUser) <= 11 :
         pushToUser(target_id, "Request Timeout")
