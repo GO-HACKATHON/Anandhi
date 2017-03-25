@@ -177,6 +177,11 @@ def sendMessage(event):
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
+            schedule.every(10).seconds.do(spam)
+
+            while True:
+                schedule.run_pending()
+                time.sleep(1)
     elif user.prompt == "1":
         # user sudah meminta rekomendasi
         print("oke")
@@ -354,9 +359,3 @@ def spam():
     for ti in teknikInformatika:
         pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
         print("Text sent")
-
-schedule.every(10).seconds.do(spam)
-
-while True:
-    schedule.run_pending()
-    time.sleep(1)
