@@ -169,33 +169,33 @@ def sendMessage(event):
     print(mText)
     print(mReplyToken)
 
-    if user.name == "":
-        pushToUser(mTargetId, "Kenalan dulu yuk, nama kamu siapa?")
-        user.name = mText
-        pushToUser(mTargetId, "Berarti seterusnya aku boleh ya manggil kamu"+user.name+"?")
-        if "iya" or "iya" in mText:
-            pushToUser(mTargetId, "Makasih ya "+user.name+". Seneng bisa kenalan sama kamu :D")
-            if user.city == "":
-                pushToUser(mTargetId, "Kalo boleh tahu, kamu tinggal di kota mana?")
-                user.city = mText
-                pushToUser(mTargetId, "Ooh ternyata kamu tinggal di "+user.city)
-                if "iya" or "ya" in mText:
-                    pushToUser(mTargetId, "Sip deh :D")
-                    if user.uclass=="":
-                        pushToUser(mTargetId, "Sekarang kamu kelas berapa?")
-                        if '12' or 'dua belas' in mText:
-                            pushToUser(mTargetId, "Wah tepar banget! Aku bisa bantu kamu lho untuk ngasih rekomendasi jurusan kuliah. Jangan malu untuk nanya aku ya")
-                            user.uclass = "12"
-                        else:
-                            pushToUser(mTargetId, "Hebat! Dari sekarang udah tertarik untuk cari tau informasi tentang jurusan kuliah. Anandhi seneng banget bisa bantu kamu.")
-                    else:
-                        pushToUser(mTargetId, "Kamu udah tau nanti kuliah mau di jurusan apa?")
-                else:
-                    pushToUser(mTargetId, "Yah, jadi dimana dong?")
-                    user.city==""
-        else:
-            pushToUser(mTargetId, "Jadi nama kamu siapa? :(")
-            user.name=""
+    # if user.name == "":
+    #     pushToUser(mTargetId, "Kenalan dulu yuk, nama kamu siapa?")
+    #     user.name = mText
+    #     pushToUser(mTargetId, "Berarti seterusnya aku boleh ya manggil kamu"+user.name+"?")
+    #     if "iya" or "iya" in mText:
+    #         pushToUser(mTargetId, "Makasih ya "+user.name+". Seneng bisa kenalan sama kamu :D")
+    #         if user.city == "":
+    #             pushToUser(mTargetId, "Kalo boleh tahu, kamu tinggal di kota mana?")
+    #             user.city = mText
+    #             pushToUser(mTargetId, "Ooh ternyata kamu tinggal di "+user.city)
+    #             if "iya" or "ya" in mText:
+    #                 pushToUser(mTargetId, "Sip deh :D")
+    #                 if user.uclass=="":
+    #                     pushToUser(mTargetId, "Sekarang kamu kelas berapa?")
+    #                     if '12' or 'dua belas' in mText:
+    #                         pushToUser(mTargetId, "Wah tepar banget! Aku bisa bantu kamu lho untuk ngasih rekomendasi jurusan kuliah. Jangan malu untuk nanya aku ya")
+    #                         user.uclass = "12"
+    #                     else:
+    #                         pushToUser(mTargetId, "Hebat! Dari sekarang udah tertarik untuk cari tau informasi tentang jurusan kuliah. Anandhi seneng banget bisa bantu kamu.")
+    #                 else:
+    #                     pushToUser(mTargetId, "Kamu udah tau nanti kuliah mau di jurusan apa?")
+    #             else:
+    #                 pushToUser(mTargetId, "Yah, jadi dimana dong?")
+    #                 user.city==""
+    #     else:
+    #         pushToUser(mTargetId, "Jadi nama kamu siapa? :(")
+    #         user.name=""
 
     # user baru mau bertanya
     if user.prompt == "0":
