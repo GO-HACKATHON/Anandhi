@@ -48,8 +48,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    # if aXLineSignature != signature:
-    #     return Response("X-Line-Signature is not valid")
+    if aXLineSignature != signature:
+        return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -164,10 +164,16 @@ def sendMessage(event):
             pushToUser(mTargetId, "Kamu mau tau tentang jurusan apa?")
             user.prompt = "2"
             user.save()
+        elif 'apa coba' in mText:
+            if user.major == "":
+                pushToUser(mTargetId, "Kamu kan belum kasih tau aku -__-")
+            else:
+                pushToUser(mTargetId, "Aku tau, " + user.major + "kan? :3")
+                print(user.major)
         elif 'pilih' in mText:
             pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu!")
             user.major = mText.split('pilih ', 1)[1]
-            print(mText.split('pilih ', 1)[1])
+            print(user.major)
             user.save()
         else:
             replyToUser(mReplyToken, "Kamu boleh mau tanya aku apa aja :)")
