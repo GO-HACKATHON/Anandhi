@@ -19,6 +19,7 @@ pbr==2.0.0
 pillow==4.0.0
 requests==2.13.0
 Sastrawi==1.0.1
+schedule==0.4.2
 six==1.10.0
 virtualenv==15.0.3
 virtualenvwrapper-win==1.2.1
