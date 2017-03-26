@@ -17,6 +17,7 @@ from anandhibot.answerfinder import AnswerFinder
 from anandhibot.models import User
 
 from app_properties import channel_secret, channel_access_token
+import time
 import os
 import indicoio
 from operator import itemgetter
@@ -38,8 +39,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    # if aXLineSignature != signature:
-    #     return Response("X-Line-Signature is not valid")
+    if aXLineSignature != signature:
+        return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -125,14 +126,14 @@ def sendMessage(event):
             else:
                 pushToUser(mTargetId, "Aku tau, " + user.major + " kan? :3")
         elif 'pilih' in mText or 'tau' in mText or 'tahu' in mText or 'mau' in mText:
-            pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu! Anandhi janji bakal  ngasih tau kamu informasi menarik tentang jurusan"+ mText.split('pilih ', 1)[1] +".")
+            pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu! Anandhi janji bakal  ngasih tau kamu informasi menarik tentang jurusan "+ mText.split('pilih ', 1)[1] +".")
             user.major = mText.split('pilih ', 1)[1]
             user.save()
             if user.major == "teknik informatika":
                 time.sleep(5)
                 pushToUser(mTargetId, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
         else:
-            replyToUser(mReplyToken, "Kalau kamu ada pertanyaan soal jurusan kuliah, atau mau tau jurusan favoritmu ada di kampus mana, kamu bisa bilang ke aku "'Anandhi, tanya dong'" (james wink)\nKalo kamu butuh saran jurusan kuliah yang kira-kira cocok untuk kamu, kamu bisa panggil aku dengan "'Anandhi, minta saran dong'" (moon wink)")
+            replyToUser(mReplyToken, "Kalau kamu ada pertanyaan soal jurusan kuliah, atau mau tau jurusan favoritmu ada di kampus mana, kamu bisa bilang ke aku: Anandhi, tanya dong \nKalo kamu butuh saran jurusan kuliah yang kira-kira cocok untuk kamu, kamu bisa panggil aku dengan Anandhi, minta saran dong")
     elif user.prompt == "1":
         # user sudah meminta rekomendasi
         getRecommendation(mText, mTargetId)
