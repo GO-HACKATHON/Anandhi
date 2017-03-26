@@ -169,34 +169,6 @@ def sendMessage(event):
     print(mText)
     print(mReplyToken)
 
-    # if user.name == "":
-    #     pushToUser(mTargetId, "Kenalan dulu yuk, nama kamu siapa?")
-    #     user.name = mText
-    #     pushToUser(mTargetId, "Berarti seterusnya aku boleh ya manggil kamu"+user.name+"?")
-    #     if "iya" or "iya" in mText:
-    #         pushToUser(mTargetId, "Makasih ya "+user.name+". Seneng bisa kenalan sama kamu :D")
-    #         if user.city == "":
-    #             pushToUser(mTargetId, "Kalo boleh tahu, kamu tinggal di kota mana?")
-    #             user.city = mText
-    #             pushToUser(mTargetId, "Ooh ternyata kamu tinggal di "+user.city)
-    #             if "iya" or "ya" in mText:
-    #                 pushToUser(mTargetId, "Sip deh :D")
-    #                 if user.uclass=="":
-    #                     pushToUser(mTargetId, "Sekarang kamu kelas berapa?")
-    #                     if '12' or 'dua belas' in mText:
-    #                         pushToUser(mTargetId, "Wah tepar banget! Aku bisa bantu kamu lho untuk ngasih rekomendasi jurusan kuliah. Jangan malu untuk nanya aku ya")
-    #                         user.uclass = "12"
-    #                     else:
-    #                         pushToUser(mTargetId, "Hebat! Dari sekarang udah tertarik untuk cari tau informasi tentang jurusan kuliah. Anandhi seneng banget bisa bantu kamu.")
-    #                 else:
-    #                     pushToUser(mTargetId, "Kamu udah tau nanti kuliah mau di jurusan apa?")
-    #             else:
-    #                 pushToUser(mTargetId, "Yah, jadi dimana dong?")
-    #                 user.city==""
-    #     else:
-    #         pushToUser(mTargetId, "Jadi nama kamu siapa? :(")
-    #         user.name=""
-
     # user baru mau bertanya
     if user.prompt == "0":
         print("masuk")
@@ -226,21 +198,10 @@ def sendMessage(event):
                 pushToUser(mTargetId, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
         else:
             replyToUser(mReplyToken, "Kalau kamu ada pertanyaan soal jurusan kuliah, atau mau tau jurusan favoritmu ada di kampus mana, kamu bisa bilang ke aku "/"Anandhi, tanya dong"/" (james wink)\nKalo kamu butuh saran jurusan kuliah yang kira-kira cocok untuk kamu, kamu bisa panggil aku dengan "/"Anandhi, minta saran dong"/" (moon wink)")
-            # schedule.every(10).seconds.do(spam)
-
-            # while True:
-            #     schedule.run_pending()
-            #     time.sleep(1)
     elif user.prompt == "1":
         # user sudah meminta rekomendasi
         print("oke")
         getRecommendation(mText, mTargetId)
-        # pushToUser(mTargetId, "Dari semua jurusan yang udah aku sebutin, kasih tau dong 1 jurusan yang buat kamu tertarik. Nanti aku kasih tau deh informasi mengenai jurusan pilihan kamu.")
-        # if 'belum' or 'nggak' or 'enggak' or 'tidak' in mText:
-        #     pushToUser(mTargetId, "Ya udah deh. Mungkin kamu ada yang bingung ya sama jurusan di atas?")
-        #     if 'iya' in mText:
-        #         pushToUser(mTargetId, "Kamu bingung sama jurusan apa?")
-        #         user.prompt = "2"
         user.save()
     elif user.prompt == "2":
         print("siap")
