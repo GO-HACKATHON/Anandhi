@@ -43,11 +43,8 @@ class AnswerFinder:
 
 		# sort the answers
 		a = sorted(answers, key=lambda x: x.keywordOccurence, reverse=True) #sort by keywordOccurence
-		print (a)
 		b = sorted(a, key=lambda x: x.priority) #sort by priority
-		print(b)
 		c = sorted(b, key=lambda x: x.pattern) #sort by pattern
-		print(c)
 
 		# group the same answers
 		jawaban = []
@@ -66,18 +63,13 @@ class AnswerFinder:
 
 		if self.EAT == "definisi":
 			clueWords = ClueWords("definisi")
-			print(clueWords.afterKeywords)
 		elif self.EAT == "lokasi":
 			clueWords = ClueWords("lokasi")
-			print(clueWords.afterKeywords)
 		elif self.EAT == "prospek":
 			clueWords = ClueWords("prospek")
-			print(clueWords.afterKeywords)
 		else:
 			clueWords = ClueWords("definisi")
-			print(clueWords.afterKeywords)
 
-		print("Clueword:\n" + clueWords.clue)
 
 		answers = []
 
@@ -88,7 +80,6 @@ class AnswerFinder:
 		while indexDocument < lenDocuments:
 			if docs[indexDocument] not in self.tempDoc:
 				self.tempDoc.append(docs[indexDocument])
-				print("Now at document:\n" + docs[indexDocument].url)
 				# split into paragraph
 				paragraphs = docs[indexDocument].content.split("\n\n")
 
@@ -96,7 +87,6 @@ class AnswerFinder:
 				for paragraph in paragraphs:
 					# keyword in paragraph
 					p = paragraph.lower()
-					print("Now at paragraph:\n" + p)
 					if self.findWord(re.split("[,]", p), self.pertanyaanStem) or self.findWord(p.split(" "), self.pertanyaanNonStem):
 						# split paragraph into sentences
 						sentences = re.split("[.!?][\s][1,100]", paragraph)
@@ -109,7 +99,6 @@ class AnswerFinder:
 
 						while indexSentence < lenSentences:
 							s = sentences[indexSentence].lower()
-							print("Now at sentence\n" + s)
 
 							#check if keyword in sentence
 							if self.findWord(re.split("[,]", p), self.pertanyaanStem) or self.findWord(s.split(" "), self.pertanyaanNonStem):
@@ -125,14 +114,12 @@ class AnswerFinder:
 
 								while indexWord < lenWords:
 									if words[indexWord] in clueWords.afterKeywords:
-										print("true")
 										wordsBeforeClueword = stopwordsRemover.stopwordRemoval(" ".join(words[0:indexWord]))
 										wordsAfterClueword = stopwordsRemover.stopwordRemoval(" ".join(words[indexWord+1:]))
 										cluewordPosition = indexWord
 										cluewordTipe = 1
 										indexWord = lenWords
 
-									# print("Info:\n" + wordsBeforeClueword + wordsAfterClueword + cluewordPosition + cluewordTipe)
 
 									indexWord = indexWord + 1
 
@@ -149,9 +136,6 @@ class AnswerFinder:
 											keywordStemExist.append(words[indexWord])
 
 										indexWord = indexWord + 1
-
-									print("List keyword stem:\n" + ', '.join(keywordNonStemExist))
-									print("List keyword Non stem:\n" + ', '.join(keywordNonStemExist))
 
 									# pattern 1, priority 1
 									# All non stemmed keywords + clue words + ...
@@ -183,8 +167,6 @@ class AnswerFinder:
 
 										indexWord = indexWord + 1
 
-									print("List keyword stem:\n" + ', '.join(keywordNonStemExist))
-									print("List keyword Non stem:\n" + ', '.join(keywordNonStemExist))
 
 									# pattern 3, priority 1
 									# Sentence with all non stemmed keywords. Sentence with clue word + ...
@@ -232,5 +214,4 @@ class AnswerFinder:
 
 			indexDocument = indexDocument + 1
 
-		print(answers)
 		return answers

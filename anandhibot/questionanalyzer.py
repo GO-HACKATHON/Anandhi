@@ -80,19 +80,10 @@ class QuestionAnalyzer:
 		stemmer = Stemmer()
 		stopWordRemover = StopWordRemover()
 		cf = Casefolder().casefold(pertanyaan)
-		print("Casefolding: ")
-		print(cf)
 		stop = stopWordRemover.stopwordRemoval(cf)
-		print("Stopword: ")
-		print(stop)
 		token = Tokenizer().tokenize(stop)
-		print("Token: ")
-		print(token)
 
 		for tk in token:
-			# st = stemmer.stem(tk)
-			# print("Stem: ")
-			# print(st)
 			st = unicodedata.normalize('NFKD', tk).encode('ascii','ignore')
 			if st not in questionWords and st not in keywordOfDefinition and st not in keywordOfProspect and st not in keywordOfLocation:
 				k = k + " " + st

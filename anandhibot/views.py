@@ -30,29 +30,6 @@ from indicoio.custom import Collection
 indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
 
 
-# Create your views here
-# class HomePageView(TemplateView):
-#      def get(self, request, **kwargs):
-#           return render(request, 'index.html', context=None)
-
-
-# sched = BlockingScheduler()
-
-# @sched.scheduled_job('interval', seconds=10)
-# def timed_job():
-#     print('This job is run every three minutes.')
-#     teknikInformatika = User.objects.filter(major="teknik informatika")
-#     for ti in teknikInformatika:
-#         print(ti.uid)
-#         pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-#         print("Text sent")
-
-# # @sched.scheduled_job('cron', day_of_week='mon-fri', hour=17)
-# # def scheduled_job():
-# #     print('This job is run every weekday at 5pm.')
-
-# sched.start()
-
 @api_view(['POST'])
 def callback(request):
     # Get request header and request body
@@ -66,8 +43,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    # if aXLineSignature != signature:
-    #     return Response("X-Line-Signature is not valid")
+    if aXLineSignature != signature:
+        return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
@@ -75,14 +52,6 @@ def callback(request):
     mSource = aPayload['events'][0]['source']['type']
     mReplyToken = aPayload['events'][0]['replyToken']
 
-    # if mEventType == 'join':
-    #     if mSource == 'user':
-    #         replyToUser(mReplyToken, 'Hello User')
-    #     elif mSource == 'group':
-    #         replyToUser(mReplyToken, 'Hello User')
-    #     elif mSource == 'room':
-    #         replyToUser(mReplyToken, 'Hello User')
-    #     return Response("Event is join")
 
     if mEventType == 'message':
         if mSource == 'user':
@@ -91,10 +60,7 @@ def callback(request):
             replyToUser(mReplyToken, 'Maaf, aku belum tersedia untuk grup')
     else:
         replyToUser(mReplyToken, 'Wah, aku belum bisa bantu jawab untuk itu')
-        # elif mSource == 'group':
-        #     mTargetId = aPayload['events'][0]['source']['groupId']
-        # elif mSource == 'room':
-        #     mTargetId = aPayload['events'][0]['source']['roomId']
+
 
     mType = aPayload['events'][0]['message']['type']
 
@@ -109,36 +75,18 @@ def callback(request):
 
     # for pub in User.objects.all():
     #     pub.delete()
+
     list_of_id = []
 
     for user in User.objects.all():
-        print(user.uid)
-        print(user.major)
         list_of_id.append(user.uid)
 
-    print("Before:")
-    print(list_of_id)
 
     if mTargetId not in list_of_id:
         newuser = User(uid=mTargetId, name="", city="", uclass="", prompt="0", major="")
         newuser.save()
         list_of_id.append(newuser.uid)
 
-    print("After:")
-    print(list_of_id)
-
-    # obj, created = User.objects.get_or_create(uid=mTargetId, name="", city="", uclass="", prompt="0")
-    # print(created)
-    # if created == False:
-    #     obj.save()
-
-    # if 'minta rekomendasi' in mText:
-    #     replyToUser(mReplyToken, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
-    #     getRecommendation(mText, mReplyToken, mTargetId)
-    # elif 'tanya dong,' in mText:
-    #     getInfo(mText, mReplyToken, mTargetId)
-    # else:
-    #     getRecommendation(mText, mReplyToken, mTargetId)
     sendMessage(aPayload)
     
     return Response ("anandhibot")
@@ -165,47 +113,37 @@ def sendMessage(event):
     mTargetId = event['events'][0]['source']['userId']
 
     user = User.objects.get(uid=mTargetId)
-    print(user.prompt)
-    print(mText)
-    print(mReplyToken)
 
     # user baru mau bertanya
     if user.prompt == "0":
-        print("masuk")
-        if 'rekomendasi' or 'saran' in mText:
-            print("Iya?")
+        if 'rekomendasi' in mText or 'saran' in mText:
             pushToUser(mTargetId, "Emang apa aja mata pelajaran yang kamu suka di sekolah? ^^")
             user.prompt = "1"
             user.save()
-        elif 'tanya' or 'nanya' in mText:
-            print("apa?")
+        elif 'tanya' in mText or 'nanya' in mText:
             pushToUser(mTargetId, "Kamu mau tau tentang jurusan apa?")
             user.prompt = "2"
             user.save()
-        elif 'apa' or 'coba' or 'tebak' in mText:
+        elif 'apa' in mText or 'coba' in mText or 'tebak' in mText:
             if user.major == "":
                 pushToUser(mTargetId, "Kamu kan belum kasih tau aku -__-")
             else:
                 pushToUser(mTargetId, "Aku tau, " + user.major + " kan? :3")
-                print(user.major)
-        elif 'pilih' or 'tau' or 'tahu' or 'mau' in mText:
+        elif 'pilih' in mText or 'tau' in mText or 'tahu' in mText or 'mau' in mText:
             pushToUser(mTargetId, "Wah, " + mText.split('pilih ', 1)[1] + " itu pilihan yang tepat banget buat kamu! Anandhi janji bakal  ngasih tau kamu informasi menarik tentang jurusan"+ mText.split('pilih ', 1)[1] +".")
             user.major = mText.split('pilih ', 1)[1]
-            print(user.major)
             user.save()
             if user.major == "teknik informatika":
                 time.sleep(5)
                 pushToUser(mTargetId, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
         else:
-            replyToUser(mReplyToken, "Kalau kamu ada pertanyaan soal jurusan kuliah, atau mau tau jurusan favoritmu ada di kampus mana, kamu bisa bilang ke aku "/"Anandhi, tanya dong"/" (james wink)\nKalo kamu butuh saran jurusan kuliah yang kira-kira cocok untuk kamu, kamu bisa panggil aku dengan "/"Anandhi, minta saran dong"/" (moon wink)")
+            replyToUser(mReplyToken, "Kalau kamu ada pertanyaan soal jurusan kuliah, atau mau tau jurusan favoritmu ada di kampus mana, kamu bisa bilang ke aku "'Anandhi, tanya dong'" (james wink)\nKalo kamu butuh saran jurusan kuliah yang kira-kira cocok untuk kamu, kamu bisa panggil aku dengan "'Anandhi, minta saran dong'" (moon wink)")
     elif user.prompt == "1":
         # user sudah meminta rekomendasi
-        print("oke")
         getRecommendation(mText, mTargetId)
         user.prompt = "0"
         user.save()
     elif user.prompt == "2":
-        print("siap")
         getInfo(mText, mTargetId)
         user.prompt = "0"
         user.save()
@@ -237,9 +175,6 @@ def getInfo(pertanyaan, target_id):
         # answer finder
         answerFinder = AnswerFinder(questionAnalyzer.questionEAT, questionAnalyzer.query, questionAnalyzer.keywords, hasilDocumentRetriever)
 
-        for doc in hasilDocumentRetriever:
-            print("ketemu:")
-            print(doc.url)
 
         # simpan answer finder
         hasilAnswerFinder = answerFinder.getAnswers()
@@ -256,27 +191,6 @@ def getInfo(pertanyaan, target_id):
         pushToUser(target_id, "Maaf, sayangnya aku belum bisa bantu jawab soal itu :(")
         print("Maaf")
 
-
-def input(request):
-	subject = " "
-	recom_list = []
-	if request.method == "POST":
-	   #Get the posted form
-	   MyInputForm = InputForm(request.POST)
-	      
-	   if MyInputForm.is_valid():
-	       allsubject = MyInputForm.cleaned_data['subject']
-           subject = allsubject.split(" ")
-           for sub in subject:
-               recommendation = generateRecommendation(sub)
-               recom_list.append(recommendation)
-	else:
-	   MyInputForm = Inputform()
-	
-	return render(request, 'input.html', {
-        "subject" : subject,
-        "recommendation" : recom_list,
-        })
 
 
 def generate_training_data(fname):
@@ -306,34 +220,6 @@ def generate_training_data(fname):
             labels = map(lambda target: target.strip(), target_list)
             yield [ (subject, label) for label in labels]
     raise StopIteration
-
-
-def generateRecommendation(subject):
-    collection = Collection("subject_collection_1")
-
-    msgToUser = ' '
-    recom_list = []
-    # Clear any previous changes
-    try:
-        collection.clear()
-    except:
-        pass
-
-    train = generate_training_data("anandhibot/subject_match_labeled_data_1.txt")
-
-    total = 0
-    for samples in train:
-        print "Adding {num} samples to collection".format(num=len(samples))
-        collection.add_data(samples)
-        total += len(samples)
-        print "Added {total} samples to collection thus far".format(total=total)
-
-    collection.train()
-    collection.wait()
-
-    sort_key = itemgetter(1)
-    
-    return max(collection.predict(subject).items(), key=sort_key)[0]
 
 
 def getRecommendation(subject, target_id):
@@ -382,12 +268,3 @@ def getRecommendation(subject, target_id):
         pushToUser(target_id, "Request Timeout")
     else:
         pushToUser(target_id, msgToUser)
-    
-    # return max(collection.predict(subject).items(), key=sort_key)[0]
-
-# def spam():
-#     teknikInformatika = User.objects.filter(major="teknik informatika")
-#     for ti in teknikInformatika:
-#         print(ti.uid)
-#         pushToUser(ti.uid, "Hi Anandhi bawa informasi menarik nih buat kamu! Ini dia 4 situs belajar pemrograman yang bisa kamu coba. \nhttps://id.techinasia.com/dev-series-4-website-gratis-belajar-coding")
-#         print("Text sent")
