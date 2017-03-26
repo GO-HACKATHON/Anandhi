@@ -202,6 +202,7 @@ def sendMessage(event):
         # user sudah meminta rekomendasi
         print("oke")
         getRecommendation(mText, mTargetId)
+        user.prompt = "0"
         user.save()
     elif user.prompt == "2":
         print("siap")
