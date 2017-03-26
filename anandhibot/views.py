@@ -235,12 +235,12 @@ def sendMessage(event):
         # user sudah meminta rekomendasi
         print("oke")
         getRecommendation(mText, mTargetId)
-        pushToUser(mTargetId, "Dari semua jurusan yang udah aku sebutin, kasih tau dong 1 jurusan yang buat kamu tertarik. Nanti aku kasih tau deh informasi mengenai jurusan pilihan kamu.")
-        if 'belum' or 'nggak' or 'enggak' or 'tidak' in mText:
-            pushToUser(mTargetId, "Ya udah deh. Mungkin kamu ada yang bingung ya sama jurusan di atas?")
-            if 'iya' in mText:
-                pushToUser(mTargetId, "Kamu bingung sama jurusan apa?")
-                user.prompt = "2"
+        # pushToUser(mTargetId, "Dari semua jurusan yang udah aku sebutin, kasih tau dong 1 jurusan yang buat kamu tertarik. Nanti aku kasih tau deh informasi mengenai jurusan pilihan kamu.")
+        # if 'belum' or 'nggak' or 'enggak' or 'tidak' in mText:
+        #     pushToUser(mTargetId, "Ya udah deh. Mungkin kamu ada yang bingung ya sama jurusan di atas?")
+        #     if 'iya' in mText:
+        #         pushToUser(mTargetId, "Kamu bingung sama jurusan apa?")
+        #         user.prompt = "2"
         user.save()
     elif user.prompt == "2":
         print("siap")
