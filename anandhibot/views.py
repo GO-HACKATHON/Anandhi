@@ -412,7 +412,7 @@ def getRecommendation(subject, target_id):
         if rec[0] not in sentrec:
             sentrec.append(rec[0])
 
-    msgToUser = "Berikut jurusan yang cocok buat kamu berdasarkan minat mata pelajaran:" + ', '.join(sentrec)
+    msgToUser = "Berikut jurusan yang cocok buat kamu berdasarkan minat mata pelajaran: " + ', '.join(sentrec)
 
     print("Message to user: " + ', '.join(sentrec))
 
