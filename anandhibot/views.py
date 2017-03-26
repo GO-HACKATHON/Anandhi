@@ -17,14 +17,9 @@ from anandhibot.answerfinder import AnswerFinder
 from anandhibot.models import User
 
 from app_properties import channel_secret, channel_access_token
-from django.views.generic import TemplateView
-from anandhibot.forms import InputForm
 import os
 import indicoio
 from operator import itemgetter
-import schedule
-import time
-from apscheduler.schedulers.blocking import BlockingScheduler
 from indicoio.custom import Collection
 
 indicoio.config.api_key = '897b8fc085058e1a5ee77bc7f2cc24de'
@@ -43,8 +38,8 @@ def callback(request):
     signature = base64.b64encode(hash)
     
     # Exit when signature not valid
-    if aXLineSignature != signature:
-        return Response("X-Line-Signature is not valid")
+    # if aXLineSignature != signature:
+    #     return Response("X-Line-Signature is not valid")
     
     aPayload = json.loads(body)
     mEventType = aPayload['events'][0]['type']
