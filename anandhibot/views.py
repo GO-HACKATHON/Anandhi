@@ -54,8 +54,8 @@ def callback(request):
             mTargetId = aPayload['events'][0]['source']['userId']
         else:
             replyToUser(mReplyToken, 'Maaf, aku belum tersedia untuk grup')
-    else:
-        replyToUser(mReplyToken, 'Wah, aku belum bisa bantu jawab untuk itu')
+    # else:
+    #     replyToUser(mReplyToken, 'Wah, aku belum bisa bantu jawab untuk itu')
 
 
     mType = aPayload['events'][0]['message']['type']
